@@ -1,5 +1,6 @@
 import io
 import os, json5
+from pathlib import Path
 
 if __name__ == '__main__':
     output = []
@@ -10,5 +11,6 @@ if __name__ == '__main__':
                 o = json5.load(f)
                 output.append({'path': p, 'id': o['id'], 'name': o['name'], 'profileUrl': o['profileUrl']})
 
+    Path("generated").mkdir(parents=True, exist_ok=True)
     with io.open('generated/people-list.json5', 'w', encoding='utf-8') as f:
         f.write(json5.dumps(output, indent=2, ensure_ascii=False))
