@@ -10,6 +10,7 @@
         ['逝世', '2015年7月23日（20岁）'],
         ['职业', 'V家P主，插画家'],
         ['活跃年代', '2009年6月—2015年7月'],
+        ['test', 'value'],
     ],
     websites: [
         ['twitter', 'https://twitter.com/siinamota'],
