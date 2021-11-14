@@ -11,6 +11,18 @@
 
 **注：并无椎名P，稚名P，稚名mota的名义，第一个为空造，另外两个是名字错误识别。**
 
+## 照片
+
+<PhotoScroll photos="[
+        '${dataHost}/people/siinamota/photos/1.png',
+        '${dataHost}/people/siinamota/photos/2.jpg',
+        '${dataHost}/people/siinamota/photos/3.jpg',
+        '${dataHost}/people/siinamota/photos/4.jpg',
+        '${dataHost}/people/siinamota/photos/5.jpg',
+        '${dataHost}/people/siinamota/photos/6.jpg',
+        '${dataHost}/people/siinamota/photos/7.jpg',
+    ]" />
+
 ## P主经历及P名来历
 2009年6月29日投稿的《now_ReMix》是他在niconico的初投稿（已删除）。
 
