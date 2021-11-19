@@ -1,5 +1,9 @@
 {
     id: 'donotexist_A',
     name: '不存在',
-    profileUrl: 'https://pbs.twimg.com/profile_images/1374397593594122242/bPfn-Zzk_400x400.jpg'
+    profileUrl: 'https://pbs.twimg.com/profile_images/1374397593594122242/bPfn-Zzk_400x400.jpg',
+    info: [],
+    websites: [
+        ['twitter', 'https://twitter.com/donotexist_A'],
+    ],
 }
