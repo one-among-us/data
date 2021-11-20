@@ -7,6 +7,7 @@
 靠画作赞赏获得的收入是他的一部分经济来源。即使不幸确诊了升结肠印戒细胞癌，阿蛍也没有放下ta的画笔。后来，阿蛍把大部分画作的电子档上传到了ta的[Telegram频道](https://t.me/joinchat/65vSQ6ELb3YxN2I9)，供大家无偿下载和欣赏。在这里挑选的几幅画作，可以让大家管窥阿蛍的绘画风格。
 
 <PhotoScroll photos="[
+        '${dataHost}/people/uekawakuyuurei/photos/IMG_1308.JPG', 
         '${dataHost}/people/uekawakuyuurei/photos/img002.jpg', 
         '${dataHost}/people/uekawakuyuurei/photos/img051.jpg', 
         '${dataHost}/people/uekawakuyuurei/photos/img197.jpg', 
