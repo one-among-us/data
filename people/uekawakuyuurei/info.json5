@@ -1,9 +1,15 @@
 {
     id: 'Uekawakuyuurei',
-    name: '萤',
+    name: '蛍',
     profileUrl: 'https://pbs.twimg.com/profile_images/1378912446782394368/icyGMaK5_400x400.jpg',
-    info: [],
+    info: [
+        ['昵称', '阿蛍、蛍酱'],
+        ['地区', '中国'],
+        ['出生', ''],
+        ['逝世', '2021.9.7'],
+    ],
     websites: [
         ['twitter', 'https://twitter.com/Uekawakuyuurei'],
+        ['画作集', 'https://t.me/joinchat/65vSQ6ELb3YxN2I9'],
     ],
 }
