@@ -6,6 +6,17 @@
 
 靠画作赞赏获得的收入是他的一部分经济来源。即使不幸确诊了升结肠印戒细胞癌，阿蛍也没有放下ta的画笔。后来，阿蛍把大部分画作的电子档上传到了ta的 [Telegram 频道](https://t.me/joinchat/65vSQ6ELb3YxN2I9)，供大家无偿下载和欣赏。在这里挑选的几幅画作，可以让大家管窥阿蛍的绘画风格。
 
+<PhotoScroll photos="[
+        '${dataHost}/people/uekawakuyuurei/photos/IMG_1308.jpg', 
+        '${dataHost}/people/uekawakuyuurei/photos/img002.jpg', 
+        '${dataHost}/people/uekawakuyuurei/photos/img051.jpg', 
+        '${dataHost}/people/uekawakuyuurei/photos/img197.jpg', 
+        '${dataHost}/people/uekawakuyuurei/photos/img231.jpg', 
+        '${dataHost}/people/uekawakuyuurei/photos/img252.jpg', 
+        '${dataHost}/people/uekawakuyuurei/photos/img253.jpg', 
+        '${dataHost}/people/uekawakuyuurei/photos/img370.jpg', 
+    ]" />
+
 但这个世界就是这么不公平，阿蛍的病情持续恶化，并且一直没有找到合适的靶向药物。在2021年夏天，阿蛍被确诊为骨转移IV期。不过，即使承受着剧烈的疼痛，阿蛍仍然在关心和爱护着每一个安慰ta的推友，尽量不让我们担心。
 
 2021年9月，阿蛍坐上ta最喜爱的舰船，离开了我们，到「海」的那边去了。ta离开前的最后一条[推文](https://twitter.com/Uekawakuyuurei/status/1429933098897051649)说：「好想在死之前喝上一大杯冰可乐呢」。没问题的，阿蛍。不管想喝多少杯，我们都会买给你。
