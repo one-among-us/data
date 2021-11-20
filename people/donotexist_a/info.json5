@@ -1,7 +1,7 @@
 {
     id: 'donotexist_A',
     name: '不存在',
-    profileUrl: 'https://pbs.twimg.com/profile_images/1374397593594122242/bPfn-Zzk_400x400.jpg',
+    profileUrl: 'https://data.one-among.us/people/donotexist_a/photos/profile.jpg',
     info: [
         ['昵称', '不存在、存存'],
         ['地区', '中国广东省'],
