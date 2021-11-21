@@ -10,5 +10,6 @@
     ],
     websites: [
         ['twitter', 'https://twitter.com/donotexist_A'],
+        ['telegram', '@donotexist_A'],
     ],
 }
