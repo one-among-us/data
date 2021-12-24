@@ -2,9 +2,9 @@
 
 这里存了 [one-among.us](https://one-among.us/) 的条目，欢迎贡献！
 
-## GitHub 项目结构
+## GitHub Repo 结构
 
-* [our-data](https://github.com/hykilpikonna/our-data) - 条目数据存储
+* [our-data](https://github.com/hykilpikonna/our-data) - 条目内容存储
 * [OneAmongUs.Web](https://github.com/hykilpikonna/OneAmongUs.Web) - 网页前端源码
 * [OneAmongUs.Backend](https://github.com/hykilpikonna/OneAmongUs.Backend) - 献花和编辑后端源码（暂时私有了）
 
