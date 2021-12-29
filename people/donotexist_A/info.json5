@@ -1,7 +1,7 @@
 {
     id: 'donotexist_A',
     name: '不存在',
-    profileUrl: 'https://data.one-among.us/people/donotexist_a/photos/profile.jpg',
+    profileUrl: '${path}/photos/profile.jpg',
     info: [
         ['昵称', '不存在、存存'],
         ['地区', '中国广东省'],

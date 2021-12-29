@@ -1,7 +1,7 @@
 {
     id: 'Uekawakuyuurei',
     name: '蛍',
-    profileUrl: 'https://data.one-among.us/people/uekawakuyuurei/photos/profile.jpg',
+    profileUrl: '${path}/photos/profile.jpg',
     info: [
         ['昵称', '阿蛍、蛍酱、秋雲'],
         ['地区', '中国'],

@@ -1,7 +1,7 @@
 {
     id: 'NekoKomiir',
     name: 'Komiir Li',
-    profileUrl: 'https://data.one-among.us/people/NekoKomiir/photos/profile.jpg',
+    profileUrl: '${path}/photos/profile.jpg',
     info: [
         ['昵称', '小艾、Komiir'],
         ['地区', ''],
