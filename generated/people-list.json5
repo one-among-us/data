@@ -1,5 +1,12 @@
 [
   {
+    path: "Uekawakuyuurei",
+    id: "Uekawakuyuurei",
+    name: "蛍",
+    profileUrl: "https://data.one-among.us/people/uekawakuyuurei/photos/profile.jpg",
+    baseUrl: "/people/Uekawakuyuurei",
+  },
+  {
     path: "NekoKomiir",
     id: "NekoKomiir",
     name: "Komiir Li",
@@ -7,17 +14,10 @@
     baseUrl: "/people/NekoKomiir",
   },
   {
-    path: "uekawakuyuurei",
-    id: "Uekawakuyuurei",
-    name: "蛍",
-    profileUrl: "https://data.one-among.us/people/uekawakuyuurei/photos/profile.jpg",
-    baseUrl: "/people/uekawakuyuurei",
-  },
-  {
-    path: "donotexist_a",
+    path: "donotexist_A",
     id: "donotexist_A",
     name: "不存在",
     profileUrl: "https://data.one-among.us/people/donotexist_a/photos/profile.jpg",
-    baseUrl: "/people/donotexist_a",
+    baseUrl: "/people/donotexist_A",
   },
 ]
