@@ -3,18 +3,18 @@
     path: "Uekawakuyuurei",
     id: "Uekawakuyuurei",
     name: "蛍",
-    profileUrl: "https://data.one-among.us/people/uekawakuyuurei/photos/profile.jpg",
+    profileUrl: "${path}/photos/profile.jpg",
   },
   {
     path: "NekoKomiir",
     id: "NekoKomiir",
     name: "Komiir Li",
-    profileUrl: "https://data.one-among.us/people/NekoKomiir/photos/profile.jpg",
+    profileUrl: "${path}/photos/profile.jpg",
   },
   {
     path: "donotexist_A",
     id: "donotexist_A",
     name: "不存在",
-    profileUrl: "https://data.one-among.us/people/donotexist_a/photos/profile.jpg",
+    profileUrl: "${path}/photos/profile.jpg",
   },
 ]
