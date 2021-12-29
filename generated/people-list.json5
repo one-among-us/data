@@ -1,10 +1,10 @@
 [
   {
-    path: "NekoKomiir",
+    path: "nekokomiir",
     id: "NekoKomiir",
     name: "Komiir Li",
     profileUrl: "https://data.one-among.us/people/NekoKomiir/photos/profile.jpg",
-    baseUrl: "/people/NekoKomiir",
+    baseUrl: "/people/nekokomiir",
   },
   {
     path: "uekawakuyuurei",
