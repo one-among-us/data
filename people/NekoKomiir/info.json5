@@ -1,0 +1,14 @@
+{
+    id: 'NekoKomiir',
+    name: 'Komiir Li',
+    profileUrl: 'https://data.one-among.us/people/NekoKomiir/photos/profile.jpg',
+    info: [
+        ['昵称', '小艾、Komiir'],
+        ['地区', ''],
+        ['出生', '????.07.27'],
+        ['逝世', '2021.10.15'],
+    ],
+    websites: [
+        ['twitter', 'https://twitter.com/NekoKomiir'],
+    ],
+}
