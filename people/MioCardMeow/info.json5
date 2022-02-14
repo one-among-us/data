@@ -1,0 +1,14 @@
+{
+    id: 'MiocardMeow',
+    name: '澪卡喵',
+    profileUrl: '${path}/photos/profile.jpg',
+    info: [
+        ['昵称', '澪卡喵'],
+        ['地区', '中国'],
+        ['出生', '3.18/4.2,年份未知'],
+        ['逝世', '2022.1.31'],
+    ],
+    websites: [
+        ['twitter', 'https://twitter.com/MiocardMeow'],
+    ],
+}
