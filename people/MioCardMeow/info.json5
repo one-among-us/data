@@ -1,5 +1,5 @@
 {
-    id: 'MiocardMeow',
+    id: 'MioCardMeow',
     name: '澪卡喵',
     profileUrl: '${path}/photos/profile.jpg',
     info: [
