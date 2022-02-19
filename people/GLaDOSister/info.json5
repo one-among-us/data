@@ -1,0 +1,14 @@
+{
+    id: 'GLaDOSister',
+    name: '倉山静葉',
+    profileUrl: '${path}/photos/profile.jpg',
+    info: [
+        ['昵称', '静叶、G姐'],
+        ['地区', '中国北京'],
+        ['出生', '1997.1.13'],
+        ['逝世', '2019.12.3'],
+    ],
+    websites: [
+        ['zhihu', 'https://www.zhihu.com/people/gmjyxx'],
+    ],
+}
