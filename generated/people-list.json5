@@ -6,12 +6,6 @@
     profileUrl: "${path}/photos/profile.jpg",
   },
   {
-    path: "NekoKomiir",
-    id: "NekoKomiir",
-    name: "Komiir Li",
-    profileUrl: "${path}/photos/profile.jpg",
-  },
-  {
     path: "Uekawakuyuurei",
     id: "Uekawakuyuurei",
     name: "蛍",
