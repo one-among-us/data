@@ -1,11 +1,5 @@
 [
   {
-    path: "MioCardMeow",
-    id: "MioCardMeow",
-    name: "澪卡喵",
-    profileUrl: "${path}/photos/profile.jpg",
-  },
-  {
     path: "Uekawakuyuurei",
     id: "Uekawakuyuurei",
     name: "蛍",
