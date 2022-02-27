@@ -18,6 +18,12 @@
     profileUrl: "${path}/photos/profile.jpg",
   },
   {
+    path: "gaoyanger",
+    id: "gaoyanger",
+    name: "羔羊",
+    profileUrl: "${path}/photos/profile.jpg",
+  },
+  {
     path: "GLaDOSister",
     id: "GLaDOSister",
     name: "倉山静葉",
