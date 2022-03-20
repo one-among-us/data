@@ -1,47 +1,42 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Generator
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
   push:
     branches: [ main ]
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup Node
+        uses: actions/setup-node@v2
         with:
-          python-version: "3.9"
-          
-      - name: "Install dependencies"
+          node-version: 16.x
+      - name: Cache node_modules
+        uses: actions/cache@v2
+        id: cache
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('yarn.lock') }}
+          restore-keys: ${{ runner.os }}-node-
+      - name: Install Dependencies
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: yarn install --production --frozen-lockfile
+      - name: Build
+        run: yarn build
+      - name: Deploy
         run: |
-          set -xe
-          python -VV
-          python -m pip install json5
+          git config --global user.name $(git show -s --format='%an' HEAD)
+          git config --global user.email $(git show -s --format='%ae' HEAD)
 
-      - name: "Run generator"
-        run: "python generator.py"
-        
-      - uses: EndBug/add-and-commit@v7
-        with:
-          # Determines the way the action fills missing author name and email. Three options are available:
-          # - github_actor -> UserName <UserName@users.noreply.github.com>
-          # - user_info -> Your Display Name <your-actual@email.com>
-          # - github_actions -> github-actions <email associated with the github logo>
-          # Default: github_actor
-          default_author: github_actions
-
-          # The message for the commit.
-          # Default: 'Commit from GitHub Actions (name of the workflow)'
-          message: '[U] Generate json'
+          cd dist
+          git init
+          git add .
+          git commit -m "Build on $(date '+%Y-%m-%d %H:%M:%S')"
+          git branch -m gh-pages
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git push -f origin gh-pages
