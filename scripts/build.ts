@@ -9,6 +9,7 @@ import { renderMdx } from "./mdx.ts";
 const PUBLIC_DIR = "public";
 
 const PEOPLE_DIR = "people";
+const COMMENTS_DIR = "comments";
 const PEOPLE_INFO_FILENAME = "info.json5";
 const PEOPLE_PAGE_FILE = "page.md";
 
@@ -37,6 +38,7 @@ function buildPeopleInfoAndList() {
     const infoFile = fs.readFileSync(path.join(srcPath, PEOPLE_INFO_FILENAME), "utf-8");
     const info = json5.parse(infoFile);
 
+    // Add meta information
     const peopleMeta = {
       path: dirname,
       ...Object.fromEntries(PEOPLE_LIST_KEYS.map(key => [key, info[key]]))
@@ -44,10 +46,19 @@ function buildPeopleInfoAndList() {
 
     peopleList.push(peopleMeta);
 
+    // Combine comments in people/${dirname}/comments/${cf}.json
+    const commentPath = path.join(srcPath, COMMENTS_DIR)
+    fs.ensureDirSync(commentPath)
+    info.comments = fs.readdirSync(commentPath)
+        .filter(cf => cf.endsWith('.json'))
+        .map(cf => JSON.parse(fs.readFileSync(path.join(commentPath, cf), 'utf-8')))
+
+    // Write info.json
     fs.ensureDirSync(distPath);
     fs.writeFileSync(path.join(distPath, DIST_PEOPLE_INFO_FILENAME), JSON.stringify(info));
   }
 
+  // Write people-list.json
   fs.writeFileSync(path.join(projectRoot, DIST_DIR, DIST_PEOPLE_LIST), JSON.stringify(peopleList));
 }
 
@@ -62,9 +73,9 @@ function buildPeoplePages() {
   }
 }
 
-// Copy `people/${dirname}/comments` and `photos` to `dist/people/${dirname}/`.
+// Copy `people/${dirname}/photos` to `dist/people/${dirname}/`.
 function copyPeopleAssets() {
-  const PEOPLE_ASSETS = ["comments", "photos"];
+  const PEOPLE_ASSETS = ["photos"];
 
   for (const { srcPath, distPath } of people) {
     fs.ensureDirSync(distPath);
