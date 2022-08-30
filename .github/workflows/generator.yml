@@ -11,23 +11,28 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Setup Node
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
-          node-version: 16.x
+          # Upgrading to 16.17.0 result in ERR_LOADER_CHAIN_INCOMPLETE issue.
+          node-version: 16.16.0
+
       - name: Cache node_modules
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         id: cache
         with:
           path: node_modules
           key: ${{ runner.os }}-node-${{ hashFiles('yarn.lock') }}
           restore-keys: ${{ runner.os }}-node-
+
       - name: Install Dependencies
         if: steps.cache.outputs.cache-hit != 'true'
         run: yarn install --production --frozen-lockfile
+
       - name: Build
         run: yarn build
+
       - name: Deploy
         run: |
           git config --global user.name "$(git show -s --format='%an' HEAD)"
