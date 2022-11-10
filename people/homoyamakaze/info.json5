@@ -1,0 +1,14 @@
+{
+    id: 'homoyamakaze',
+    name: '澪卡喵',
+    profileUrl: '${path}/photos/profile.jpg',
+    info: [
+        ['昵称', '澪卡喵'],
+        ['地区', '中国'],
+        ['出生', '2002.11.4'],
+        ['逝世', '2022.11.10'],
+    ],
+    websites: [
+        ['twitter', 'https://twitter.com/homoyamakaze'],
+    ],
+}
