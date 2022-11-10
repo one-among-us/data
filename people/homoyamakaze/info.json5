@@ -1,9 +1,9 @@
 {
     id: 'homoyamakaze',
-    name: '澪卡喵',
+    name: '浅羽猫头',
     profileUrl: '${path}/photos/profile.jpg',
     info: [
-        ['昵称', '澪卡喵'],
+        ['昵称', '浅羽猫头'],
         ['地区', '中国'],
         ['出生', '2002.11.4'],
         ['逝世', '2022.11.10'],
