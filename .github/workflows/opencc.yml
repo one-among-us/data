@@ -20,10 +20,13 @@ jobs:
           cache: 'pip' # caching pip dependencies
 
       - name: Install Python Dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
 
       - name: Convert zh-hant
-        run: python3 scripts/convert_zh.py
+        run: |
+          ls -lah
+          python3 scripts/convert_zh.py
 
       - uses: EndBug/add-and-commit@v7
         with:
