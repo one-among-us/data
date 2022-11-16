@@ -26,6 +26,7 @@ jobs:
       - name: Convert zh-hant
         run: |
           ls -lah
+          git log
           python3 scripts/convert_zh.py
 
       - uses: EndBug/add-and-commit@v7
