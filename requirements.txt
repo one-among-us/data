@@ -1,0 +1,3 @@
+opencc
+hypy_utils
+tqdm
