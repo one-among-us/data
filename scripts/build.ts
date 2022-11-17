@@ -10,13 +10,9 @@ const PUBLIC_DIR = "public";
 
 const PEOPLE_DIR = "people";
 const COMMENTS_DIR = "comments";
-const PEOPLE_INFO_FILENAME = "info.json5";
-const PEOPLE_PAGE_FILE = "page.md";
 
 const DIST_DIR = "dist";
 const DIST_PEOPLE_LIST = "people-list.json";
-const DIST_PEOPLE_INFO_FILENAME = "info.json";
-const DIST_PEOPLE_PAGE_FILE = "page.js";
 
 const projectRoot = path.dirname(path.dirname(url.fileURLToPath(import.meta.url)));
 const peopleDir = path.join(projectRoot, PEOPLE_DIR);
@@ -35,27 +31,29 @@ function buildPeopleInfoAndList() {
   const peopleList: PeopleMeta[] = [];
 
   for (const { dirname, srcPath, distPath } of people) {
-    const infoFile = fs.readFileSync(path.join(srcPath, PEOPLE_INFO_FILENAME), "utf-8");
-    const info = json5.parse(infoFile);
+    for (const lang of ['', '.zh_hant']) {
+      const infoFile = fs.readFileSync(path.join(srcPath, `info${lang}.json5`), "utf-8");
+      const info = json5.parse(infoFile);
 
-    // Add meta information
-    const peopleMeta = {
-      path: dirname,
-      ...Object.fromEntries(PEOPLE_LIST_KEYS.map(key => [key, info[key]]))
-    } as PeopleMeta;
+      // Add meta information
+      const peopleMeta = {
+        path: dirname,
+        ...Object.fromEntries(PEOPLE_LIST_KEYS.map(key => [key, info[key]]))
+      } as PeopleMeta;
 
-    peopleList.push(peopleMeta);
+      peopleList.push(peopleMeta);
 
-    // Combine comments in people/${dirname}/comments/${cf}.json
-    const commentPath = path.join(srcPath, COMMENTS_DIR)
-    fs.ensureDirSync(commentPath)
-    info.comments = fs.readdirSync(commentPath)
+      // Combine comments in people/${dirname}/comments/${cf}.json
+      const commentPath = path.join(srcPath, COMMENTS_DIR)
+      fs.ensureDirSync(commentPath)
+      info.comments = fs.readdirSync(commentPath)
         .filter(cf => cf.endsWith('.json'))
         .map(cf => JSON.parse(fs.readFileSync(path.join(commentPath, cf), 'utf-8')))
 
-    // Write info.json
-    fs.ensureDirSync(distPath);
-    fs.writeFileSync(path.join(distPath, DIST_PEOPLE_INFO_FILENAME), JSON.stringify(info));
+      // Write info.json
+      fs.ensureDirSync(distPath);
+      fs.writeFileSync(path.join(distPath, `info${lang}.json`), JSON.stringify(info));
+    }
   }
 
   // Write people-list.json
@@ -65,11 +63,14 @@ function buildPeopleInfoAndList() {
 // Render `people/${dirname}/page.md` to `dist/people/${dirname}/page.js`.
 function buildPeoplePages() {
   for (const { srcPath, distPath } of people) {
-    const markdown = fs.readFileSync(path.join(srcPath, PEOPLE_PAGE_FILE), "utf-8");
-    const result = renderMdx(markdown);
+    for (const lang of ['', '.zh_hant'])
+    {
+      const markdown = fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8");
+      const result = renderMdx(markdown);
 
-    fs.ensureDirSync(distPath);
-    fs.writeFileSync(path.join(distPath, DIST_PEOPLE_PAGE_FILE), result);
+      fs.ensureDirSync(distPath);
+      fs.writeFileSync(path.join(distPath, `page${lang}.js`), result);
+    }
   }
 }
 
