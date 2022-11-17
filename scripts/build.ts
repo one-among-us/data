@@ -41,7 +41,9 @@ function buildPeopleInfoAndList() {
         ...Object.fromEntries(PEOPLE_LIST_KEYS.map(key => [key, info[key]]))
       } as PeopleMeta;
 
-      peopleList.push(peopleMeta);
+      // Avoid duplicates
+      if (peopleList.filter(it => it.id == peopleMeta.id).length == 0)
+        peopleList.push(peopleMeta);
 
       // Combine comments in people/${dirname}/comments/${cf}.json
       const commentPath = path.join(srcPath, COMMENTS_DIR)
