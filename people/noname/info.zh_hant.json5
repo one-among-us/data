@@ -1,0 +1,14 @@
+{
+    id: 'noname',
+    name: '無名逝者',
+    profileUrl: '${path}/photos/profile.png',
+    info: [
+        ['暱稱', '無名逝者'],
+        ['地區', '-'],
+        ['出生', '-'],
+        ['逝世', '-'],
+    ],
+    websites: [
+        ['one-among-us', 'https://one-among.us'],
+    ],
+}
