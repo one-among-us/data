@@ -8,7 +8,7 @@ import opencc
 from hypy_utils import write
 from hypy_utils.tqdm_utils import pmap, smap
 
-ALLOWED_DIRS = {Path(p) for p in ['people']}
+ALLOWED_DIRS = {Path(p) for p in ['people', 'src/assets']}
 ALLOWED_SUF = {'.json5', '.md'}
 
 HANS_TO_HANT = opencc.OpenCC('s2t.json')
