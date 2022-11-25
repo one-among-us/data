@@ -1,0 +1,14 @@
+{
+    id: 'homoyamakaze',
+    name: '浅羽猫头',
+    profileUrl: '${path}/photos/profile.jpg',
+    info: [
+        ['昵称', '浅羽猫头'],
+        ['地区', '甘肃兰州'],
+        ['出生', '1999.11.3'],
+        ['逝世', '2022.11.9'],
+    ],
+    websites: [
+        ['twitter', 'https://twitter.com/homoyamakaze'],
+    ],
+}
