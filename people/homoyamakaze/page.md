@@ -4,7 +4,7 @@
 
 <PhotoScroll photos={[ '${path}/photos/1.jpg', ]} />  <PhotoScroll photos={[ '${path}/photos/2.png', ]} />
 
-2022 年 11 月 9 日晚，因网络暴力导致双相发作于家中上吊自杀逝世，信息准确性由她女朋友[穗也柚子](https://twitter.com/YuzuTvT)确认，公安现场笔录录音已上传至邮箱。
+2022 年 11 月 9 日晚，因网络暴力导致双相发作于家中上吊自杀逝世，信息准确性由她女朋友[穗也柚子](https://twitter.com/YuzuTvT)确认，有公安现场笔录录音。
 
 <PhotoScroll photos={[ '${path}/photos/3.jpg', ]} />  <PhotoScroll photos={[ '${path}/photos/4.jpg', ]} />
 
