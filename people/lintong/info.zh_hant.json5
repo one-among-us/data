@@ -1,0 +1,14 @@
+{
+    id: 'lintong',
+    name: '林童',
+    profileUrl: '${path}/photos/profile.jpg',
+    info: [
+        ['暱稱', '林童'],
+        ['地區', '湖北武漢'],
+        ['出生', '2000-06-01'],
+        ['逝世', '2022-06-06'],
+    ],
+    websites: [
+        ['QQ', 'https://304915994.qzone.qq.com/'],
+    ],
+}
