@@ -1,15 +1,11 @@
-{ 
-  id: 'homoyamakaze', 
-  name: '浅羽猫头', 
-  profileUrl: '${path}/photos/profile.jpg', 
-  info: [ 
-  ['昵称', '浅羽猫头'], 
-  ['曾用名', '穗也猫猫头'], 
-  ['地区', '甘肃兰州'], 
-  ['出生', '1999.11.3'], 
-  ['逝世', '2022.11.9'], 
-  ], 
-  websites: [ 
-  ['twitter', 'https://twitter.com/homoyamakaze'], 
-  ], 
-  } 
+{
+    id: 'homoyamakaze',
+    profileUrl: '${path}/photos/profile.jpg',
+    info: {
+        born: "1999-11-03",
+        died: "2022-11-09"
+    },
+    websites: [
+        ['twitter', 'https://twitter.com/homoyamakaze'],
+    ],
+}
