@@ -2,14 +2,14 @@
 import difflib
 import os
 from pathlib import Path
-from subprocess import check_output
+from subprocess import check_output, CalledProcessError
 
 import opencc
 from hypy_utils import write
 from hypy_utils.tqdm_utils import pmap, smap
 
 ALLOWED_DIRS = {Path(p) for p in ['people', 'src/assets']}
-ALLOWED_SUF = {'.json5', '.md'}
+ALLOWED_SUF = {'.md'}
 
 HANS_TO_HANT = opencc.OpenCC('s2t.json')
 
@@ -122,7 +122,13 @@ def process_file(f: Path):
 
         # Hant file exists, use diff
         # Obtain original version from git
-        past = check_output(['git', 'show', f"{LAST_HASH}:{f.relative_to('.')}"]).decode()
+        try:
+            past = check_output(['git', 'show', f"{LAST_HASH}:{f.relative_to('.')}"]).decode()
+        except CalledProcessError as e:
+            # This might happen when the last recorded commit is before the first occurrence of the file. If this
+            # happens, print an error.
+            print(e)
+            return
 
         # Nothing changed, skip
         if past == hans:
