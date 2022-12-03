@@ -8,5 +8,5 @@ COPY requirements.txt /app
 # So linking is necessary
 RUN pip install -r requirements.txt \
     && echo "@testing https://dl-cdn.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories \
-    && apk add --no-cache opencc@testing git \
-    && ln -s $(find / -name "libopencc.so.1*" -print -quit) /usr/lib/libopencc.so.1 \
+    && apk add --no-cache 'opencc@testing=1.1.4-r0' git \
+    && ln -s "/usr/lib/libopencc.so.1.1.3" "/usr/lib/libopencc.so.1"
