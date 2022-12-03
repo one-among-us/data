@@ -1,7 +1,0 @@
-{
-    id: 'noname',
-    profileUrl: '${path}/photos/profile.png',
-    websites: [
-        ['one-among-us', 'https://one-among.us'],
-    ],
-}

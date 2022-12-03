@@ -1,0 +1,7 @@
+id: SevenBird
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2005-02-26'
+  died: '2022-08-12'
+websites:
+  twitter: https://twitter.com/Selrayer

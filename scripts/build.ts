@@ -2,7 +2,6 @@ import url from "url";
 import path from "path";
 import fs from "fs-extra";
 
-import json5 from "json5";
 import YAML from 'js-yaml';
 import metadataParser from 'markdown-yaml-metadata-parser';
 
@@ -40,8 +39,8 @@ function buildPeopleInfoAndList() {
 
     // For each person
     for (const { dirname, srcPath, distPath } of people) {
-      const infoFile = fs.readFileSync(path.join(srcPath, `info.json5`), "utf-8");
-      const info = json5.parse(infoFile);
+      const infoFile = fs.readFileSync(path.join(srcPath, `info.yml`), "utf-8");
+      const info = YAML.load(infoFile);
 
       // Read the page.md of that language
       const markdown = fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8");
@@ -49,6 +48,9 @@ function buildPeopleInfoAndList() {
       // Get the markdown header
       const mdMeta = metadataParser(markdown).metadata
       info.name = mdMeta.name
+
+      // Convert website dict into entries [[k, v], ...]
+      info.websites = Object.entries(info.websites ?? {})
 
       // Convert info dict to [[key, value], ...]
       // And add info k-v pairs from markdown to the info object in json5
