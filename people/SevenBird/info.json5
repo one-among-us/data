@@ -1,13 +1,10 @@
 {
     id: 'SevenBird',
-    name: '柒鸟',
     profileUrl: '${path}/photos/profile.jpg',
-    info: [
-        ['昵称', '柒鸟'],
-        ['地区', '福建'],
-        ['出生', '2005.2.26'],
-        ['逝世', '2022.8.12'],
-    ],
+    info: {
+        born: "2005-02-26",
+        died: "2022-08-12"
+    },
     websites: [
         ['twitter', 'https://twitter.com/Selrayer'],
     ],

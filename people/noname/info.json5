@@ -1,13 +1,6 @@
 {
     id: 'noname',
-    name: '无名逝者',
     profileUrl: '${path}/photos/profile.png',
-    info: [
-        ['昵称', '无名逝者'],
-        ['地区', '-'],
-        ['出生', '-'],
-        ['逝世', '-'],
-    ],
     websites: [
         ['one-among-us', 'https://one-among.us'],
     ],

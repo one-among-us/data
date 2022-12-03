@@ -1,0 +1,12 @@
+zh_hans:
+    key:
+        alias: 昵称
+        location: 地区
+        born: 出生
+        died: 逝世
+zh_hant:
+    key:
+        alias: 暱稱
+        location: 地區
+        born: 出生
+        died: 逝世

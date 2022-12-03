@@ -1,13 +1,10 @@
 {
     id: 'donotexist_A',
-    name: '不存在',
     profileUrl: '${path}/photos/profile.jpg',
-    info: [
-        ['昵称', '不存在、存存'],
-        ['地区', '中国广东省'],
-        ['出生', '2002.5.7'],
-        ['逝世', '2021.5.13'],
-    ],
+    info: {
+        born: "2002-05-07",
+        died: "2021-05-13"
+    },
     websites: [
         ['twitter', 'https://twitter.com/donotexist_A'],
     ],
