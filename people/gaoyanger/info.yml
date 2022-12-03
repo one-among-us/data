@@ -1,0 +1,8 @@
+id: gaoyanger
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2002-04-12'
+  died: '2020-08-27'
+websites:
+  twitter: https://twitter.com/gaoyanger
+  zhihu: https://www.zhihu.com/people/chen-ru-32-42
