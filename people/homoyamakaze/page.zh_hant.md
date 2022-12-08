@@ -7,7 +7,7 @@ info:
 
 ## 简介
 
-[淺羽貓頭](https://twitter.com/homoyamakaze) ，上傳了wiki上唯一一個遼寧地區開證方法，線下協助多名跨性別開具證明和處方，説明很多人買到了低價日雌，數量至少在100盒以上。
+[淺羽貓頭](https://twitter.com/homoyamakaze) ，上傳了mtf.wiki上[首個遼寧地區開證方法](https://mtf.wiki/zh-cn/docs/psyco/liaoning/liu-hong/)，線下協助多名跨性別開具證明和處方，和淺羽織雪一起説明很多人買到了低價日雌，數量約在100盒以上。
 
 <PhotoScroll photos={[ '${path}/photos/1.jpg', ]} /> <PhotoScroll photos={[ '${path}/photos/2.png', ]} />
 
