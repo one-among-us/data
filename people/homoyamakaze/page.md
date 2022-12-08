@@ -7,7 +7,7 @@ info:
 
 ## 简介
 
-[浅羽猫头](https://twitter.com/homoyamakaze) ，上传了wiki上唯一一个辽宁地区开证方法，线下协助多名跨性别开具证明和处方，帮助很多人买到了低价日雌，数量至少在100盒以上。
+[浅羽猫头](https://twitter.com/homoyamakaze) ，上传了mtf.wiki上[首个辽宁地区开证方法](https://mtf.wiki/zh-cn/docs/psyco/liaoning/liu-hong/)，线下协助多名跨性别开具证明和处方，和浅羽织雪一起帮助很多人买到了低价日雌，数量约在100盒以上。
 
 <PhotoScroll photos={[ '${path}/photos/1.jpg', ]} />  
 <PhotoScroll photos={[ '${path}/photos/2.png', ]} />
