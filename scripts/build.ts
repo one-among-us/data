@@ -1,6 +1,7 @@
 import url from "url";
 import path from "path";
 import fs from "fs-extra";
+import autocorrect from "autocorrect-node";
 
 import YAML from 'js-yaml';
 import metadataParser from 'markdown-yaml-metadata-parser';
@@ -69,6 +70,9 @@ function buildPeopleInfoAndList() {
         .filter(cf => cf.endsWith('.json'))
         .map(cf => JSON.parse(fs.readFileSync(path.join(commentPath, cf), 'utf-8')))
 
+      // Autocorrect comment contents
+      info.comments.forEach(c => c.content = autocorrect.format(c.content))
+
       // Write info.json
       fs.ensureDirSync(distPath);
       fs.writeFileSync(path.join(distPath, `info${lang}.json`), JSON.stringify(info));
@@ -95,7 +99,12 @@ function buildPeoplePages() {
     for (const lang of ['', '.zh_hant'])
     {
       // Read markdown page and remove markdown meta
-      const markdown = metadataParser(fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8")).content;
+      let markdown = metadataParser(fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8")).content;
+
+      // Autocorrect markdown
+      markdown = autocorrect.formatFor(markdown, 'markdown')
+
+      // Render mdx
       const result = renderMdx(markdown);
 
       fs.ensureDirSync(distPath);

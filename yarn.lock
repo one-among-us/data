@@ -270,6 +270,36 @@ astring@^1.6.0, astring@^1.8.0:
   resolved "https://registry.yarnpkg.com/astring/-/astring-1.8.3.tgz#1a0ae738c7cc558f8e5ddc8e3120636f5cebcb85"
   integrity sha512-sRpyiNrx2dEYIMmUXprS8nlpRg2Drs8m9ElX9vVEXaCB4XEAJhKfs7IcX0IwShjuOAjLR6wzIrgoptz1n19i1A==
 
+autocorrect-node-darwin-arm64@2.5.5:
+  version "2.5.5"
+  resolved "https://registry.yarnpkg.com/autocorrect-node-darwin-arm64/-/autocorrect-node-darwin-arm64-2.5.5.tgz#2218e96a928229409bbf345c1ee3c00b9cd77fb4"
+  integrity sha512-l3O1jHEHbUMSzs68Myfhs31DdhnODAaxXPWt/i6V3ZSOK86HJICmkmvlGHdH1AmI3eS5DVXoWmP4UlVtvzxmPw==
+
+autocorrect-node-darwin-x64@2.5.5:
+  version "2.5.5"
+  resolved "https://registry.yarnpkg.com/autocorrect-node-darwin-x64/-/autocorrect-node-darwin-x64-2.5.5.tgz#21fe46b7fdbd35ef26cdb0c8c6cb6a7baf8ffac7"
+  integrity sha512-4KpUDkvCUZh3T3rsQRbeiidCykgWD3FdYxgXj4i2D7GZt9e82RqGuVzs+Hq3OYrhzBGMjh2Cx5IqaESY3UwCnw==
+
+autocorrect-node-linux-x64-gnu@2.5.5:
+  version "2.5.5"
+  resolved "https://registry.yarnpkg.com/autocorrect-node-linux-x64-gnu/-/autocorrect-node-linux-x64-gnu-2.5.5.tgz#34e343c18e10fbd6ccb7f37231ec097fca298ef0"
+  integrity sha512-8AMHVoVlJ1lKXFR3r6dFeQ6eWj1U6QVaVu8M2LkFWT7qPqQBae4FauB6c+XF7VhcCe5+DYAY4/astJzBc5MXjQ==
+
+autocorrect-node-win32-x64-msvc@2.5.5:
+  version "2.5.5"
+  resolved "https://registry.yarnpkg.com/autocorrect-node-win32-x64-msvc/-/autocorrect-node-win32-x64-msvc-2.5.5.tgz#ceb8727531536a9b56a637882f97d40a34c34741"
+  integrity sha512-f8K4SOxotVAKDmBdz5ytr2OWzI83jyijDAWDRfPl/VlmegU01NhOIcZp8Yt5sTIq8m7GBhaWaC6sCQL8nmdhSA==
+
+autocorrect-node@^2.5.5:
+  version "2.5.5"
+  resolved "https://registry.yarnpkg.com/autocorrect-node/-/autocorrect-node-2.5.5.tgz#7420e64fcbd339435994c54caafe6a567f22f20c"
+  integrity sha512-YJQZNJIOJn0j364+ORS2yOVCU1QzArODZIchSb7G7dLbApR+sa9o2G035RP9Ymn1QR8coWfoUOpWb9KYwKAEPw==
+  optionalDependencies:
+    autocorrect-node-darwin-arm64 "2.5.5"
+    autocorrect-node-darwin-x64 "2.5.5"
+    autocorrect-node-linux-x64-gnu "2.5.5"
+    autocorrect-node-win32-x64-msvc "2.5.5"
+
 bail@^2.0.0:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/bail/-/bail-2.0.2.tgz#d26f5cd8fe5d6f832a31517b9f7c356040ba6d5d"
