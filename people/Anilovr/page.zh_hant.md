@@ -5,7 +5,7 @@ info:
     location: 海南海口
 ---
 
->「//La homa mondo devus esti detruita//我會在參宿四上等你//」
+>「//La homa mondo devus esti detruita//我會在參宿四上等你//」  
 >「我真的 愛你們每一個人。」
 
 ## 簡介
@@ -15,9 +15,9 @@ Ani，來自海南省海口市的一個單親家庭。
 
 <PhotoScroll photos={[ '${path}/photos/1.jpg', ]} />
 
-人間無常
-但事事突然
-也措手不及
+人間無常  
+但事事突然  
+也措手不及  
 遺憾殘酷，也在一瞬間到來
 
 她的死亡，可以說是令人震驚。也正是這樣，Ani 完成了她「悄無聲地的離開」這一計劃。
