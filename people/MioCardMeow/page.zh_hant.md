@@ -2,7 +2,7 @@
 name: 澪卡喵
 info:
     alias: 澪卡喵
-    location: 中國
+    location: 北京
 ---
 
 ## 簡介
