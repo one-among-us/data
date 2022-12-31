@@ -12,7 +12,7 @@ concurrency:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -49,3 +49,5 @@ jobs:
         with:
           branch: gh-pages
           folder: dist
+          
+      
