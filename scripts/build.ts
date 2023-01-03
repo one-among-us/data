@@ -6,7 +6,7 @@ import autocorrect from "autocorrect-node";
 import YAML from 'js-yaml';
 import metadataParser from 'markdown-yaml-metadata-parser';
 
-import { renderMdx } from "./mdx.ts";
+import { renderMdx } from "./mdx.js";
 
 const PUBLIC_DIR = "public";
 
@@ -23,14 +23,19 @@ const people = fs.readdirSync(peopleDir).map(person => ({
   distPath: path.join(projectRoot, DIST_DIR, PEOPLE_DIR, person)
 }));
 
+interface PeopleMeta {
+  id: string
+  name: string
+  profileUrl: string
+  path: string
+  sortKey: string
+}
+
 // Transform `info.json5` to `info.json`.
 // Extract metadata from `people/${dirname}/info.json5` to `dist/people-list.json`.
 function buildPeopleInfoAndList() {
-  const PEOPLE_LIST_KEYS = ["id", "name", "profileUrl"] as const;
-  type PeopleMeta = Record<"path" | typeof PEOPLE_LIST_KEYS[number], unknown>;
-
   // Read internationalized key names
-  const infoKeys = YAML.load(fs.readFileSync('info-i18n.yml'))
+  const infoKeys = YAML.load(fs.readFileSync('info-i18n.yml').toString())
 
   // Compile into multiple languages
   for (const lang of ['', '.zh_hant']) {
@@ -41,7 +46,7 @@ function buildPeopleInfoAndList() {
     // For each person
     for (const { dirname, srcPath, distPath } of people) {
       const infoFile = fs.readFileSync(path.join(srcPath, `info.yml`), "utf-8");
-      const info = YAML.load(infoFile);
+      const info: any = YAML.load(infoFile);
 
       // Read the page.md of that language
       const markdown = fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8");
@@ -53,12 +58,15 @@ function buildPeopleInfoAndList() {
       // Convert website dict into entries [[k, v], ...]
       info.websites = Object.entries(info.websites ?? {})
 
+      // Get sort key
+      const sortKey = info.info?.died ?? mdMeta.info?.died ?? '0'
+
       // Convert info dict to [[key, value], ...]
       // And add info k-v pairs from markdown to the info object in json5
       info.info = [...Object.entries(mdMeta.info ?? {}), ...Object.entries(info.info ?? {})]
 
       // Convert key names to internationalized key names
-      let langKey = indexTrim(lang, ".")
+      let langKey = trim(lang, ".")
       if (langKey == '') langKey = "zh_hans"
       const keys = infoKeys[langKey]['key']
       info.info = info.info.map(pair => [pair[0] in keys ? keys[pair[0]] : pair[0], pair[1]])
@@ -80,13 +88,16 @@ function buildPeopleInfoAndList() {
       // Create people list meta information
       const peopleMeta = {
         path: dirname,
-        ...Object.fromEntries(PEOPLE_LIST_KEYS.map(key => [key, info[key]]))
+        sortKey: sortKey,
+        ...Object.fromEntries(["id", "name", "profileUrl"].map(key => [key, info[key]]))
       } as PeopleMeta;
 
       // Add meta to people list
       if (peopleList.filter(it => it.id == peopleMeta.id).length == 0)
         peopleList.push(peopleMeta);
     }
+
+    peopleList.sort((a, b) => b.sortKey.localeCompare(a.sortKey))
 
     // Write people-list.json
     fs.writeFileSync(path.join(projectRoot, DIST_DIR, `people-list${lang}.json`), JSON.stringify(peopleList));
@@ -145,7 +156,7 @@ copyPublic();
  * @param str String
  * @param ch Character (must have len 1)
  */
-function indexTrim(str: string, ch: string) {
+function trim(str: string, ch: string) {
   let start = 0
   let end = str.length
 
