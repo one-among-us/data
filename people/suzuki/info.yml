@@ -1,0 +1,4 @@
+id: suzuki
+profileUrl: ${path}/photos/profile.jpg
+info:
+  died: '2022-12-14'
