@@ -21,13 +21,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Setup Node
-        uses: actions/setup-node@v3
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
-          # Upgrading to 16.17.0 result in ERR_LOADER_CHAIN_INCOMPLETE issue.
-          node-version: 16.16.0
+          node-version: 18
 
       - name: Cache node_modules
         uses: actions/cache@v3
@@ -51,3 +48,14 @@ jobs:
           folder: dist
           
       
+      - name: Trigger web repackage
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: 'one-among-us',
+              repo: 'web',
+              workflow_id: 'package.yml',
+              ref: 'main'
+            })
