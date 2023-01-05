@@ -19,15 +19,13 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: write-all
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Setup Node
-        uses: actions/setup-node@v3
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
-          # Upgrading to 16.17.0 result in ERR_LOADER_CHAIN_INCOMPLETE issue.
-          node-version: 16.16.0
+          node-version: 18
 
       - name: Cache node_modules
         uses: actions/cache@v3
@@ -49,5 +47,24 @@ jobs:
         with:
           branch: gh-pages
           folder: dist
-          
-      
+
+      - name: Check for document changes, ignoring comments
+        uses: dorny/paths-filter@v2
+        id: changes
+        with:
+          filters: |
+            src:
+              - 'people/**/*[!.json]'
+
+      - name: Trigger web repackage
+        uses: actions/github-script@v6
+        if: steps.changes.outputs.src == 'true'
+        with:
+          github-token: ${{ secrets.GH_PERSONAL_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: 'one-among-us',
+              repo: 'web',
+              workflow_id: 'package.yml',
+              ref: 'main'
+            })

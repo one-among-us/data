@@ -2,7 +2,7 @@
 name: 鈴木涼宮
 info:
     alias: 鈴木
-    location: 中國臺灣
+    location: 臺灣
 ---
 
 ## 簡介
