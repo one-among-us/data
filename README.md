@@ -2,6 +2,10 @@
 
 这里存了 [one-among.us](https://one-among.us/) 的条目，欢迎贡献！
 
+## 状态
+
+我们已将最新更改提交至One Among Us的github 项目主页，在One Among Us决定合并更改或关闭合并请求前该 Repository
+ 将不会再次变动。
 ## GitHub Repo 结构
 
 * [data](https://github.com/one-among-us/data) - 条目内容存储
