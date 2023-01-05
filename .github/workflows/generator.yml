@@ -47,10 +47,18 @@ jobs:
         with:
           branch: gh-pages
           folder: dist
-          
-      
+
+      - name: Check for document changes, ignoring comments
+        uses: dorny/paths-filter@v2
+        id: changes
+        with:
+          filters: |
+            src:
+              - 'people/**/*[!.json]'
+
       - name: Trigger web repackage
         uses: actions/github-script@v6
+        if: steps.changes.outputs.src == 'true'
         with:
           github-token: ${{ secrets.GH_PERSONAL_TOKEN }}
           script: |
