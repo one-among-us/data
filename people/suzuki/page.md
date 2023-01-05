@@ -2,7 +2,7 @@
 name: 铃木凉宫
 info:
     alias: 铃木
-    location: 不详
+    location: 中国台湾
 ---
 
 ## 简介
