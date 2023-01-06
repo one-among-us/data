@@ -51,7 +51,7 @@ info:
 
 <PhotoScroll photos={[
     '${path}/photos/photo1.jpg',
-    '${path}/photos/work3.jpg',
+    '${path}/photos/works3.jpg',
     '${path}/photos/photo2.jpg',
 ]} />
 
