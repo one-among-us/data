@@ -1,4 +1,4 @@
 [build]
 publish = "dist/"
-command = "yarn build"
+command = "yarn build-preview"
 environment = { NODE_VERSION = "18", PYTHON_VERSION = "3.8" }
