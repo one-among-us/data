@@ -1,4 +1,4 @@
 [build]
 publish = "dist/"
 command = "yarn build"
-environment = { NODE_VERSION = "18", PYTHON_VERSION = "3.11" }
+environment = { NODE_VERSION = "18", PYTHON_VERSION = "3.10" }
