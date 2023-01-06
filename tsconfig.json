@@ -11,7 +11,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "strict": false,
-    "module": "ES2020",
+    "module": "esnext",
     "strictBindCallApply": true,
     "baseUrl": "./",
     "outDir": "./dist"

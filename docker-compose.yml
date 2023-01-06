@@ -1,7 +1,0 @@
-services:
-  convert:
-    container_name: oau-convert
-    build: .
-    volumes:
-      - ".:/app"
-    entrypoint: "./scripts/convert_zh.py"
