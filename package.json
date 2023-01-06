@@ -9,7 +9,9 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "node --loader ts-node/esm/transpile-only scripts/build.ts"
+    "build": "node --loader ts-node/esm/transpile-only scripts/build.ts",
+    "build-preview": "yarn build && scripts/preview.sh",
+    "preview": "yarn build-preview && http-server dist"
   },
   "dependencies": {
     "@mdx-js/mdx": "^2.1.5",
@@ -26,6 +28,8 @@
     "xdm": "^3.4.0"
   },
   "devDependencies": {
-    "@types/js-yaml": "^4.0.5"
+    "@octokit/core": "^4.1.0",
+    "@types/js-yaml": "^4.0.5",
+    "http-server": "^14.1.1"
   }
 }
