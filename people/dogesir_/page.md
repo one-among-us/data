@@ -28,7 +28,7 @@ info:
 
 这次......永远也不会换掉了......
 
-<PhotoScroll photos={[ '${path}/photos/intro.jpg', ]} />
+<PhotoScroll photos={[ '${path}/photos/intro.jpg'  ]} />
 
 她还是一位热爱Minecraft的姐妹，她开了一个地图，长期在[Bilibili](https://space.bilibili.com/2119605209)上更新，下面是她捕获的一些图片。
 
