@@ -2,6 +2,10 @@
 
 这里存了 [one-among.us](https://one-among.us/) 的条目，欢迎贡献！
 
+在贡献之前请阅读我们的 [文档和贡献指南](https://github.com/one-among-us/how-we-work/blob/main/README-zh_Hans.md)。
+
+Please read our [How-We-Work](https://github.com/one-among-us/how-we-work/blob/main/README.md) before contributing.
+
 ## GitHub Repo 结构
 
 * [data](https://github.com/one-among-us/data) - 条目内容存储
