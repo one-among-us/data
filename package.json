@@ -30,6 +30,7 @@
   "devDependencies": {
     "@octokit/core": "^4.1.0",
     "@types/js-yaml": "^4.0.5",
-    "http-server": "^14.1.1"
+    "http-server": "^14.1.1",
+    "moment": "^2.29.4"
   }
 }
