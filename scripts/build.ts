@@ -7,6 +7,7 @@ import YAML from 'js-yaml';
 import metadataParser from 'markdown-yaml-metadata-parser';
 
 import { renderMdx } from "./mdx.js";
+import moment from "moment";
 
 const PUBLIC_DIR = "public";
 
@@ -60,6 +61,13 @@ function buildPeopleInfoAndList() {
 
       // Get sort key
       const sortKey = info.info?.died ?? mdMeta.info?.died ?? '0'
+
+      // Add age
+      if (info.info && info.info.died && info.info.born)
+      {
+        try { info.info.age = Math.abs(moment(info.info.died).diff(info.info.born, 'years', false)) }
+        catch (e) { console.log(`Unable to calculate age for ${dirname}`) }
+      }
 
       // Convert info dict to [[key, value], ...]
       // And add info k-v pairs from markdown to the info object in json5
