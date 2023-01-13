@@ -5,6 +5,8 @@ info:
     location: 福建
 ---
 
+<bgsound src="https://data.one-among.us/people/SevenBird/fengyu.mp3" loop=-1>
+
 >「想念我的时候，就抬头看看月亮吧~」  
 >「我会在月亮上等你」
 
