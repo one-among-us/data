@@ -27,7 +27,7 @@ noah是一位有些神秘的mtf，尽管在twitter上的人设是看起来无趣
     '${path}/photos/postcard7.jpg',
 ]} />
 
-> noah曾经误以为[某只喵](https://one-among.us/profile/MioCardMeow)是“我小说中的猫猫”，于是让我与喵结下了不解之缘。
+> noah曾经误以为[某只喵](https://one-among.us/profile/MioCardMeow)是「我小说中的猫猫」，于是让我与喵结下了不解之缘。
 > 对于她的离去我感到非常突然，三天前还给我寄明信片，两天前还在开玩笑，一天前还在说话，早上起来却听到了这样的消息。
 > 明信片收到了，很有创意，会珍藏一生的。
 > 参宿四上见。
