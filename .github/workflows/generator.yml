@@ -54,7 +54,7 @@ jobs:
         with:
           filters: |
             src:
-              - 'people/**/*[!.json]'
+              - 'people/**/*[^.json]'
 
       - name: Trigger web repackage
         uses: actions/github-script@v6
