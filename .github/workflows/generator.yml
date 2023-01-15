@@ -42,11 +42,13 @@ jobs:
       - name: Build
         run: yarn build
 
-      - name: Deploy to github pages
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Deploy 🚀
+        uses: cloudflare/pages-action@v1
         with:
-          branch: gh-pages
-          folder: dist
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: our-data
+          directory: dist
 
       - name: Check for document changes, ignoring comments
         uses: dorny/paths-filter@v2
