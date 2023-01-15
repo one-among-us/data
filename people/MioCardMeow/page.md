@@ -11,4 +11,4 @@ info:
 
 生平：业内比较知名的 Kanoguti 歌曲的搬运者。家庭环境的不友好及长期服药带来的负面影响（脑内垂体瘤）让其萌生轻生念头，因服用药物导致脑内垂体瘤破裂，昏迷不醒，终不幸身亡。
 
-条目贡献：[南川朝香](https://twitter.com/nkw45) ， [Lee](https://twitter.com/rbqwansui)
+条目贡献：[南川朝香](https://twitter.com/nkw45)，[Lee](https://twitter.com/rbqwansui)
