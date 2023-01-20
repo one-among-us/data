@@ -7,7 +7,7 @@ info:
 This page is dedicated to the unidentifiable victims who lost their lives due to systemic violence towards trans people.
 Sometimes, we cannot even get a confirmation on if these people are trans.
 
-### 2022 March 9th, Wu Han Tianjie - Feminine-presenting person stripped and murdered in bathroom.
+### 2022 March 9th, Wu Han Tianjie - Feminine-presenting person stripped and murdered in men's bathroom.
 
 At 2022 March 9th 15:45, a feminine-presenting person was stripped and murdered in bathroom.
 The assailant and the victim's verbal conflict quickly escalated to physical conflict.
