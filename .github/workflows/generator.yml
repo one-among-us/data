@@ -42,7 +42,13 @@ jobs:
       - name: Build
         run: yarn build
 
-      - name: Deploy 🚀
+      - name: Deploy to GitHub branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: dist
+
+      - name: Deploy to Cloudflare Pages
         uses: cloudflare/pages-action@v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
