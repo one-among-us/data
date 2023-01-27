@@ -1,6 +1,6 @@
 # Our Data 
 
-这里存了 [one-among.us](https://one-among.us/) 的条目，欢迎贡献！
+这里存了 [One Among Us](https://one-among.us/) 的条目，欢迎贡献！
 
 在贡献之前请阅读我们的 [文档和贡献指南](https://github.com/one-among-us/how-we-work/blob/main/README-zh_Hans.md)。
 
