@@ -5,7 +5,7 @@ info:
     location: 吉林长春
 ---
 
->『看过《银河铁道之夜》吗?咱想乘坐银河列车!』
+> 『看过《银河铁道之夜》吗?咱想乘坐银河列车!』
 
 ## 简介
 
@@ -30,7 +30,7 @@ info:
 
 <PhotoScroll photos={[ '${path}/photos/intro.jpg'  ]} />
 
-她还是一位热爱Minecraft的姐妹，她开了一个地图，长期在[Bilibili](https://space.bilibili.com/2119605209)上更新，下面是她捕获的一些图片。
+她还是一位热爱 Minecraft 的姐妹，她开了一个地图，长期在 [Bilibili](https://space.bilibili.com/2119605209) 上更新，下面是她捕获的一些图片。
 
 <PhotoScroll photos={[
     '${path}/photos/mc1.jpg',
@@ -43,7 +43,7 @@ info:
     '${path}/photos/mc8.jpg',
 ]} />
 
-她并不是第一次尝试登上银河列车就成功了的，在此之前，她尝试了4次。
+她并不是第一次尝试登上银河列车就成功了的，在此之前，她尝试了 **4** 次。
 
 现在，她登上了那一列她一直想乘坐的银河列车。她并非孤身一人，[还有一位姐妹会在列车上陪着她](https://www.one-among.us/profile/Anilovr)。
 
@@ -56,7 +56,6 @@ info:
 ]} />
 
 我们期待能够再收到第二张她手绘的明信片。
-
 
 愿此行，不孤单。
 请记得再看一眼参宿四。
