@@ -5,7 +5,7 @@ info:
     location: 吉林長春
 ---
 
->『看過《銀河鐵道之夜》嗎?咱想乘坐銀河列車!』
+> 『看過《銀河鐵道之夜》嗎?咱想乘坐銀河列車!』
 
 ## 簡介
 
@@ -30,7 +30,7 @@ info:
 
 <PhotoScroll photos={[ '${path}/photos/intro.jpg' ]} />
 
-她還是一位熱愛Minecraft的姐妹，她開了一個地圖，長期在[Bilibili](https://space.bilibili.com/2119605209)上更新，下面是她捕獲的一些圖片。
+她還是一位熱愛 Minecraft 的姐妹，她開了一個地圖，長期在 [Bilibili](https://space.bilibili.com/2119605209) 上更新，下面是她捕獲的一些圖片。
 
 <PhotoScroll photos={[
     '${path}/photos/mc1.jpg',
@@ -57,7 +57,6 @@ info:
 ]} />
 
 我們期待能夠再收到第二張她手繪的明信片。
-
 
 願此行，不孤單。
 請記得再看一眼參宿四。
