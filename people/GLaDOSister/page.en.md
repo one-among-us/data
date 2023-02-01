@@ -1,7 +1,7 @@
 ---
 name: GLaDOSister
 info:
-    alias: 静叶、G姐、Cang Shan Jing Ye、CangShanJingYe
+    alias: CangShanJingYe, Jing Ye, Sister G
     location: Beijing, China
 ---
 
