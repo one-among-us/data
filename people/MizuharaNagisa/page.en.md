@@ -1,7 +1,7 @@
 ---
 name: mizuharanagisa
 info:
-    alias: 水原なぎさ,ShuiYuan,Shui Yuan,ShuiYuanZhu,Shui Yuan Zhu,shuiyuanzhu,MizuharaNagisa,Mizuhara Nagisa
+    alias: Mizuhara Nagisa, 水原なぎさ, Shui Yuan Zhu
     location: Shanghai, China
 ---
 
