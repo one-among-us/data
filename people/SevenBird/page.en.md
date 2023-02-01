@@ -21,7 +21,7 @@ She was a lively and optimistic girl.
 Always willing to help others, she not only cared about us when we are in need, but she also saved many people from suicide.
 But “a doctor cannot help themself”, in the end, she was unable to save herself.
 
-She loved rthyme games.
+She loved rhythm games.
 In her last moments, she played the song *Phigros* for the last time to say goodbye.
 
 This is her last wish:
