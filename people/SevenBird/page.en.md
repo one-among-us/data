@@ -1,7 +1,7 @@
 ---
 name: sevenbird
 info:
-    alias: 柒鸟,Qi Niao,qiniao,SevenBird,seven bird
+    alias: 柒鸟, Qi Niao, SevenBird
     location: Fujian, China
 ---
 
