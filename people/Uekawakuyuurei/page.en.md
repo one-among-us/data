@@ -1,7 +1,7 @@
 ---
 name: uekawakuyuurei
 info:
-    alias: 阿蛍、蛍酱、秋雲、Ying、ying、Uekawakuyuurei、A Ying、Aying、aying
+    alias: Ying (Hotaru), Qiu Yun (Akigumo)
 ---
 
 ## Description
