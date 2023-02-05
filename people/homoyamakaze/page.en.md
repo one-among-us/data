@@ -1,7 +1,7 @@
 ---
 name: homoyamakaze
 info:
-    alias: 浅羽猫头,穗也猫猫头,qianyumaotou,QianYuMaoTou,Qian Yu Mao Tou,Homoyamakaze
+    alias: Qian Yu Mao Tou, Sui Ye Mao Mao Tou, Homoyamakaze
     location: Lanzhou, Gansu, China
 ---
 
