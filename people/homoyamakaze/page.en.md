@@ -25,4 +25,4 @@ The incident was recorded in legal documents by her girlfriend [Hui Ye You Zi](h
 Confirmed on twitter by both [Hui Ye You Zi](https://twitter.com/YuzuTvT) and [Lee](https://twitter.com/rbqwansui).
 
 Contributor of entry:
-[Hui Ye You Zi](https://twitter.com/YuzuTvT)
+[Sui Ye You Zi](https://twitter.com/YuzuTvT)
