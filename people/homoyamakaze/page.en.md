@@ -17,7 +17,7 @@ She was able to help many people to get affordable HRT medicine while working to
 <PhotoScroll photos={[ '${path}/photos/2.png', ]} />
 
 In the evening of 2022 November 9th, she took her life in her house because of a bipolar disorder episode resulted from online violence.
-The incident was recorded in legal documents by her girlfriend [Hui Ye You Zi](https://twitter.com/YuzuTvT).
+The incident was recorded in legal documents by her girlfriend [Sui Ye You Zi](https://twitter.com/YuzuTvT).
 
 <PhotoScroll photos={[ '${path}/photos/3.jpg', ]} />  
 <PhotoScroll photos={[ '${path}/photos/4.jpg', ]} />
