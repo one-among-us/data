@@ -1,7 +1,7 @@
 ---
 name: dogesir_
 info:
-    alias: 蓝狗,dogesir,LanGou,Langou,Lan Gou,狗被染藍
+    alias: dogesir, Lan Gou (blue dog)
     location: Changchun, Jilin, China
 ---
 
