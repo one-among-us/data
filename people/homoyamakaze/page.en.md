@@ -22,7 +22,7 @@ The incident was recorded in legal documents by her girlfriend [Hui Ye You Zi](h
 <PhotoScroll photos={[ '${path}/photos/3.jpg', ]} />  
 <PhotoScroll photos={[ '${path}/photos/4.jpg', ]} />
 
-Confirmed on twitter by both [Hui Ye You Zi](https://twitter.com/YuzuTvT) and [Lee](https://twitter.com/rbqwansui).
+Confirmed on twitter by both [Sui Ye You Zi](https://twitter.com/YuzuTvT) and [Lee](https://twitter.com/rbqwansui).
 
 Contributor of entry:
 [Sui Ye You Zi](https://twitter.com/YuzuTvT)
