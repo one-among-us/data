@@ -5,7 +5,7 @@ info:
     location: Changchun, Jilin, China
 ---
 
-> “Seen *The Train Travelling through the Starry Sky*? I want to get on that train, too.”
+> “Have you seen *The Train Travelling through the Starry Sky*? I want to get on that train, too.”
 
 ## Description
 
