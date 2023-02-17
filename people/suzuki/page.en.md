@@ -21,7 +21,7 @@ We believe that she can make anything as long as she wants to.
 
 > “I really like this server system. I'm going to save up for it!”
 >
-> “Thank you, all the people who worked on this project.”
+> “To everyone who worked on this project, thank you!”
 
 Unfortuantely, her young life ended on 2022 December 14th.
 A month after that, one of her accounts, [CatEarsLaboratory], managed by her friend, published this message:
