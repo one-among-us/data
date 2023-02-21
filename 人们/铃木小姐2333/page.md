@@ -15,7 +15,7 @@ info:
 作为CatEarsWiki的参与者, 真依在[铃木凉宫](https://one-among.us/profile/suzuki)「空中飞人」事件后迅速接盘并维持运营.  
 
 真依在少女时期便体弱多病, 绝大多数时间呆在医院的病床上.  
-她的死亡, 便是因为严重心脏问题救助无效.  
+她的死亡, 便是因为严重心脏问题救助无效.  其实是因为“玖月折耳猫”说错了一些话语导致其自杀（不用担心，玖月折耳猫也会来陪她的，玖月折耳猫永远爱她）
 
 她在生前留下了最后一个关于自己的[页面](https://xtcteam-my.sharepoint.com/:u:/g/personal/ying_fengzhuang_xtcteam_onmicrosoft_com/EUtWQZbyK8lGs_WssKLUfTIB7YNmnJ50_RCusxo1Y9r0Qw?e=EYLPbF)  
 
