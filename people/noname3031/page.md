@@ -6,7 +6,7 @@ info:
 
 ## 简介
 
-noah 是一位有些神秘的 MtF，尽管在 Twitter 上的人设是看起来无趣的，其实是一个很可爱的人，去世的消息由 [寒涟漪](https://twitter.com/HANLIANYI520/status/1613697897203367938) 发布。在自己的博客里她留下了 [一封遗书](https://noname3031.one/article/rip_noah/index.html) 和写给 [另一位姐妹](https://one-among.us/profile/Anilovr) 的 [告别](https://noname3031.one/article/rip_ani/index.html) （已在 [Wayback machine 上留档](https://web.archive.org/web/20230121030916/https://noname3031.one/)）。
+noah 是一位有些神秘的 MtF，尽管在 Twitter 上的人设是看起来无趣的，其实是一个很可爱的人，去世的消息由 [寒涟漪](https://twitter.com/HANLIANYI520/status/1613697897203367938) 发布。在自己的博客里她留下了 [一封遗书](https://noname3031.one/article/rip_noah/index.html) 和写给 [另一位姐妹](https://one-among.us/profile/Anilovr) 的 [告别](https://noname3031.one/article/rip_ani/index.html)（已在 [Wayback machine 上留档](https://web.archive.org/web/20230121030916/https://noname3031.one/)）。
 
 在临走前她给大家寄了一些明信片。
 
