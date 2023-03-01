@@ -14,6 +14,8 @@ Ani grew up in a single-parent household.
 She has helped many people.
 But in the end, she, who gave others hope, wasn't able to escape death herself.
 
+<PhotoScroll photos={[ '${path}/photos/photo1.jpg', ]} />
+
 > In this cruel and irrational world,
 > anything can happen at any time,
 > catching people off-guard,
