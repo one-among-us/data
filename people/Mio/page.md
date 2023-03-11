@@ -1,8 +1,8 @@
 ---
 name: Mio
 info:
-alias: Mio
-location: 广东佛山
+  alias: Mio
+  location: 广东佛山
 ---
 
 > 「澪？不是哦，其实 Mio 也是随便取的，不会日语阿巴」
