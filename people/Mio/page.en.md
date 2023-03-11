@@ -1,8 +1,8 @@
 ---
 name: Mio
 info:
-alias: Mio
-location: Guangdong, Foshan
+  alias: Mio
+  location: Guangdong, Foshan
 ---
 
 > "Does my name mean 澪, you ask? Not really. Actually, "Mio" is also something I came up with on a whim. I'm not good at Japanese, sorry."
