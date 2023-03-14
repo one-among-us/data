@@ -6,5 +6,6 @@ yarn-debug.log*
 yarn-error.log*
 
 .idea
+.devcontainer
 .DS_Store
 ._*

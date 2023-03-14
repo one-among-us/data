@@ -39,7 +39,7 @@ function buildPeopleInfoAndList() {
   const infoKeys = YAML.load(fs.readFileSync('info-i18n.yml').toString())
 
   // Compile into multiple languages
-  for (const lang of ['', '.zh_hant']) {
+  for (const lang of ['', '.zh_hant', '.en']) {
 
     // Compiled meta of list of people for the front page (contains keys id, name, profileUrl)
     const peopleList: PeopleMeta[] = [];
@@ -114,8 +114,8 @@ function buildPeopleInfoAndList() {
 
 // Render `people/${dirname}/page.md` to `dist/people/${dirname}/page.js`.
 function buildPeoplePages() {
-  for (const { srcPath, distPath } of people) {
-    for (const lang of ['', '.zh_hant'])
+  for (const { dirname, srcPath, distPath } of people) {
+    for (const lang of ['', '.zh_hant', '.en'])
     {
       // Read markdown page and remove markdown meta
       let markdown = metadataParser(fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8")).content;
@@ -124,6 +124,7 @@ function buildPeoplePages() {
       markdown = autocorrect.formatFor(markdown, 'markdown')
 
       // Render mdx
+      console.log('GENERATED: '+dirname+lang)
       const result = renderMdx(markdown);
 
       fs.ensureDirSync(distPath);

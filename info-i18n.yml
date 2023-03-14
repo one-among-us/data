@@ -12,3 +12,10 @@ zh_hant:
         born: 出生
         died: 逝世
         age: 年齡
+en:
+    key:
+        alias: Alias
+        location: Location
+        born: Born
+        died: Left
+        age: Age
