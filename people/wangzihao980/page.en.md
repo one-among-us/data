@@ -35,7 +35,7 @@ This is her suicide note:
 Translation of the above suicide note:
 
 > Just an informal suicide note to list some requests.
-> 1.  Please make sure I'm dressed up after death, <name redacted>, so I can go with dignity. I mean, if you want.
+> 1.  Please make sure I'm dressed up after death, (name redacted), so I can go with dignity. I mean, if you want.
 > 2.  Pour my ashes into the sea. Don't preserve and worship it. I don't like that.
 > 3.  Don't blame anyone on my funeral. I knew I would not be able to continue anymore someday long ago because of my own mental issues.
 > 4.  Don't cry too load at my funeral, okay?

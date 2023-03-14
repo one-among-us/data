@@ -94,9 +94,9 @@ We wanted to receive another postcard from her.
 
 Wish you not lonely on the train. And remember: Look at the star Betelgeuse one more time.
 
-<!--
+{/*
 Comments from the translator:
 
 Please, don&apos;t romantize suicid&#33; I'm begging you&#33;
 All of you.
--->
+*/}

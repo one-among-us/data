@@ -29,11 +29,12 @@ Yet, her death was sudden and shocking.
 > we will be reunited as bubbles in the same cup of beer.
 > No atoms can truly be destroyed in the universe.
 > Sooner or later, we will be together again.
-<!--
+
+{/*
 Comments from the translator:
 I do not believe a reunion after death can count...
 Whatever you do, don't place your hope on that.
--->
+*/}
 
 December 29th, **2022**, Ani was found dead without any sign of life.
 Her death was confirmed by [方方](https://twitter.com/fang050722) and [铃木真依](https://twitter.com/MissSuzuki23) on Twitter.
