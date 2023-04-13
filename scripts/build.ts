@@ -128,7 +128,7 @@ function buildPeoplePages() {
       const result = renderMdx(markdown);
 
       fs.ensureDirSync(distPath);
-      fs.writeFileSync(path.join(distPath, `page${lang}.js`), result);
+      fs.writeFileSync(path.join(distPath, `page${lang}.json`), JSON.stringify(result));
     }
   }
 }
