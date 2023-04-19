@@ -1,4 +1,3 @@
----
 name: keyword233
 info:
     alias: keyword233
@@ -7,8 +6,9 @@ info:
 
 ## Description
 
-Her name is [keyword233](https://twitter.com/keyword233). She is a transgender female from China. She runned her own channel on Telegram sharing her bits of life and feelings from the heart.
+[keyword233](https://twitter.com/keyword233) was a transgender woman from China. During the past few years, she shared laughters and tears with friends on her Telegram channel where she posted bits of her daily life.
 
-She was a strong and resilient person who bravely faced societal prejudice and discrimination, firmly defended her gender identity. She had a strong interest in computers and cats, which I thought was great. With her intelligence and passion, she added a bright color to this world.
+She was a strong and resilient person who faced societal prejudice and discrimination bravely and defended her gender identity firmly. 
+Her interest was in computers and cats. Her passion and intelligence brought beauty to the world.
 
-Sadly, she passed away in the hospital on April 19, 2023. We express our deepest condolences and will always remember her.
+Sadly, she passed away in the hospital on April 19, 2023. We express our deepest condolences. She will always be in our heart.
