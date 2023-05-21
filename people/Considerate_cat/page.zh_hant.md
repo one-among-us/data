@@ -25,7 +25,7 @@ info:
 
 > 「我明明能早10分鐘打120，可是我偏偏在第一時間選擇了先確認狀態，我很自責，我永遠也忘不了她最後對我說的『我好難受，末影貓救我！』」——末影貓
 
-<PhotoScroll photos={[ '${path}/photos/Photo4.png']} />
+<PhotoScroll photos={[ '${path}/photos/Photo1.png']} />
 
 ## 她的圖庫
 > 選自貓貓的QQ空間，全是建築照
