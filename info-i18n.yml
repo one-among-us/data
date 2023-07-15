@@ -9,8 +9,8 @@ zh_hant:
     key:
         alias: 暱稱
         location: 地區
-        born: 出生
-        died: 逝世
+        born: 誕生
+        died: 去世
         age: 年齡
 en:
     key:
