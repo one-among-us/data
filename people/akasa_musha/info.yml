@@ -1,0 +1,7 @@
+id: akasa_musha
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2009-06-04'
+  died: '2023-02-06'
+websites:
+  twitter: https://twitter.com/akasa_musha
