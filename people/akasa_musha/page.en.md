@@ -9,7 +9,7 @@ As a little girl side, she used to decorate mangoes with candles. She also did s
 
 Her parents expressed serious disapproval of her transgender behavior at first, but eventually gained a little support after she fought for it. Like traditional Chinese schools, her school was not kind to her, which preventing her from carrying HRT medicines and keeping her hair long, which may have exacerbated her depression.
 
-It is a pity that everyone's efforts did not stop her worsening depression. In the end, he chose to die.
+It is a pity that everyone's efforts did not stop her worsening depression. In the end, she chose to die.
 
 After her death, Han Lianyi reflected on her failure to transfer Yuxue to someone else in time when Han was not capable enough for her case, failing to discover Yuxue's obvious signs of suicide in time, and Han's inadequacy in guiding the rescue of Yuxue at hospital. Han hope that this failure could bring some inspiration for future suicide intervention.
 
