@@ -10,4 +10,5 @@ name: 樱樱
 愿在你的下一个世界，你还有同样的开朗和激情去做你想做的事情吧！[^1]
 
 参考资料
-[1]永别了。我想你了，樱樱。https://leohearts.com/archives/farewell-yingying.html
+
+[^1]: 永别了。我想你了，樱樱。https://leohearts.com/archives/farewell-yingying.html

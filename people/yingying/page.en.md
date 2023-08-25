@@ -10,5 +10,6 @@ It's a pity that all this stopped abruptly when she lost her life forever in a c
 May she still have the same cheerfulness and passion to do what she want to do in her next world! [^1]
 
 References
-[1]Farewell. I miss you, Sakura. https://leohearts.com/archives/farewell-yingying.html
+
+[^1]: Farewell. I miss you, Sakura. https://leohearts.com/archives/farewell-yingying.html
 
