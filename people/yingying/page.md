@@ -11,4 +11,6 @@ name: 樱樱
 
 参考资料
 
-[^1]: 永别了。我想你了，樱樱。https://leohearts.com/archives/farewell-yingying.html
+[^1]: https://leohearts.com/archives/farewell-yingying.html
+
+[1]: 永别了。我想你了，樱樱。https://leohearts.com/archives/farewell-yingying.html

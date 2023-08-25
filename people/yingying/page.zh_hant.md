@@ -11,4 +11,6 @@ name: 櫻櫻
 
 參考資料
 
-[^1]: 永別了。我想你了，櫻櫻。 https://leohearts.com/archives/farewell-yingying.html
+[^1]: https://leohearts.com/archives/farewell-yingying.html
+
+[1]: 永別了。我想你了，櫻櫻。 https://leohearts.com/archives/farewell-yingying.html
