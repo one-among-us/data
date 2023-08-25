@@ -11,7 +11,7 @@ May she still have the same cheerfulness and passion to do what she want to do i
 
 References
 
-[^1]: https://leohearts.com/archives/farewell-yingying.html
+[^1] https://leohearts.com/archives/farewell-yingying.html
 
 [1]: Farewell. I miss you, Sakura. https://leohearts.com/archives/farewell-yingying.html
 
