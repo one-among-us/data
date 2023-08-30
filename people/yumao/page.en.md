@@ -1,5 +1,5 @@
 ---
-name: 羽毛（张千叶）
+name: Yumao (Qianye Zhang)
 ---
 
 Yumao (Qianye Zhang) is a transfemale. She is genle, intellegent and purposeful.
