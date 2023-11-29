@@ -16,7 +16,7 @@ info:
 
 
 
-<PhotoScroll photos={[ '${path}/photos/will.jpg', ]} />
+<PhotoScroll photos={[ '${path}/photos/composition.jpg', ]} />
 
 
 
