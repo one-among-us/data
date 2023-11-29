@@ -1,13 +1,13 @@
 ---
-name: Tusukiko
+name: Tsukiko
 info:
-    alias: Tusuki
+    alias: Tsuki
     location: Wuxi，Jiangsu
 ---
 
 ## Description
 
-Tusukiko is one among us of non-binary friends, who hopes to be called as He/Him.
+Tsukiko is one among us of non-binary friends, who hopes to be called as He/Him.
 
 He mentioned that he was fond of *Kagamine Rin* in her Twitter comment.
 
@@ -25,6 +25,6 @@ A few days before his leave, he shotted a photograph of beautiful dusk sky and t
 
 It was a pity that the pain and anxiety of life overwhelmed him, and he chose to leave this world in the early hours of the day inside his room.
 
-Good night, Tusukiko. Wish that you always be accompanied by cute cats.
+Good night, Tsukiko. Wish that you always be accompanied by cute cats.
 
 Contributor for this entry: One-Among-Us, [Zhiqianyue](https://twitter.com/Zhiqianyue)

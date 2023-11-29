@@ -1,13 +1,13 @@
 ---
-name: Tusukiko
+name: Tsukiko
 info:
-    alias: Tusuki
+    alias: Tsuki
     location: 江蘇無錫
 ---
 
 ## 簡介
 
-Tusukiko是我們的一位非二元夥伴，並使用「他」的稱呼。
+Tsukiko是我們的一位非二元夥伴，並使用「他」的稱呼。
 
 他曾在推特留言中提到，他喜歡鏡音連。
 
@@ -25,6 +25,6 @@ Tusukiko是我們的一位非二元夥伴，並使用「他」的稱呼。
 
 遺憾的是，源自生活的痛苦與焦慮壓垮了他，他在9月25日淩晨選擇了在自己的房間裏離開這個世界。
 
-晚安，Tusukiko，願你身邊常有可愛的貓貓相伴。
+晚安，Tsukiko，願你身邊常有可愛的貓貓相伴。
 
 條目貢獻：One-Among-Us, [Zhiqianyue](https://twitter.com/Zhiqianyue)
