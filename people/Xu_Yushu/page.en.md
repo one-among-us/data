@@ -6,45 +6,45 @@ info:
 
 ## Description
 
-<!-- To-Do -->
+
 
 ## Her Interests and Dream
 
-<!-- To-Do -->
+
 
 ## Her Story
 
-<!-- To-Do -->
 
-<PhotoScroll photos={[ '${path}/photos/will.jpg']} />
 
-<!-- To-Do -->
+<PhotoScroll photos={[ '${path}/photos/will.jpg', ]} />
+
+
 
 ## Her Departure
 
-<!-- To-Do -->
 
-<PhotoScroll photos={[ '${path}/photos/will.jpg']} />
 
-<!-- To-Do -->
+<PhotoScroll photos={[ '${path}/photos/will.jpg', ]} />
+
+
 
 ## After Her Leaving
 
 ### About Reports
 
-<!-- To-Do -->
+
 
 ### About Her Family
 
-<!-- To-Do -->
+
 
 ### About Her Friends
 
-<!-- To-Do -->
+
 
 ## Conclusion
 
-<!-- To-Do -->
+
 
 
 
