@@ -1,7 +1,7 @@
 id: mone
 profileUrl: ${path}/photos/profile.jpg
 info:
-  born: '2010-01-02'
-  died: '2023-02-08'
+  born: '2010-02-08'
+  died: '2023-01-12'
 websites:
   twitter: https://twitter.com/mone_o_o0
