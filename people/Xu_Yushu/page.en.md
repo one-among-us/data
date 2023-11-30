@@ -1,7 +1,7 @@
 ---
 name: Xu Yushu
 info:
-    location: Chongqing, China
+    location: Chongqing, Nan'an
 ---
 
 ## Description
