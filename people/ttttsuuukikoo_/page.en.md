@@ -7,17 +7,17 @@ info:
 
 ## Description
 
-Tsukiko is one among us of non-binary friends, who hopes to be called as He/Him.
+Tsukiko is a non-binary friends among us, who hopes to be called as He/Him.
 
-He mentioned that he was fond of *Kagamine Rin* in her Twitter comment.
+He mentioned that he was fond of *Kagamine Rin* in his Twitter comment.
 
-He was one of Maimai players, and he would go to the arcade in Wuxi if time permitted.
+He was one of Maimai players, and he would go to the arcade if time permitted.
 
 He hoped to keep a cat, although the wish didn't come true.
 
 ## Departure
 
-A few days before his leave, he shotted a photograph of beautiful dusk sky and tweeted:
+A few days before his leave, he shotted a photo of beautiful dusk sky and tweeted:
 
 > How much longer can I watch such a sky?
 
