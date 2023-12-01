@@ -6,7 +6,7 @@ info:
 
 Xuewulihuameng is a transfemale who is gentle, lovely, kind-hearted but somewhat solitary.
 
-She was skilled in drawing and she prepared a painting to her friend as a present. Although it was after her departure when the painting was sent to her friend because of the barrier between different areas.
+She was skilled in drawing, and she prepared a painting to her friend as a present. Although it was after her departure when the painting was sent to her friend.
 
 <PhotoScroll photos={[ '${path}/photos/painting.jpg',]} />  
 
