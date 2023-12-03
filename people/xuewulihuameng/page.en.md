@@ -4,21 +4,14 @@ info:
     location: Chongqing, Yubei
 ---
 
-Xuewulihuameng is a transfemale who is gentle, lovely, kind-hearted but somewhat solitary.
+Xuewulihuameng is a trans girl who is gentle, lovely, kind-hearted but somewhat solitary.
 
-She was skilled in drawing, and she prepared a painting to her friend as a present. Although it was after her departure when the painting was sent to her friend.
-
+She was skilled in drawing, and she prepared a painting as a present for her friend.
+However, her friend only received the painting after her death.
 <PhotoScroll photos={[ '${path}/photos/painting.jpg',]} />  
 
-In these two Zhihu question of [How about the experience of meeting Xuewulihuameng offline?](https://www.zhihu.com/question/269853559) and [How to appraise the seeking death behavior of Xuewuloihuameng?](https://www.zhihu.com/question/268738337), many friends of her expressed their rememberance and said that Lihua was quite tender. Even before her departure, she still consoled and encouraged one of her friends.
+In the two Zhihu question of [How about the experience of meeting Xuewulihuameng offline?](https://www.zhihu.com/question/269853559) and [How to appraise the death-seeking behavior of Xuewuloihuameng?](https://www.zhihu.com/question/268738337), many of her friends expressed their grief and said that Lihua was really gentle. Even just before her departure, she still consoled and encouraged one of her friends.
 
-She always treated people around her tenderly. However, what she'd done is so cruel to herself. In one silent midnight, she left an timing will and departed quietly. She weared a beautiful dress, and there is still a smile on her face when she was found by others.
+She always treated people around her gently. However, what she'd done is so cruel to herself. In one silent night, she left a scheduled will and departed quietly. She wore a beautiful dress, and there was still a smile on her face when she was found.
 
-May she be treated tenderly in another world and be a happy girl.       
-
-
-
-
-
-
-
+May she be treated gently in another world and be a happy girl.   
