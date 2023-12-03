@@ -5,23 +5,16 @@ info:
     location: Shijiazhuang, Hebei
 ---
 
-Hangmster is an ally of us.
+Hangmster is our ally.
 
-They often interacted with friends at Twitter/X, and they were a barrel of laughs. They would also give warm hugs when we needed, console us when we were in anxiety, and mourn for our departed friends.
+They often interacted with friends on Twitter/X, bringing us laughter. They gave warm hugs when we needed, consoled us when we were anxious, and mourned for our departed friends.
 
-Although they seldom mentioned what they loved. However, according to their tweets, they would be attracted by cute things such as little cats. They are fond of Hatsune Miku as well. In the Hatsune Miku 15th anniversary, they expressed their happiness by drawing an illustration:
+They seldomly mentioned what they loved. But according to their tweets, they were interested in cute things such as cats. They were fond of Hatsune Miku as well. On the Hatsune Miku 15th anniversary, they expressed their happiness by drawing an illustration:
 
 <PhotoScroll photos={[ '${path}/photos/fufu.jpg',]} />  
 
-Hangmster always be troubled by sleeplessness and anxiety. They once said that they actually didn't like their body in reality, and diversified self-personality would make them more comfortable.
+Hangmster was often troubled by insomnia and anxiety. They once said that they actually didn't like their body, and their less traditional self-expression online made them more comfortable.
 
-Unfortunately, although they always encouraged us to live bravely, but they still chose to leave at the beginng of the year.
+Unfortunately, although they always encouraged us to live bravely, they still chose to leave at the beginning of the year.
 
 Rest well, Hangmster. May you can be yourself as you like.
-
-
-
-
-
-
-
