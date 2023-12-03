@@ -19,7 +19,7 @@ According to Mone, she never got happiness and love. Her parents got divorced in
 >
 > I think you are so lovely. Do not feel inferior or blame yourself anymore.
 >
-> I feel you are so lovely, very beautiful, sensible and tough. It's quite difficult to weather the storm.
+> I feel you are so lovely, very beautiful, sensible and tough. It's quite difficult to deal with these things.
 >
 > You are a sweet child. Please tell me when you are in trouble. Live happily! (Smile)
 >
