@@ -17,8 +17,4 @@ Hangmster was often troubled by insomnia and anxiety. They once said that they a
 
 Unfortunately, although they always encouraged us to live bravely, they still chose to leave at the beginning of the year.
 
-<<<<<<< HEAD
 Rest well, Hangmster. May you can be yourself.
-=======
-Rest well, Hangmster. May you can be yourself as you like.
->>>>>>> a6410768c8bfa5ae03a29d482560d87d854f8255
