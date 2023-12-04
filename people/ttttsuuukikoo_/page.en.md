@@ -7,7 +7,7 @@ info:
 
 ## Description
 
-Tsukiko is a non-binary friend among us, who's pronouns are He/Him.
+Tsukiko is a non-binary friend among us, whose pronouns are He/Him.
 
 He mentioned that he was fond of *Kagamine Rin* in his Twitter.
 
@@ -37,13 +37,13 @@ A few days before his departure, he took a photo of beautiful night sky and twee
 > 
 > According to my memory, you are afraid of pain, even morphine cannot relieve that.
 > 
-> I deferred your will and didn't call the police. But it's too far to your home. You had departed before I was there.
+> I deferred your will and didn't call the police. But I was too far away from your home. You had departed before I arrived.
 >
-> I want to hug you again, you said that you love warm hugs.
+> You said that you love warm hugs; I want to hug you again.
 > 
-> Good night, Tsukiko. Be a normal boy in your next life, may you be happy for all your life.
+> Good night, Tsukiko. Be a normal boy in your next life, and may you be happy always.
 >
-> And I hope everyone lives well, human is actually weak. Don't hurt yourselves or overdose, this will just bring misfortune.
+> I hope every one take care of themselves. Humans are prone to be hurt. Don't self-harm or overdose; that will just bring tragedies.
 >
 > By: 思萌
 
