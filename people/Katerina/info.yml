@@ -1,0 +1,7 @@
+id: Katerina
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2003-04-20'
+  died: '2023-04-19'
+websites:
+  Bilibili: https://space.bilibili.com/438265017
