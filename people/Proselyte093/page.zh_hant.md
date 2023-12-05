@@ -1,5 +1,6 @@
 ---
 name: Proselyte
+info:
     alias: Proselyte, Proyu
     location: 湖北武漢
 ---
