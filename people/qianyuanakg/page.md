@@ -2,7 +2,7 @@
 name: 千鸢
 info:
     alias: 阿鸢, 千鸢鸢
-    location: China
+    location: 江西南昌
 ---
 
 ## 简介

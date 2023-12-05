@@ -2,7 +2,7 @@
 name: Qianyuan
 info:
     alias: Yuan, Qianyuanyuan
-    location: China
+    location: Nanchang, Jiangxi
 ---
 
 （To-Do）

@@ -2,7 +2,7 @@
 name: 千鳶
 info:
     alias: 阿鳶, 千鳶鳶
-    location: China
+    location: 江西南昌
 ---
 
 ## 簡介
