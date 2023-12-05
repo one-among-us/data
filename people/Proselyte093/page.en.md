@@ -1,7 +1,8 @@
 ---
 name: Proselyte
+    alias: Proselyte, Proyu
+    location: Wuhan, Hubei
 ---
-
 ## Description
 
 Proselyte is our ally. They often interact with us friendly.

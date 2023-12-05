@@ -1,6 +1,7 @@
 id: Proselyte093
 profileUrl: ${path}/photos/profile.jpg
 info:
+  born: '2004-12-22'
   died: '2023-11-13'
 websites:
   twitter: https://twitter.com/Proselyte093
