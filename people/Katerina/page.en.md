@@ -1,7 +1,7 @@
 ---
 name: Natasha Katerina
 info:
-    alias: Katerina
+    alias: Katerina, Natasha, 米酒
     location: Heilongjiang, China
 ---
 
