@@ -26,7 +26,7 @@ Katerina loved many kinds of food, including balsam pear and lemon tea, pizza, j
 
 She suffered from domestic violence in her childhood. After her parents' divorce, she lived with her mother. But their relationship worsened since she told her about her transgender identity.
 
-According to her friends, although she was sometimes conceited, but she was amiable to her friends. When she was together with friends, she was very happy and energetic. She "adopted" a lovely child as her daughter, and always cared about her life.
+According to her friends, although she was sometimes conceited, but she was amiable to her friends. When she was together with friends, she was very happy and energetic. She "adopted" a lovely child as her daughter, and always cared about her life. In September, she sent a present to her partner. It's a composite bow kit.
 
 Unfortunately, Katerina was threaten by her family during a period at home. Under the huge pressure, she finally let herself loose.
 
