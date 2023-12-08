@@ -35,5 +35,3 @@ Katerina, no matter what you want to eat, we are together with you, then propose
 Спокойной ночи, Катерина. 
 
 Contributor for this entry: One-Among-Us, [Fannuo](https://twitter.com/VabfTvxPyfhtXgL), [Siyan](https://twitter.com/siyan_MTF)
-
-
