@@ -45,7 +45,7 @@ However, they were forced to separated. After that, Neko was brought back to Yun
 
 Although she also found that the suicide of Neko ws complicated and confusing according to some routes. But there was no more news about Neko indeed. She really hoped Neko was still alived.
 
-> "I always stayed alive for you...I got lost cuz missing you, wish you are still alive..."
+> <abbr title="Another version: For you I always stay alive... But you are not by my side. Isn't it?Wish you are still alive...">"I stay alive for you...I get lost cuz missing you. Wish I can see a vibrant you."</abbr>
 
 In her blog, she always missed Neko, and recalled the days with her. Yumao often wrote down some caring words, such as prompted Neko to manage her hair, or told Neko to add or subtract clothes.
 
