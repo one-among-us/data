@@ -5,34 +5,25 @@ info:
     location: Shanghai
 ---
 
-<!-- > 「感觉你就像是孤单一人躲在水晶之中，能看到的只有你破碎的身影呢。」 -->
-<!-- > -->
-<!-- > —— By Neko -->
 > "It feels like that you are hiding in crystal alone, all I can see is your shattered figure. "
 >
 > By Neko
 
 ## Description
 
-<!-- 羽毛（张千叶）是一名温柔聪慧、坚强而可爱的跨性别女孩。 -->
 Yumao(Zhangqianye) is a trans girl, who is gentle, smart, tough and lovely.
 
-<!-- 羽毛是这样介绍自己的：羽毛可能并不是一个喜欢在集体活动中出现的人。我喜欢白色，红色，还有会在 Glitch 中出现的那种彩色，也喜欢甜食，抱着一袋大白兔奶糖可以开心很久。喜欢猫，有一只叫絢香的猫。 -->
 She introduced herself in her profile: Perhaps Yumao doesn't like taking part in group activities. I love white and red, also that kind of rainbow in Glitch. And I have a sweet tooth, I would feel happy for a long time while holding a packet of white rabbit creamy candies. I love cats, and adopt a cat called Ayaka.
 
-<!-- 她曾经也是一名舰队 Collection 的提督，她第一个拥有的手办也是舰C的驱逐舰秋月。 -->
 She was an admiral of *Kancolle*， and her first action figure was Destroyor Akizuki im *kancolle*.
 
-<!-- 她喜欢宁静而舒缓、轻松的时刻，比如在冬天戴上耳机，在咖啡店喝一杯热腾腾的咖啡，看着窗外的人来人往，这会让她感到十分惬意。偶尔，她也会有一些特别的想法。有时她会向流星许愿，她说：「并不是因为我相信，而是因为它是免费的，并且没有证据证明它不灵。」 -->
 She loved time with silent and ease. For example, she put on the headphones and drank hot coffee in café, she watched out of the window and observed people came and left. This would make her relaxed. Sometimes, she had some special thoughts. She wished to shooting stars at times, she said: "It's not because I believe that, but in that it's free. And there's no evidence shows it doesn't work."
 
-<!-- 在晚上不睡觉的时候，羽毛喜欢看星星。回国之后，由于天气和时间关系，很少能看到。于是她[有一次专程去了滴水湖看星星](https://web.archive.org/web/20210517104313/https://oao.moe/archives/834/)。 -->
 Yumao liked to watch stars when she didn't sleep yet at night. After she returned to China, due to bad weather and few time, she couldn't watch stars as previous time. So [she made a special trip to Dishui Lake once and watched stars](https://web.archive.org/web/20210517104313/https://oao.moe/archives/834/).
 
-<!-- 在她的[博客](https://web.archive.org/web/20210420170241/https://oao.moe/archives/)之中保存有非常多属于她自己的思考，所涉及领域十分广泛，包括计算机、军事、政治；同时，她也是一位文学少女，写下了很多美丽的散文与诗歌。当然，博文里也记录了许多她的日常生活，于此，我们能看到她的故事与经历，还有她的心路足迹。 -->
 She saved many thoughts in her [private blog](https://web.archive.org/web/20210420170241/https://oao.moe/archives/), and these blog posts included many areas: computer science, military and politics. She was also a girl who loved literature, and she wrote down much beautiful prose and poetry. Of course, she record daily life in her blog, and we can still see her story, her experience, and her train of thoughts.
 
-## 经历
+## Experience
 
 羽毛曾经有一段在美国留学生活的经历，然后回到了上海求学。
 
@@ -79,23 +70,7 @@ Neko 和羽毛被迫在上海分开之后，被父母带回了云南昆明，而
 随后，外界开始了对Neko父母的言论轰炸，新京报的记者也找到了好孩子，询问Neko的下落。
 
 但是，Neko 的父母随后作出了惊人的决定，和其他人说已经把 Neko 从机构中带出，随后将 Neko 的户籍注销，并用哭腔在《新京报》的采访中对外界宣称 Neko 已于 3 月 24 日凌晨自杀。
-<!-- 待补充，修改标题 -->
 
-<!-- > 谨以此纪念过去两年里所遭受的一切困难和苦难
->
-> 2018 年 3 月 16 日 晚间 22:31
->
-> 2020 年 3 月 16 日 晚间 22:31
->
-> 谢谢大家在那段时间里所付出的一切
->
-> 也是为了纪念 2018 年 3 月 14 日和你们分开后的一切
-> 
-> 还有 2018 年 7 月 31 日的你。
->
-> 谢谢你们。
->
-> Neko, 于 Telegram -->
 > To commenmorate all the difficulties I suffered in the past two years
 > 
 > From 2018-03-16 22:31
@@ -113,17 +88,12 @@ Neko 和羽毛被迫在上海分开之后，被父母带回了云南昆明，而
 > Neko, at Telegram
 </details>
 
-<!-- 在经历了苦难后的 Neko 一直在尝试着从阴影中走出，逐步走向生活的正轨。 -->
 After survived the ordeal, Neko tried to get out of the shadow, and she gradually moved toward to the right road of life.
 
-<!-- 「猫会好好活着，来怀念过去深爱着的某个人。」这是 Neko 一直用来在激励自己的话。 -->
 "Cat will stay alive, to remember that girl I used to loved." This is what Neko always uses to encourage herself.
 
-<!-- 在知乎问答[如何评价知乎用户 @张千叶？](https://www.zhihu.com/question/284818437)中，许多友人回忆了与羽毛相处的经过，并表达了对羽毛逝世的惋惜与悲伤。 -->
 In Zhihu question[What are your thoughts about ZhiHu user @yu-zhang-31-35 ?](https://www.zhihu.com/question/284818437), many friends wrote their memories of yumao, and expressed their sandness and regret of the death of her.
 
-<!-- 晚安，羽毛，愿你能做一个幸福开心的女孩子。 -->
 Good night, yumao, wish you can be a girl and live happily.
 
-<!-- 条目贡献：One-Among-Us, [Ayaka Neko](https://twitter.com/ayakaneko) -->
 Contributors for this entry: One-Among-Us, [Ayaka Neko](https://twitter.com/ayakaneko)
