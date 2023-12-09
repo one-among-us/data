@@ -5,6 +5,10 @@ info:
     location: Shanghai
 ---
 
+> "I will change into gentle breeze and rain, then surround you all along."
+>
+> By Yumao
+
 > "It feels like that you are hiding in crystal alone, all I can see is your shattered figure. "
 >
 > By Neko
@@ -19,48 +23,54 @@ She was an admiral of *Kancolle*， and her first action figure was Destroyor Ak
 
 She loved time with silent and ease. For example, she put on the headphones and drank hot coffee in café, she watched out of the window and observed people came and left. This would make her relaxed. Sometimes, she had some special thoughts. She wished to shooting stars at times, she said: "It's not because I believe that, but in that it's free. And there's no evidence shows it doesn't work."
 
+According to Neko, She loved spicy hot pot, and always enjoyed it with rice.
+
 Yumao liked to watch stars when she didn't sleep yet at night. After she returned to China, due to bad weather and few time, she couldn't watch stars as previous time. So [she made a special trip to Dishui Lake once and watched stars](https://web.archive.org/web/20210517104313/https://oao.moe/archives/834/).
 
 She saved many thoughts in her [private blog](https://web.archive.org/web/20210420170241/https://oao.moe/archives/), and these blog posts included many areas: computer science, military and politics. She was also a girl who loved literature, and she wrote down much beautiful prose and poetry. Of course, she record daily life in her blog, and we can still see her story, her experience, and her train of thoughts.
 
 ## Experience
 
-羽毛曾经有一段在美国留学生活的经历，然后回到了上海求学。
+Yumao once studied abroad in the US, then she backed to Shanghai to continue her study in unisersity.
 
-而后，在 2017 年的时候，她在推特上认识了 Neko，觉得她是很厉害的人，并逐渐与 Neko 成为了重要的伙伴。
+In 2017, she encountered Neko in Twitter(Now X), and she felt that Neko was skilled and powerful. After that, they became close partners.
 
-在这段时光之中，羽毛和得到了很多的精神上的支持。羽毛自己这样形容：「即便是那些曾经被埋没的，黑暗的，痛苦的，你也悄悄观测到了，感受到了，可能比我自己还要了解得多一些吧，好厉害。那个已经碎碎的自己，也被你看到了呢，甚至被抱了出来，第一次被别人碰到呢。」
+In that period, there was not so much censorship about transgender topic in Zhihu. So Yumao always @ Neko in relevant topics, then showed their affection in public.
 
-然而，她们在 2018 年 3 月中旬被迫分开，随后，Neko 被家人带回云南，送入了矫正中心。此后不久，Neko 传出了轻生后抢救无效的消息，并得到了新京报的报道。知道这个消息的羽毛极度悲伤和难过，她在她们的 Telegram 频道之中发送了许多许多想念 Neko 的消息。她引用了《仙后座 (カシオペヤ) 》一曲来表达自己的悲伤，这是她们曾经一起听过的歌曲。
+During that time, Yumao got many mental supports. Yumao described the care from Neko like this:
 
-尽管她也通过一些渠道发现，Neko的「自杀」似乎仍有些扑朔迷离，但 Neko 确实也一直杳无音讯。她在内心一直期望着 Neko 还在。
+> "Even that things were dark and painful, which had been hidden, you still observed and felt them. Maybe you understanded more then myself, wonderful... You also found my scattered identity, then lifted me out of abyss. That was the first time I was been touched by others."
 
-> 「因为你而存在……因为你而不在，要在啊……」
+However, they were forced to separated. After that, Neko was brought back to Yunnan by family, and was sent to correctional school. Then, it was reported that Neko had commited suicide and died. Chinese media *Beijingnews* reported this in video. Yumao was extremely grieved after hearing the news. She continuously sent messages about missing Neko in their Telegram channal. She quoted *Cassiopeia(カシオペヤ)* , which was a song they used to listen together, to express her grief.
 
-在博客之中，羽毛也一直在思念着 Neko，追忆往昔的事情，并时常写下一些关心的话语，比如是否认真打理头发，又或者是否及时增添衣服。
+Although she also found that the suicide of Neko ws complicated and confusing according to some routes. But there was no more news about Neko indeed. She really hoped Neko was still alived.
 
-在这段时间里，羽毛一直在尝试回忆以前的事情，那些感动、开心而幸福的事情。但她的内心被悲伤所占据，记忆能力在逐渐消退，逐渐淡忘了很多。
+> "I always stayed alive for you...I got lost cuz missing you, wish you are still alive..."
 
-原本她还规划着想要在年内手术，但由于精神状态急转直下等原因，因此也未能实现。
+In her blog, she always missed Neko, and recalled the days with her. Yumao often wrote down some caring words, such as prompted Neko to manage her hair, or told Neko to add or subtract clothes.
 
-在 7 月 30 日，万念俱灰的她尝试轻生，并在次日带着遗憾离开了这个世界，永远地留在了她的 17 岁。
+In this period, Yumao tried to remember previous time and those things which is moving, happy and blissful. But her heart was took up by sadness, and her memory gradually worsen. She said that she forgot many things.
 
-> 希望下辈子，可以做漂亮的，善良的女孩子，可以和絢香还有琉璃成为姐妹吧。
+She formerly planned to complete SRS within the year, but she didn't realize that cause of her bad mental health and other reasons.
 
-在 3 月的[博客《分别与重逢》](https://web.archive.org/web/20210517104118/https://oao.moe/archives/948/)之中，她给她的朋友们留下了许多的话语，也一直感谢大家的陪伴。
+In 30th June, all hope of her had been removed and she tried to commit suicide. The next day, she left this world  with regrets at her age of 17.
+
+> Wish that I could become a pretty girl who is kind-hearted, and become the sister of Ayaka and Ruri.
+
+In her blog post *[Separation and Reunion](https://web.archive.org/web/20210517104118/https://oao.moe/archives/948/)* published in march, she left many words to her friends, and thanked to their company all along. 
 
 <PhotoScroll photos={[
     '${path}/photos/photo1.jpg',
 ]} />
 
-## 身后
+## After Her Leaving
 
-但实际上，Neko 并没有离世。在 3 月 19 日的邮件之中，她依然和羽毛相互鼓励「一定要活着」。
+In fact, Neko didn't pass away. In Neko's email in 19th March, they still encouraged each other with the words "Must stay alive".
 
-社群也曾对此事进行了一定的调查，发现 Neko 是被家人「宣告死亡」的背后事实。
+Transgender cummunity investigated this thing once, and found the fact that Neko was pronounced dead by her family.
 
 <details>
-<summary>背后的事情</summary>
+<summary>**Fact**</summary>
 Neko 和羽毛被迫在上海分开之后，被父母带回了云南昆明，而后在心理卫生中心住院治疗。
 
 在这段时间里，Neko 一直想着要去寻找羽毛，于是在院外与家人吃饭的间隙尝试和羽毛联系，并说服了当值医生给自己开具出院证明。此举激怒了其家人。此后，家人索性假借送她去机场之名，将其开车送至昆明安宁市好孩子学校（以下简称「好孩子」）此后，Neko 被关入了 308 房间，也可以理解成小黑屋一样的存在。

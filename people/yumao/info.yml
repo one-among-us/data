@@ -1,5 +1,5 @@
 id: yumao
-profileUrl: ${path}/photos/profile.jpg
+profileUrl: ${path}/photos/profile.png
 info:
   born: '2000-08-07'
   died: '2018-07-31'
