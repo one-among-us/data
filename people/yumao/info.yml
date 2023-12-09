@@ -1,5 +1,10 @@
 id: yumao
 profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2000-08-07'
+  died: '2018-07-31'
 websites:
     twitter: https://twitter.com/zhangyubaka
     zhihu: https://www.zhihu.com/people/yu-zhang-31-35
+    github: https://github.com/zhangyubaka
+    blog: https://web.archive.org/web/20210420170241/https://oao.moe/archives/

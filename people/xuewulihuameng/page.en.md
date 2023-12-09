@@ -8,6 +8,7 @@ Xuewulihuameng is a trans girl who is gentle, lovely, kind-hearted but somewhat 
 
 She was skilled in drawing, and she prepared a painting as a present for her friend.
 However, her friend only received the painting after her death.
+
 <PhotoScroll photos={[ '${path}/photos/painting.jpg',]} />  
 
 In the two Zhihu question of [How about the experience of meeting Xuewulihuameng offline?](https://www.zhihu.com/question/269853559) and [How to appraise the death-seeking behavior of Xuewuloihuameng?](https://www.zhihu.com/question/268738337), many of her friends expressed their grief and said that Lihua was really gentle. Even just before her departure, she still consoled and encouraged one of her friends.
