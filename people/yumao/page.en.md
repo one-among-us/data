@@ -9,6 +9,7 @@ info:
 >
 > By Yumao
 
+
 > "It feels like that you are hiding in crystal alone, all I can see is your shattered figure. "
 >
 > By Neko
@@ -45,7 +46,7 @@ However, they were forced to separated. After that, Neko was brought back to Yun
 
 Although she also found that the suicide of Neko ws complicated and confusing according to some routes. But there was no more news about Neko indeed. She really hoped Neko was still alived.
 
-> <abbr title="Another version: For you I always stay alive... But you are not by my side. Isn't it?Wish you are still alive...">"I stay alive for you...I get lost cuz missing you. Wish I can see a vibrant you."</abbr>
+> <abbr title="Another version: Only for you I stay alive... But you are not by my side. Isn't it?Wish you are still alive...">"I always stay alive for you...I get lost cuz missing you. Wish I can see a vibrant you."</abbr>
 
 In her blog, she always missed Neko, and recalled the days with her. Yumao often wrote down some caring words, such as prompted Neko to manage her hair, or told Neko to add or subtract clothes.
 
@@ -102,7 +103,7 @@ After survived the ordeal, Neko tried to get out of the shadow, and she graduall
 
 "Cat will stay alive, to remember that girl I used to loved." This is what Neko always uses to encourage herself.
 
-In Zhihu question[What are your thoughts about ZhiHu user @yu-zhang-31-35 ?](https://www.zhihu.com/question/284818437), many friends wrote their memories of yumao, and expressed their sandness and regret of the death of her.
+In Zhihu question [What are your thoughts about ZhiHu user @yu-zhang-31-35 ?](https://www.zhihu.com/question/284818437), many friends wrote their memories of yumao, and expressed their sandness and regret of the death of her.
 
 Good night, yumao, wish you can be a girl and live happily.
 
