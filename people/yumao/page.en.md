@@ -15,11 +15,11 @@ info:
 
 ## Description
 
-Yumao(Zhangqianye) is a trans girl, who is gentle, smart, tough and lovely.
+Yumao (Zhangqianye) is a trans girl, who is gentle, smart, tough and lovely.
 
 She introduced herself in her profile: Perhaps Yumao doesn't like taking part in group activities. I love white and red, also that kind of rainbow in Glitch. And I have a sweet tooth, I will feel happy for a long time while holding a packet of white rabbit creamy candies. I love cats, and adopt a cat called Ayaka.
 
-She was an admiral of *Kancolle*, and her first action figure was Destroyor Akizuki im *kancolle*.
+She was an admiral of *Kancolle* , and her first action figure was Destroyor Akizuki in *kancolle*.
 
 She loved time with silent and ease. For example, she put on the headphones and drank hot coffee in café, she watched out of the window and observed people came and left. This would make her relaxed. Sometimes, she had some special thoughts. She wished to shooting stars at times, she said: "It's not because I believe that, but in that it's free. And there's no evidence shows it doesn't work."
 
@@ -33,7 +33,7 @@ She saved many thoughts in her [private blog](https://web.archive.org/web/202104
 
 Yumao once studied abroad in the US, then she backed to Shanghai to continue her study in unisersity.
 
-In 2017, she encountered Neko in Twitter(Now X), and she felt that Neko was skilled and powerful. After that, they became close partners.
+In 2017, she encountered Neko in Twitter (Now X), and she felt that Neko was skilled and powerful. After that, they became close partners.
 
 In that period, there was not so much censorship about transgender topic in Zhihu. So Yumao always @ Neko in relevant topics, then showed their affection in public.
 
@@ -78,21 +78,21 @@ Transgender cummunity investigated this thing once, and found the fact that Neko
 
 Neko and Yumao were forced to seprate in Shanghai. After that, Neko was brought to Kunming, Yunnan, and then hospitalized at a mental health centre for treatment.
 
-During the time, Neko always hoped to meet with Yumao, so she tried to contact Yumao in the interval outside the hosptial when she haved dinner with her parents. Then she persuaded the doctor on duty to issue discharge certificate for her. This action irritated her family. Shortly afterward, her family drived her to *Kunming Anning Haohaizi School*(hereinafter referred to as "*Haohaizi*") made use of taking her to *Changshui Airport*. After that, Neko was locked in the *Room 308*, which can be seen as a black room.
+During the time, Neko always hoped to meet with Yumao, so she tried to contact Yumao in the interval outside the hosptial when she haved dinner with her parents. Then she persuaded the doctor on duty to issue discharge certificate for her. This action irritated her family. Shortly afterward, her family drived her to Kunming Anning Haohaizi School (hereinafter referred to as "*Haohaizi") made use of taking her to Changshui Airport. After that, Neko was locked in the Room 308, which can be seen as a black room.
 
-Days after she came out of the *Room 308*, owing to her command of computer was excellent and their trust in her, the propaganda department of *Haohaizi* found her and asked her to fix network system. Neko accepted and fixed the system quickly, then sent a help email to Yumao.
+Days after she came out of the *Room 308*, owing to her command of computer was excellent and their trust in her, the propaganda department of Haohaizi found her and asked her to fix network system. Neko accepted and fixed the system quickly, then sent a help email to Yumao.
 
-After that, the outside world started to lash out her parents. The investigative journalist of *Beijing News* also interviewed the staff of *Haohaizi* to ask the whereabouts of Neko.
+After that, the outside world started to lash out her parents. The investigative journalist of *Beijing News* also interviewed the staff of Haohaizi to ask the whereabouts of Neko.
 
-However, the parents made a shock decision. They said that they had already brought her out of the school, then cancelled the census register of Neko. In the interview of *Beijing News*, they spoke in a tearful voice and claimed that Neko had commited suicide in the early hours of 24th March.
+However, the parents made a shock decision. They said that they had already brought her out of the school, then cancelled the census register of Neko. In the interview of *Beijing News* , they spoke in a tearful voice and claimed that Neko had commited suicide in the early hours of 24th March.
 
-Neko was continued to be in *Haohaizi* since then. She was informed of Yumao's death in October. This news almost devastated her.
+Neko was continued to be in Haohaizi since then. She was informed of Yumao's death in October. This news almost devastated her.
 
 But nevertheless, Neko still implemented the words "Must stay alive". She never gave up and tried to calm herself. She kept a diary and develpoed her hobbies and interests at that time. She also found some ways which could resolve her difficulties to take her mind off.
 
-During the latter time in *Haohaizi*, those around her helped her a lot, her friends accompanied her, and some people delivered things from the outside. Some friendly drillmaster would take her out to play, or bought things to her. This might make her happier.
+During the latter time in Haohaizi, those around her helped her a lot, her friends accompanied her, and some people delivered things from the outside. Some friendly drillmaster would take her out to play, or bought things to her. This might make her happier.
 
-On 1st September 2019, Neko left *Haohaizi*, and started her new life after a period of time.
+On 1st September 2019, Neko left Haohaizi, and started her new life after a period of time.
 
 > To commenmorate all the difficulties I suffered in the past two years
 > 
