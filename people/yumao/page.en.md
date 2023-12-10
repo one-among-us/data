@@ -80,7 +80,7 @@ Neko and Yumao were forced to seprate in Shanghai. After that, Neko was brought 
 
 During the time, Neko always hoped to meet with Yumao, so she tried to contact Yumao in the interval outside the hosptial when she haved dinner with her parents. Then she persuaded the doctor on duty to issue discharge certificate for her. This action irritated her family. Shortly afterward, her family drived her to Kunming Anning Haohaizi School (hereinafter referred to as "*Haohaizi") made use of taking her to Changshui Airport. After that, Neko was locked in the Room 308, which can be seen as a black room.
 
-Days after she came out of the *Room 308*, owing to her command of computer was excellent and their trust in her, the propaganda department of Haohaizi found her and asked her to fix network system. Neko accepted and fixed the system quickly, then sent a help email to Yumao.
+Days after she came out of the Room 308, owing to her command of computer was excellent and their trust in her, the propaganda department of Haohaizi found her and asked her to fix network system. Neko accepted and fixed the system quickly, then sent a help email to Yumao.
 
 After that, the outside world started to lash out her parents. The investigative journalist of *Beijing News* also interviewed the staff of Haohaizi to ask the whereabouts of Neko.
 
