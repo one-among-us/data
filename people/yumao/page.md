@@ -1,7 +1,7 @@
 ---
 name: 羽毛
 info:
-    alias: 羽毛, 张千叶，云羽
+    alias: 羽毛, 张千叶, 云羽
     location: 上海
 ---
 

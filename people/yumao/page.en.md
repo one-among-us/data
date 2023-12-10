@@ -1,7 +1,7 @@
 ---
 name: Yumao
 info:
-    alias: Yumao, Zhangqianye，Yunyu
+    alias: Yumao, Zhangqianye, Yunyu
     location: Shanghai
 ---
 
@@ -19,7 +19,7 @@ Yumao(Zhangqianye) is a trans girl, who is gentle, smart, tough and lovely.
 
 She introduced herself in her profile: Perhaps Yumao doesn't like taking part in group activities. I love white and red, also that kind of rainbow in Glitch. And I have a sweet tooth, I will feel happy for a long time while holding a packet of white rabbit creamy candies. I love cats, and adopt a cat called Ayaka.
 
-She was an admiral of *Kancolle*， and her first action figure was Destroyor Akizuki im *kancolle*.
+She was an admiral of *Kancolle*, and her first action figure was Destroyor Akizuki im *kancolle*.
 
 She loved time with silent and ease. For example, she put on the headphones and drank hot coffee in café, she watched out of the window and observed people came and left. This would make her relaxed. Sometimes, she had some special thoughts. She wished to shooting stars at times, she said: "It's not because I believe that, but in that it's free. And there's no evidence shows it doesn't work."
 
