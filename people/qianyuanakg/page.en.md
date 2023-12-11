@@ -46,5 +46,7 @@ In her last moment, she still thought of everyone in her will:
 > Your attitudes towards me are not important. Because I had loved you. I love you all very much.
 >
 > I put my last words in my heart, because I am afraid others hear that. I want to tell those who had accompanied with me and assist me, I am so sorry...
+>
+> Extracted from Qianyuan's will
 
 Contributors for this entry: One-Among-Us, [Shen Naixi](https://twitter.com/chengyiga)
