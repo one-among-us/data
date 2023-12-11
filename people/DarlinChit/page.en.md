@@ -1,19 +1,19 @@
 ---
 name: DarlinChit
 info:
-    alias: Xiaoye
+    alias: Sakuya
     location: Wuhan, Hubei
 ---
 
-## 簡介
+## Description
 
-她从小对编程和互联网特别感兴趣，热爱玩角色扮演和经营模拟游戏。她还对游戏开发有浓厚的兴趣，曾开发过很多游戏，如口袋妖怪，我的校长先生，甚至参加过独立游戏的开发。她是一名出色的全能程序员，最擅长的语言是Java、PHP、C++，曾经是某汉化组创始人。除此之外她还擅长股票操盘、视频剪辑。
+Sakuya had been particularly interested in program and internet since her childhood, and she loved playing role-playing games and simulation games. She was also fond of game develpment. She took part in the development of many games such as *Pokémon Go* and *The Headmaster*. Besides, she was skilled at stock trade and video editing.
 
-她曾一手创建过服装公司，但由于最终的资金问题最终倒闭。她失去了几乎所有的经济来源，难以东山再起。后又前往上海暂居。在上海的日子里，虽然她时常担心经济来源等问题，但在大家的陪伴和帮助下，她还算开心地度过了一段时间。
+She had founded a company by herself, but it closed down due to financial problems. She almost lost her livelihood, and she cannot make a comeback. Then she went to Shanghai and lived for a period. During the time in Shanghai, she always worried about financial problems and so on. But with the help of her friends, she got through a difficult time quite happily.
 
-咲夜在遗书里写道：
->「我的死与任何人无关，这只是我的一个选择，请千万不要为此而仇恨别人。请好好地、阳光地、快乐地生活下去，请为自己好好生活着。」
+Sakuya wrote these words in her will:
+> "My death is irrelative to everyone, it's only my personal choice. Please don't hate other people for that. Please live well for yourselves, with sunshine and happiness."
 
-晚安，咲夜，希望你能幸福开心。愿你在往参宿四的道路上一路顺风。
+Rest well, Sakuya. Hope you be happy all along and have a blissful trip to the heaven.
 
 Contributor for this entry：Nanami
