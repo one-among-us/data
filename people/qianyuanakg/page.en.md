@@ -15,36 +15,36 @@ She likes to keep long hair and wear lovely clothes.
 
 She has a lovely sister who bites others sometimes.
 
-## Some Memories
+## Some Memories of Her Friend
 
-奈昔是从 2022 年 11 月开始认识的阿鸢，是一个很活泼的高中生。她有着中等长度散乱的头发，刚刚过耳朵，前面快遮住眼睛。是个带着淡灰色围脖，穿着浅绿色外套的，很可爱的孩子。
+Naixi met Qianyuan in November 2022. She was an active high-school student. 
 
-最开始认识的时候，她就说想找奈昔玩。可惜的是，11 月到 2 月，一直想见面，最终还是没能见上面。
+She had a dishevelled hair of medium length, which grew her ears and nearly covered her eyes. She was an adorable child, who was always in a scarf of light gray and a coat of light green.
 
-她其实很想交朋友，只是人太多的时候就会有点尴尬。有几次她和别的 MtF 面姬，没什么人主动打招呼，于是她就在一旁玩手机，然后逃出来找奈昔。
+Since our first encounter online, she'd said that she wanted to played with me. It was a pity that we cannot meet each other during the time from November to February of following year. We didn't meet offline until her departure.
 
-阿鸢说，想要和奈昔一起玩，但是因为学业和要参加面试的原因，都没办法。
+Although she would feel embarrassed in the public, but she still hoped to make friends. She met some trans girls several times, but few people greeted her. So she was on her phone alongside, then escaped to find Naixi.
 
-她其实是特别温柔的人，和她倾诉的东西，她都会一一说清楚，还很会安慰人。
+Qianyuan always wanted to play with me, but I should focus on my studies and prepare for interview at that time.
 
-阿鸢的事情，是自己在圈里遇到的最难受的事情，因为奈昔可能有机会劝劝她的，可以多和她出去玩的呢。
+She was a very gentle girl. She would listen and respond carefully when you unburden yourself to her, and she had a great sense of consoling people.
+
+Her departure was the most regretful and sad thing I met in transgender community. I had chance to persuade her and play with her undoubtedly...
 
 ## Departure
 
-由于与原生家庭的关系不好，曾经被侮辱，不允许喜欢各种各样的东西，并被逼迫参加无用的聚会，阿鸢的状态急转直下。
+Qianyuan was insulted by her family, not allowed to love several things, forced to take part in useless dinner party. Owing to her bad relationship with her family, her mental health worsened soon.
 
-在 22 年 12 月到 1 月的时候，阿鸢就有想要离开的迹象了，但是未能得到太多的重视。
+During the time from December 2022 to January 2023, there was indication of her plan to leave. But that received scant attention.
 
-在离开前两日，阿鸢最后一次向友人询问是否要出来玩，随后在 2 月 20 日，她选择了离开这个世界。
+Two days before her departure, she asked her friend if she wanted to come out and play for the last time. On 20th February, she chose to leave the world.
 
-在最后的时刻，她留下的遗书惦记着的，依旧是大家：
+In her last moment, she still thought of everyone in her will:
 
-> 很感谢一路有你们的陪伴，也希望你们在接下来的人生里好好活着。
-> 
-> 不管你们怎么看待我都不重要，因为我爱过你们，真的很爱你们。
+> Thanks to your company all along, and I wish you live well in your following life.
 >
-> 最后一句话我只敢放在心底深处，我怕别人听见。我想对那些曾经跟我一起走过的人说一声，对不起……
-> 
-> 摘自 阿鸢的遗书 
+> Your attitudes towards me are not important. Because I had loved you. I love you all very much.
+>
+> I put my last words in my heart, because I am afraid others hear that. I want to tell those who had accompanied with me and assist me, I am so sorry...
 
 Contributors for this entry: One-Among-Us, [Shen Naixi](https://twitter.com/chengyiga)
