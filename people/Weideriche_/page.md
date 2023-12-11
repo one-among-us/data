@@ -1,5 +1,6 @@
 ---
 name: 紫壑
+info:
     alias: 紫壑
     location: 中国广东
 ---

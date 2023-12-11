@@ -1,6 +1,7 @@
 ---
 name: Weideriche_
-    alias: 紫壑
+info:
+    alias: Zihe
     location: Guangdong, China
 ---
 
