@@ -11,7 +11,7 @@ info:
 
 澪卡学习的是数控技术专业，同时也是比较知名的 Kanoguti 歌曲的搬运者。
 
-她喜欢可爱的裙子，穿各种各样的丝袜。
+她喜欢可爱的裙子，穿各种各样的长袜。
 
 她的厨艺也很不错，经常做一些好吃的菜。
 
@@ -41,6 +41,6 @@ info:
 
 砂糖在澪卡生前非常要好，在澪卡逝世后，为了一直记住她而继承了她的ID，也算是澪卡生命的延续了呢。
 
-> 咱真的很害怕自己会忘记她……也非常喜欢她，她可爱，温柔，礼貌…也非常照顾咱……
+> 咱真的很害怕自己会忘记她……也非常喜欢她，她可爱，温柔，礼貌……也非常照顾咱……
 
-条目贡献：[砂糖喵(澪卡的妹妹)](https://space.bilibili.com/618333512), [南川朝香](https://twitter.com/nkw45)，[Lee](https://twitter.com/rbqwansui), One-Among-Us
+条目贡献：[砂糖喵(澪卡的妹妹)](https://space.bilibili.com/618333512), [南川朝香](https://twitter.com/GE90Start)，[Lee](https://twitter.com/rbqwansui), One-Among-Us
