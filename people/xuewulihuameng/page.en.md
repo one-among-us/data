@@ -1,8 +1,11 @@
 ---
 name: Xuewulihuameng
 info:
+    alias: Xuewulihuameng
     location: Chongqing, Yubei
 ---
+
+## Description
 
 Xuewulihuameng is a trans girl who is gentle, lovely, kind-hearted but somewhat solitary.
 
