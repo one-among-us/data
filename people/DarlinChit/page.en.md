@@ -7,13 +7,13 @@ info:
 
 ## Description
 
-Sakuya had been particularly interested in program and internet since her childhood, and she loved playing role-playing games and simulation games. She was also fond of game develpment. She took part in the development of many games such as *Pokémon Go* and *The Headmaster*. Besides, she was skilled at stock trade and video editing.
+Sakuya had a passion for programming and the internet since her childhood. She loved role-playing and simulation games and was keenly interested in game development. She contributed to developing many games, including "Pokémon Go" and "The Headmaster". Besides being a talented programmer proficient in languages like Java, PHP, and C++, Sakuya was also skilled in stock trading and video editing. She once founded a translation group.
 
-She had founded a company by herself, but it closed down due to financial problems. She almost lost her livelihood, and she cannot make a comeback. Then she went to Shanghai and lived for a period. During the time in Shanghai, she always worried about financial problems and so on. But with the help of her friends, she got through a difficult time quite happily.
+She started her own fashion company, but it closed down due to financial problems, leading her to lose almost all her economic sources. It was challenging for her to make a comeback. Subsequently, she moved to Shanghai for a while. During her time in Shanghai, although she often worried about financial issues, she managed to spend her days in relative happiness, thanks to the company and support of her friends.
 
-Sakuya wrote these words in her will:
-> "My death is irrelative to everyone, it's only my personal choice. Please don't hate other people for that. Please live well for yourselves, with sunshine and happiness."
+In her will, Sakuya wrote:
+> "My death is unrelated to anyone else; it was purely my personal choice. Please do not hold resentment towards others because of it. Live well for yourselves, with sunshine and happiness."
 
-Rest well, Sakuya. Hope you be happy all along and have a blissful trip to the heaven.
+Rest well, Sakuya. May you find happiness and peace. Wishing you a smooth journey to the stars.
 
-Contributor for this entry：Nanami
+Contributor for this entry: Nanami
