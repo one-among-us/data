@@ -1,0 +1,7 @@
+id: DarlinChit
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2004-06-09'
+  died: '2023-12-10'
+websites:
+  twitter: https://twitter.com/DarlinChit
