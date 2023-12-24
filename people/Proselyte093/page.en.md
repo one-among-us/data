@@ -17,11 +17,11 @@ According to their friends, they made soundtracks for some games, and took up a 
 
 ## Departure
 
-Owing to domestic violence, having been hurt by friend in senior high school, and getting PUA in university, Proselyte was troubled by anxiety and depression all along. 
+Owing to domestic violence, having been hurt by friend in senior high school, and getting PUA in university, Proselyte was troubled by anxiety and depression all along.
 They felt that they were losing the sense of exist.
 
 However, they still supported theirselves by viewing good things in a long term, incuding their favourite games, cute animals, and colourful illustrations.
-When our friends fell in anxiety, they would generously give their warm hug. 
+When our friends fell in anxiety, they would generously give their warm hug.
 
 Until early November, they still held on to the hope of curing depression before their birthday. 
 Accidentally, their former friend abruptly said that they harassed himself, and blocked them with other people. 
@@ -46,5 +46,5 @@ The sister of Proselyte contacted with us as well. Although she couldn't see the
 > Proselyte's sister, written on 2023-12-05
 
 "Death is not the end of life, but oblivion is."
-This is what Proselyte wrote for [Qi](https://one-among.us/profile/qiqi233345) to remember her. 
+This is what Proselyte wrote for [Qi](https://one-among.us/profile/qiqi233345) to remember her.
 This is also a quote sentence showed on the main page of "One Among Us". We will never forget you, who are gentle and tough. Rest well, Proselyte.
