@@ -1,5 +1,5 @@
 ---
-name: miocardmeow
+name: MioCardMeow
 info:
     alias: Ling Ka Miao, Lingka, Ling, MioCardMeow
     location: Beijing, China
@@ -7,11 +7,11 @@ info:
 
 ## Description
 
-MioCardMeow is a trans girl. People's appraisal to her was "very lovely and kind-heart". Her mother said the same thing as well.
+MioCardMeow is a trans girl. People think of her as "very lovely and kind-hearted". Her mother said the same thing as well.
 
-MioCardMeow learnt numerical control technique in school. She was also a well-known reporter of Kanoguti songs.
+MioCardMeow's major is numerical control. She was also well-known as a translator of *Kanoguti* songs.
 
-She loved lovely skirts, and often wore kinds of stockings.
+She loved lovely skirts, and wore all kinds of stockings.
 
 She was also skilled at cooking, and she always cooked delicious food.
 
@@ -27,15 +27,15 @@ She liked to take photos of landscape. and recorded those beautiful moment of na
 '${path}/photos/photo7.jpg',
 ]} />
 
-She knew how to use Tarot for divination. Although according to her friends, it seems that she often got "bad results" in divination.
+She knew how to use Tarot for divination. Although according to her friends, it seems that she often got bad predictions in divination.
 
-SugarMeow said, in fact, MioCardMeow was a clingy girl. It was a pity that she cannot accompany her more due to studies.
+SugarMeow said, in fact, MioCardMeow was in fact a clingy girl. It was a pity that she couldn't be with her more due to her studies.
 
 ## Departure
 
-The unfriendly family environment and negative impact of long-term medication (pituitary adenoma) gave rise to her thoughts of suicide. She passed away after an unsuccessful resuscitation.
+Her hostile family and negative impact of long-term medication (pituitary adenoma) gave rise to her suicidal thoughts. She passed away after an unsuccessful resuscitation.
 
-Her departure was reported by [Miao Xiao Bai](https://twitter.com/pizyj/status/1492928433172582400?s=21) on Feburary 14th 2022.
+Her departure was reported by [Miao Xiao Bai](https://twitter.com/pizyj/status/1492928433172582400?s=21) on Feburary 14th, 2022.
 
 ## After Her Leaving
 
