@@ -10,7 +10,7 @@ info:
 Katerina (Natasha) is a trans woman from Heilongjiang province. She had a variety of interests and hobbies, including Russian, composite bow, weightlifting, aerial photography, and motocycle riding.
 She also liked liquor; she hoped to operate a bar for trans people.
 
-Katerina was a national second-level composite bow athlete, and once won a provincial competition.
+Katerina was a national second-level archery athlete, and once won a provincial competition.
 She had riding experience in many provinces, and rode a long distance to visit her partner once.
 
 Her QQ avatar came from the opening song video of *Super Cub*. It was an animation of a girl, Koguma, and her story with her second-hand motorcycle.
