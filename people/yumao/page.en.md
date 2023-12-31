@@ -23,12 +23,12 @@ I love white and red, as well as that kind of rainbow in Glitch.
 And I have a sweet tooth, I will feel happy for a long time while holding a packet of white rabbit creamy candies.
 I love cats, and adopt a cat called Ayaka.
 
-She was an admiral of *Kancolle* , and her first action figure was Destroyor Akizuki in *kancolle*.
+She was an admiral of *Kancolle* , and her first action figure was Destroyer Akizuki in *kancolle*.
 
 She loved time with silent and ease.
 For example, she put on the headphones and drank hot coffee in café, then watched out of the window and observed people came and left. This would make her relaxed.
 Sometimes, she had some special thoughts.
-She made wishes to shooting stars occasionally, she said: "It's not because I believe that, but in that it's free. And there's no evidence shows it doesn't work."
+She made wishes to meteors occasionally, she said: "It's not because I believe that, but in that it's free. And there's no evidence shows it doesn't work."
 
 According to Neko, Yumao loved spicy hot pot, and always enjoyed it with rice.
 
@@ -42,7 +42,7 @@ Of course, she recorded daily life in her blog, and we can still see her story, 
 
 ## Experience
 
-Yumao once studied abroad in the US, then she backed to Shanghai to continue her study in unisersity.
+Yumao once studied abroad in the US, then she backed to Shanghai to continue her study in university.
 
 In 2017, she encountered Neko in Twitter (Now X), and she felt that Neko was skilled and powerful.
 After that, they became close partners.
@@ -56,13 +56,13 @@ During that time, Yumao got many mental supports. She described the care from Ne
 
 However, they were forced to separate.
 After that, Neko was brought back to Yunnan by family, and was sent to correctional school.
-Then, it was reported that Neko had commited suicide and died.
+Then, it was reported that Neko had already died by suicide.
 Yumao was extremely grieved after hearing the news.
-She continuously sent messages about missing Neko in their Telegram channal.
+She continuously sent messages about missing Neko in their Telegram channel.
 She quoted *Cassiopeia(カシオペヤ)* , which was a song they used to listen together, to express her grief.
 
 Although she also found that the suicide of Neko was complicated and confusing according to some routes.
-But there was no more news about Neko indeed. She really hoped Neko was still alived:
+But there was no more news about Neko indeed. She really hoped Neko was still alive:
 
 > "For you I always stay alive... For without you I get lost in life. Wish you are still alive... "
 >
@@ -77,7 +77,7 @@ She said that she forgot many things.
 
 She formerly planned to complete SRS within the year, but she didn't realize that because of her bad mental health and other reasons.
 
-In 30th June, all hope of her had been removed and she tried to commit suicide.
+In 30th June, all hope of her had been removed and she tried to take her own life.
 The next day, she left this world with regrets at her age of 17.
 
 > Wish that I could become a pretty girl who is kind-hearted, and become the sister of Ayaka and Ruri.
@@ -90,20 +90,20 @@ In her blog post *[Separation and Reunion](https://web.archive.org/web/202105171
 
 ## After Her Leaving
 
-In Zhihu question [What are your thoughts about ZhiHu user @yu-zhang-31-35 ?](https://www.zhihu.com/question/284818437), many friends wrote their memories of yumao, and expressed their sandness and regret of the death of her.
+In Zhihu question [What are your thoughts about ZhiHu user @yu-zhang-31-35 ?](https://www.zhihu.com/question/284818437), many friends wrote their memories of yumao, and expressed their sadness and regret of the death of her.
 They also felt regrettable for Neko's death due to close relationship between Neko and Yumao.
 
 In fact, Neko didn't pass away. Before her "death", in her email in 19th March, they still encouraged each other with the words "Must stay alive".
 
-Transgender cummunity investigated this thing once, and found the fact that Neko was pronounced dead by her family.
+Transgender community investigated this thing once, and found the fact that Neko was pronounced dead by her family.
 
 <details>
 <summary>**Fact**</summary>
 
-Neko and Yumao were forced to seprate in Shanghai. After that, Neko was brought to Kunming, Yunnan, and then hospitalized at a mental health centre for treatment.
+Neko and Yumao were forced to separate in Shanghai. After that, Neko was brought to Kunming, Yunnan, and then hospitalized at a mental health centre for treatment.
 
-During the time, Neko always hoped to meet with Yumao. She had dinner with her parents and got a interim leave from the hosptial, then she tried to contact Yumao in this time gap. After their contact, she persuaded the doctor on duty to issue discharge certificate for her.
-This action irritated her family. Shortly afterward, her family drived her to Kunming Anning Haohaizi School (hereinafter referred to as "Haohaizi") in the name of taking her to Changshui Airport.
+During the time, Neko always hoped to meet with Yumao. She had dinner with her parents and got an interim leave from the hospital, then she tried to contact Yumao in this time gap. After their contact, she persuaded the doctor on duty to issue discharge certificate for her.
+This action irritated her family. Shortly afterward, her family drove her to Kunming Anning Haohaizi School (hereinafter referred to as "Haohaizi") in the name of taking her to Changshui Airport.
 After that, Neko was locked in the Room 308, which can be seen as a black room.
 
 Days after she came out of the Room 308, owing to her excellent command of computer and their trust in her, the propaganda department of Haohaizi found her and asked her to fix network system. Neko accepted and fixed the system quickly, then sent a help email to Yumao at once.
@@ -113,29 +113,28 @@ The investigative journalist of *Beijing News* also interviewed the staff of Hao
 
 However, the parents made a shock decision.
 They said that they had already brought her out of the school, then cancelled the census register of Neko.
-In the interview of *Beijing News* , they spoke in a tearful voice and claimed that Neko had commited suicide in the early hours of 24th March.
+In the interview of *Beijing News* , they spoke in a tearful voice and claimed that Neko had taken her own life in the early hours of 24th March.
 
 Neko was continued to be in Haohaizi since then. She was informed of Yumao's death in October. This news almost devastated her.
 
 But nevertheless, Neko still implemented the words "Must stay alive".
-She never gave up and tried to calm herself. She kept a diary and develpoed her hobbies and interests at that time.
+She never gave up and tried to calm herself. She kept a diary and developed her hobbies and interests at that time.
 She also found some ways which could resolve her difficulties to take her mind off.
 
 During the latter time in Haohaizi, those around her helped her a lot, her friends accompanied her, and some people delivered things from the outside.
-Some friendly drillmasters would take her out to play, or bought things to her.
-This might make her happier.
+Some friendly drillmasters would take her out to play, or bought things to her. This might make her happier.
 
 On 1st September 2019, Neko left Haohaizi, and started her new life after a period of time.
 
-> To commenmorate all the difficulties I suffered in the past two years
-> 
+> To commemorate all the difficulties I suffered in the past two years
+>
 > From 2018-03-16 22:31
 >
->  To  2020-03-16 22:31
+> To  2020-03-16 22:31
 >
 > Thanks to all your efforts in that period
 >
-> This is also, to remember all the things you experienced after we separted
+> This is also, to remember all the things you experienced after we separated
 >
 > Also, for you in 2018-07-31
 >
