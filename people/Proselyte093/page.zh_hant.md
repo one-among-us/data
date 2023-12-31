@@ -1,7 +1,7 @@
 ---
 name: Proselyte
 info:
-    alias: Proselyte, Proyu
+    alias: Proselyte, 葡萄柚
     location: 湖北武漢
 ---
 

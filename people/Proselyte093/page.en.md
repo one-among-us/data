@@ -1,7 +1,7 @@
 ---
 name: Proselyte
 info:
-    alias: Proselyte, Proyu
+    alias: Proselyte, Ptoyu
     location: Wuhan, Hubei
 ---
 ## Description
@@ -17,20 +17,20 @@ According to their friends, they made soundtracks for some games, and took up a 
 
 ## Departure
 
-Owing to domestic violence, having been hurt by friend in senior high school, and getting PUA in university, Proselyte was troubled by anxiety and depression all along.
-They felt that they were losing the sense of exist.
+Owing to long-term domestic violence, having been hurt by friend in senior high school, and getting mental abuse in university, Proselyte was troubled by anxiety and depression all along.
+They gradually felt that they were losing the sense of exist.
 
-However, they still supported theirselves by viewing good things in a long term, incuding their favourite games, cute animals, and colourful illustrations.
+However, they still supported theirselves by viewing good things for a long time, incuding their favourite games, cute animals, and colourful illustrations.
 When our friends fell in anxiety, they would generously give their warm hug.
 
 Until early November, they still held on to the hope of curing depression before their birthday. 
 Accidentally, their former friend abruptly said that they harassed himself, and blocked them with other people. 
 They even didn't know what happened, and had no chance to clarify.
 
-> "I felt malice in life again. I even didn't understand why... Perhaps I was born to be disliked."
+> "I felt malice in the world again. I even didn't understand why... Perhaps I was born to be disliked."
 
 This thing triggered their PTSD about offence and cold violence from others previously.
-After that, their mental health gradully worsened.
+After that, their mental health gradully deteriorated.
 In an evening, they went out of their home silently and assimilated into the night.
 
 ## After their leaving
