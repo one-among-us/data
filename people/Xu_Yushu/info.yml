@@ -1,4 +1,5 @@
 id: Xu_Yushu
 profileUrl: ${path}/photos/profile.jpg
 info:
+  born: '2002-07-18'
   died: '2019-11-13'
