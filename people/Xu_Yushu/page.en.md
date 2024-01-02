@@ -66,7 +66,13 @@ Xu Yushu later was hospitalized for her depression.
 She told her mother during that time something horrible and illegal happened in school.
 However, when her mother asked her if they should report it to the police, she hesitated.
 Her mother was afraid of interfering with her depression treatment and didn't continue to ask her about it.
-After reviewing the chat history, it was clear that she might've already been raped multiple times.
+After reviewing the chat history, it was clear that she might've already been sexual assaulted multiple times.
+
+While she was hospitalized, she wrote *Living with Depression 2*.
+The preface: "My only hope is the few little boxes of meds. They're my life-saving straw...(The little pills) are like eyes of a sunset. This light is so easily perishable, but I decided on it anyway. Although I know this means giving up any chance of exit."
+Sometimes she compares it to Pandora's box.
+She wrote: "I know it's prohibited, but I still long for the hope found in these boxes."
+She's already started DIY HRT by then.
 
 Feburary 2019, she went to the northeastern area all alone.
 She left a letter to her family:
