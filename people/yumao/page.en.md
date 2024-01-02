@@ -15,34 +15,34 @@ info:
 
 ## Description
 
-Yumao (Zhangqianye) is a trans girl, who is gentle, smart, tough and lovely.
+Yumao (Zhangqianye) is a trans girl, who is gentle, smart, strong and lovely.
 
-She introduced herself in her profile:
+Her introduction of herself in her profile:
 Perhaps Yumao doesn't like taking part in group activities.
 I love white and red, as well as that kind of rainbow in Glitch.
-And I have a sweet tooth, I will feel happy for a long time while holding a packet of white rabbit creamy candies.
-I love cats, and adopt a cat called Ayaka.
+I have a sweet tooth, I will feel happy for a long time after holding a packet of white rabbit creamy candies in my hands.
+I love cats, and adopted a cat called Ayaka.
 
 She was an admiral of *Kancolle* , and her first action figure was Destroyer Akizuki in *kancolle*.
 
-She loved time with silent and ease.
-For example, she put on the headphones and drank hot coffee in café, then watched out of the window and observed people came and left. This would make her relaxed.
-Sometimes, she had some special thoughts.
-She made wishes to meteors occasionally, she said: "It's not because I believe that, but in that it's free. And there's no evidence shows it doesn't work."
+She enjoyed passing time in silence and ease.
+For example, she'd put on the headphones and drank hot coffee in café, then watch the window and observe as people come and leave. That makes her relaxed.
+She had some unusual thoughts sometimes.
+She made wishes to meteors occasionally. She said: "It's not because I believe that, but in that it's free. And there's no evidence showing it doesn't work."
 
 According to Neko, Yumao loved spicy hot pot, and always enjoyed it with rice.
 
-Yumao liked to watch stars when she didn't sleep yet at night.
-After she returned to China, due to bad weather and few spare time, she couldn't watch stars as previous time.
-So [she made a special trip to Dishui Lake once and watched stars](https://web.archive.org/web/20210517104313/https://oao.moe/archives/834/).
+Yumao liked to watch stars while waiting to fall asleep at night.
+After she returned to China, due to bad weather and few spare time, she couldn't watch stars as often as she did.
+So [she made a special trip to Dishui Lake and watched stars](https://web.archive.org/web/20210517104313/https://oao.moe/archives/834/).
 
-She saved many thoughts in her [private blog](https://web.archive.org/web/20210420170241/https://oao.moe/archives/), and these blog posts included many areas: computer science, military and politics. 
-She was also a book girl, and she wrote down much beautiful prose and poetry.
-Of course, she recorded daily life in her blog, and we can still see her story, her experience, and her train of thoughts now.
+She saved many thoughts in her [blog](https://web.archive.org/web/20210420170241/https://oao.moe/archives/), and these blog posts spanned many subjects: computer science, military and politics.
+She was also interested in literature, and she wrote lots of beautiful proses and poems.
+Of course, she also recorded daily life in her blog, and we can still see her story, her experience, and her train of thoughts now.
 
 ## Experience
 
-Yumao once studied abroad in the US, then she backed to Shanghai to continue her study in university.
+Yumao once studied abroad in the US, then she went back to Shanghai to continue her study in university.
 
 In 2017, she encountered Neko in Twitter (Now X), and she felt that Neko was skilled and powerful.
 After that, they became close partners.
@@ -55,13 +55,13 @@ During that time, Yumao got many mental supports. She described the care from Ne
 > "Even those things were dark and painful, which had been hidden, you still observed and felt them. Maybe you understanded more then myself. How wonderful... You also found my scattered identity, then lifted me out of abyss. That was the first time I was been touched by others."
 
 However, they were forced to separate.
-After that, Neko was brought back to Yunnan by family, and was sent to correctional school.
+After that, Neko was brought back to Yunnan by family, and was sent to correctional school (a "school" which uses punishments on students to force them to conform).
 Then, it was reported that Neko had already died by suicide.
 Yumao was extremely grieved after hearing the news.
 She continuously sent messages about missing Neko in their Telegram channel.
 She quoted *Cassiopeia(カシオペヤ)* , which was a song they used to listen together, to express her grief.
 
-Although she also found that the suicide of Neko was complicated and confusing according to some routes.
+Although she also found that the circumstances of the suicide of Neko was complicated and confusing according to some sources.
 But there was no more news about Neko indeed. She really hoped Neko was still alive:
 
 > "For you I always stay alive... For without you I get lost in life. Wish you are still alive... "
@@ -72,12 +72,12 @@ Yumao always missed Neko, and recalled the days with her.
 She often wrote down some caring words in her blog, such as prompted Neko to manage her hair, or told Neko to add or subtract clothes.
 
 In this period, Yumao tried to remember previous time and those things which is moving, happy and blissful.
-But her heart was took up by sadness, and her memory gradually worsen.
+But her heart was overtaken by sadness, and her memory gradually worsen.
 She said that she forgot many things.
 
-She formerly planned to complete SRS within the year, but she didn't realize that because of her bad mental health and other reasons.
+She formerly planned to complete SRS within the year, but had to push it back because of her bad mental health and other reasons.
 
-In 30th June, all hope of her had been removed and she tried to take her own life.
+On 30th June 2018, she lost all hope and tried to take her own life.
 The next day, she left this world with regrets at her age of 17.
 
 > Wish that I could become a pretty girl who is kind-hearted, and become the sister of Ayaka and Ruri.
@@ -95,7 +95,7 @@ They also felt regrettable for Neko's death due to close relationship between Ne
 
 In fact, Neko didn't pass away. Before her "death", in her email in 19th March, they still encouraged each other with the words "Must stay alive".
 
-Transgender community investigated this thing once, and found the fact that Neko was pronounced dead by her family.
+The transgender community investigated this, and found Neko was pronounced dead by her family.
 
 <details>
 <summary>**Fact**</summary>
@@ -103,7 +103,7 @@ Transgender community investigated this thing once, and found the fact that Neko
 Neko and Yumao were forced to separate in Shanghai. After that, Neko was brought to Kunming, Yunnan, and then hospitalized at a mental health centre for treatment.
 
 During the time, Neko always hoped to meet with Yumao. She had dinner with her parents and got an interim leave from the hospital, then she tried to contact Yumao in this time gap. After their contact, she persuaded the doctor on duty to issue discharge certificate for her.
-This action irritated her family. Shortly afterward, her family drove her to Kunming Anning Haohaizi School (hereinafter referred to as "Haohaizi") in the name of taking her to Changshui Airport.
+This action irritated her family. Shortly afterward, her family drove her to Kunming Anning Haohaizi School (hereinafter referred to as "Haohaizi", a school that punishes students to force them conform) by lying to her that they were taking her to Changshui Airport.
 After that, Neko was locked in the Room 308, which can be seen as a black room.
 
 Days after she came out of the Room 308, owing to her excellent command of computer and their trust in her, the propaganda department of Haohaizi found her and asked her to fix network system. Neko accepted and fixed the system quickly, then sent a help email to Yumao at once.
@@ -111,7 +111,7 @@ Days after she came out of the Room 308, owing to her excellent command of compu
 After that, the outside world started to lash out her parents.
 The investigative journalist of *Beijing News* also interviewed the staff of Haohaizi to ask the whereabouts of Neko.
 
-However, the parents made a shock decision.
+However, her parents made a shocking decision.
 They said that they had already brought her out of the school, then cancelled the census register of Neko.
 In the interview of *Beijing News* , they spoke in a tearful voice and claimed that Neko had taken her own life in the early hours of 24th March.
 
@@ -122,7 +122,7 @@ She never gave up and tried to calm herself. She kept a diary and developed her 
 She also found some ways which could resolve her difficulties to take her mind off.
 
 During the latter time in Haohaizi, those around her helped her a lot, her friends accompanied her, and some people delivered things from the outside.
-Some friendly drillmasters would take her out to play, or bought things to her. This might make her happier.
+Some friendly drillmasters would take her out to play, or bought things to her. This might have made her happier.
 
 On 1st September 2019, Neko left Haohaizi, and started her new life after a period of time.
 
