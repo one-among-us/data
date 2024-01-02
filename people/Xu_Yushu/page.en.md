@@ -29,7 +29,7 @@ Not only that, she also went to the bookstore next to her father's workspace and
 During her high school years, Nan'an Wanda Plaza's Sisyphe Books was one of the places she went to the most.
 There, she could find tranquility in the pleasant smell of coffee and books.
 
-She loved writing, and was once elected as the president of Chongqing No.2 FLS Nanlu Literary Club.
+She loved writing, and was once elected as the president of Chongqing No.2 Foreign Language School Nanlu Literary Club.
 In one of her writings, she wrote "Real writing is offering the writer themselves to Goddess Muses's sacrificial altar."
 
 Because of her depression and gender dysphoria, her grades dropped a bit, but she still longed to get into Peking University or Beijing Normal University's Department of Chinese Language and Literature.
