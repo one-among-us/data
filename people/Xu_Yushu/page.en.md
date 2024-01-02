@@ -6,7 +6,7 @@ info:
 
 ## Introduction
 
-Xu Yushu is a trans woman from Chongqing, China.
+Xu Yushu is a trans girl from Chongqing, China.
 
 Xu Yushu was seen as a "genius boy" by others.
 She was in *Jingmen Evening News* once as *The Child Who Skipped Kindergarten*.
@@ -26,13 +26,13 @@ She loved being immersed in the world of books.
 Her bookshelf was filled up already at that time.
 Not only that, she also went to the bookstore next to her father's workspace and left a deep impression on the bookstore's manager.
 
-During her high school years, Nan'an Wanda Square's Xixifu bookstore was one of the places she went to the most.
+During her high school years, Nan'an Wanda Plaza's Sisyphe Books was one of the places she went to the most.
 There, she could find tranquility in the pleasant smell of coffee and books.
 
-She loved writing, and was once elected as the president of Chongqing Second Nanlu Literary Club.
+She loved writing, and was once elected as the president of Chongqing No.2 Foreign Language School Nanlu Literary Club.
 In one of her writings, she wrote "Real writing is offering the writer themselves to Goddess Muses's sacrificial altar."
 
-Because of her depression and gender dysphoria, her grades dropped a bit, but she still longed to get into Beijing University or Beijing Shifan University's Chinese major.
+Because of her depression and gender dysphoria, her grades dropped a bit, but she still longed to get into Peking University or Beijing Normal University's Department of Chinese Language and Literature.
 
 Aside from being interested in literature and history, she liked anime, and was always happy to share her insights about it with others.
 
@@ -96,14 +96,14 @@ Dawn November 13th, 2023, she ended her young and vibrant life, and left her wil
 
 <PhotoScroll photos={[ '${path}/photos/will.jpg', ]} />
 
-> My soul will fly to Geladan Eastern summit.
-> I once said Xizang is where young people interested in literary accept the harsh reality, but I really want to go there.
+> My soul will fly to Geladaindong Peak.
+> I once said Tibet is where young people interested in literary accept the harsh reality, but I really want to go there.
 
 ## After Her Departure
 
 ### Related Reports
 
-*Sanlian Life Weekly* reported her story reasonably accurately.
+*Life Week* reported her story reasonably accurately.
 They mourned for her and her talent.
 They described her internal struggles realistically.
 
