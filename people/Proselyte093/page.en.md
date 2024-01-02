@@ -1,7 +1,7 @@
 ---
 name: Proselyte
 info:
-    alias: Proselyte, Ptoyu
+    alias: Proselyte
     location: Wuhan, Hubei
 ---
 ## Description
