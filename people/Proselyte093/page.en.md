@@ -6,7 +6,7 @@ info:
 ---
 ## Description
 
-Proselyte is our ally. They often interacted with us friendly in spite of their introverted personality.
+Proselyte was our ally. They often interacted with us friendly in spite of their introverted personality.
 
 They were fond of cute cats. Whether it was their own cat, or cats in a pet shop, or cats they met on the street.
 
@@ -17,17 +17,17 @@ According to their friends, they made soundtracks for some games, and took up a 
 
 ## Departure
 
-Owing to long-term domestic violence, having been hurt by friend in senior high school, and getting mental abuse in university, Proselyte was troubled by anxiety and depression all along.
-They gradually felt that they were losing the sense of exist.
+Owing to long-term domestic violence, having been hurt by friend in senior high school, and getting bullied in university, Proselyte was troubled by anxiety and depression all along.
+They gradually felt that they were losing the sense of existance.
 
-However, they still supported theirselves by viewing good things for a long time, incuding their favourite games, cute animals, and colourful illustrations.
+However, they still tried to support theirselves by consuming beautiful things, incuding their favourite games, cute animals, and colourful illustrations.
 When our friends fell in anxiety, they would generously give their warm hug.
 
 Until early November, they still held on to the hope of curing depression before their birthday. 
-Accidentally, their former friend abruptly said that they harassed himself, and blocked them with other people. 
+Accidentally, their former friend abruptly said that they harassed him, and blocked them with other people.
 They even didn't know what happened, and had no chance to clarify.
 
-> "I felt malice in the world again. I even didn't understand why... Perhaps I was born to be disliked."
+> "I felt malice in the world again. I even didn't understand why... Perhaps I was born to be hated."
 
 This thing triggered their PTSD about offence and cold violence from others previously.
 After that, their mental health gradully deteriorated.
