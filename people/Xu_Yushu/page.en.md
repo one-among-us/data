@@ -32,7 +32,7 @@ There, she could find tranquility in the pleasant smell of coffee and books.
 She loved writing, and was once elected as the president of Chongqing No.2 FLS Nanlu Literary Club.
 In one of her writings, she wrote "Real writing is offering the writer themselves to Goddess Muses's sacrificial altar."
 
-Because of her depression and gender dysphoria, her grades dropped a bit, but she still longed to get into Peking University or Beijing Normal University's Department of Chinese language and literature.
+Because of her depression and gender dysphoria, her grades dropped a bit, but she still longed to get into Peking University or Beijing Normal University's Department of Chinese Language and Literature.
 
 Aside from being interested in literature and history, she liked anime, and was always happy to share her insights about it with others.
 
