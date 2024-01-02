@@ -103,7 +103,7 @@ Dawn November 13th, 2023, she ended her young and vibrant life, and left her wil
 <PhotoScroll photos={[ '${path}/photos/will.jpg', ]} />
 
 > My soul will fly to Geladaindong Peak.
-> I once said Tibet is where young people interested in literary accept the harsh reality, but I really want to go there.
+> I once said Tibet is where young people interested in literary accept the spiritual baptism, but I really want to go there.
 
 ## After Her Departure
 
