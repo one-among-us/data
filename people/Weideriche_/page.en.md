@@ -9,7 +9,7 @@ info:
 
 Zihe was a non-binary ally of us, whose pronouns were always She/Her.
 
-In a word, she was a girl who was gentle and broad-minded, but she couldn't get enough happiness and love.
+Generally speaking, she was a gentle and broad-minded girl, but she couldn't get enough happiness and love.
 
 She was our intimate friend as well, she would express her caring when others were hurt.
 
