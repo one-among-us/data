@@ -9,10 +9,6 @@ info:
 
 Zihe was a non-binary ally of us, whose pronouns were always She/Her.
 
-她也非常贴心，在他人受伤的时候，也会向其他人表达自己的关心。
-
-> 喵，有伤口不要用酒精x
-
 In a word, she was a girl who was gentle and broad-minded, but she couldn't get enough happiness and love.
 
 She was our intimate friend as well, she would express her caring when others were hurt.
