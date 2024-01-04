@@ -26,4 +26,6 @@ She started to self-harm and overdose, and planned to commit suicide.
 
 She left this world with her partner in Zhongshan, Guangdong on November 5th, 2023.
 
-<!-- Contributors：One-Among-Us, [Yumiaoya](http://twitter.com/shi_Yumiaoya), [Kotori](http://twitter.com/Kotori42156659) -->
+<div style="display:none">
+Contributors：One-Among-Us, [Yumiaoya](http://twitter.com/shi_Yumiaoya), [Kotori](http://twitter.com/Kotori42156659)
+</div>

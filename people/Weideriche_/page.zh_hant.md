@@ -19,4 +19,6 @@ info:
 
 於 2023-11-05 在廣東中山市與她的夥伴一同離開了這個世界。
 
-<!-- 條目貢獻：One-Among-Us, [魚喵](http://twitter.com/shi_Yumiaoya), [吉普莉爾](http://twitter.com/Kotori42156659) -->
+<div style="display:none">
+條目貢獻：One-Among-Us, [魚喵](http://twitter.com/shi_Yumiaoya), [吉普莉爾](http://twitter.com/Kotori42156659)
+</div>
