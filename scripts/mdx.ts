@@ -1,4 +1,4 @@
-import * as mdx from "xdm";
+import * as mdx from "@mdx-js/mdx";
 import * as swc from "@swc/core";
 
 export function renderMdx(markdown: string): string {
