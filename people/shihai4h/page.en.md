@@ -16,7 +16,7 @@ info:
 
 ## Annotations
 
-/* Notes:
+{/* Notes:
 
 中原：Zhongyuan, the Central Plain(s)
 
@@ -83,7 +83,7 @@ info:
 > 
 三岛由纪夫：Mishima Youkio
 
-《天人五衰》：*Tennin Gosui*（罗马音），The Decay of the Angel（英语）*/
+《天人五衰》：*Tennin Gosui*（罗马音），The Decay of the Angel（英语）*/}
 
 
 
