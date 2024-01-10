@@ -2,7 +2,7 @@
 name: Shihai
 info:
     alias: 小柿子, 猫小泪, u3
-    location: the Central Plains, China
+    location: Kunshan, Suzhou, Jiangsu
 ---
 
 ## Profile
@@ -14,6 +14,8 @@ info:
 
 (To-Do)
 
+Contributor: [Li'an](https://twitter.com/LianShihai)
+
 ## Annotations
 
 {/* Notes:
@@ -21,6 +23,8 @@ info:
 中原：Zhongyuan, the Central Plain(s)
 
 林黛玉（林妹妹）：Lin Dai-yu(David Hawkes)  Lin Tai-yu (杨宪益、戴乃迭)
+
+胎衣：在中医中指的是胎盘(placenta)和胎膜(fetal membrane)的合称，又称紫河车，在临床医学中仅指胎膜(fetal membrane)。
 
 丹麦女孩：The Danish Girl
 
@@ -42,7 +46,21 @@ info:
 
 『那红尘中有却有些乐事，但不能永远依恃。况又有「美中不足，好事多魔」八个字紧相连属，瞬息间则又乐极悲生、人非物换，究竟是到头一梦，万境归空，倒不如不去的好。』：
 
-> 本段源自甲戌本第一回，英译本霍本、杨本、互联网档案馆-香港大学图书馆数码化项目使用的版本没有经过甲戌本的校对，故无。
+> 本段源自甲戌本第一回，英译本葡萄牙传教士本、霍本、杨本、互联网档案馆-香港大学图书馆数码化项目使用的版本没有经过甲戌本的校对，故无。
+>
+> 梨安给的注释：
+> 那红尘中有却有些乐事，但不能永远依恃。况又有「美中不足，好事多魔」八个字紧相连属：
+> 
+> 周汝昌：对真、善、美的糟蹋与破坏，人世惯于以假乱真，以恶欺善，以丑代美。
+> 
+> 我的理解是如果用现代哲学的话来说就是，这是对一种人生悲剧感和荒诞的体会，瞬息间则又乐极悲生、人非物换，究竟是到头一梦，万境归空，倒不如不去的好。
+> 
+>（脂批：四句乃一部之总纲）
+>
+> 说透了人生的过程总是逃脱不了“瞬息间则又乐极悲生、人非物换”的悲剧，人生的结局就是归于虚无，到头一梦，万境皆空。
+> 脂砚斋说这四句是这本书的总纲，我的理解也是。红楼梦里包含的这种哲学，柿海心里也是这么想的，我很懂这一点，因为她在前几天还说过，人生不过吃喝玩乐性而已。
+> 
+> 很多哲学家，作家都可以很好的解释人生存在的这种悲剧，痛苦，虚无，荒诞。每个人都是以自己为中心的无限大，在最本质上都是孤立的人，他者对自身的意志来说，都是很虚无的东西，这么看，人最核心的精神意志是很孤独的。人终其一生不过是在向世界祈求爱，但是失望总是常态，这个时候，就看到了这个世界的杂乱无章和毫无意义，感受到这个世界站在希望的对立，但人性里有对爱，幸福理性这种美好东西的希望。荒诞感和无意义就产生于这种人性的呼唤和世界的不合理之间，于是就有了人生的悲剧感。自杀的动机，就此开始在心灵深处酝酿成熟，判断值不值得活，在心灵深处得到了否定的答案
 
 就像林妹妹的天生伤感，喜散不喜聚一样：「人有聚就有散，聚时欢喜，到散时岂不冷清？既冷清，则生感伤，所以不如到是不聚的好。比如那花，开时令人爱慕，谢时则增惆怅，所以到是不开的好。」：
 
@@ -80,8 +98,67 @@ info:
 > It overturns rocks, fells trees, 
 > 
 > Strikes down forests and thickets. 
+
+西西弗神话/薛西弗斯的神話：Le Mythe de Sisyphe（法语）; The Myth of Sisyphus（英语）
+
+加缪/卡繆：Albert Camus
+
+梨安说出自：第一章第一节 荒诞与自杀 Absurdity and Suicide
+
+梨安后续给了我一部分文段，是目前英语比较通行的译本，供参考，我已经从z-library的书本中检查了拼写，除了标点符号有区别之外，是无误的，我把标点改为了z-library查到的书籍的版本。
+
+> Justin O'Brien 译本：
+>
+> 「隐痛深藏于人的内心深处，正是应该在人的内心深处去探寻隐痛。这死亡的游戏是由面对存在的清醒，过渡到要脱离光明的逃遁。我们应该沿着这条线索去理解自杀。」
 > 
+> "The worm is in man’s heart. That is where it must be sought. One must follow and understand this fatal game that leads from lucidity in the face of experience to flight from light."
+>
+> 一个人自愿去死，则说明这个人认识到——即使是下意识地——习惯是可笑的，认识到人活着的任何深刻理由都是不存在的，就是认识到日常行为是无意义的，遭受痛苦也是无用的。
+> 
+> 那么，这种难以尽述的情感，这种使精神生活失去对它来说是必需的麻木的情感究竟是什么呢？一个哪怕可以用极不像样的理由来解释的世界仍是人们感到熟悉的世界。然而，一旦世界失去幻想与光明，人就会觉得自己是局外人。这一放逐是无可挽回的，因为他被剥夺了对失去的家乡的记忆，而且丧失了对未来世界的希望。人与他的生活之间的，演员与舞台之间的这种分离，真正构成荒谬感。无须多加解释，人们就会理解到：在所有健在而又已经想过要自杀的人身上，这种荒谬感与对虚无的渴望直接相关。
+> 
+> Dying voluntarily implies that you have recognized, even instinctively, the ridiculous character of that habit, the absence of any profound reason for living, the insane character of that daily agitation and the uselessness of suffering.
+> 
+> What then is that incalculable feeling that deprives the mind of the sleep necessary to life? A world that can be explained even with bad reasons is a familiar world. But, on the other hand, in a universe suddenly divested of illusions and lights, man feels an alien, a stranger. His exile is without remedy since he is deprived of the memory of a lost home or the hope of a promised land. This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity. All healthy men having thought of their own suicide, it can be seen, without further explanation, that there is a direct connection between this feeling and the longing for death.
+
+主播女孩重度依赖：NEEDY GIRL OVERDOSE，英文版修改后名：Needy Streamer Overload
+
+糖糖：Ame (あめちゃん, Ame-chan) 
+
 三岛由纪夫：Mishima Youkio
+
+> 花原自怯，岂奈狂飚？柳本多愁，何禁骤雨？
+>
+> 戴本译：How could such a delicate flower withstand a fierce gale, or the care-stricken willow endure torrential rain?
+>
+> 霍本译：It is not to be thought that a shrinking flower could withstand the whirlwind’s blast, or a tender willow-tree be proof against the buffetings of the tempest.
+> 
+> 洲迷聚窟，何来却死之香？海失灵槎，不获回生之药。眉黛烟青，昨犹我画。指环玉冷，今倩谁温？
+>
+> 戴本译：No search can be made for the incense that revives the dead, as the way to Fairy Tales is lost. No medicine that restores life can be obtained, as the Magic Barge is gone. Only yesterday I was painting those bluish eyebrows; today, who will warm her cold fingers with the jade rings?
+>
+> *Magic Barge*: Magic Barge: A Chinese legend said this belonged to the immortals and sailed in the Sky River, Milky Way.
+> 
+> 霍本译：
+> 
+> It were a hard thing to hunt out the Isle of the Blest from among the multitudinous islands of the ocean and bring back the immortal herb that should restore her: the raft is lost that went to look for it.
+> 
+> It was but yesterday that I painted those delicate smoke-black eyebrows; and who is there today to warm the cold jade rings for her fingers? 
+>
+
+> 两段皆出自《红楼梦》第七十八回 “*老学士闲征姽婳词 痴公子杜撰芙蓉诔*”，也可作为独立的诗《芙蓉女儿诔》的节选，资源和校对待补充。
+>
+> 老学士闲征姽婳词 痴公子杜撰芙蓉诔：
+> 
+> 戴本译：An Old Scholar at Leisure Has Eulogies Composed His Unorthodox, Witless Son Laments the Hibiscus 
+>
+> 霍本译：Jia Zheng commissions the Ballad of the Winsome Colonel; And Bao-yu composes an Invocation to the Hibiscus Spirit
+>
+> 《芙蓉女儿诔》
+> 
+> 戴本译：*Elegy for the the Hibiscus Maid*
+>
+> 霍本译：THE SPIRIT OF THE HIBISCUS: AN ELEGY AND INVOCATION
 
 《天人五衰》：*Tennin Gosui*（罗马音），The Decay of the Angel（英语）*/}
 
