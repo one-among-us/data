@@ -101,6 +101,10 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 
 西西弗神话/薛西弗斯的神話：Le Mythe de Sisyphe（法语）; The Myth of Sisyphus（英语）
 
+> 梨安uuu, [2024年1月10日 22:29]
+>
+> 加缪是法国人，书名“西西弗神话”已成法文谚语，借喻“永久无望又无用的人生状况”。
+
 加缪/卡繆：Albert Camus
 
 梨安说出自：第一章第一节 荒诞与自杀 Absurdity and Suicide
