@@ -46,7 +46,7 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 
 『那红尘中有却有些乐事，但不能永远依恃。况又有「美中不足，好事多魔」八个字紧相连属，瞬息间则又乐极悲生、人非物换，究竟是到头一梦，万境归空，倒不如不去的好。』：
 
-> 本段源自甲戌本第一回，英译本葡萄牙传教士本、霍本、杨本、互联网档案馆-香港大学图书馆数码化项目使用的版本没有经过甲戌本的校对，故无。
+> 本段源自甲戌本**第一回**，英译本葡萄牙传教士本、霍本、杨本、互联网档案馆-香港大学图书馆数码化项目使用的版本没有经过甲戌本的校对，故无。
 >
 > 梨安给的注释：
 > 那红尘中有却有些乐事，但不能永远依恃。况又有「美中不足，好事多魔」八个字紧相连属：
@@ -68,7 +68,11 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 >
 > 杨宪益、戴乃迭译：Now Tai-yu naturally preferred solitude to society. She reasoned, "Coming together can only be followed by parting. The more pleasure people find in parties, the more lonely and unhappy they must feel when the parties break up. So better not forgather in the first place. The same is true of flowers: the delight people when in bloom, but it's so heart-rending to see them fade that it would be better if they never blossomed."
 >
+> A Dream of Red Mansions Volume I (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【第一册 P452】ISBN: 9787119006437
+>
 > David Hawkes 译：Dai-yu had a natural aversion to gatherings, which she rationalized by saying that since the inevitable consequence of getting together was parting, and since parting made people feel lonely and feeling lonely made them unhappy, *ergo* it was better for them not to get together in the rst place. In the same way she argued that since the owers, which give us so much pleasure when they open, only cause us a lot of extra sadness when they die, it would be better if they didn’t come out at all.
+>
+> The Story of The Stone #2: The Crab-Flower Club《海棠诗社》, Penguin Books Ltd, 【正文 P93 总页码 P 109】ISBN 10: 0141968907
 
 风起于青蘋之末：
 > 典故出自战国楚国辞赋作家宋玉所创作文学作品《风赋(Feng fu, Rhapsody on the Wind)》。
@@ -98,6 +102,8 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 > It overturns rocks, fells trees, 
 > 
 > Strikes down forests and thickets. 
+>
+> 翻译来源：Wen Xuan or Selections of Refined Literature, Volume III: Rhapsodies on Natural Phenomena, Birds and Animals, Aspirations and Feelings, Sorrowful Laments, Literature, Music, and Passions, compiled by Xiao Tong (501-531) , David R. Knechtges【P9】
 
 西西弗神话/薛西弗斯的神話：Le Mythe de Sisyphe（法语）; The Myth of Sisyphus（英语）
 
@@ -117,6 +123,8 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 > 
 > "The worm is in man’s heart. That is where it must be sought. One must follow and understand this fatal game that leads from lucidity in the face of experience to flight from light."
 >
+> The Myth of Sisyphus, Albert Camus, Justin O'Brien, Penguin Books Ltd; Spark Publishing【P2】ISBN 13: 9781411473379
+>
 > 一个人自愿去死，则说明这个人认识到——即使是下意识地——习惯是可笑的，认识到人活着的任何深刻理由都是不存在的，就是认识到日常行为是无意义的，遭受痛苦也是无用的。
 > 
 > 那么，这种难以尽述的情感，这种使精神生活失去对它来说是必需的麻木的情感究竟是什么呢？一个哪怕可以用极不像样的理由来解释的世界仍是人们感到熟悉的世界。然而，一旦世界失去幻想与光明，人就会觉得自己是局外人。这一放逐是无可挽回的，因为他被剥夺了对失去的家乡的记忆，而且丧失了对未来世界的希望。人与他的生活之间的，演员与舞台之间的这种分离，真正构成荒谬感。无须多加解释，人们就会理解到：在所有健在而又已经想过要自杀的人身上，这种荒谬感与对虚无的渴望直接相关。
@@ -124,6 +132,8 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 > Dying voluntarily implies that you have recognized, even instinctively, the ridiculous character of that habit, the absence of any profound reason for living, the insane character of that daily agitation and the uselessness of suffering.
 > 
 > What then is that incalculable feeling that deprives the mind of the sleep necessary to life? A world that can be explained even with bad reasons is a familiar world. But, on the other hand, in a universe suddenly divested of illusions and lights, man feels an alien, a stranger. His exile is without remedy since he is deprived of the memory of a lost home or the hope of a promised land. This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity. All healthy men having thought of their own suicide, it can be seen, without further explanation, that there is a direct connection between this feeling and the longing for death.
+>
+> The Myth of Sisyphus, Albert Camus, Justin O'Brien, Penguin Books Ltd; Spark Publishing【P3】ISBN 13: 9781411473379
 
 主播女孩重度依赖：NEEDY GIRL OVERDOSE，英文版修改后名：Needy Streamer Overload
 
@@ -135,13 +145,19 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 >
 > 戴本译：How could such a delicate flower withstand a fierce gale, or the care-stricken willow endure torrential rain?
 >
+> A Dream of Red Mansions Volume II (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【第二册 P672】ISBN: 9787119006437
+>
 > 霍本译：It is not to be thought that a shrinking flower could withstand the whirlwind’s blast, or a tender willow-tree be proof against the buffetings of the tempest.
+>
+> The Story of the Stone #3: The Warning Voice 《异兆悲音》ISBN: 9780141912813 【正文:P556 总页码：P577】
 > 
 > 洲迷聚窟，何来却死之香？海失灵槎，不获回生之药。眉黛烟青，昨犹我画。指环玉冷，今倩谁温？
 >
 > 戴本译：No search can be made for the incense that revives the dead, as the way to Fairy Tales is lost. No medicine that restores life can be obtained, as the Magic Barge is gone. Only yesterday I was painting those bluish eyebrows; today, who will warm her cold fingers with the jade rings?
 >
 > *Magic Barge*: Magic Barge: A Chinese legend said this belonged to the immortals and sailed in the Sky River, Milky Way.
+>
+> A Dream of Red Mansions Volume II (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【第二册 P672】ISBN: 9787119006437
 > 
 > 霍本译：
 > 
@@ -149,6 +165,7 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 > 
 > It was but yesterday that I painted those delicate smoke-black eyebrows; and who is there today to warm the cold jade rings for her fingers? 
 >
+> The Story of the Stone #3: The Warning Voice 《异兆悲音》ISBN: 9780141912813 【正文:P557 总页码：P578】
 
 > 两段皆出自《红楼梦》第七十八回 “*老学士闲征姽婳词 痴公子杜撰芙蓉诔*”，也可作为独立的诗《芙蓉女儿诔》的节选，资源和校对待补充。
 >
