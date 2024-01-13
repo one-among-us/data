@@ -24,7 +24,7 @@ But in the end, she, who gave others hope, wasn't able to escape death herself.
 On that day, Ani fulfilled her last plan to leave silently.
 Yet, her death was sudden and shocking.
 
->「Maybe separation is not that awful.
+> Maybe separation is not that awful.
 > When we are dissolved into wind after millions of hours,
 > we will be reunited as bubbles in the same cup of beer.
 > No atoms can truly be destroyed in the universe.
@@ -55,7 +55,7 @@ Wish you can have the happiness that you missed.
 > shouldered everything herself to not bother anyone else.
 
 Ani was outed on October 22nd.
-[Elihuso](https://twitter.com/ElihusoQ) seeked help for her by explaining her situation online.
+[Elihuso](https://twitter.com/ElihusoQ) sought help for her by explaining her situation online.
 However, she rejected every offer of help.
 
 > Not accepting any help is my ideal.

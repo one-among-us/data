@@ -1,7 +1,7 @@
 ---
 name: Xu Yushu
 info:
-    location: Chongqing, Nan'an
+    location: Nan'an, Chongqing
 ---
 
 ## Introduction
@@ -58,7 +58,7 @@ At the New Year's party of her first year in senior high school, although she di
 Those shoes were a bit uncomfortable, yet she persisted to be the self she liked.
 
 During the New Year celebrations of 2018, she wrote down her mental struggles in *Living with Depression 1*.
-Although her teather told her she thought too much, they still praised her bravery to face the struggles that come with life, and suggested Shi Tiesheng's works.
+Although her teacher told her she thought too much, they still praised her bravery to face the struggles that come with life, and suggested Shi Tiesheng's works.
 
 <PhotoScroll photos={[ '${path}/photos/composition.jpg', ]} />
 
@@ -74,7 +74,7 @@ Sometimes she compares it to Pandora's box.
 She wrote: "I know it's prohibited, but I still long for the hope found in these boxes."
 She's already started DIY HRT by then.
 
-Feburary 2019, she went to the northeastern area all alone.
+February 2019, she went to the northeastern area all alone.
 She left a letter to her family:
 
 > Sorry about the sudden departure.
@@ -94,7 +94,7 @@ She planned to attend a comic con during the trip but didn't succeed in the end.
 She gave a hug to her mother one week before she left.
 
 In an afternoon of November 12th, 2023, she and her classmates gathered to watch gaming videos. She told one of her classmates: "This might be the last time we watch videos together."
-No one thougth she was hinting at her death.
+No one thought she was hinting at her death.
 On the same day, she said she's already been "socially dead".
 Maybe it's because she commonly used meaningful words, so no one thought of any further of it, too.
 
@@ -113,7 +113,7 @@ Dawn November 13th, 2023, she ended her young and vibrant life, and left her wil
 They mourned for her and her talent.
 They described her internal struggles realistically.
 
-*Si Yuming Mental Health* and the like tried to raise awareness of depression in teenagers.
+*Si Ruiming Mental Health* and the like tried to raise awareness of depression in teenagers.
 
 *Shandong Rainbow Talk* and other voices focusing on transgender people mourned for Xu Yushu and tried to raise awareness of the science of being transgender.
 

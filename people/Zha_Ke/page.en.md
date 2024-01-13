@@ -9,6 +9,8 @@ Zha Ke (Lilith) was a transgender man. We have little information of him, only a
 
 (Warning: Please be informed that the letter by Zha Ke is potentially triggering, includes depiction of suicidal thoughts and mental health issues. The letter is in simplified Chinese and translated to English.)
 
+<details>
+<summary>**Click to Unfold**</summary>
 > My Will
 >
 > I have been continuously harrassed by people online for two years because my inability to adapt to society and stupidity.
@@ -80,6 +82,7 @@ Zha Ke (Lilith) was a transgender man. We have little information of him, only a
 >
 > The world abandoned me long ago.
 > I'll be forgotten by everyone eventually.
+</details>
 
 <PhotoScroll photos={[ '${path}/photos/letter.jpg']} />
 

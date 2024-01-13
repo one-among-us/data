@@ -2,7 +2,7 @@
 name: sevenbird
 info:
     alias: 柒鸟, Qi Niao, SevenBird
-    location: Fujian, China
+    location: Fujian
 ---
 
 > “Look at the moon when you long for me.”
@@ -22,7 +22,7 @@ Always willing to help others, she not only cared about us when we are in need, 
 But “a doctor cannot help themself”, in the end, she was unable to save herself.
 
 She loved rhythm games.
-In her last moments, she played the song *Phigros* for the last time to say goodbye.
+In her last moments, she played the song *Spasmodic* in *Phigros* for the last time to say goodbye.
 
 This is her last wish:
 

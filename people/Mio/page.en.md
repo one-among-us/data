@@ -29,7 +29,7 @@ She made many friends and built up many relationships in that year alone:
 
 - She came out to her best friend in primary school.
 - She became close friends with another trans girl.
-- She started to manage the QQ group 春の芽工作室.
+- She started to manage the QQ group *Harunome Hanbai*.
 
 ## From best "boy" friends to best girl friends with her friend whom she met in primary school
 

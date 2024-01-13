@@ -43,7 +43,7 @@ Her friend EnderCat called 120 at 1:23 am. Her parents also called 120 almost at
 
 ## Her gallery
 
-> Selected from MoeCat's QQ space, all are architectural photos
+> Selected from MoeCat's Qzone, all are architectural photos
 
 <PhotoScroll photos={[ '${path}/photos/Photo4.png', '${path}/photos/Photo3.png', '${path}/photos/Photo2.png']} />
 

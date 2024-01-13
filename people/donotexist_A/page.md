@@ -2,7 +2,7 @@
 name: 不存在
 info:
     alias: 不存在、存存
-    location: 中國廣東省
+    location: 中国广东
 ---
 
 ## 简介

@@ -2,7 +2,7 @@
 name: mizuharanagisa
 info:
     alias: Mizuhara Nagisa, 水原なぎさ, Shui Yuan Zhu
-    location: Shanghai, China
+    location: Shanghai
 ---
 
 ## Description

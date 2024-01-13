@@ -11,9 +11,10 @@ However, she was also plagued by depression and anxiety.
 
 On March 14, 2023, she attempted suicide by jumping off a building due to depression, and her legs were disabled. This made her life very inconvenient and she became more depressed.
 
-On July 1, 2023, she jumped off a building again after taking a large amount of antidepressant drugs.This time, her injuries were beyond saving.
+On July 1, 2023, she jumped off a building again after taking a large amount of antidepressant drugs.
+This time, her injuries were beyond saving.
 
-Qi chose to jump pff the builiding due to the suicide of her childhood friend by jumping off a building. She always regretted not being able to save him, so she chose the same way to end her own life.
+Qi chose to jump off the building due to the suicide of her childhood friend by jumping off a building. She always regretted not being able to save him, so she chose the same way to end her own life.
 
 Qi wrote in her suicide note:
 “My death has nothing to do with anyone, it’s just a choice of mine, please don′t hate others for it. Please live a good, sunny and happy life, and please live a good life for yourself.”

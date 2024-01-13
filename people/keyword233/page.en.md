@@ -2,7 +2,7 @@
 name: keyword233
 info:
     alias: keyword233
-    location: Chengdu, China
+    location: Chengdu, Sichuan
 ---
 
 ## Description
