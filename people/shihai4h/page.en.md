@@ -27,7 +27,7 @@ For the first time I met her in real life, I (The author of this entry) was attr
 
 ## Her Transgender Experience
 
-## The Story of She and Transgender Community
+## The Story of Her and Transgender Community
 
 ## Absurdity and Suicide, the Last Chapter
 
