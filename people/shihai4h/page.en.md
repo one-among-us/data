@@ -57,7 +57,25 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 >
 > 在部分中文书籍中会将其收入《性学三论》
 > 
-> 我一下子找不到可靠的英文来源，但是《性学三论》JAMES STRACHEY 英译本里似乎没有这个章节。 
+> 《性学三论》JAMES STRACHEY 英译本里没有这个章节，本翻譯来源于：
+>
+> Freud, S. (1908). ‘Civilized’ Sexual Morality and Modern Nervous I lness. The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume IX (1906-1908): Jensen's ‘Gradiva’ and Other Works, 177-204
+>
+> 文段摘录
+>
+> Where the sexual instinct is fairly intense, but perverse, there are two possible outcomes. 
+> 
+> The first, which we shall not discuss further, is that the person affected remains a pervert and has to put up with the consequences of his deviation from the standard of civilization. 
+> 
+> The second is far more interesting. It is that, under the influence of education and social demands, a suppression of the perverse instincts is indeed achieved, but it is a kind of suppression which is really no suppression at all. It can better be described as a suppression that has failed. 
+> 
+> The inhibited sexual instincts are, it is true, no longer expressed as such—and this constitutes the success of the process—but they find expression in other ways, which are quite as injurious to the subject and make him quite as useless for society as satisfaction of the suppressed instincts in an unmodified form would have done. This constitutes the failure of the process, which in the long run more than counterbalances its success. 
+> 
+> The substitutive phenomena which emerge in consequence of the suppression of the instinct amount to what we call nervous illness, or, more precisely, the psychoneuroses. 
+> 
+> **Neurotics are the class of people who, since they possess a recalcitrant organization, only succeed, under the influence of cultural requirements, in achieving a suppression of their instincts which is apparent and which becomes increasingly unsuccessful. They therefore only carry on their collaboration with cultural activities by a great expenditure of force and at the cost of an internal impoverishment, or are obliged at times to interrupt it and fall ill.**
+> 
+> I have described the neuroses as the ‘negative’ of the perversions [p. 189 above] because in the neuroses the perverse impulses, after being repressed, manifest themselves from the unconscious part of the mind— because the neuroses contain the same tendencies, though in a state of ‘repression’, as do the positive perversions.
 
 红楼梦：A Dream of Red Mansions(杨宪益、戴乃迭) The Story of the Stone (David Hawkes)
 
