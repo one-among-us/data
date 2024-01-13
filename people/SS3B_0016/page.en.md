@@ -31,4 +31,8 @@ Based on this, We temporarily set up a small room for them, to make their memori
 
 If you wish, you can share your memory with Yantian by comment.
 
+> Tips: Your comments and memories in this memorial page will be considerated to be **referenced** by default. One Among Us editors will complete their formal entry with your helps. We will retain all approved comments in their formal entry.
+>
+> If you don't hope your comment to be referenced, please mark out.
+
 Yantian, have a good rest...have a good sleep. Thank you for your efforts all this time.
