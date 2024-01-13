@@ -5,14 +5,31 @@ info:
     location: Kunshan, Suzhou, Jiangsu
 ---
 
-## Profile
+## Description
 
 <PhotoScroll photos={[
 '${path}/photos/photo1.jpg',
 '${path}/photos/photo2.jpg',
 ]} />
 
-(To-Do)
+Shihai was a foolish girl who preferred to stand by the window, gazed into the distance and lost in thought, just like her favourite QQ avators.
+Even if you approached her quietly and cautiously, it was not easy for her to notice.
+
+For the first time I met her in real life, I (The author of this entry) was attracted by her glommy  temperament like Lin Tai-yu in *A Dream of Red Mansions*.
+
+<PhotoScroll photos={[
+'${path}/photos/photo3.jpg',
+]} />
+
+（Shihai was measuring her height）
+
+## Her Family
+
+## Her Transgender Experience
+
+## The Story of She and Transgender Community
+
+## Absurdity and Suicide, the Last Chapter
 
 Contributor: [Li'an](https://twitter.com/LianShihai)
 
