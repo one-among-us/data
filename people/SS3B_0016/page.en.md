@@ -34,5 +34,7 @@ If you wish, you can share your memory with Yantian by comment.
 > Tips: Your comments and memories in this memorial page will be considerated to be **referenced** by default. One Among Us editors will complete their formal entry with your helps. We will retain all approved comments in their formal entry.
 >
 > If you don't hope your comment to be referenced, please mark out.
+>
+> You can send email to [info@one-among.us](mailto:info@one-among.us) to contribute photos or other rich text, or submit issue to our [Github repository](https://github.com/one-among-us/data).
 
 Yantian, have a good rest...have a good sleep. Thank you for your efforts all this time.

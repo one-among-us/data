@@ -28,5 +28,7 @@ Ta 同时也是一位[铁道迷](https://zh.wikipedia.org/zh-cn/%E9%90%B5%E9%81%
 如果你愿意，可以在条目的留言区中留下你和 Ta 相关的回忆。
 
 > 注：在本临时页面下的留言、回忆，将默认视为授权 One Among Us 编者的引用，我们将尽力采编到盐田的条目之中。如果不希望自己的留言被采编，还请特别注明。我们会在正式条目中保留所有已通过的评论。
+>
+> 如果需要提交图片等富文本信息，可以联系我们的邮箱 [info@one-among.us](mailto:info@one-among.us)，或向我们的 [Github 数据库](https://github.com/one-among-us/data) 提交 issue。
 
 盐田姐姐，好好休息，好好睡一觉吧，辛苦了……
