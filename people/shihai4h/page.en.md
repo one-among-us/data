@@ -8,8 +8,8 @@ info:
 ## Profile
 
 <PhotoScroll photos={[
+'${path}/photos/photo1.jpg',
 '${path}/photos/photo2.jpg',
-'${path}/photos/photo3.jpg',
 ]} />
 
 (To-Do)

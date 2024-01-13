@@ -8,14 +8,14 @@ info:
 ## 簡介
 
 <PhotoScroll photos={[
+'${path}/photos/photo1.jpg',
 '${path}/photos/photo2.jpg',
-'${path}/photos/photo3.jpg',
 ]} />
 
 就和她喜歡用的 QQ 頭貼一樣，柿海是個喜歡站在窗戶邊然後眺望遠方發呆的傻傻的姑娘，即使輕輕走近也不易被察覺，初見時，我就被她身上那種林妹妹似陰鬱的氣質吸引了。
 
 <PhotoScroll photos={[
-'${path}/photos/photo4.jpg',
+'${path}/photos/photo3.jpg',
 ]} />
 （柿海在測量身高時的照片）
 
