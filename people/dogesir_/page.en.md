@@ -2,10 +2,10 @@
 name: dogesir_
 info:
     alias: dogesir, Lan Gou (blue dog)
-    location: Changchun, Jilin, China
+    location: Changchun, Jilin
 ---
 
-> “Have you seen *The Train Travelling through the Starry Sky*? I want to get on that train, too.”
+> “Have you seen *Night on the Galactic Railroad*? I want to get on that train, too.”
 
 ## Description
 

@@ -9,7 +9,7 @@ info:
 [According to Ying](https://twitter.com/Uekawakuyuurei/status/1416208961339019267), they are “Just an unhealthy boy in real life.”.
 However, when they are thought to be a girl online, they would not talk about their gender.
 Although they felt guilty while doing so,
-we always believe Ying to be the most kindhearted and most lovely girl or boy.
+we always believe Ying to be the most kind-hearted and most lovely girl or boy.
 
 Ying is an enthusiast about ships and they like to draw them.
 Under their brushes, those ships are no more weapons for warfare and destruction, but vehicles carrying the power of peace.
@@ -40,7 +40,7 @@ No medicine Ying tried worked for their disease.
 In Summer 2021, Ying is diagnosed as *Bone metastasis* stage IV.
 Yet, Ying didn't stop caring about their friends to not let us worried even while enduring great physical pain.
 
-In September 2021, Ying went to the other side of the sea (metaphorically) on their favorite ship.
+In September 2021, Ying went to the other side of the sea (metaphorically) on their favourite ship.
 Their last Twitter post was:
 “I want to drink a bigggg cup of iced Coke at last.”
 No problem, Ying. No matter how many cups of Coke you want to drink, we will buy them for you.

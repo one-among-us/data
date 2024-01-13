@@ -17,9 +17,9 @@ but she also was quick to come up with examples of how pronounciation and gramma
 
 Jing Ye's work is not limited to linguistics.
 She had contributed to the community of the *Half-Life* series.
-She designed some "GMod" plugins and maps; and she was the director of a fanmade work called *Prequel of the United Army* for *Half-Life 2*.
+She designed some "GMod" plugins and maps; and she was the director of a fanmade work called *Combine Prelude* for *Half-Life 2*.
 The fact that worth mentioning the most is, she started doing constructed language research,
-constructed [联合军语](https://yuyan.fandom.com/zh/wiki/联合军语), [尤波伊语](https://yuyan.fandom.com/zh/wiki/尤波伊语) and [克里加语](https://yuyan.fandom.com/zh/wiki/克里加语) for the project mentioned above, *Prequel of the United Army*.
+constructed [Combinese](https://yuyan.fandom.com/zh/wiki/联合军语), [Yupoian](https://yuyan.fandom.com/zh/wiki/尤波伊语) and [Crigàt](https://yuyan.fandom.com/zh/wiki/克里加语) for the project mentioned above, *Combine Prelude*.
 Because of her work on this project, she was famous both in the *Half-Life* community and in the contructed language community.
 
 Jing Ye's favorite anime is *YuruYuri*.
@@ -50,4 +50,4 @@ not only were there goodbyes from the friends she made,
 but also messages from the linguistics community, to achieve more in this field;
 and messages from the trans community, to encourage each other to keep going.
 
-Contributor for this entry: unt
+Contributor for this entry: [unt](https://phesoca.com)

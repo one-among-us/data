@@ -2,7 +2,7 @@
 name: Xuewulihuameng
 info:
     alias: Xuewulihuameng
-    location: Chongqing, Yubei
+    location: Yubei, Chongqing
 ---
 
 ## Description

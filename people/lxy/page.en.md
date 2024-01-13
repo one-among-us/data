@@ -1,5 +1,8 @@
 ---
 name: Xiyin Li
+info:
+    alias: Xiyin, 希至栀溪
+    location: Beijing, China
 ---
 
 Xiyin was an outstanding transgender woman. She was cute and gentle. She was a student majoring in electronic information engineering and was good at electronic design and programming. She was a genius in everyone’s eyes, but she also had times when she’s depressed or anxious. She didn’t like to show her emotions: In the school group chat, she was a positive girl who often helps answer questions about electronic design and programming.

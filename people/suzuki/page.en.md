@@ -2,7 +2,7 @@
 name: suzuki
 info:
     alias: 铃木,铃木凉宫,Ling Mu Liang Gong,lingmulianggong,LingMuLiangGong,Suzuki
-    location: Taiwan, China
+    location: Taiwan
 ---
 
 ## Description
@@ -23,7 +23,7 @@ We believe that she can make anything as long as she wants to.
 >
 > “To everyone who worked on this project, thank you!”
 
-Unfortuantely, her young life ended on 2022 December 14th.
+Unfortunately, her young life ended on 2022 December 14th.
 A month after that, her friend [Kagurazaka Yun](https://twitter.com/NaiXi2233/status/1672848353363902469) published this message:
 “Good night, Suzuki. Wish you can be a girl forever in heaven!”
 

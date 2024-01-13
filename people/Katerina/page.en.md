@@ -17,7 +17,7 @@ She had riding experience in many provinces, and rode a long distance to visit h
 
 Her QQ avatar came from the opening song video of *Super Cub*. It was an animation of a girl, Koguma, and her story with her second-hand motorcycle.
 
-Following are some of her photos, including her own motocycle:
+Following are some of her photos, including her own motorcycle:
 
 <PhotoScroll photos={[
     '${path}/photos/photo1.png',
