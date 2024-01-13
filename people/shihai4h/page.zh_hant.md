@@ -2,7 +2,7 @@
 name: 柿海
 info:
     alias: 小柿子, 貓小淚, u3 
-    location: 蘇州昆山
+    location: 江蘇蘇州 昆山市
 ---
 
 ## 簡介
