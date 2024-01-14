@@ -50,7 +50,7 @@ function buildPeopleInfoAndList() {
       const info: any = YAML.load(infoFile);
 
       // Read the page.md of that language
-      const markdown = fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8");
+      const markdown = fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8").replaceAll("<!--", "{/* ").replaceAll("-->", " */}");
 
       // Get the markdown header
       const mdMeta = metadataParser(markdown).metadata
@@ -118,7 +118,7 @@ function buildPeoplePages() {
     for (const lang of ['', '.zh_hant', '.en'])
     {
       // Read markdown page and remove markdown meta
-      let markdown = metadataParser(fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8")).content;
+      let markdown = metadataParser(fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8")).content.replaceAll("<!--", "{/* ").replaceAll("-->", " */}");
 
       // Autocorrect markdown
       markdown = autocorrect.formatFor(markdown, 'markdown')
