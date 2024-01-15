@@ -5,7 +5,7 @@ info:
     location: Haikou, China
 ---
 
->「//La homa mondo devus esti detruita//I will wait for you at Alpha Orionis//」
+>「//La homa mondo devus esti detruita//I will wait for you at Betelgeuse//」
 >「I love every one of you. I really do.」
 
 ## Profile
@@ -62,5 +62,5 @@ However, she rejected every offer of help.
 > I already went against it twice.
 > Once, twice, there will not be a third.
 
-At night, when we look at Alpha Orionis, the brightest star in this starry sky,
+At night, when we look at Betelgeuse, the brightest star in this starry sky,
 you will be waving at us, smiling.
