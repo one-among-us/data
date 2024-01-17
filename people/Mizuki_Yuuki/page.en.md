@@ -2,7 +2,7 @@
 name: Mizuki Yuuki
 info: 
     alias: Mizuki
-    location: 上海
+    location: Shanghai
 ---
 
 ## Description
