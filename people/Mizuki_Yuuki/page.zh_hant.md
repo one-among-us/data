@@ -27,4 +27,4 @@ mizuki 生前是一位非常開朗、樂觀, 也非常在意夥伴的 non-binary
 
 希望你去往沒有痛苦的世界, 希望妳的未來繽紛多彩.  
 
-<PhotoScroll photos={[ '${path}/photos/photo1.jpg', '${path}/photos/photo2.jpg', ]}/>
+<PhotoScroll photos={[ '${path}/photos/photo1.jpg', '${path}/photos/photo2.jpg', '${path}/photos/photo3.jpg', '${path}/photos/photo4.jpg', '${path}/photos/photo5.jpg', '${path}/photos/photo6.jpg', ]}/>

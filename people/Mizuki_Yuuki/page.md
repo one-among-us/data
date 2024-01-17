@@ -27,4 +27,4 @@ mizuki 生前是一位非常开朗、非常乐观、非常在意朋友的 non-bi
 
 希望你去往没有痛苦的世界，希望你的未来缤纷多彩。
 
-<PhotoScroll photos={[ '${path}/photos/photo1.jpg', '${path}/photos/photo2.jpg', ]}/>
+<PhotoScroll photos={[ '${path}/photos/photo1.jpg', '${path}/photos/photo2.jpg', '${path}/photos/photo3.jpg', '${path}/photos/photo4.jpg', '${path}/photos/photo5.jpg', '${path}/photos/photo6.jpg', ]}/>
