@@ -17,7 +17,7 @@ According to their friends, they made soundtracks for some games and took up a p
 
 ## Departure
 
-Owing to long-term domestic violence, having been hurt by a friend in senior high school, and getting mentally abused by their professor in university, Proselyte was troubled by anxiety and depression all along.
+Owing to long-term domestic violence, having been hurt by friends in senior high school, and getting mentally abused by their professor in university, Proselyte was troubled by anxiety and depression all along.
 They gradually felt that they were losing their sense of existence.
 
 However, they still tried to support themselves by consuming beautiful things, including their favourite games, cute animals, and colourful illustrations.
