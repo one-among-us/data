@@ -2,7 +2,7 @@
 name: s5ehfr9
 info:
     alias: Lucy
-    location: 四川绵阳
+    location: 中国四川
 ---
 
 ## 简介
