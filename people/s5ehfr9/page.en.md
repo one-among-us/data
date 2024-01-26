@@ -2,7 +2,7 @@
 name: s5ehfr9
 info:
     alias: Lucy
-    location: Sichuan
+    location: Sichuan, China
 ---
 
 ## Description 
