@@ -1,8 +1,8 @@
 ---
 name: Mizuki Yuuki
-info: 
-    alias: Mizuki
-    location: Shanghai
+info:
+  alias: Mizuki
+  location: Shanghai
 ---
 
 ## Description
@@ -28,3 +28,5 @@ I regret not taking more photos of them. Their smile and sincere friendship will
 I hope they have found a world free of pain, a future full of color.
 
 <PhotoScroll photos={[ '${path}/photos/photo1.jpg', '${path}/photos/photo2.jpg', '${path}/photos/photo3.jpg', '${path}/photos/photo4.jpg', '${path}/photos/photo5.jpg', '${path}/photos/photo6.jpg', ]}/>
+
+Contributors for this entry: [NNG](https://twitter.com/NNGnoMKT)
