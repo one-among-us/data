@@ -17,4 +17,4 @@ In the last few months of her life, she was separated from her loving family. Th
 
 On the afternoon of June 16, 2023, after several attempts in two years, this time, unfortunately, she left us forever with her regrets and talents. Maybe, choosing to leave this world was the only selfish thing she ever did.  
 
-Her avatar comes from a game she developed. She said that her avatar would be unique if it is displayed on One Among Us, “but I can't do anything, and probably no one will write me a profile by then.”
+Her avatar comes from [a game she developed](https://github.com/DSLapatura/FP/releases/download/v0.0.1/Fermi.Paradox.zip). She said that her avatar would be unique if it is displayed on One Among Us, “but I can't do anything, and probably no one will write me a profile by then.”
