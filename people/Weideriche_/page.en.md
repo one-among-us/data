@@ -9,13 +9,13 @@ info:
 
 Zihe was a non-binary ally of us, whose pronouns were always She/Her.
 
-Generally speaking, she was a gentle and broad-minded girl, but she couldn't get enough happiness and love.
+Generally speaking, she was a gentle and broad-minded girl, but she couldn't get enough happiness or love.
 
-She was our intimate friend as well, she would express her caring when others were hurt.
+She would care for others when others were hurt.
 
-> Meow~ Don't use alcohol to disinfect the wound, it will be very painful.
+> Meow~ Don't use alcohol to disinfect the wound, it could be very painful.
 
-She had ever been in the face of difficulty of life, and had a good time with us.
+She had tried to face the difficulty of life with a simle. She had a good time with us.
 
 Owing to factors like her bad family environment, her mental health worsened.
 She started to self-harm and overdose, and planned to commit suicide.
