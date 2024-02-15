@@ -12,20 +12,46 @@ info:
 '${path}/photos/photo2.jpg',
 ]} />
 
-Shihai was a foolish girl who preferred to stand by the window, gazed into the distance and lost in thought, just like her favourite QQ avators.
-Even if you approached her quietly and cautiously, it was not easy for her to notice.
+Shihai was a naive girl who preferred to stand by the window, gazing into the distance and losing in thought, just like her favourite QQ avators.
+In that state, she won't notice you if you walk close to her quietly.
 
-For the first time I met her in real life, I (The author of this entry) was attracted by her glommy  temperament like Lin Tai-yu in *A Dream of Red Mansions*.
+The first time I met her in real life, I (The author of this entry) was immediately attracted by her glommy temperament just like Lin Tai-yu in *A Dream of Red Mansions*.
 
 <PhotoScroll photos={[
 '${path}/photos/photo3.jpg',
 ]} />
 
-（Shihai was measuring her height）
+（The preceding photo is Shihai was measuring her height）
 
 ## Her Family
 
+Her hometown is located inside the Central Plains.
+Conservative values is dominant there.
+Her grandfather had two sons because of birth control legislations.
+Her uncle (the elder son) had one daughter (her sister); her father had one "son" (her).
+
+They had a tradition of throwing away the afterbirth for female babies and burying the afterbirth in the center of the courtyard for male babies.
+Therefore, she had an enormous amount of pressure put on her for "extending the family line" ever since her birth.
+
+Her father was whom we'd call a "traditional father" who follows Machismo.
+In 2023, her father started to be even more strict with her after he almost died from a disease.
+
+Her father was proficient in Math and Economics.
+He wanted to raise her to be "a man who can support the sky while standing on the ground".
+He said "I want him to be resillient and unyielding, but he's too kind; he can't do it."
+Moreover, because she was fragile, introverted, and kind since being a child, out of worry, he often taught her what he thought was necessary to live in a society: 
+Capitalism, Laws, the dark side of humanity...but she often wasn't able to meet her father's standard.
+
+She had poor grades in junior middle school, and still wasn't able to meet her family's expectations after junior middle school.
+She always blamed herself for that.
+After her graduation from high school, she studied at home for a year and then was able to get into a good public university.
+Since she was living with her parents, she didn't have much personal space and was always blamed for things that are not her fault.
+For example, when she plays a game to take a break form studies, she'd be blamed for "always playing games".
+Therefore, she was always depressed.
+
 ## Her Transgender Experience
+
+
 
 ## The Story of Her and Transgender Community
 
