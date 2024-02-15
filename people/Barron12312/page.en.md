@@ -2,7 +2,7 @@
 name: Barron
 ---
 
-Barron was a happy trans girl who studied painting in Japan.
+Barron was a happy trans girl who studied drawing in Japan.
 She had a dream to open a manga studio.
 But unfortunately, due to family discord and her coming out, she was forced to give up her studies and return to China at the end of May 2023 after failed to commit suicide in Japan.
 
