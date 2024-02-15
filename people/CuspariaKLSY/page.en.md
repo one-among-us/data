@@ -44,6 +44,7 @@ She began transitioning because:
 
 3.  A character she created became more and more similar to herself. She wanted to replace her.
 
-While trying to console her friend, a conflict ensued. She swallowed lots of her meds that night and argued with her father after waking up.
+4.  Pressure from family and school was becoming increasingly heavy. She wanted to escape the body she was born with but don't have the means to do so.
 
+While trying to console her friend, a conflict ensued. She swallowed lots of her meds that night and argued with her father after waking up.
 She then attempted suicide and was sent to the hospital. She was confirmed to be died and cremated by August 1st, 2023.
