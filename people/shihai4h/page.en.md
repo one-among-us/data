@@ -21,7 +21,7 @@ The first time I met her in real life, I (The author of this entry) was immediat
 '${path}/photos/photo3.jpg',
 ]} />
 
-（The preceding photo is Shihai was measuring her height）
+（The preceding photo is Shihai measuring her height）
 
 ## Her Family
 
@@ -30,7 +30,7 @@ Conservative values is dominant there.
 Her grandfather had two sons because of birth control legislations.
 Her uncle (the elder son) had one daughter (her sister); her father had one "son" (her).
 
-They had a tradition of throwing away the afterbirth for female babies and burying the afterbirth in the center of the courtyard for male babies.
+They had a tradition of throwing away the placenta for female babies and burying the placenta in the center of the courtyard for male babies.
 Therefore, she had an enormous amount of pressure put on her for "extending the family line" ever since her birth.
 
 Her father was whom we'd call a "traditional father" who follows Machismo.
@@ -51,7 +51,68 @@ Therefore, she was always depressed.
 
 ## Her Transgender Experience
 
+Her father told us how she was like as a child.
+Ever since she was a child, she acted femininely.
+She told him, when she first started school, students were separated into groups of boys and girls to play.
+She imagined playing with the girls after school.
+According to some other stories told by her father, she seems to be a girl who was assigned the wrong gender at birth.
 
+Looking at her early life, her transgender experience is similar to Einar Wegener from *The Danish Girl*.
+Her gender incongruity was made apparent in as early as her childhood.
+Her early male personality was formed by trying to fit in with traditional values and ethics, but that's not the real her.
+
+Sigmund Freud explained his theory about "abnormal behaviors" in his publication *Three Essays on the Theory of Sexuality*:
+> Where the sexual instinct is fairly intense, but perverse, there are two possible outcomes.
+>
+> The first, which we shall not discuss further, is that the person affected remains a pervert and has to put up with the consequences of his deviation from the standard of civilization.
+> The second is far more interesting. It is that, under the influence of education and social demands, a suppression of the perverse instincts is indeed achieved, but it is a kind of suppression which is really no suppression at all. It can better be described as a suppression that has failed.
+>
+> The inhibited sexual instincts are, it is true, no longer expressed as such—and this constitutes the success of the process—but they find expression in other ways, which are quite as injurious to the subject and make him quite as useless for society as satisfaction of the suppressed instincts in an unmodified form would have done. This constitutes the failure of the process, which in the long run more than counterbalances its success.
+>
+> The substitutive phenomena which emerge in consequence of the suppression of the instinct amount to what we call nervous illness, or, more precisely, the psychoneuroses.
+>
+> Neurotics are the class of people who, since they possess a recalcitrant organization, only succeed, under the influence of cultural requirements, in achieving a suppression of their instincts which is apparent and which becomes increasingly unsuccessful. They therefore only carry on their collaboration with cultural activities by a great expenditure of force and at the cost of an internal impoverishment, or are obliged at times to interrupt it and fall ill.
+>
+> from Freud, S. (1908). ‘Civilized’ Sexual Morality and Modern Nervous I lness. The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume IX (1906-1908): Jensen's ‘Gradiva’ and Other Works, 177-204
+
+According to conservative values, being trans is a kind of such abnormality.
+She knew her parents may not be able to accept her choices.
+She thought her choice caused her parents' wishes of her void.
+She was diagnosed with severe depression after a failed suicide attempt.
+At that time, her father thought her trans identity was just a crossdressing fetish and was hopeful for her to be "cured" in a few years.
+He thought if that problem is taken care of, then she won't be depressed, and tried to accept her and even allowing her to take HRT.
+He told her he'll convince her mother, but he failed.
+
+Her mother ran away from home after learning about the situation.
+Her mother told her she wants to die and never see her again.
+Before that, her parents were a loving couple who'd hold hands while going out.
+They even took a new set of wedding photographs in June that same year.
+Therefore, she was stuck in a dilemma between them.
+Her mother's words of unacceptance was a big blow for her.
+According to her character, she might think:
+> If I'm no longer in this world, or if I was not born in the first place, then maybe my parents won't have to deal with me and will be happier?
+
+She's born sentimental and has a fragile but kind heart.
+In my opinion, she's a silly girl who's too kind for her own good.
+She'd rather blame her misfortune on her fate rather than others' malice,
+just like Dai-Yu's negative outlook on life and relationships:
+> Coming together can only be followed by parting. The more pleasure people find in parties, the more lonely and unhappy they must feel when the parties break up. So better not forgather in the first place. The same is true of flowers: the delight people when in bloom, but it's so heart-rending to see them fade that it would be better if they never blossomed.
+>
+> from A Dream of Red Mansions Volume I (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【第一册 P452】ISBN: 9787119006437
+
+Since a long time ago, she wanted to avoid forming close relationships because she's afraid of the partings.
+
+She had poor grades in middle school and was often bullied.
+She couldn't fight back for unreasonable isolation and even physical abuse.
+At that time, she had a close friend.
+They were neighbours.
+She started to learn to play basketball in order to play together.
+However, they parted after he started to bully her.
+That was her first resistance.
+With teary eyes, she questioned:
+> Why'd you bully me too?
+
+This 
 
 ## The Story of Her and Transgender Community
 
