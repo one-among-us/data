@@ -222,10 +222,47 @@ If there's any hint of meaning at that point, death may be avoided.
 What she thought to be her meaning fades completely at some point and caused her will to keep living as a habit to crumble.
 
 Albert Camus had a positive outlook on life.
+He often nostalgically recalled the vast sea and clear sky from his hometown.
+He realized the absurdity of life, but he also realized he could live however he wanted.
+He knew he couldn't rid the evil of the world, but he embraced the absurdity of live anyway.
+But my dear Shihai, this world had lost the vast sea and clear sky she was so fond of.
+What an world would make people choose to die rather than living?
+How absurd.
+
+In the end, she said "Living is just eating, drinking, playing, and having sex.", "World abandoned me so I'll abandone it too."
+
+In the end, she got a bad end she wanted to get in *Needy Streamer Overload*.
+
+In the end, she chose to become one with the void as a final act of defiance to the gods:
+> Ame (main character of *Needy Streamer Overload*) can restart in the next playthrough,
+> but in this world,
+> even if I spend my whole life,
+> I'll never find that silly cat again.
+
+> No search can be made for the incense that revives the dead, as the way to Fairy Tales is lost. No medicine that restores life can be obtained, as the Magic Barge is gone. Only yesterday I was painting those bluish eyebrows; today, who will warm her cold fingers with the jade rings?
+>
+> Magic Barge: Magic Barge: A Chinese legend said this belonged to the immortals and sailed in the Sky River, Milky Way.
+>
+> A Dream of Red Mansions Volume II (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【第二册 P672】ISBN: 9787119006437
+
+The morning after she left, it snowed.
+I thought, such a kind being must have gone to that star in the sky and became a god of snow.
+
+The Japanese like to use Sakura flowers as a metaphor for human life.
+They bloom for just a moment and then wither.
+Her life is just like that.
+
+Mishima Yukio wrote a life of rebirth in *The Decay of the Angel*.
+Everytime they reaches 18, they'd be reborn in another life.
+Therefore, they always lived in their best days and never needed to worry about dying after their teeth fall off, hair become gray, or losing their beauty.
+
+Shihai is like that, although the Sakura flower has withered, it had bloomed after all.
+
+My dear Shihai, see you in the next life.
+I believe we'll meet even then, since we've become intertwined by fate.
+I still wanted to ask you why, but no one will give me an answer now no matter how many times I do.
 
 Contributor: [Li'an](https://twitter.com/LianShihai)
-
-## Annotations
 
 {/* Notes:
 
