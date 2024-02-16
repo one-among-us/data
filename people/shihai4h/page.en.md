@@ -175,6 +175,19 @@ But I forgot to hold on to your hand and lost you.
 
 ## Absurdity and Suicide, the Last Chapter
 
+God keeps throwing the dice and it always landed on one.
+Born emotionally sensitive, pressure from family, meeting the wrong people, one after one, she didn't have a chance to collect herself.
+
+> How could such a delicate flower withstand a fierce gale, or the care-stricken willow endure torrential rain?
+> 
+> from A Dream of Red Mansions Volume II (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【第二册 P672】ISBN: 9787119006437
+
+I don't wanna spend more ink on those people who had betrayed her.
+Humanity, though complex, always leaves traces.
+She was smart enough to realize this from the beginning:
+> There're happiness in life, but nothing lasts forever.
+> 
+
 Contributor: [Li'an](https://twitter.com/LianShihai)
 
 ## Annotations
