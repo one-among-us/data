@@ -129,7 +129,49 @@ She had learnt of HRT since high school, but couldn't decide on it.
 After starting HRT, she started to regret for her efforts to grow taller in the past.
 She suffered from gender dysphoria from her height, which was especially painful for her, who was both mentally unwell and stubborn.
 
-## The Story of Her and Transgender Community
+## She and the Trans Community
+
+*(The full story is very long, even after removing some details.
+Since it's just me and another of her friends' comments, we'll refrain from putting [it](https://www.douban.com/note/858246014/?dt_dapp=1&_i=4897516gLA6hO2) on here.)*
+
+For the last part of her story with the trans community, I'm both a character inside the story and a reader of the story.
+In the end, I was the one who was most likely to save her life, but I wasn't able to.
+She's lost, just like in her last nightmare, her call to me wasn't picked up.
+
+Those stories all describe one thing:
+
+A silly girl who was never given enough love keep giving the world and everyone she meets her kindness and trust.
+And then she's hurt by people who just want to "have some fun" publishing her real identity online, to the point where she developed a persecution complex.
+She was continously influenced by the negative thoughts of the ones she trusted and relied on the most, and then cut off and isolated.
+On this timeline, there were tons of points where she could've gotten better, but her luck is just too bad.
+
+I'm not a great person.
+I'm a numb person who keeps living in my own world and only understood everything after she left.
+I didn't know anything about her oppressive family and those cruel things happened to her.
+My cold heart didn't experience her suffering.
+> "The wind is born from the earth, Rises from the tips of green duckweed."
+> 
+> from Wen Xuan or Selections of Refined Literature, Volume III: Rhapsodies on Natural Phenomena, Birds and Animals, Aspirations and Feelings, Sorrowful Laments, Literature, Music, and Passions, compiled by Xiao Tong (501-531) , David R. Knechtges【P9】
+If I was a more caring person, maybe I could've realized those abnormalities, maybe I could've prevented her death.
+
+> Do not cry for love, my dear.
+>
+> from *Conversations About Love* by Li Yinhe
+
+In her view, I'm a big sister who likes her.
+She was too kind.
+She knew love comes with pain, but she didn't want to hurt anyone.
+Therefore, she gave me a complex form of love involving romantic affection, sisterly love, and gingerly care.
+Since she knew she had been influenced negatively by many other trans people who have negative outlooks on life, she didn't want to "infect" those negative thoughts to me, just like she's always worried about the person in her heart.
+
+She tried intentionally keeping a distance from me:
+> Anan is a working member of society, I won't care whether you wants to be with me or not.
+Wrong.
+
+There's nothing happier in this world than being loved back by the one you love.
+You had always been the vast sea and clear sky in my world.
+Sorry, I was busy making a living; I was busy dealing with others.
+But I forgot to hold on to your hand and lost you.
 
 ## Absurdity and Suicide, the Last Chapter
 
