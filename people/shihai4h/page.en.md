@@ -112,7 +112,22 @@ That was her first resistance.
 With teary eyes, she questioned:
 > Why'd you bully me too?
 
-This 
+Given her character and lack of therapy, this cruel experience made her eventually develop [PTSD/PTSR](https://en.wikipedia.org/wiki/Post-traumatic_stress_disorder).
+She started to be afraid of close relationships more.
+Her other mental issues like severe depression is also related to this experience.
+
+> When she remembers the horrible things she'd been through, I had seen her whole body crampling, trembling. I had seen her suffer from fear, dread, and shortness of breath.
+> But I was too neglectful and obtuse.
+> I didn't realize the severity of the situation and the difficulty of dealing with it.
+> If I realized, maybe things could be different.
+
+She inherited the stubborness of her father.
+Her father researched nutritionalism and sports in order to make her grow taller.
+At that time, she wanted to grow taller as well, therefore she did as he instructed:
+eating one meal per day and doing lots of exercise.
+She had learnt of HRT since high school, but couldn't decide on it.
+After starting HRT, she started to regret for her efforts to grow taller in the past.
+She suffered from gender dysphoria from her height, which was especially painful for her, who was both mentally unwell and stubborn.
 
 ## The Story of Her and Transgender Community
 
