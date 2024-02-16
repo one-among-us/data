@@ -186,7 +186,42 @@ I don't wanna spend more ink on those people who had betrayed her.
 Humanity, though complex, always leaves traces.
 She was smart enough to realize this from the beginning:
 > There're happiness in life, but nothing lasts forever.
-> 
+> There're imperfections in good things, and fortunes always come with small prints.
+> Happiness would turn into sadness; people come and go.
+> In the end it's like a dream, everything turns to void.
+> Maybe it's not worth it in the first place.
+
+She thought lots and lots and waited for a juncture.
+> The worm is in man’s heart. That is where it must be sought. One must follow and understand this fatal game that leads from lucidity in the face of experience to flight from light.
+>
+> from The Myth of Sisyphus, Albert Camus, Justin O'Brien, Penguin Books Ltd; Spark Publishing【P2】ISBN 13: 9781411473379
+
+Many philosophers and authors explained well the tragedy, voidness, and absurdity of living.
+Everyone is infinity if they're seen as the center of the world.{/* 这句不太对劲 */}
+In essence, everyone is an island.
+What one think cannot be directly experienced by any other.
+In this view, anyone's conciousness is always alone.
+
+People spend their lives to beg for love from the world, but disappointment is often what follows.
+At those points, the meaninglessness and disappointing nature of the world would be shown completely.
+But humanity contains hope for love, happiness, and rationality.
+Absudity and meaninglessness is then born from the conflict of humanity's hope and world's nature.
+Realizing they are enduring this absurd world, some may be motivatied for suicide.
+
+> Dying voluntarily implies that you have recognized, even instinctively, the ridiculous character of that habit, the absence of any profound reason for living, the insane character of that daily agitation and the uselessness of suffering.
+>
+> What then is that incalculable feeling that deprives the mind of the sleep necessary to life? A world that can be explained even with bad reasons is a familiar world. But, on the other hand, in a universe suddenly divested of illusions and lights, man feels an alien, a stranger. His exile is without remedy since he is deprived of the memory of a lost home or the hope of a promised land. This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity. All healthy men having thought of their own suicide, it can be seen, without further explanation, that there is a direct connection between this feeling and the longing for death.
+>
+> from The Myth of Sisyphus, Albert Camus, Justin O'Brien, Penguin Books Ltd; Spark Publishing【P3】ISBN 13: 9781411473379
+
+Motivations for suicide is complex.
+Few consider it throughly.
+The numbness of living just for living causes pain, but suicide needs a kind of bravery that overcomes the body's natural inclination to avoid death.
+"My soul is on the verge of death, but my body don't want to die."
+If there's any hint of meaning at that point, death may be avoided.
+What she thought to be her meaning fades completely at some point and caused her will to keep living as a habit to crumble.
+
+Albert Camus had a positive outlook on life.
 
 Contributor: [Li'an](https://twitter.com/LianShihai)
 
