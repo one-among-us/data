@@ -9,7 +9,7 @@ info:
 [According to Ying](https://twitter.com/Uekawakuyuurei/status/1416208961339019267), they are “Just an unhealthy boy in real life.”.
 However, when they are thought to be a girl online, they would not talk about their gender.
 Although they felt guilty while doing so,
-we always believe Ying to be the most kind-hearted and most lovely girl or boy.
+we always believe Ying to be the most kindhearted and most lovely girl or boy.
 
 Ying is an enthusiast about ships and they like to draw them.
 Under their brushes, those ships are no more weapons for warfare and destruction, but vehicles carrying the power of peace.
