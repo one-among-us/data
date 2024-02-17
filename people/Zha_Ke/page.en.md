@@ -10,9 +10,7 @@ Zha Ke (Lilith) was a transgender man. We have little information of him, only a
 (Warning: Please be informed that the letter by Zha Ke is potentially triggering, includes depiction of suicidal thoughts and mental health issues. The letter is in simplified Chinese and translated to English.)
 
 <details>
-<summary>**Click to Unfold**</summary>
-> My Will
->
+<summary>My Will</summary>
 > I have been continuously harrassed by people online for two years because my inability to adapt to society and stupidity.
 > I had been doxxed by both people online and in the real world; the police wasn't able to do much.
 > I have mental health issues like borderline personality disorder, bipolar disorder type 2, severe anxiety, PTSD.
