@@ -36,6 +36,6 @@ If you wish, you can share your memory of Yantian by comment.
 >
 > If you don't hope your comment to be referenced, please mark it out.
 >
-> You can send an email to [info@one-among.us](mailto:info@one-among.us) to contribute photos or other rich text or submit an issue to our [Github repository](https://github.com/one-among-us/data).
+> You can send email to [info@one-among.us](mailto:info@one-among.us) to contribute photos or other rich text or submit issue to our [Github repository](https://github.com/one-among-us/data).
 
 Yantian, have a good rest and have a good sleep. Thank you for your efforts all this time.
