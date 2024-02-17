@@ -32,7 +32,7 @@ They never knew what happened, and had no chance to clarify.
 
 This thing triggered their PTSD about assaults and cold violence.
 After that, their mental health gradually deteriorated.
-In the evening, they went out of their home silently and assimilated into the night.
+In an evening, they went out of their home silently and assimilated into the night.
 
 ## After their leaving
 
