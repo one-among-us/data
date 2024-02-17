@@ -15,7 +15,7 @@ info:
 Shihai was a naive girl who preferred to stand by the window, gazing into the distance and losing in thought, just like her favourite QQ avators.
 In that state, she won't notice you if you walk close to her quietly.
 
-The first time I met her in real life, I (The author of this entry) was immediately attracted by her glommy temperament just like Lin Tai-yu in *A Dream of Red Mansions*.
+The first time I met her in real life, I (The author of this entry) was immediately attracted by her gloomy temperament just like Lin Tai-yu in *A Dream of Red Mansions*.
 
 <PhotoScroll photos={[
 '${path}/photos/photo3.jpg',
@@ -38,7 +38,7 @@ In 2023, her father started to be even more strict with her after he almost died
 
 Her father was proficient in Math and Economics.
 He wanted to raise her to be "a man who can support the sky while standing on the ground".
-He said "I want him to be resillient and unyielding, but he's too kind; he can't do it."
+He said "I want him to be resilient and unyielding, but he's too kind; he can't do it."
 Moreover, because she was fragile, introverted, and kind since being a child, out of worry, he often taught her what he thought was necessary to live in a society: 
 Capitalism, Laws, the dark side of humanity...but she often wasn't able to meet her father's standard.
 
@@ -46,7 +46,7 @@ She had poor grades in junior middle school, and still wasn't able to meet her f
 She always blamed herself for that.
 After her graduation from high school, she studied at home for a year and then was able to get into a good public university.
 Since she was living with her parents, she didn't have much personal space and was always blamed for things that are not her fault.
-For example, when she plays a game to take a break form studies, she'd be blamed for "always playing games".
+For example, when she plays a game to take a break from studies, she'd be blamed for "always playing games".
 Therefore, she was always depressed.
 
 ## Her Transgender Experience
@@ -95,7 +95,7 @@ According to her character, she might think:
 She's born sentimental and has a fragile but kind heart.
 In my opinion, she's a silly girl who's too kind for her own good.
 She'd rather blame her misfortune on her fate rather than others' malice,
-just like Dai-Yu's negative outlook on life and relationships:
+just like Tai-Yu's negative outlook on life and relationships:
 > Coming together can only be followed by parting. The more pleasure people find in parties, the more lonely and unhappy they must feel when the parties break up. So better not forgather in the first place. The same is true of flowers: the delight people when in bloom, but it's so heart-rending to see them fade that it would be better if they never blossomed.
 >
 > from A Dream of Red Mansions Volume I (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【第一册 P452】ISBN: 9787119006437
@@ -116,12 +116,12 @@ Given her character and lack of therapy, this cruel experience made her eventual
 She started to be afraid of close relationships more.
 Her other mental issues like severe depression is also related to this experience.
 
-> When she remembers the horrible things she'd been through, I had seen her whole body crampling, trembling. I had seen her suffer from fear, dread, and shortness of breath.
+> When she remembers the horrible things she'd been through, I had seen her whole body cramping, trembling. I had seen her suffer from fear, dread, and shortness of breath.
 > But I was too neglectful and obtuse.
 > I didn't realize the severity of the situation and the difficulty of dealing with it.
 > If I realized, maybe things could be different.
 
-She inherited the stubborness of her father.
+She inherited the stubbornness of her father.
 Her father researched nutritionalism and sports in order to make her grow taller.
 At that time, she wanted to grow taller as well, therefore she did as he instructed:
 eating one meal per day and doing lots of exercise.
@@ -142,16 +142,18 @@ Those stories all describe one thing:
 
 A silly girl who was never given enough love keep giving the world and everyone she meets her kindness and trust.
 And then she's hurt by people who just want to "have some fun" publishing her real identity online, to the point where she developed a persecution complex.
-She was continously influenced by the negative thoughts of the ones she trusted and relied on the most, and then cut off and isolated.
+She was continuously influenced by the negative thoughts of the ones she trusted and relied on the most, and then cut off and isolated.
 On this timeline, there were tons of points where she could've gotten better, but her luck is just too bad.
 
 I'm not a great person.
 I'm a numb person who keeps living in my own world and only understood everything after she left.
 I didn't know anything about her oppressive family and those cruel things happened to her.
-My cold heart didn't experience her suffering.
+My cold heart didn't experience her suffering, as an ancient Chinese poet wrote in his prose:
+
 > "The wind is born from the earth, Rises from the tips of green duckweed."
 > 
 > from Wen Xuan or Selections of Refined Literature, Volume III: Rhapsodies on Natural Phenomena, Birds and Animals, Aspirations and Feelings, Sorrowful Laments, Literature, Music, and Passions, compiled by Xiao Tong (501-531) , David R. Knechtges【P9】
+
 If I was a more caring person, maybe I could've realized those abnormalities, maybe I could've prevented her death.
 
 > Do not cry for love, my dear.
@@ -190,6 +192,8 @@ She was smart enough to realize this from the beginning:
 > Happiness would turn into sadness; people come and go.
 > In the end it's like a dream, everything turns to void.
 > Maybe it's not worth it in the first place.
+>
+> from Chapter 1, The Dream of Red Mansion(Jia-Xu Version), Translated by *One Among Us Member* with the help of Li'an
 
 She thought lots and lots and waited for a juncture.
 > The worm is in man’s heart. That is where it must be sought. One must follow and understand this fatal game that leads from lucidity in the face of experience to flight from light.
@@ -200,13 +204,13 @@ Many philosophers and authors explained well the tragedy, voidness, and absurdit
 Everyone is infinity if they're seen as the center of the world.{/* 这句不太对劲 */}
 In essence, everyone is an island.
 What one think cannot be directly experienced by any other.
-In this view, anyone's conciousness is always alone.
+In this view, anyone's consciousness is always alone.
 
 People spend their lives to beg for love from the world, but disappointment is often what follows.
 At those points, the meaninglessness and disappointing nature of the world would be shown completely.
 But humanity contains hope for love, happiness, and rationality.
-Absudity and meaninglessness is then born from the conflict of humanity's hope and world's nature.
-Realizing they are enduring this absurd world, some may be motivatied for suicide.
+Absurdity and meaninglessness is then born from the conflict of humanity's hope and world's nature.
+Realizing they are enduring this absurd world, some may be motivated for suicide.
 
 > Dying voluntarily implies that you have recognized, even instinctively, the ridiculous character of that habit, the absence of any profound reason for living, the insane character of that daily agitation and the uselessness of suffering.
 >
@@ -229,7 +233,7 @@ But my dear Shihai, this world had lost the vast sea and clear sky she was so fo
 What an world would make people choose to die rather than living?
 How absurd.
 
-In the end, she said "Living is just eating, drinking, playing, and having sex.", "World abandoned me so I'll abandone it too."
+In the end, she said "Living is just eating, drinking, playing, and having sex.", "World abandoned me so I'll abandoned it too."
 
 In the end, she got a bad end she wanted to get in *Needy Streamer Overload*.
 
@@ -253,7 +257,7 @@ They bloom for just a moment and then wither.
 Her life is just like that.
 
 Mishima Yukio wrote a life of rebirth in *The Decay of the Angel*.
-Everytime they reaches 18, they'd be reborn in another life.
+Every time they reaches 18, they'd be reborn in another life.
 Therefore, they always lived in their best days and never needed to worry about dying after their teeth fall off, hair become gray, or losing their beauty.
 
 Shihai is like that, although the Sakura flower has withered, it had bloomed after all.
@@ -264,7 +268,7 @@ I still wanted to ask you why, but no one will give me an answer now no matter h
 
 Contributor: [Li'an](https://twitter.com/LianShihai)
 
-{/* Notes:
+{/* Following are en localization notes, available for consultation.
 
 中原：Zhongyuan, the Central Plain(s)
 
