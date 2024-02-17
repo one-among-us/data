@@ -233,7 +233,7 @@ But my dear Shihai, this world had lost the vast sea and clear sky she was so fo
 What an world would make people choose to die rather than living?
 How absurd.
 
-In the end, she said "Living is just eating, drinking, playing, and having sex.", "World abandoned me so I'll abandoned it too."
+In the end, she said "Living is just eating, drinking, playing, and having sex.", "World abandoned me so I'll abandon it too."
 
 In the end, she got a bad end she wanted to get in *Needy Streamer Overload*.
 
