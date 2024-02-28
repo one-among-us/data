@@ -1,0 +1,7 @@
+id: interrgned
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2000-12-28'
+  died: '2024-01-22'
+websites:
+  twitter: https://twitter.com/interrgned
