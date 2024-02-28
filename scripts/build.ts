@@ -140,15 +140,15 @@ function handleFootnote(md: string) {
   if (!md.includes('[^')) return md
 
   // Replace footnote references with HTML superscript tags
-  md = md.replace(/\[\^(\d+)\](?::\s*(.*))?/g, (match, id, text) => text ?
+  return md.replace(/\[\^(\d+)\](?::\s*(.*))?/g, (match, id, text) => text ?
       // Footnote definition
       `<li id="footnote-${id}">${text}<a href="#footnote-ref-${id}">↩</a></li>` :
       // Footnote reference
       `<sup><a href="#footnote-${id}" id="footnote-ref-${id}">${id}</a></sup>`
   )
-
+  
   // Wrap the footnote definitions in an ordered list
-  return md.replace(/(<li id="footnote.*<\/li>)/gs, '<ol>\n$1\n</ol>')
+  .replace(/(<li id="footnote.*<\/li>)/gs, '<ol>\n$1\n</ol>')
 }
 
 // Copy `people/${dirname}/photos` to `dist/people/${dirname}/`.
