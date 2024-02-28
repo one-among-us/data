@@ -120,6 +120,9 @@ function buildPeoplePages() {
       // Read markdown page and remove markdown meta
       let markdown = metadataParser(fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8")).content.replaceAll("<!--", "{/* ").replaceAll("-->", " */}");
 
+      // Handle Footnote
+      markdown = handleFootnote(markdown)
+
       // Autocorrect markdown
       markdown = autocorrect.formatFor(markdown, 'markdown')
 
@@ -131,6 +134,50 @@ function buildPeoplePages() {
       fs.writeFileSync(path.join(distPath, `page${lang}.json`), JSON.stringify(result));
     }
   }
+}
+
+function handleFootnote(md: string) {
+  const data = md.split('')
+  let result = ''
+  let footnote = false
+  let ol = false
+
+  for (let i = 0; i < data.length; i += 1) {
+    if ((data[i] == '[') && (i != data.length - 1)) {
+      if (data[i + 1] == '^') {
+        footnote = true;
+        i += 1
+        let id = ''
+        while (data[++i] != ']') id += data[i]
+        if (data[i + 1] == ':') {
+          if (!ol) {
+            ol = !ol;
+            result += '<ol>\n'
+          }
+          //<li id="fn1">message <a href="#fnref1">↩</a></li>
+          result += `<li id=\"fn${id}\">`
+          let message = ''
+          while (data[i] != '\n') {
+            if (i < data.length - 1) ++i
+            else break
+            message += data[i]
+          }
+          result += message
+          result += `<a href=\"#fnref${id}\">↩</a></li>`
+        }
+        else {
+          //<sup><a href="#fn1" id="fnref1">1</a></sup>
+          result += `<sup><a href=\"#fn${id}\" id=\"fnref${id}\">${id}</a></sup>`
+        }
+      }
+      else result += data[i]
+    }
+    else result += data[i]
+  }
+
+  if (footnote) result += '\n</ol>\n'
+
+  return result
 }
 
 // Copy `people/${dirname}/photos` to `dist/people/${dirname}/`.
