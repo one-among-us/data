@@ -137,47 +137,18 @@ function buildPeoplePages() {
 }
 
 function handleFootnote(md: string) {
-  const data = md.split('')
-  let result = ''
-  let footnote = false
-  let ol = false
+  if (!md.includes('[^')) return md
 
-  for (let i = 0; i < data.length; i += 1) {
-    if ((data[i] == '[') && (i != data.length - 1)) {
-      if (data[i + 1] == '^') {
-        footnote = true;
-        i += 1
-        let id = ''
-        while (data[++i] != ']') id += data[i]
-        if (data[i + 1] == ':') {
-          if (!ol) {
-            ol = !ol;
-            result += '<ol>\n'
-          }
-          //<li id="fn1">message <a href="#fnref1">↩</a></li>
-          result += `<li id=\"fn${id}\">`
-          let message = ''
-          while (data[i] != '\n') {
-            if (i < data.length - 1) ++i
-            else break
-            message += data[i]
-          }
-          result += message
-          result += `<a href=\"#fnref${id}\">↩</a></li>`
-        }
-        else {
-          //<sup><a href="#fn1" id="fnref1">1</a></sup>
-          result += `<sup><a href=\"#fn${id}\" id=\"fnref${id}\">${id}</a></sup>`
-        }
-      }
-      else result += data[i]
-    }
-    else result += data[i]
-  }
+  // Replace footnote references with HTML superscript tags
+  md = md.replace(/\[\^(\d+)\](?::\s*(.*))?/g, (match, id, text) => text ?
+      // Footnote definition
+      `<li id="footnote-${id}">${text}<a href="#footnote-ref-${id}">↩</a></li>` :
+      // Footnote reference
+      `<sup><a href="#footnote-${id}" id="footnote-ref-${id}">${id}</a></sup>`
+  )
 
-  if (footnote) result += '\n</ol>\n'
-
-  return result
+  // Wrap the footnote definitions in an ordered list
+  return md.replace(/(<li id="footnote.*<\/li>)/gs, '<ol>\n$1\n</ol>')
 }
 
 // Copy `people/${dirname}/photos` to `dist/people/${dirname}/`.
