@@ -120,6 +120,9 @@ function buildPeoplePages() {
       // Read markdown page and remove markdown meta
       let markdown = metadataParser(fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8")).content.replaceAll("<!--", "{/* ").replaceAll("-->", " */}");
 
+      // Handle Footnote
+      markdown = handleFootnote(markdown)
+
       // Autocorrect markdown
       markdown = autocorrect.formatFor(markdown, 'markdown')
 
@@ -131,6 +134,21 @@ function buildPeoplePages() {
       fs.writeFileSync(path.join(distPath, `page${lang}.json`), JSON.stringify(result));
     }
   }
+}
+
+function handleFootnote(md: string) {
+  if (!md.includes('[^')) return md
+
+  // Replace footnote references with HTML superscript tags
+  return md.replace(/\[\^(\d+)\](?::\s*(.*))?/g, (match, id, text) => text ?
+      // Footnote definition
+      `<li id="footnote-${id}">${text}<a href="#footnote-ref-${id}">↩</a></li>` :
+      // Footnote reference
+      `<sup><a href="#footnote-${id}" id="footnote-ref-${id}">${id}</a></sup>`
+  )
+  
+  // Wrap the footnote definitions in an ordered list
+  .replace(/(<li id="footnote.*<\/li>)/gs, '<ol>\n$1\n</ol>')
 }
 
 // Copy `people/${dirname}/photos` to `dist/people/${dirname}/`.
