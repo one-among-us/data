@@ -15,4 +15,5 @@ info:
 
 ## 新春
 
-條目貢獻：[KiraRettosei](http://github.com/KiraRettosei)
+<!-- 條目貢獻：[KiraRettosei](http://github.com/KiraRettosei) -->
+<!-- 本條目貢獻于前端匿名 -->
