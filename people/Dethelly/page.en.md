@@ -9,10 +9,11 @@ info:
 
 ## The dissipated haze in Hangzhou
 
-## The very thick fog in Jialing
+## The very thick fog over Jialing River
 
 ## After her departure
 
 ## The new spring
 
-Contributor：[KiraRettosei](http://github.com/KiraRettosei)
+<!-- Contributor：[KiraRettosei](http://github.com/KiraRettosei) -->
+<!-- The contributor of this entry is anonymous on the fore-end -->
