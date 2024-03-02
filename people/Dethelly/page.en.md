@@ -92,7 +92,7 @@ After A told her about Sugar's gender dysphoria and the fact of suicide, she was
 
 The lost of kid overwhelmed her, and she even said that Sugar was too selfish and she didn't concerned about them. Then she wanted to unlocked the phone of her kid.
 
-A requested to her that if she can bury Sugar as her daughter, but her mother replied [as this](https://twitter.com/KiraRettosei/status/1749728762261012752?s=20).
+A requested to her that if she can bury Sugar as her daughter, but her mother replied [as this](https://twitter.com/KiraRettosei/status/1749728762261012752).
 (There may be some trigger factors, please be cautious before click)
 
 However, her mother's attitude was changing gradually.
