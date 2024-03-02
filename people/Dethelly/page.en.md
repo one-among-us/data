@@ -7,13 +7,16 @@ info:
 
 ## Description
 
-Sugar is a girl from Chongqing. 
+Sugar was a girl from Chongqing. 
 She entered a university in Hangzhou, Zhejiang in the autumn of 2023.
 
 Sugar was introverted, and she always cared about others' thoughts.
-She was too shy to express her confusion and anxiety. Morever, she had't a friend to confide her thought, she could only hide these in heart. That made her look a bit intimidated.
+She was too shy to express her confusion and anxiety.
+Moreover, she hadn't a friend to confide her thought, she could only hide these in heart. 
+That made her look a bit intimidated.
 
-She even prepared a lot before she met friends in real life. She was too worried about making a bad impression on her friends, so she asked them a series of problems in advance (such as the kind of gift they hope to receive), and announced that she might show regressive behavior.
+She even prepared a lot before she met friends in real life. 
+She was too worried about making a bad impression on her friends, so she asked them a series of problems in advance (such as the kind of gift they hope to receive), and announced that she might show regressive behavior.
 
 She has a not-so-good family. Her father worked in railway group and her mother taught in school. She didn't feel love from her family.
 When she was in senior high school, she hided her dress at home, but they were still confiscated by her family at last.
@@ -21,91 +24,100 @@ This incident made her deeply convinced that her parents were extremely conserva
 
 ## The dissipated haze in Hangzhou
 
-One 6th Janurary 2024, Sugar met a friend (Temporarily call her A) in Hangzhou.
+One 6th January 2024, Sugar met a friend (Temporarily call her A) in Hangzhou.
 
 Before she met A, she hided in restroom and was always looking herself in the mirror.
-she thought she was not qualified to meet people and was too timid to come out.
-But to be honest, althought she hadn't grown her hair and worn her favourite clothes, she was still cute and pretty.
+She thought she was not qualified to meet people and was too timid to come out.
+But to be honest, although she hadn't grown her hair and worn her favourite clothes, she was still cute and pretty.
 
 The two girls visited many landscapes in Hangzhou……
 
 West Lake Culture Square, Wulin Suqare, Wuliu Lane, and Fengshan Gate.
 
-在最后临别时，她问了 A 关于「要挟」的看法，吐露了心声：
+She asked A about the word "threaten" and confided her voice to A at parting.
 
->（以下内容根据友人记忆复述，并非原文）：
+> *The following content is based on the memory of her friend, there may be differences from the original text.*
 >
-> 「或许我要做的事情就是要挟，既然他们完全无法沟通…
+> Since they are unable to communicate with……
 > 
-> 我让自己受一点伤……但是我怕疼……
+> Perhaps what I should do is to 'threaten'.
+> 
+> I should hurt myself a bit, but I am afraid of pain……
 >
-> 换取一些空间……他们总归会让步的吧……
+> Thereby getting more space in turn…… they would make a concession eventually……
 >
-> …………
+> ……
 >
-> 根据计划，今天结束见面之后我就会删你好友了。
+> According to my plan, I will delete you from my friend list after our meeting.
 >
-> 让你担心不好，你早点忘记我吧。」
+> It's my fault to make you worried about me. Please forget me as soon as possible.
 
-下车时，A 把还没吃完的半兜橘子扔给她，在 QQ 私信里留了一句「Adios.」[^1]。却没有得到回复。当晚她确实删掉了好友，推特也屏蔽了 A。
+While getting off, A reserved half a bag of oranges for her, and left "Adios."[^1] by QQ private message.
+But A didn't get any reply at last, and Sugar actually deleted her at that night.
 
-次日，一个自称其高中同学的推特用户代她捎来了几句碎碎念，A 说让这位同学多关注一下她。
+The second day, a user who claimed to be Sugar's classmate at high school brought her some pieces of thought on behalf of Suger.
+Then A requested them to take more care of her.
 
-后来，她放了寒假，去深圳康宁开了证——这是 A 事后才晓得的。
+Later, Sugar began her winter vacation, and got her diagnosis certificate in Shenzhen Kangning Hospital —— This was only known by A afterward.
 
 ## The very thick fog over Jialing River
 
-1 月 22 日，她回到重庆，并且恢复了与 A 的联系。
+On 22nd January, she returned home in Chongqing, and recovered contact with A.
 
-（据当时在外地的母亲事后称，微信聊天里那时她刚回重庆似乎很开心。）
+(Afterward, According to her mother who worked far away from Chongqing, when she just returned home, she looked happy in Wechat chatting.)
 
-但实际上并没有。
+But the fact is, actually not.
 
-她在当晚实施计划前联系了A，她和 A 反复确认表示，本次目的并非自杀，是创造自杀未遂的记录，以此表现对跨性别诉求的刚需，达到令父母让步的目的。
+She contacted with A before she initiated her plan.
+A confirmed with her again and again, but she only said that her purpose is not suicide.
+The aim of the plan is to express her transgender appeal and persuade her parents by creating a record of attempted suicide.
 
-可她决定服用的剂量超致死量。
+But the dosage she took exceeded the fatal dose.
 
-A 和别的推友劝不住，只能退而求其次为她兜底（服药后尽快报 120 ），因为 A 没有报警条件，包括沟通困难，住址信息模糊等等，救护车在半个小时多后才开出。
+A and other Twitter followers of her couldn't persuade her, so they called for the first aid to protect her for the second-best.
+Because of difficult communication and ambiguous position, the ambulance only left for rescue half an hour later.
 
-糖被送至渝北区第二人民医院时已生命垂危，于当夜（1 月 23 日凌晨）中毒身亡。
+Unfortunatelly, Sugar was dying after she was sent to the Second People's Hospital of Yubei District of Chongqing.
+And she passed away in the early morning of the next day due to chemical poisoning.
 
 ## After her departure
 
-糖的母亲在 23 日早辗转联系到 A。
+Later, through a variety of ways, the mother of Sugar contacted with A on the morning of 23rd Janurary.
 
-在A将糖的性别焦虑情况以及并非他杀等告知对方时，她表现出了闻所未闻的惊讶：
+After A told her about Sugar's gender dysphoria and the fact of suicide, she was astonished by these, and said:
 
-> 「他(sic.)从来没有跟我们说过这些事！怎么突然就这样子去……」
+> "He(sic. The same below) had never told us about this! Why he abruptly did……"
 >
-> （糖似乎确实完全没有正面沟通过这件事。）
+> (It looked like that Sugar had actually not communicated positively with her parents.)
 
-丧女的冲击太大，她也说出了「这么自私不考虑我们怎么办」之类的话，并想要解锁孩子的手机。
+The lost of kid overwhelmed her, and she even said that Sugar was too selfish and she didn't concerned about them. Then she wanted to unlocked the phone of her kid.
 
-A 向糖的母亲表示如果可以希望将糖作为女儿下葬，但她是[这样](https://twitter.com/KiraRettosei/status/1749728762261012752?s=20)回复的。（链接可能含有触发要素，请谨慎点击）
+A requested to her that if she can bury Sugar as her daughter, but her mother replied [as this](https://twitter.com/KiraRettosei/status/1749728762261012752?s=20).
+(There may be some trigger factors, please be cautious before click)
 
-不过，她的态度也在慢慢变化。
+However, her mother's attitude was changing gradually.
 
-糖的父母开始收拾她的遗物。
+Her parents started to tidy up her belongings.
 
-糖的母亲问 A 是否想要她生前爱抱的宜家鲨鲨。
+Her mother asked A if she wanted to keep Sugar's IKEA Blåhaj Shark, which she loved to hug during her lifetime.
 
-她说：「他是我们的天使，可惜老天爷让他早走他不得不走。」
+Her mother said, he was their angel, but unfortunately God made him leave early and he had to leave.
 
-糖的母亲一直很感谢 A。
+Her mother had always been grateful to A.
 
 ## The new spring
 
-12th, February 2024. The third day of Spring Festival.
+It's 12th, February 2024. The third day of Spring Festival.
 
 At this night, A set off for a trip to Guiyang and Chongqing.
 
 In Ningbo Lishe International Airport,
 
-A sat on the seat near the porthole, and wait for the launch of the plane.
+A sat on the seat near the porthole, and waited for the launch of the plane.
 
 In a daze, a phone call from Chongqing came, and she was familiar with the number.
 
->（The words in brackets represent A.）
+>（*The words in brackets represent A.*）
 >
 > My kid, how are you now?（I am fine, what happened? ）
 >
@@ -117,15 +129,14 @@ In a daze, a phone call from Chongqing came, and she was familiar with the numbe
 > 
 > So do I…… The path I am currently taking in life is not what my parents hoped, but I think it's no problem.
 >
-> We may not fully understand the decisions made by children.
-> but we will support her if she carefully considered.
+> We may not fully understand the decisions made by children, but we will support her if she carefully considered.
 > 
 > My kid, I am glad you're okay, wish you a happy life.
 
 Sugar had a very cute face and figure.
 If we change a character of her name to another homophonic one, it would became a girl's name that perfectly matches her gentle and soft temperament.
 
-But she just departed like this, with a mentality of "take a gamble".
+But she just departed, with a mentality of "take a gamble".
 Her life was frozen at the age of 19.
 
 When Sugar just passed away, her mother couldn't accept her behavior. But what about her mother said at last?
