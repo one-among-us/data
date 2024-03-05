@@ -7,99 +7,100 @@ info:
 
 ## Description
 
-Sugar was a girl from Chongqing. 
-She entered a university in Hangzhou, Zhejiang in the autumn of 2023.
+In Fall 2023, Sugar went to Hangzhou, Zhejiang to attend university.
 
-Sugar was introverted, and she always cared about others' thoughts.
+She was an introverted girl who cared about others' feelings too much such that she wasn't able to express herself when she needed it.
 She was too shy to express her confusion and anxiety.
 Moreover, she hadn't a friend to confide her thought, she could only hide these in heart. 
 That made her look a bit intimidated.
 
-She even prepared a lot before she met friends in real life. 
-She was too worried about making a bad impression on her friends, so she asked them a series of problems in advance (such as the kind of gift they hope to receive), and announced that she might show regressive behavior.
+She always prepared a lot ahead of meeting friends in real life.
+She was always worried about leaving a bad impression, so she asked them tons of questions in advance (such as which kinds of gift they would like), and warned them she might exhibit regressive behaviors.
 
-She has a not-so-good family. Her father worked in railway group and her mother taught in school. She didn't feel love from her family.
-When she was in senior high school, she hided her dress at home, but they were still confiscated by her family at last.
-This incident made her deeply convinced that her parents were extremely conservative and unable to communicate.
+Her family is conservative.
+Her father worked in China Railways Group and her mother was a teacher.
+She didn't receive enough love from them.
+They once threw away her gender-affirming clothing she hid while she was in high school.
+Therefore, she was certain her parents were too conservative to communicate with.
 
 ## The dissipated haze in Hangzhou
 
-One 6th January 2024, Sugar met a friend (Temporarily call her A) in Hangzhou.
+On 6th January 2024, Sugar met friend A in Hangzhou.
 
-Before she met A, she hided in restroom and was always looking herself in the mirror.
-She thought she was not qualified to meet people and was too timid to come out.
-But to be honest, although she hadn't grown her hair and worn her favourite clothes, she was still cute and pretty.
+Just before meeting A, she hid in the restroom and kept checking the mirror.
+She was ashamed to meet A because she didn't do her hair or wear cute clothes.
+Actually, she was still pretty despite that.
 
-The two girls visited many landscapes in Hangzhou……
+The two girls visited many places of interest in Hangzhou……
 
 West Lake Culture Square, Wulin Suqare, Wuliu Lane, and Fengshan Gate.
 
-She asked A about the word "threaten" and confided her voice to A at parting.
+When parting, She asked A on her thoughts of her plan to "threaten" her parents (to gain acceptance of being trans).
 
-> *The following content is based on the memory of her friend, there may be differences from the original text.*
+> *Here is what A remembered:*
 >
-> Since they are unable to communicate with……
+> Sugar: Perhaps what I need to do is to "threaten", since they are too conservative to be communicated with.
 > 
-> Perhaps what I should do is to 'threaten'.
+> Sugar: I'm afraid of pain, but I could hurt myself a bit.
 > 
-> I should hurt myself a bit, but I am afraid of pain……
+> Sugar: Thereby they might make a compromise eventually, and I might get more freedom in return.
 >
-> Thereby getting more space in turn…… they would make a concession eventually……
+> Sugar: According to the plan, I will delete you from my friend list after this parting.
 >
-> ……
->
-> According to my plan, I will delete you from my friend list after our meeting.
->
-> It's my fault to make you worried about me. Please forget me as soon as possible.
+> Sugar: You shouldn't be worried about me. Please forget me as soon as possible.
 
-While getting off, A reserved half a bag of oranges for her, and left "Adios."[^1] by QQ private message.
-But A didn't get any reply at last, and Sugar actually deleted her at that night.
+When A left for home, she left Sugar half a bag of oranges, and messaged her "Adios." (Goodbye) on QQ.
+<!-- When A got off the train, she left Sugar half a bag of oranges, and messaged her "Adios." (Goodbye) on QQ. -->
+A didn't get any reply.
+That night, Sugar actually deleted her contact.
 
-The second day, a user who claimed to be Sugar's classmate at high school brought her some pieces of thought on behalf of Suger.
-Then A requested them to take more care of her.
+The second day, a Twitter user who claimed to be Sugar's high school classmate brought her some random thoughts on behalf of Sugar.
+Then A requested them to look after her.
 
-Later, Sugar began her winter vacation, and got her diagnosis certificate in Shenzhen Kangning Hospital —— This was only known by A afterward.
+Later, Sugar began her winter vacation, and got her diagnosis certificate of gender dysphoria in Shenzhen Kangning Hospital —— This was only known by A after her death.
 
-## The very thick fog over Jialing River
+## Thick fog over Jialing River (Her departure)
 
-On 22nd January, she returned home in Chongqing, and recovered contact with A.
+On January 22nd, 2024, she went back to her hometown, Chongqing, and regained contact with A.
 
-(Afterward, According to her mother who worked far away from Chongqing, when she just returned home, she looked happy in Wechat chatting.)
+(According to her mother who worked away from Chongqing, when she just returned home, she seemed happy in Wechat.)
 
-But the fact is, actually not.
+But the reality is the opposite.
 
-She contacted with A before she initiated her plan.
-A confirmed with her again and again, but she only said that her purpose is not suicide.
-The aim of the plan is to express her transgender appeal and persuade her parents by creating a record of attempted suicide.
+She contacted A before she began to execute her plan.
+She told A again and again that her purpose is not dying.
+The point is to make her parents to realize the necessity of accepting her being trans by showing she's willing to die.
 
-But the dosage she took exceeded the fatal dose.
+But the dosage she was about to take was fatal.
 
-A and other Twitter followers of her couldn't persuade her, so they called for the first aid to protect her for the second-best.
-Because of difficult communication and ambiguous position, the ambulance only left for rescue half an hour later.
+A and her other online friends couldn't persuade her, so they called for first aid as a last resort.
+Because they didn't know her exact location, the ambulance left after more than half an hour had passed.
 
-Unfortunatelly, Sugar was dying after she was sent to the Second People's Hospital of Yubei District of Chongqing.
+Unfortunately, Sugar was in a critical condition when the ambulance arrived at Second People's Hospital of Yubei District of Chongqing.
 And she passed away in the early morning of the next day due to chemical poisoning.
 
 ## After her departure
 
-Later, through a variety of ways, the mother of Sugar contacted with A on the morning of 23rd Janurary.
+Later, through a variety of ways, Sugar's mother contacted A on the morning of 23rd January.
 
-After A told her about Sugar's gender dysphoria and the fact of suicide, she was astonished by these, and said:
+After A told her about Sugar's gender dysphoria and the fact of suicide, she was astonished and said:
 
 > "He(sic. The same below) had never told us about this! Why he abruptly did……"
 >
-> (It looked like that Sugar had actually not communicated positively with her parents.)
+> (It seemed that Sugar didn't directly and openly communicate with her parents about this.)
 
-The lost of kid overwhelmed her, and she even said that Sugar was too selfish and she didn't concerned about them. Then she wanted to unlocked the phone of her kid.
+The loss of her child overwhelmed her.
+She said words like Sugar was too selfish and didn't care about them.
+Then she tried to unlock Sugar's phone.
 
-A requested to her that if she can bury Sugar as her daughter, but her mother replied [as this](https://twitter.com/KiraRettosei/status/1749728762261012752).
-(There may be some trigger factors, please be cautious before click)
+A asked her mother to bury Sugar as a daughter, but her mother replied like [this](https://twitter.com/KiraRettosei/status/1749728762261012752?s=19).
+(The link may be potentially triggering.)
 
 However, her mother's attitude was changing gradually.
 
 Her parents started to tidy up her belongings.
 
-Her mother asked A if she wanted to keep Sugar's IKEA Blåhaj Shark, which she loved to hug during her lifetime.
+Her mother asked A if she wanted to keep Sugar's IKEA Blåhaj Shark, which she loved to hug.
 
 Her mother said, he was their angel, but unfortunately God made him leave early and he had to leave.
 
@@ -111,19 +112,19 @@ It's 12th, February 2024. The third day of Spring Festival.
 
 At this night, A set off for a trip to Guiyang and Chongqing.
 
-In Ningbo Lishe International Airport,
+At Ningbo Lishe International Airport,
 
-A sat on the seat near the porthole, and waited for the launch of the plane.
+A sat on a seat near the windows, waiting for the launch of the plane.
 
 In a daze, a phone call from Chongqing came, and she was familiar with the number.
 
 >（*The words in brackets represent A.*）
 >
-> My kid, how are you now?（I am fine, what happened? ）
+> Girl, how are you now? (I am fine, what happened?)
 >
 > It's nothing, but…… I always worried about that you might……as well. So I'm calling to ask you are okay or not.
 > 
-> My kid, if anything happened in the future, please tell your parents and not hold it in your stomach. Your parents always love you.
+> Girl, if anything happened in the future, please tell your parents and not hold back and say nothing. Your parents always love you.
 > 
 > After our generation became parents, we no longer keep the authority and stubbornness of our elders.
 > 
@@ -131,7 +132,7 @@ In a daze, a phone call from Chongqing came, and she was familiar with the numbe
 >
 > We may not fully understand the decisions made by children, but we will support her if she carefully considered.
 > 
-> My kid, I am glad you're okay, wish you a happy life.
+> Girl, I am glad you're okay, wish you a happy life.
 
 Sugar had a very cute face and figure.
 If we change a character of her name to another homophonic one, it would became a girl's name that perfectly matches her gentle and soft temperament.
@@ -139,11 +140,11 @@ If we change a character of her name to another homophonic one, it would became 
 But she just departed, with a mentality of "take a gamble".
 Her life was frozen at the age of 19.
 
-When Sugar just passed away, her mother couldn't accept her behavior. But what about her mother said at last?
+When Sugar just passed away, her mother couldn't accept her decisions. But what did her mother say in the end?
 
 Anyway, she had passed away.
 
-> Hope you remembers sugar.
+> Hope you'll all remember Sugar.
 > 
 > Hope you can share important information, such as your address, with trustworthy friends to avoid any unexpected situations.
 > 
@@ -153,11 +154,9 @@ Anyway, she had passed away.
 > 
 > Hope you cherishes life, hope still exists; you will only miss the opportunity if you leave too early.
 > 
-> Hope you remembers sugar……
+> Hope you'll all remember Sugar.
 
 Take care.
-
-[^1]: Derived from Spanish, which means "Goodbye, Have a safe journey".
 
 <!-- Contributor：[KiraRettosei](http://github.com/KiraRettosei) -->
 <!-- The contributor of this entry is anonymous on the fore-end -->
