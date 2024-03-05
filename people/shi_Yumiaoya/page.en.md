@@ -32,7 +32,7 @@ Nikon D200 -->
 >
 > From *The Truman Show*
 
-Well, Yumiao, girl's last tour was ended.
+Well, Yumiao, girl's last tour ended.
 And you can finally get a good sleep.
 
 Contributor: [Jose](https://twitter.com/JoseToYuToMiao)
