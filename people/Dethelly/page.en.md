@@ -25,7 +25,7 @@ Therefore, she was certain her parents were too conservative to communicate with
 
 ## The dissipated haze in Hangzhou
 
-On 6th January 2024, Sugar met friend A in Hangzhou.
+On January 6th, 2024, Sugar met friend A in Hangzhou.
 
 Just before meeting A, she hid in the restroom and kept checking the mirror.
 She was ashamed to meet A because she didn't do her hair or wear cute clothes.
@@ -50,7 +50,6 @@ When parting, She asked A on her thoughts of her plan to "threaten" her parents 
 > Sugar: You shouldn't be worried about me. Please forget me as soon as possible.
 
 When A left for home, she left Sugar half a bag of oranges, and messaged her "Adios." (Goodbye) on QQ.
-<!-- When A got off the train, she left Sugar half a bag of oranges, and messaged her "Adios." (Goodbye) on QQ. -->
 A didn't get any reply.
 That night, Sugar actually deleted her contact.
 
@@ -81,7 +80,7 @@ And she passed away in the early morning of the next day due to chemical poisoni
 
 ## After her departure
 
-Later, through a variety of ways, Sugar's mother contacted A on the morning of 23rd January.
+Later, through a variety of ways, Sugar's mother contacted A on the morning of January 23rd.
 
 After A told her about Sugar's gender dysphoria and the fact of suicide, she was astonished and said:
 
@@ -108,7 +107,7 @@ Her mother had always been grateful to A.
 
 ## The new spring
 
-It's 12th, February 2024. The third day of Spring Festival.
+It's February 12th, 2024. The third day of Spring Festival.
 
 At this night, A set off for a trip to Guiyang and Chongqing.
 
