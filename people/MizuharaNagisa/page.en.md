@@ -24,7 +24,7 @@ This is the [last piece of writing](https://pbs.twimg.com/media/E6odBBBVIAAM-Zt?
 > To every one of my friends
 >
 > People who know me well usually call me Mizu Senpai or Mizuhara. Anyway, my name is Mizuhara Nagisa.
-> It's actually not my legal name.
+> Of course, it's not my legal name.
 > How do I say this?
 > During these past few years I've been tormented by chronic depression and anxiety issues.
 > I think they finally overcame me today,
