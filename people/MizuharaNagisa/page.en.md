@@ -7,11 +7,11 @@ info:
 
 ## Description
 
-Shui Yuan Zhu is a trans woman living in Shanghai.
-She was friends with Ying.
+Nagisa is a trans woman living in Shanghai.
+She was friends with [Ying](https://www.one-among.us/profile/Uekawakuyuurei/).
 During her life, she was an active long-term contributor for Chinese Wikipedia and other MediaWiki sites.
-Since 2019, she started playing Azur Lane.
-Her favorite character was Xiang.
+Since 2019, she started playing *Kancolle*.
+Her favourite character was Destroyer Hibiki.
 Her hobbies were tinkering with computer hardware like Respberry Pi and drawing.
 She was also proficient in Japanese.
 
@@ -23,8 +23,8 @@ This is the [last piece of writing](https://pbs.twimg.com/media/E6odBBBVIAAM-Zt?
 
 > To every one of my friends
 >
-> People who know me well usually call me Shui Senpai or Shui Yuan, but my name is actually 水原なぎさ.
-> Not my legal name, of course.
+> People who know me well usually call me Mizu Senpai or Mizuhara. Anyway, my name is Mizuhara Nagisa.
+> Of course, it's not my legal name.
 > How do I say this?
 > During these past few years I've been tormented by chronic depression and anxiety issues.
 > I think they finally overcame me today,
@@ -43,8 +43,8 @@ This is the [last piece of writing](https://pbs.twimg.com/media/E6odBBBVIAAM-Zt?
 >
 > I'm tired of everything.
 > I still have games to play:
-> What would happen to the girls in Zhen Shou Fu?
-> Would that character keep waiting for me?
+> What would happen to the girls in Jinjufu?
+> Would those girls in Jinjufu keep waiting for me?
 > I'm sorry, but I cannot keep going anymore.
 > I really can't find any energy in myself to keep me going.
 > This body is also broken, from head to toe.
@@ -66,11 +66,11 @@ This is the [last piece of writing](https://pbs.twimg.com/media/E6odBBBVIAAM-Zt?
 > Once again, thank you, every one of my friends.
 > Sorry for taking your time.
 >
-> — Shui Yuan Zhu, 2021 June 21st.
+> — Mizuhara Nagisa, 2021 June 21st.
 
 <PhotoScroll photos={[
     '${path}/photos/letter.jpg',
 ]} />
 
-Wish you to be able to meet the girls in Zhen Shou Fu and live happily in another world,
+Wish you to be able to meet the girls in Jinjufu and live happily in another world,
 after leaving all of this world's sufferings behind.
