@@ -8,6 +8,7 @@ import metadataParser from 'markdown-yaml-metadata-parser';
 
 import { renderMdx } from "./mdx.js";
 import moment from "moment";
+import { Icon } from "./icon.js";
 
 const PUBLIC_DIR = "public";
 
@@ -123,6 +124,9 @@ function buildPeoplePages() {
       // Handle Footnote
       markdown = handleFootnote(markdown)
 
+      // Handle Icon
+      markdown = handleNoteIcon(markdown)
+
       // Autocorrect markdown
       markdown = autocorrect.formatFor(markdown, 'markdown')
 
@@ -149,6 +153,11 @@ function handleFootnote(md: string) {
   
   // Wrap the footnote definitions in an ordered list
   .replace(/(<li id="footnote.*<\/li>)/gs, '<ol>\n$1\n</ol>')
+}
+
+function handleNoteIcon(md: string): string {
+  if (!md.includes('[!')) return md;
+  return md.replace(/\[\!(\w+)\](?::\s*(.*))?/g, (match, icon, _) => (Icon[icon as string]));
 }
 
 // Copy `people/${dirname}/photos` to `dist/people/${dirname}/`.
