@@ -47,6 +47,9 @@ function buildPeopleInfoAndList() {
 
     // For each person
     for (const { dirname, srcPath, distPath } of people) {
+
+      if (dirname == 'tdor') continue;
+
       const infoFile = fs.readFileSync(path.join(srcPath, `info.yml`), "utf-8");
       const info: any = YAML.load(infoFile);
 
@@ -116,6 +119,7 @@ function buildPeopleInfoAndList() {
 // Render `people/${dirname}/page.md` to `dist/people/${dirname}/page.js`.
 function buildPeoplePages() {
   for (const { dirname, srcPath, distPath } of people) {
+    if (dirname == 'tdor') continue;
     for (const lang of ['', '.zh_hant', '.en'])
     {
       // Read markdown page and remove markdown meta
