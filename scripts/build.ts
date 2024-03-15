@@ -185,10 +185,30 @@ function copyPublic() {
   fs.copySync(path.join(projectRoot, PUBLIC_DIR), path.join(projectRoot, DIST_DIR));
 }
 
+function copyTDORComments() {
+  const commentPath = path.join(peopleDir, 'tdor', COMMENTS_DIR);
+  const distPath = path.join(projectRoot, DIST_DIR, PEOPLE_DIR, 'tdor');
+  fs.ensureDirSync(commentPath);
+  var info = { comments: [] };
+  info.comments = fs
+      .readdirSync(commentPath)
+      .filter((cf) => cf.endsWith(".json"))
+      .map((cf) =>
+          JSON.parse(fs.readFileSync(path.join(commentPath, cf), "utf-8"))
+  );
+  info.comments.forEach((c) => (c.content = autocorrect.format(c.content)));
+  fs.ensureDirSync(distPath);
+  fs.writeFileSync(
+      path.join(distPath, 'info.json'),
+      JSON.stringify(info)
+  );
+}
+
 buildPeopleInfoAndList();
 buildPeoplePages();
 copyPeopleAssets();
 copyPublic();
+copyTDORComments();
 
 /**
  * Trim a specific char from a string
