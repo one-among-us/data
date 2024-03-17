@@ -17,6 +17,8 @@ const COMMENTS_DIR = "comments";
 
 const DIST_DIR = "dist";
 
+const DATA_DIR = "data";
+
 const projectRoot = path.dirname(path.dirname(url.fileURLToPath(import.meta.url)));
 const peopleDir = path.join(projectRoot, PEOPLE_DIR);
 const people = fs.readdirSync(peopleDir).map(person => ({
@@ -24,6 +26,9 @@ const people = fs.readdirSync(peopleDir).map(person => ({
   srcPath: path.join(peopleDir, person),
   distPath: path.join(projectRoot, DIST_DIR, PEOPLE_DIR, person)
 }));
+
+const commentOnlyList = JSON.parse(fs.readFileSync(path.join(projectRoot, DATA_DIR, "comment-only.json")).toString()) as String[];
+const excludeList = commentOnlyList.concat(JSON.parse(fs.readFileSync(path.join(projectRoot, DATA_DIR, 'exclude.json')).toString()) as String[]);
 
 interface PeopleMeta {
   id: string
@@ -48,7 +53,7 @@ function buildPeopleInfoAndList() {
     // For each person
     for (const { dirname, srcPath, distPath } of people) {
 
-      if (dirname == 'tdor') continue;
+      if (excludeList.includes(dirname)) continue;
 
       const infoFile = fs.readFileSync(path.join(srcPath, `info.yml`), "utf-8");
       const info: any = YAML.load(infoFile);
@@ -119,7 +124,9 @@ function buildPeopleInfoAndList() {
 // Render `people/${dirname}/page.md` to `dist/people/${dirname}/page.js`.
 function buildPeoplePages() {
   for (const { dirname, srcPath, distPath } of people) {
-    if (dirname == 'tdor') continue;
+
+    if (excludeList.includes(dirname)) continue;
+
     for (const lang of ['', '.zh_hant', '.en'])
     {
       // Read markdown page and remove markdown meta
@@ -185,30 +192,29 @@ function copyPublic() {
   fs.copySync(path.join(projectRoot, PUBLIC_DIR), path.join(projectRoot, DIST_DIR));
 }
 
-function copyTDORComments() {
-  const commentPath = path.join(peopleDir, 'tdor', COMMENTS_DIR);
-  const distPath = path.join(projectRoot, DIST_DIR, PEOPLE_DIR, 'tdor');
-  fs.ensureDirSync(commentPath);
-  var info = { comments: [] };
-  info.comments = fs
-      .readdirSync(commentPath)
-      .filter((cf) => cf.endsWith(".json"))
-      .map((cf) =>
-          JSON.parse(fs.readFileSync(path.join(commentPath, cf), "utf-8"))
-  );
-  info.comments.forEach((c) => (c.content = autocorrect.format(c.content)));
-  fs.ensureDirSync(distPath);
-  fs.writeFileSync(
-      path.join(distPath, 'info.json'),
-      JSON.stringify(info)
-  );
+function copyComments() {
+  for (const dirname of commentOnlyList) {
+    const commentPath = path.join(peopleDir, dirname as string, COMMENTS_DIR);
+    const distPath = path.join(projectRoot, DIST_DIR, PEOPLE_DIR, dirname as string);
+    fs.ensureDirSync(commentPath);
+    var info = { comments: [] };
+    info.comments = fs
+        .readdirSync(commentPath)
+        .filter((cf) => cf.endsWith(".json"))
+        .map((cf) =>
+            JSON.parse(fs.readFileSync(path.join(commentPath, cf), "utf-8"))
+        );
+    info.comments.forEach((c) => (c.content = autocorrect.format(c.content)));
+    fs.ensureDirSync(distPath);
+    fs.writeFileSync(path.join(distPath, "info.json"), JSON.stringify(info));
+  }
 }
 
 buildPeopleInfoAndList();
 buildPeoplePages();
 copyPeopleAssets();
 copyPublic();
-copyTDORComments();
+copyComments();
 
 /**
  * Trim a specific char from a string
