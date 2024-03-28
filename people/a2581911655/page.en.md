@@ -30,7 +30,7 @@ At the end of 2023, she planned a 3-month journey.
 
 During the time, she came to Guangdong, and got into [Yantian](https://one-among.us/profile/SS3B_0016/)'s Iveco van. She tweeted:
 
-> It was comfortable to sit on the front passenger-side seat of Yantian's van~
+> “It was comfortable to sit on the front passenger-side seat of Yantian's van~”
 
 After that, she arrived in Shanghai, Zhejiang, and Henan, and met with many friends.
 
