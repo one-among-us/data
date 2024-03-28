@@ -37,4 +37,4 @@ After that, she arrived in Shanghai, Zhejiang, and Henan, and met with many frie
 On January 18th, 2024, she ended her journey reluctantly and said that she won't able to see everyone agin until one and a half year later. 
 
 But she couldn't fulfill her appointment. 
-The farewell is a life and death parted. Two days later, she contempt to take her life, and finally left us forever.
+The farewell is a life and death parted. Two days later, she attempted to take her life, and finally left us forever.
