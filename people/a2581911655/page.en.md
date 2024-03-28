@@ -15,7 +15,7 @@ She also played PUBG and Genshin Impact, which were currently popular games.
 She had a good hands-on ability, and conducted DIY on many devices by herself,
 she also did some little experiences with her own hands.
 
-On her road of exploring being a girl, she once had sense of inferiority, confusion, and anxiety, but she still stayed alive for a long time.
+On her road of exploring being a girl, she once had sense of inferiority, confusion, and anxiety, but she still lived strongly for a long time.
 
 Following are some personal photos she left in this world:
 
@@ -28,7 +28,7 @@ Following are some personal photos she left in this world:
 
 At the end of 2023, she planned a 3-month journey.
 
-During the time, she came to Guangdong, and got into Yantian(https://one-among.us/profile/SS3B_0016/)'s Iveco van. She tweeted:
+During the time, she came to Guangdong, and got into [Yantian](https://one-among.us/profile/SS3B_0016/)'s Iveco van. She tweeted:
 
 > It was comfortable to sit on the front passenger-side seat of Yantian's van~
 
