@@ -17,7 +17,7 @@ she also did some little experiences with her own hands.
 
 On her road of exploring being a girl, she once had sense of inferiority, confusion, and anxiety, but she still stayed alive for a long time.
 
-Followling are some personal photos she left in this world:
+Following are some personal photos she left in this world:
 
 <PhotoScroll photos={[
     '${path}/photos/photo1.jpg',
@@ -36,5 +36,5 @@ After that, she arrived in Shanghai, Zhejiang, and Henan, and met with many frie
 
 On January 18th, 2024, she ended her journey reluctantly and said that she won't able to see everyone agin until one and a half year later. 
 
-But she couldn't fulfilled her appointment. 
+But she couldn't fulfill her appointment. 
 The farewell is a life and death parted. Two days later, she contempt to take her life, and finally left us forever.
