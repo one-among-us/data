@@ -1,13 +1,13 @@
 ---
-name: jjlin1219
+name: Magic Chewing Gum
 info:
-    alias: Kouxiangtang
+    alias: Chewing Gum, jjlin1219
     location: Urumqi, Xinjiang
 ---
 
 ## Description
 
-Kouxiangtang was a trans girl, she loved life and cared about others.
+Chewing Gum was a trans girl loving life and caring about others.
 
 On Bilibili, she posted videos of various games, most of which belonged to vehicle simulation game, including *World Truck - Driving Simulator*, *Spintires: MudRunner* and so on.
 She also played PUBG and Genshin Impact, which were currently popular games.
