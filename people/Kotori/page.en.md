@@ -31,4 +31,4 @@ Goodbye, Kotori, but we never say goodbye.
 
 May your memory be eternal.
 
-Contributors for this entry: One-Among-Us, [Hanlianyi](http://twitter.com/HANLIANYI520),[Kristall Wang](https://github.com/KristallWang)
+Contributors for this entry: One-Among-Us, [Hanlianyi](http://twitter.com/HANLIANYI520), [Kristall Wang](https://github.com/KristallWang)
