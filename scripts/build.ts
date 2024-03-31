@@ -207,6 +207,8 @@ function copyComments() {
     info.comments.forEach((c) => (c.content = autocorrect.format(c.content)));
     fs.ensureDirSync(distPath);
     fs.writeFileSync(path.join(distPath, "info.json"), JSON.stringify(info));
+    fs.writeFileSync(path.join(distPath, "info.en.json"), JSON.stringify(info));
+    fs.writeFileSync(path.join(distPath, "info.zh_hant.json"), JSON.stringify(info));
   }
 }
 
