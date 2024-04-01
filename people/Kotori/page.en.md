@@ -16,7 +16,7 @@ info:
 Kotori was a girl who loved mathematics and physics, she entered the Department of Physics, School of Physics Science, University of Science and Technology of China (USTC) in Fall 2017.
 
 Another account ID of her was "Partial Differential",
-and avatar of that account was also the character ∂, which was a stylized cursive d mainly used as a mathematical symbol, usually to denote a partial derivative such as $∂z/∂x$.
+and avatar of that account was also the character `∂`, which was a stylized cursive d mainly used as a mathematical symbol, usually to denote a partial derivative such as `$∂z/∂x$`.
 
 Kotori was an introverted girl.
 She seldom talked with others or expressed her point of views in public.
@@ -62,7 +62,7 @@ Sakura Moeka wrote:
 > But she would never see that.
 
 Her friends always missed her very much,
-even when one of them used the character ∂, they felt painful in their heart.
+even when one of them used the character `∂`, they felt painful in their heart.
 
 Countless companionship, and stories of getting to know each other had finally become fragments of the past days...
 
