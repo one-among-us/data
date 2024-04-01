@@ -38,7 +38,7 @@ Huacha passed away shortly after she wrote down these articles.
 So there were only three articles in *The Blood Mary Observer*.
 but the profound content was still worth reading.
 
-The first article was *[In Memory of Ms.MtF (Mr.Ftm)]((https://zhuanlan.zhihu.com/p/38000835))*[^1].
+The first article was *[In Memory of Ms.MtF (Mr.Ftm)](https://zhuanlan.zhihu.com/p/38000835)*[^1].
 
 The article was written on May to June of 2018 approximately.
 At that time, Zhihu, which was a platform originally claimed to LGBT friendly, started to conduct strict censorship on transgender related topics.
@@ -53,7 +53,7 @@ just as the comment said:
 
 > "This article is quite in the style of Lu Xun. #LOL#"
 
-The third article was *[Yazyuu Senpai Zhihu Setu]((https://zhuanlan.zhihu.com/p/38419017))*, the original point of it was the same as the first article.
+The third article was *[Yazyuu Senpai Zhihu Setu](https://zhuanlan.zhihu.com/p/38419017)*, the original point of it was the same as the first article.
 
 The article humorously expressed her dissatisfaction with the strict censorship of transgender related topics by Zhihu, which originally claimed to LGBT friendly.
 
