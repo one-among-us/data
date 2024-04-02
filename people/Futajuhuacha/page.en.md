@@ -1,5 +1,5 @@
 ---
-name: Juhuacha
+name: Huacha
 info:
     alias: Huacha, Futa Juhuacha
     location: Chongqing, China

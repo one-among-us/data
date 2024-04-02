@@ -1,7 +1,7 @@
 ---
 name: 扶她菊花茶
 info:
-    alias: 花茶
+    alias: 花茶, 菊花茶
     location: 中国重庆
 ---
 
