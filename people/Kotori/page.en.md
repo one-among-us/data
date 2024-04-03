@@ -21,7 +21,7 @@ which was a stylized cursive `d` mainly used as a mathematical symbol, usually t
 
 Kotori was an introverted girl.
 She seldom talked with others or expressed her points of view in public.
-But she was passionate about academic questions,
+However, she was passionate about academic questions,
 and she would always join in the discussion and applaud for the neat idea of her friends.
 
 She often deleted her own ideas or works after creating them, or she posted them anonymously.
@@ -30,7 +30,7 @@ Nonetheless, there are still some answers of her remained on Zhihu, rediating he
 She was obsessed with her favourite subjects, and achieved that "erudite and Atsushi, cut near the question thinking."
 
 Kotori had another well-known nickname, Truth-seeking Salted Fish.
-But in terms of her ability, she was a truth-seeking whale in the ocean, indeed.
+But in terms of her ability, she was truly a truth-seeking whale in the ocean. 
 
 She was so good at mathematics and physics that she could also be considered as a talented girl.
 Maybe she would make great contributions in the field of theoretical physics in the future...
@@ -41,14 +41,13 @@ But fate always interferes with geniuses.
 
 Kotori suffered from depression and gender dysphoria,
 and her mental health was not so good.
-She had tried to take her own life before her last attempt.
-Fortunately, she had been rescued at that time.
+She had attempted to take her own life before but was rescued.
 
 After consulting numerous references to ascertain the lethal dose of the drug,
 she ultimately decided to end her life on the morning of September 24th, 2018.
 
 After that, her friends endeavoured to contact with USTC authorities, and police in Poyang, Shangrao.
-However, Kotori could not be treated in time, and she was unable to recover and left us at last.
+However, due to the lack of of timely treatment, she was unable to recover and left us at last.
 
 ## Memorial
 
@@ -56,7 +55,7 @@ In Zhihu question [What are your thoughts about ZhiHu user @Cheng Peiqi](https:/
 
 Sakura Moeka wrote:
 
-> In the Zhihu question of thoughts about me, Kotori replied that I was lovely, and she wanted to see the day I get married.
+> In the Zhihu question of thoughts about me, Kotori replied that I was lovely, and she wanted to see my wedding day.
 >
 > But she would never see that.
 
