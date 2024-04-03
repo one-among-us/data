@@ -72,7 +72,7 @@ and the so-called "love" ultimately became the "poison" that killed children.
 Today, many transgender individuals choose to leave this world due to this kind of "Invisible Poison".
 This article still has its profound practical significance.
 
-Before the article published, one of her transgender friend (probably Xueli) took herself due to domestic pressure and violence.
+Before the article published, one of her transgender friends (probably Xueli) took herself due to domestic pressure and violence.
 Another reason for writing down this article was to mourn her, as well as countless transgender friends who passed away owing to the invisible poison.
 
 ## Her Departure
