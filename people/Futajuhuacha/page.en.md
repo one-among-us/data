@@ -16,7 +16,7 @@ She adored long hair, so she opted for hair extension to fulfill her love for it
 She loved writing and reading, and she often delved into the works of Lu Xun.
 She showcased her fluency in poetry and her ability to critique the world by writing essays, reminiscent of Lu Xun's style.
 
-Realizing her ture gender identity at an early age,
+Realizing her true gender identity at an early age,
 she struggled with severe anxiety,
 which she she endured silently for a long time.
 She always felt that she was trapped in a nightmare of not being recognized as a girl,
@@ -47,7 +47,7 @@ and many records about transgender community were deleted on these days.
 Huacha wrote down the article to accuse Zhihu and express her indignation towards persecution of Transgender community.
 She appealed to people that everyone to respect the right of transgender individuals to express their inner thoughts - whether they were MTF or FTM, or individuals of any other gender.
 
-The article was consise and straightforward, and its words didn't pull any punches.
+The article was concise and straightforward, and its words didn't pull any punches.
 just as the comment said:
 
 > "This article is quite in the style of Lu Xun. #LOL#"
