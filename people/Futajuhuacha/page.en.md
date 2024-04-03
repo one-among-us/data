@@ -7,40 +7,39 @@ info:
 
 ## Description
 
-Huacha was a lovely and firm trans girl who loving this world.
+Huacha was a lovely and determined trans girl who loved this world.
 
-She was an OIer and entered the National Olympiad in Informatics(NOI) once.
+She was an OIer and once participated in the National Olympiad in Informatics(NOI).
 
-She loved long hair, so she had her hair extensions.
+She adored long hair, so she opted for hair extension to fulfill her love for it.
 
-She loved writing and reading, and usually read Lu Xun's works.
-She could not only write poetry fluently, but also criticize the world by writting, just like what Lu Xun did in the past.
+She loved writing and reading, and she often delved into the works of Lu Xun.
+She showcased her fluency in poetry and her ability to critique the world by writing essays, reminiscent of Lu Xun's style.
 
-In fact, she realized that she should be a girl at an early age.
-She suffered from severe anxiety,
-but she just kept that in heart for a long time.
-
-She always felt that she was living in a nightmare of not being a girl,
+Realizing her ture gender identity at an early age,
+she struggled with severe anxiety,
+which she she endured silently for a long time.
+She always felt that she was trapped in a nightmare of not being recognized as a girl,
 and she hoped to wake up from it everyday.
-Later, she chose the path of being a girl, which was a path belonging to herself.
+Later, she chose the path of self-discovery, and embraced her identity as a girl.
 
-Huacha was a gentle girl, just like her friend [Xuewulihuameng](https://one-among.us/profile/xuewulihuameng).
-She helpfully gave her advise in Zhihu Question [How can I help my MtF friend?](https://www.zhihu.com/question/274131925/answer/372594163).
-After she introduced some suggestions, she wrote at last:
+Huacha was a gentle girl, akin to her friend [Xuewulihuameng](https://one-among.us/profile/xuewulihuameng).
+She offered helpful advice in Zhihu Question [How can I help my MtF friend?](https://www.zhihu.com/question/274131925/answer/372594163).
+After introducing some suggestions, she wrote at last:
 
-> If you actually not understand how to give reasonable advice when she experienced emotional breakdown, you can just accompany her at her side silently (you can even hug her, because when I was in emotional breakdown I hope someone hug me)...spend more time with her...
+> "If you actually don't understand how to give reasonable advice when she experiences an emotional breakdown, you can simply accompany her at her side silently (you can even hug her, because when I was in emotional breakdown I hoped someone would hug me)...spend more time with her..."
 
 ## The Blood Mary Observer
 
-*The Blood Mary Observer* was not actually a newspaper, it was a series of articles on Zhihu written by Hucha.
+*The Blood Mary Observer* was a series of articles on Zhihu authored by Hucha.
 
-Huacha passed away shortly after she wrote down these articles.
+She passed away shortly after she wrote down these articles.
 So there were only three articles in *The Blood Mary Observer*.
 but the profound content was still worth reading.
 
 The first article was *[In Memory of Ms.MtF (Mr.Ftm)](https://zhuanlan.zhihu.com/p/38000835)*[^1].
 
-The article was written on May to June of 2018 approximately.
+The article was written around May to June 2018.
 At that time, Zhihu, which was a platform originally claimed to LGBT friendly, started to conduct strict censorship on transgender related topics.
 Many transgender users were blocked due to this crisis,
 and many records about transgender community were deleted on these days.
@@ -58,7 +57,7 @@ The third article was *[Yazyuu Senpai Zhihu Setu](https://zhuanlan.zhihu.com/p/3
 The article humorously expressed her dissatisfaction with the strict censorship of transgender related topics by Zhihu, which originally claimed to LGBT friendly.
 
 The second article was *[Invisible Poison](https://zhuanlan.zhihu.com/p/38173742)*.
-The article mainly focused on the persecution of some transgender individuals caused by their original families.
+The article mainly focused on the persecution experienced by transgender individuals at the hands of their original families.
 She pointed out that some parents were essentially murderers,
 and the so-called "love" ultimately became the "poison" that killed children.
 
@@ -74,7 +73,7 @@ Today, many transgender individuals choose to leave this world due to this kind 
 This article still has its profound practical significance.
 
 Before the article published, one of her transgender friend (probably Xueli) took herself due to domestic pressure and violence.
-Another reason of writting down this article was to mourn her, as well as countless transgender friends who passed away owing to the invisible poison.
+Another reason for writing down this article was to mourn her, as well as countless transgender friends who passed away owing to the invisible poison.
 
 ## Her Departure
 
@@ -85,9 +84,9 @@ she always missed Xueli, the lovely gentle girl who quietly left alone.
 
 > May the world treat you gently.
 > 
-> It's suddenly raining in Chongqing...
+> It's suddenly raining heavily in Chongqing...
 >
-> Is that you here...to pick me up?
+> Is this your way of calling me...?
 
 During the days, Huacha's mental health became worse and worse.
 She said that frankly that she was not sure about that if she could live to the seventh seven day of Xueli's death.
@@ -96,7 +95,7 @@ On the fourth seven day,
 she almost couldn't control the thought of suicide on the Huanghuayuan Jialingjiang Bridge,
 which was a land of fate —— the place of death of Xueli and several other MtFs in Chongqing.
 
-At the end of June, she attempted to take herself again and entered ICU.
+At the end of June, she attempted to take her own life again and was admitted to ICU.
 Afte her physical condition improved, she wrote down this little poem:
 
 <PhotoScroll photos={[
@@ -110,7 +109,7 @@ and she asked Siri about methods to prevent suicide.
 But the unfortunate thing still happened at last.
 On the evening of July 10th, she walked up to the Huanghuayuan Jialingjiang Bridge again.
 The dreamlike lighting seemed to immerse her in a dream...
-In the same place, a similar night, she took herself as what Xueli did.
+In the same place, a similar night, she took her own life as Xueli did.
 
 The rescue in the late night failed to save her life.
 In the early morning of the next day, The girl chasing the milky way left the world at last.
