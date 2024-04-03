@@ -18,7 +18,7 @@ However, her friend only received the painting after her death.
 
 <PhotoScroll photos={[ '${path}/photos/photo1.jpg',]} />  
 
-In the two Zhihu questions [How's meeting Xuewulihuameng irl?](https://www.zhihu.com/question/269853559) and [How to appraise the death-seeking behavior of Xuewuloihuameng?](https://www.zhihu.com/question/268738337), many of her friends expressed their grief and said that she was really gentle. Even just before her departure, she still consoled and encouraged one of her friends.
+In the two Zhihu questions [How's meeting Xuewulihuameng irl?](https://www.zhihu.com/question/269853559) and [How to appraise the death-seeking behavior of Xuewulihuameng?](https://www.zhihu.com/question/268738337), many of her friends expressed their grief and said that she was really gentle. Even just before her departure, she still consoled and encouraged one of her friends.
 
 ## Her Departure
 
