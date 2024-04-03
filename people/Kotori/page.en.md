@@ -13,30 +13,29 @@ info:
 
 ## Description
 
-Kotori was a girl who loved mathematics and physics, she entered the Department of Physics, School of Physics Science, University of Science and Technology of China (USTC) in Fall 2017.
+Kotori was a girl who was passionate about mathematics and physics, she entered the Department of Physics, School of Physical Science, University of Science and Technology of China (USTC) in the fall of 2017.
 
-Another account ID of her was "Partial Differential",
-and avatar of that account was also the character `∂`, which was a stylized cursive d mainly used as a mathematical symbol, usually to denote a partial derivative such as `∂z/∂x`.
+She also operated another account under the alias "Partial Differential",
+using an avatar depicting the character `∂`,
+which was a stylized cursive `d` mainly used as a mathematical symbol, usually to denote a partial derivative such as `∂z/∂x`.
 
 Kotori was an introverted girl.
-She seldom talked with others or expressed her point of views in public.
+She seldom talked with others or expressed her points of view in public.
 But she was passionate about academic questions,
 and she would always join in the discussion and applaud for the neat idea of her friends.
 
-Many ideas or works of her would be deleted by herself after she wrote them,
-or she just wrote them anonymously.
-There are still some answers of her saved on Zhihu now,
-and we can feel the brilliance in those answers belonging to her.
+She often deleted her own ideas or works after creating them, or she posted them anonymously.
+Nonetheless, there are still some answers of her remained on Zhihu, rediating her brilliance.
 
 She was obsessed with her favourite subjects, and achieved that "erudite and Atsushi, cut near the question thinking."
 
-Kotori had another well-known nickname, Truth-seeking salted fish.
-But in terms of her ability, she was a truth-seeking whale in the ocean indeed.
+Kotori had another well-known nickname, Truth-seeking Salted Fish.
+But in terms of her ability, she was a truth-seeking whale in the ocean, indeed.
 
 She was so good at mathematics and physics that she could also be considered as a talented girl.
 Maybe she would make great contributions in the field of theoretical physics in the future...
 
-But fate always mess up with geniuses.
+But fate always interferes with geniuses.
 
 ## Departure
 
@@ -45,11 +44,11 @@ and her mental health was not so good.
 She had tried to take herself before her last attempt.
 Fortunately, she had been rescued at that time.
 
-She consulted many references to confirm the lethal dose of drug.
-Finally, she chose to end her life on the morning of September 24th, 2018.
+After consulting numerous references to ascertain the lethal dose of the drug,
+she ultimately decided to end her life on the morning of September 24th, 2018.
 
-After that, her friends attempted to contact with USTC authorities, and police in Poyang, Shangrao.
-But Kotori cannot be treated in time, and she was unable to recover and left us at last.
+After that, her friends endeavoured to contact with USTC authorities, and police in Poyang, Shangrao.
+However, Kotori could not be treated in time, and she was unable to recover and left us at last.
 
 ## Memorial
 
@@ -61,10 +60,10 @@ Sakura Moeka wrote:
 >
 > But she would never see that.
 
-Her friends always missed her very much,
-even when one of them used the character `∂`, they felt painful in their heart.
+Her friends perpetually felt a deep longing for her persence.
+Even the mere sight of the character `∂` evoked profound sorrow within them.
 
-Countless companionship, and stories of getting to know each other had finally become fragments of the past days...
+Countless companionships, and stories of getting to know each other had finally become fragments of the past...
 
 > Goodbye, world.
 >
