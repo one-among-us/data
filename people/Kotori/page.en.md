@@ -41,7 +41,7 @@ But fate always interferes with geniuses.
 
 Kotori suffered from depression and gender dysphoria,
 and her mental health was not so good.
-She had tried to take herself before her last attempt.
+She had tried to take her own life before her last attempt.
 Fortunately, she had been rescued at that time.
 
 After consulting numerous references to ascertain the lethal dose of the drug,
