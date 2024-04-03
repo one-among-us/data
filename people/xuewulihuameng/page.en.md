@@ -56,4 +56,9 @@ Xueli's friend [Futajuhuacha](https://one-among.us/profile/Futajuhuacha) was als
 After her left, Huacha deeply missed her and eventually chose to follow her to death in the same place.
 
 Pray for these two girls in heaven.
-We are waiting for your return, reunion...
+
+"As if the vernal breeze had come back overnight, Adorning thousands of pear trees with blossoms white."
+
+We are waiting for the day gentle breeze comes again,
+and pear blossoms come out once more,
+also waiting for your return, reunion...
