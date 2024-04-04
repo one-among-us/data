@@ -27,8 +27,16 @@ const people = fs.readdirSync(peopleDir).map(person => ({
   distPath: path.join(projectRoot, DIST_DIR, PEOPLE_DIR, person)
 }));
 
-const commentOnlyList = JSON.parse(fs.readFileSync(path.join(projectRoot, DATA_DIR, "comment-only.json")).toString()) as String[];
-const excludeList = commentOnlyList.concat(JSON.parse(fs.readFileSync(path.join(projectRoot, DATA_DIR, 'exclude.json')).toString()) as String[]);
+interface HData {
+  commentOnly: string[],
+  exclude: string[],
+  notShowOnHome: string[]
+}
+
+const hdata = JSON.parse(fs.readFileSync(path.join(projectRoot, DATA_DIR, "hdata.json")).toString()) as HData;
+const commentOnlyList = hdata.commentOnly;
+const excludeList = hdata.exclude;
+const notShowOnHomeList = hdata.notShowOnHome;
 
 interface PeopleMeta {
   id: string
