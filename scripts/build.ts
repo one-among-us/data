@@ -121,7 +121,7 @@ function buildPeopleInfoAndList() {
       // Add meta to people list
       if (peopleList.filter(it => it.id == peopleMeta.id).length == 0) {
         peopleList.push(peopleMeta);
-        if (!hdata.notShowOnHome.includes(peopleMeta.id))
+        if (!notShowOnHomeList.includes(peopleMeta.id))
           peopleHomeList.push(peopleMeta)
       }
     }
