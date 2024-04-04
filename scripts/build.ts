@@ -8,7 +8,7 @@ import metadataParser from 'markdown-yaml-metadata-parser';
 
 import { renderMdx } from "./mdx.js";
 import moment from "moment";
-import { Icon } from "./icon.js";
+import { Icon, backSVG } from "./icon.js";
 
 const PUBLIC_DIR = "public";
 
@@ -171,7 +171,7 @@ function handleFootnote(md: string) {
   // Replace footnote references with HTML superscript tags
   return md.replace(/\[\^(\d+)\](?::\s*(.*))?/g, (match, id, text) => text ?
       // Footnote definition
-      `<li id="footnote-${id}">${text}<a href="#footnote-ref-${id}">↩</a></li>` :
+      `<li id="footnote-${id}">${text}<a href="#footnote-ref-${id}">${backSVG}</a></li>` :
       // Footnote reference
       `<sup><a href="#footnote-${id}" id="footnote-ref-${id}">${id}</a></sup>`
   )
