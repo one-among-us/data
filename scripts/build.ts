@@ -8,7 +8,7 @@ import metadataParser from 'markdown-yaml-metadata-parser';
 
 import { renderMdx } from "./mdx.js";
 import moment from "moment";
-import { Icon } from "./icon.js";
+import { Icon, backSVG } from "./icon.js";
 
 const PUBLIC_DIR = "public";
 
@@ -27,8 +27,16 @@ const people = fs.readdirSync(peopleDir).map(person => ({
   distPath: path.join(projectRoot, DIST_DIR, PEOPLE_DIR, person)
 }));
 
-const commentOnlyList = JSON.parse(fs.readFileSync(path.join(projectRoot, DATA_DIR, "comment-only.json")).toString()) as String[];
-const excludeList = commentOnlyList.concat(JSON.parse(fs.readFileSync(path.join(projectRoot, DATA_DIR, 'exclude.json')).toString()) as String[]);
+interface HData {
+  commentOnly: string[]
+  exclude: string[]
+  notShowOnHome: string[]
+}
+
+const hdata = JSON.parse(fs.readFileSync(path.join(projectRoot, DATA_DIR, "hdata.json")).toString()) as HData;
+const commentOnlyList = hdata.commentOnly;
+const excludeList = commentOnlyList.concat(hdata.exclude);
+const notShowOnHomeList = hdata.notShowOnHome;
 
 interface PeopleMeta {
   id: string
@@ -49,6 +57,7 @@ function buildPeopleInfoAndList() {
 
     // Compiled meta of list of people for the front page (contains keys id, name, profileUrl)
     const peopleList: PeopleMeta[] = [];
+    const peopleHomeList: PeopleMeta[] = [];
 
     // For each person
     for (const { dirname, srcPath, distPath } of people) {
@@ -110,14 +119,19 @@ function buildPeopleInfoAndList() {
       } as PeopleMeta;
 
       // Add meta to people list
-      if (peopleList.filter(it => it.id == peopleMeta.id).length == 0)
+      if (peopleList.filter(it => it.id == peopleMeta.id).length == 0) {
         peopleList.push(peopleMeta);
+        if (!notShowOnHomeList.includes(peopleMeta.id))
+          peopleHomeList.push(peopleMeta)
+      }
     }
 
     peopleList.sort((a, b) => b.sortKey.localeCompare(a.sortKey))
+    peopleHomeList.sort((a, b) => b.sortKey.localeCompare(a.sortKey))
 
     // Write people-list.json
     fs.writeFileSync(path.join(projectRoot, DIST_DIR, `people-list${lang}.json`), JSON.stringify(peopleList));
+    fs.writeFileSync(path.join(projectRoot, DIST_DIR, `people-home-list${lang}.json`), JSON.stringify(peopleHomeList));
   }
 }
 
@@ -157,7 +171,7 @@ function handleFootnote(md: string) {
   // Replace footnote references with HTML superscript tags
   return md.replace(/\[\^(\d+)\](?::\s*(.*))?/g, (match, id, text) => text ?
       // Footnote definition
-      `<li id="footnote-${id}">${text}<a href="#footnote-ref-${id}">↩</a></li>` :
+      `<li id="footnote-${id}">${text}<a href="#footnote-ref-${id}">${backSVG}</a></li>` :
       // Footnote reference
       `<sup><a href="#footnote-${id}" id="footnote-ref-${id}">${id}</a></sup>`
   )
