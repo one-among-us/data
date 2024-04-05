@@ -164,6 +164,4 @@ The storytelling has come to an end.
 
 May you be happy every day.
 
----
-
 Story: From Memories of MioNya-SawaNya
