@@ -3,5 +3,7 @@
         "tdor"
     ],
     "exclude": [],
-    "notShowOnHome": []
+    "notShowOnHome": [
+      "MeowBot233"
+    ]
 }
