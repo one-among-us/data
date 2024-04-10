@@ -44,7 +44,7 @@ and her mental health was not so good.
 She had attempted to take her own life before but was rescued.
 
 After consulting numerous references to ascertain the lethal dose of the drug,
-she ultimately decided to end her life on the morning of September 24th, 2018.
+she ultimately decided to end her life on the morning of September 24th, 2019.
 
 After that, her friends endeavoured to contact with USTC authorities, and police in Poyang, Shangrao.
 However, due to the lack of of timely treatment, she was unable to recover and left us at last.
@@ -68,7 +68,7 @@ Countless companionships, and stories of getting to know each other had finally 
 >
 > No, never say goodbye.
 >
-> By Kotori 2018-09-24
+> By Kotori 2019-09-24
 
 Goodbye, Kotori, but we will never say goodbye.
 
