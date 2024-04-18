@@ -100,7 +100,7 @@ Yet her soul lingered.
 
 Bound eternally with her beloved.
 
-## MioNya-SawaNya Reunion
+## Mionya Reunion
 
 > The time limit bell rings
 > 
