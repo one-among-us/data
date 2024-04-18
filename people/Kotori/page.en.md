@@ -13,7 +13,7 @@ info:
 
 ## Description
 
-Kotori was a girl who was passionate about mathematics and physics, she entered the Department of Physics, School of Physical Science, University of Science and Technology of China (USTC) in the fall of 2017.
+Kotori was a girl who was fond of mathematics and physics, she entered the Department of Physics, School of Physical Science, University of Science and Technology of China (USTC) in the fall of 2017.
 
 She also operated another account under the alias "Partial Differential",
 using an avatar depicting the character `∂`,
@@ -22,10 +22,10 @@ which was a stylized cursive `d` mainly used as a mathematical symbol, usually t
 Kotori was an introverted girl.
 She seldom talked with others or expressed her points of view in public.
 However, she was passionate about academic questions,
-and she would always join in the discussion and applaud for the neat idea of her friends.
+and she always joined in the discussion and applauded her friends for their neat ideas.
 
 She often deleted her own ideas or works after creating them, or she posted them anonymously.
-Nonetheless, there are still some answers of her remained on Zhihu, rediating her brilliance.
+Nonetheless, there are still some answers of her remained on Zhihu now, rediating her brilliance.
 
 She was obsessed with her favourite subjects, and achieved that "erudite and Atsushi, cut near the question thinking."
 
