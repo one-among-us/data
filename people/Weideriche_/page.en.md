@@ -2,7 +2,7 @@
 name: Weideriche_
 info:
     alias: Zihe
-    location: Guangdong, China
+    location: Guangdong, China #Qingyuan / Zhongshan, by kokowamakotsu
 ---
 
 ## Description

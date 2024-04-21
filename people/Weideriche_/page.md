@@ -2,7 +2,7 @@
 name: 紫壑
 info:
     alias: 紫壑
-    location: 中国广东
+    location: 中国广东 #清远/中山, by 魔骨
 ---
 
 ## 简介

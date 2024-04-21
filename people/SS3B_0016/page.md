@@ -2,7 +2,7 @@
 name: 盐田
 info:
   alias: 盐田, 地铁八号线
-  location: 广东深圳 # 云南红河
+  location: 广东深圳 # 云南红河, by 魔骨
 ---
 
 ## 简介
