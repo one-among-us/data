@@ -1,7 +1,7 @@
 ---
 name: 林童
 info:
-    alias: 林童
+    alias: 林童, Darkness
     location: 湖北武漢
 ---
 
