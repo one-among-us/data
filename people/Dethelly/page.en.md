@@ -143,6 +143,25 @@ When Sugar just passed away, her mother couldn't accept her decisions. But what 
 
 Anyway, she had passed away.
 
+## Qingming
+
+<!-- 关于清明的翻译问题，海外有 Ching Ming 之说，此处取现代汉语拼音翻译。对于“清明节”，Festival可以包括清明的踏青部分，但此处基于条目的追思方向，故省去Festival。 -->
+
+Just before Qingming, her mother suddenly sent messages to A.
+Her mother told A how she was diligent and excellent, and how much they loved her.
+
+Sugar's father said that Sugar was the brightest star in the sky.
+
+<PhotoScroll photos={[
+    '${path}/photos/photo1.jpg',
+]} />
+
+However, everything went wrong.
+
+If Sugar was still alive, what would happen now...?
+
+It was a pity that she departed abruptly, without waiting for a turn for the better.
+
 > Hope you'll all remember Sugar.
 > 
 > Hope you can share important information, such as your address, with trustworthy friends to avoid any unexpected situations.
