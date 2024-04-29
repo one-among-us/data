@@ -12,7 +12,7 @@ Please read our [How-We-Work](https://github.com/one-among-us/how-we-work/blob/m
 * [web](https://github.com/one-among-us/web) - 网页前端源码
 * [backend](https://github.com/one-among-us/backend) - 献花和编辑后端源码
 
-## 文件结构
+## File Structure
 
 * Directory `/people/<userid>/`: Data for a specific person
   * `info.json5`: Profile information
@@ -38,3 +38,35 @@ Please read our [How-We-Work](https://github.com/one-among-us/how-we-work/blob/m
 
 这个脚本不会覆盖在已有的繁体文件上的更改，更新已经生成过繁体的简体文稿之后会自动合并，不过还是要手动检查一下哦。
 -->
+
+## HData
+
+`/data/hdata.json` defined some data which used for entry properties. Here is some description of it:
+
+* `commentOnly`: `string[]`, the entries which include comments only, like `tdor` or `tdov`
+* `exclude`: `string[]`, the directories which would not be handled
+* `notShowOnHome`: `string[]`, if you don't want a entry show on the home, add it into this item
+* `actualHide`: `string[]`, if you don't want a entry show on the home and won't be redirected by random buttons, add it into this item.  
+  If you set a entry in this list, you have no need to set it into `notShowOnHome` again.
+
+### Example
+
+```json
+{
+    "commentOnly": [
+        "tdor"
+    ],
+    "exclude": [
+        "tdov"
+    ],
+    "notShowOnHome": [
+        "Anilovr",
+        "noname3031"
+    ],
+    "actualHide": [
+        "ArtsEpiphany"
+    ]
+}
+```
+
+If you don’t understand how to modify it, please feel free to [Contact Us](https://one-among.us/about/).

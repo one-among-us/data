@@ -31,12 +31,14 @@ interface HData {
   commentOnly: string[]
   exclude: string[]
   notShowOnHome: string[]
+  actualHide: string[]
 }
 
 const hdata = JSON.parse(fs.readFileSync(path.join(projectRoot, DATA_DIR, "hdata.json")).toString()) as HData;
 const commentOnlyList = hdata.commentOnly;
 const excludeList = commentOnlyList.concat(hdata.exclude);
 const notShowOnHomeList = hdata.notShowOnHome;
+const actualHide = hdata.actualHide;
 
 interface PeopleMeta {
   id: string
@@ -120,9 +122,11 @@ function buildPeopleInfoAndList() {
 
       // Add meta to people list
       if (peopleList.filter(it => it.id == peopleMeta.id).length == 0) {
-        peopleList.push(peopleMeta);
-        if (!notShowOnHomeList.includes(peopleMeta.id))
-          peopleHomeList.push(peopleMeta)
+        if (!actualHide.includes(peopleMeta.id)) {
+          peopleList.push(peopleMeta);
+          if (!notShowOnHomeList.includes(peopleMeta.id))
+            peopleHomeList.push(peopleMeta)
+        }
       }
     }
 
