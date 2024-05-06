@@ -153,6 +153,9 @@ function buildPeoplePages() {
       // Handle Footnote
       markdown = handleFootnote(markdown)
 
+      // Handle Delete Line: ~~something~~ to <del>something</del>
+      markdown = handleDeleteLine(markdown)
+
       // Handle Icon
       markdown = handleNoteIcon(markdown)
 
@@ -182,6 +185,12 @@ function handleFootnote(md: string) {
   
   // Wrap the footnote definitions in an ordered list
   .replace(/(<li id="footnote.*<\/li>)/gs, '<ol>\n$1\n</ol>')
+}
+
+function handleDeleteLine(md: string): string {
+  if (!md.includes('~~')) return md;
+
+  return md.replace(/~~(.*?)~~/g, (match, text) => ("<del>" + text + "</del>"));
 }
 
 function handleNoteIcon(md: string): string {
