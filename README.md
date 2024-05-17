@@ -25,9 +25,9 @@ Please read our [How-We-Work](https://github.com/one-among-us/how-we-work/blob/m
   * Directory `/people/<userid>/`: Built data for a specific person
     * `page.js`: `page.md` built with MDX
 
-## 多语言
+## Multilingual
 
-我们正在尝试重新编写网站的多语言架构，以使其更通用，更新的方式更简洁。在这段过渡时期里，请大家尽量把简体中文作为底稿，并且用自动转换或者手动校对的方式生成繁体文稿。在新的多语言架构编写完成后，我们会重新校对所有繁体文稿。
+We are trying to rewrite the multilingual architecture of the website to make it more versatile and more concise in an updated way. During this transitional period, please try your best to use Simplified Chinese as the manuscript, and use automatic conversion or manual proofreading to generate the Traditional Chinese manuscript. After the new multilingual architecture is written, we will re-proofread all Traditional Chinese manuscripts.
 
 <!--
 ## 生成/更新繁体文稿
