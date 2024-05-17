@@ -5,6 +5,14 @@ info:
     location: Changzhou, Jiangsu
 ---
 
+> [!Caution]**Tips**
+>
+> Some content of this entry doesn’t correspond to fact, while other parts still may require fact check. Therefore, this entry is invisible in main page and random page.
+>
+> You are probably keeping track of an ongoing event, if you feel uncomfortable or stressed, we suggest that you pause browsing the relevant topics.
+>
+> One Among Us Transgender Support wishes every kind person to be treated with gentleness.
+
 ## Description
 
 <!-- 注释：我觉得“小药娘”就可以不用翻译了，英文环境里好像没有对应的东西，注释应该也可以不需要。 -->
