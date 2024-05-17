@@ -5,6 +5,8 @@ info:
     location: Changzhou, Jiangsu
 ---
 
+[[ {"type":"banner", "icon":"https://data.one-among.us/people/shi_Yumiaoya/photos/profile.jpg","title":"Some content of this entry doesn’t correspond to fact","text":"You are probably keeping track of an ongoing event, if you feel uncomfortable or stressed, we suggest that you pause browsing the relevant topics."} ]]
+
 > [!Caution]**Tips**
 >
 > Some content of this entry doesn’t correspond to fact, while other parts still may require fact check. Therefore, this entry is invisible in main page and random page.

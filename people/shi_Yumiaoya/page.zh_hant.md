@@ -5,6 +5,8 @@ info:
   location: 江蘇常州
 ---
 
+[[ {"type":"banner", "icon":"https://data.one-among.us/people/shi_Yumiaoya/photos/profile.jpg","title":"該條目部分內容與事實不符","text":"您可能在關注一項正在發生的熱點事件，如果您在相關事件的討論中感到不適或精神壓力，建議您暫停瀏覽相關內容。"} ]]
+
 > [!Caution]**提示**
 >
 > 該條目的部分內容存在與事實不相符的地方，而其他部分內容可能仍需進行事實核查，因此本條目在主頁與隨機條目中暫不可見。
