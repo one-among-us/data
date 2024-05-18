@@ -87,5 +87,5 @@ The internal JSON schema is as follows:
 ### Example
 
 ```json
-[[ {"type":"banner", "icon":"https://data.one-among.us/people/shi_Yumiaoya/photos/profile.jpg","title":"Some content of this entry doesn’t correspond to fact","text":"You are probably keeping track of an ongoing event, if you feel uncomfortable or stressed, we suggest that you pause browsing the relevant topics."} ]]
+[[ {"type":"banner", "icon":"https://one-among.us/favicon-large.png","title":"Some content of this entry doesn’t correspond to fact","text":"You are probably keeping track of an ongoing event, if you feel uncomfortable or stressed, we suggest that you pause browsing the relevant topics."} ]]
 ```
