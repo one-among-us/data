@@ -9,6 +9,7 @@ import metadataParser from 'markdown-yaml-metadata-parser';
 import { renderMdx } from "./mdx.js";
 import moment from "moment";
 import { handleFeatures } from "./feature.js";
+import { HData, PeopleMeta } from "./data.js";
 
 const PUBLIC_DIR = "public";
 
@@ -27,26 +28,12 @@ const people = fs.readdirSync(peopleDir).map(person => ({
   distPath: path.join(projectRoot, DIST_DIR, PEOPLE_DIR, person)
 }));
 
-interface HData {
-  commentOnly: string[]
-  exclude: string[]
-  notShowOnHome: string[]
-  actualHide: string[]
-}
-
 const hdata = JSON.parse(fs.readFileSync(path.join(projectRoot, DATA_DIR, "hdata.json")).toString()) as HData;
 const commentOnlyList = hdata.commentOnly;
 const excludeList = commentOnlyList.concat(hdata.exclude);
 const notShowOnHomeList = hdata.notShowOnHome;
 const actualHide = hdata.actualHide;
-
-interface PeopleMeta {
-  id: string
-  name: string
-  profileUrl: string
-  path: string
-  sortKey: string
-}
+const trigger = hdata.trigger;
 
 // Transform `info.json5` to `info.json`.
 // Extract metadata from `people/${dirname}/info.json5` to `dist/people-list.json`.
@@ -184,6 +171,7 @@ function copyPeopleAssets() {
 // Copy files `public` to dist.
 function copyPublic() {
   fs.copySync(path.join(projectRoot, PUBLIC_DIR), path.join(projectRoot, DIST_DIR));
+  fs.writeFileSync(path.join(DIST_DIR, 'trigger-list.json'), JSON.stringify(trigger as string[]));
 }
 
 function copyComments() {
