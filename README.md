@@ -48,6 +48,7 @@ We are trying to rewrite the multilingual architecture of the website to make it
 * `notShowOnHome`: `string[]`, if you don't want a entry show on the home, add it into this item
 * `actualHide`: `string[]`, if you don't want a entry show on the home and won't be redirected by random buttons, add it into this item.  
   If you set a entry in this list, you have no need to set it into `notShowOnHome` again.
+* `trigger`: `sreing[]`, if you think this article is likely to irritate readers and should be restricted, please set this option.
 
 ### Example
 
@@ -65,6 +66,9 @@ We are trying to rewrite the multilingual architecture of the website to make it
     ],
     "actualHide": [
         "ArtsEpiphany"
+    ],
+    "trigger": [
+        "Xu_Yushu"
     ]
 }
 ```
