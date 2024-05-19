@@ -4,6 +4,7 @@ export interface HData {
     notShowOnHome: string[];
     actualHide: string[];
     trigger: string[];
+    switch: [string, string][];
 }
 
 export interface PeopleMeta {

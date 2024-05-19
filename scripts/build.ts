@@ -34,6 +34,7 @@ const excludeList = commentOnlyList.concat(hdata.exclude);
 const notShowOnHomeList = hdata.notShowOnHome;
 const actualHide = hdata.actualHide;
 const trigger = hdata.trigger;
+const switchPair = hdata.switch;
 
 // Transform `info.json5` to `info.json`.
 // Extract metadata from `people/${dirname}/info.json5` to `dist/people-list.json`.
@@ -172,6 +173,7 @@ function copyPeopleAssets() {
 function copyPublic() {
   fs.copySync(path.join(projectRoot, PUBLIC_DIR), path.join(projectRoot, DIST_DIR));
   fs.writeFileSync(path.join(DIST_DIR, 'trigger-list.json'), JSON.stringify(trigger as string[]));
+  fs.writeFileSync(path.join(DIST_DIR, 'switch-pair.json'), JSON.stringify(switchPair as [string, string][]))
 }
 
 function copyComments() {
