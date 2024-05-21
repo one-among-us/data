@@ -15,7 +15,7 @@ Moreover, she hadn't a friend to confide her thought, she could only hide these 
 That made her look a bit intimidated.
 
 She always prepared a lot ahead of meeting friends in real life.
-She was always worried about leaving a bad impression, so she asked them tons of questions in advance (such as which kinds of gift they would like), and warned them she might exhibit regressive behaviors.
+She was always worried about leaving a bad impression, so she asked them tons of questions in advance (such as which kinds of gift they would like), and warned them she might exhibit regressive behaviours.
 
 Her family is conservative.
 Her father worked in China Railways Group and her mother was a teacher.
@@ -62,7 +62,7 @@ Later, Sugar began her winter vacation, and got her diagnosis certificate of gen
 
 On January 22nd, 2024, she went back to her hometown, Chongqing, and regained contact with A.
 
-(According to her mother who worked away from Chongqing, when she just returned home, she seemed happy in Wechat.)
+(According to her mother who worked away from Chongqing, when she just returned home, she seemed happy in WeChat.)
 
 But the reality is the opposite.
 
@@ -101,7 +101,7 @@ Her parents started to tidy up her belongings.
 
 Her mother asked A if she wanted to keep Sugar's IKEA Blåhaj Shark, which she loved to hug.
 
-Her mother said, he was their angel, but unfortunately God made him leave early and he had to leave.
+Her mother said, he was their angel, but unfortunately God made him leave early, and he had to leave.
 
 Her mother had always been grateful to A.
 
@@ -134,7 +134,7 @@ In a daze, a phone call from Chongqing came, and she was familiar with the numbe
 > Girl, I am glad you're okay, wish you a happy life.
 
 Sugar had a very cute face and figure.
-If we change a character of her name to another homophonic one, it would became a girl's name that perfectly matches her gentle and soft temperament.
+If we change a character of her name to another homophonic one, it would become a girl's name that perfectly matches her gentle and soft temperament.
 
 But she just departed, with a mentality of "take a gamble".
 Her life was frozen at the age of 19.
@@ -170,7 +170,7 @@ It was a pity that she departed abruptly, without waiting for a turn for the bet
 > 
 > Hope that if you have the ability to call the police, you can dial decisively. You are a lifesaver, not a murderer. Don't be afraid.
 > 
-> Hope you cherishes life, hope still exists; you will only miss the opportunity if you leave too early.
+> Hope you cherish life, hope still exists; you will only miss the opportunity if you leave too early.
 > 
 > Hope you'll all remember Sugar.
 
