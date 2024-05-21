@@ -1,7 +1,7 @@
 ---
 name: Qi
 ---
-Qi didn’t often talk on the Internet, but she was very welcoming in real life. Her humor always brought people around her happiness.
+Qi didn’t often talk on the Internet, but she was very welcoming in real life. Her humour always brought people around her happiness.
 
 She seemed mysterious. She didn’t often introduce herself because she thinks: “I am me, I want you know me for who I am, not know me as someone with a certain label. If someone can’t understand me, that’s their problem. I don’t want them to hate people who have the same label or experience as me because of me.”
 
@@ -9,7 +9,7 @@ Qi was a gentle, brave, and resolute person who dares to love and hate. She woul
 
 However, she was also plagued by depression and anxiety.
 
-On March 14, 2023, she attempted suicide by jumping off a building due to depression, and her legs were disabled. This made her life very inconvenient and she became more depressed.
+On March 14, 2023, she attempted suicide by jumping off a building due to depression, and her legs were disabled. This made her life very inconvenient, and she became more depressed.
 
 On July 1, 2023, she jumped off a building again after taking a large amount of antidepressant drugs.
 This time, her injuries were beyond saving.
@@ -17,6 +17,6 @@ This time, her injuries were beyond saving.
 Qi chose to jump off the building due to the suicide of her childhood friend by jumping off a building. She always regretted not being able to save him, so she chose the same way to end her own life.
 
 Qi wrote in her suicide note:
-“My death has nothing to do with anyone, it’s just a choice of mine, please don′t hate others for it. Please live a good, sunny and happy life, and please live a good life for yourself.”
+“My death has nothing to do with anyone, it’s just a choice of mine, please don't hate others for it. Please live a good, sunny and happy life, and please live a good life for yourself.”
 
 She had always hoped that everyone can live happily and healthily.
