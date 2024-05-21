@@ -9,9 +9,9 @@ info:
 
 Mone is a cisgender ally among us. She's quite a cute little girl.
 
-She loves idol groups and singing tv programmes in Japan and South Korea, and often reposts their tweets.
+She loves idol groups and singing TV programmes in Japan and South Korea, and often reposts their tweets.
 
-She also plays Minecraft. In that game, she built a small villa with a cozy room belonging to herself.
+She also plays Minecraft. In that game, she built a small villa with a cosy room belonging to herself.
 
 According to Mone, she never got happiness and love. Her parents got divorced in the first half of 2023. After that, she lived with her mother. The lack of love from family made her depressed. During the past 7 months, her father always refused to visit her, and her paternal grandmother didn't care about her any more. She was treated for depression in hospital. It was a period she missed, because she received lots of love from other patients:
 
