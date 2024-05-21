@@ -112,7 +112,7 @@ The dreamlike lighting seemed to immerse her in a dream...
 In the same place, a similar night, she took her own life as Xueli did.
 
 The rescue in the late night failed to save her life.
-In the early morning of the next day, The girl chasing the milky way left the world at last.
+In the early morning of the next day, The girl chasing the Milky Way left the world at last.
 
 > Farewell, Huacha. Hope you and Xueli can be together well in heaven.
 >
