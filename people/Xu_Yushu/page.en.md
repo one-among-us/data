@@ -20,14 +20,14 @@ Maybe it's more accurate to describe her as *literary girl*.
 
 One of Xu Yushu's ambitions is to be accepted by the people around her as a "real" girl.
 
-Xu Yushu had always been a lonely child but she made friends with books.
+Xu Yushu had always been a lonely child, but she made friends with books.
 Reading made her mature faster than her peers.
 She loved being immersed in the world of books.
 Her bookshelf was filled up already at that time.
 Not only that, she also went to the bookstore next to her father's workspace and left a deep impression on the bookstore's manager.
 
 During her high school years, Nan'an Wanda Plaza's Sisyphe Books was one of the places she went to the most.
-There, she could find tranquility in the pleasant smell of coffee and books.
+There, she could find tranquillity in the pleasant smell of coffee and books.
 
 She loved writing, and was once elected as the president of Chongqing No.2 Foreign Language School Nanlu Literary Club.
 In one of her writings, she wrote "Real writing is offering the writer themselves to Goddess Muses's sacrificial altar."
@@ -128,10 +128,10 @@ After listening to the advice of the doctor, he told Xu Yushu "Try to forget it,
 Xu Yushu's father actually always tried to understand Xu Yushu.
 He learnt psychology in university but was never taught anything about gender.
 He didn't think his child really had gender dysphoria.
-He said Xu Yushu "never had any weird behaviors" at home,
+He said Xu Yushu "never had any weird behaviours" at home,
 "didn't cry for feminine clothing or wigs", and was only wanting to be a girl because she wanted to have people to protect her from all that bullying,
 
-After her departure, her father still used male pronouns to refer to Xu Yushu, and seldomly talked about her desire of being a girl.
+After her departure, her father still used male pronouns to refer to Xu Yushu, and seldom talked about her desire of being a girl.
 Obviously, Xu Yushu's father didn't have an accurate grasp of knowledge about gender (maybe because the textbook he read were outdated, maybe because he doesn't want to believe his child is transgender), and he didn't realize gender dysphoria was a major part of Xu Yushu's pressure.
 While she needed support from her family the most, he failed as a core family member.
 
@@ -140,14 +140,14 @@ Maybe in another world, she would've persisted to walk through the darkness and 
 
 ### About Her Friends
 
-ALthough Xu Yushu was always misunderstood and bullied by people around her, she still had her share of friends.
+Although Xu Yushu was always misunderstood and bullied by people around her, she still had her share of friends.
 
 On top of her desk is a deck of playing cards her classmate sent her.
 The cards are old and some of them are tattered.
 In the will she wrote specifically to this classmate, she called him her best friend.
 She also listed a few other friends, and wrote:
 
-> Thank you for being my friends, even though it might be one sided from me.
+> Thank you for being my friends, even though it might be one-sided from me.
 
 ## Conclusion
 
