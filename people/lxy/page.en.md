@@ -9,7 +9,7 @@ Xiyin was an outstanding transgender woman. She was cute and gentle. She was a s
 
 She worked hard at college. Since her relationship with her family was bad, she hoped to support herself through part-time jobs and internships and also save funds for sex reassignment surgery. However, COVID-19 had seriously hindered her pace, causing her to fall into financial difficulties. This may be one of the reasons why she chose to commit suicide.
 
-She also wants to be like a little girl who can’t be bothered to make an effort and needs company occationally. However, because of her identification (MtF) and the society’s increasing atomization, she had always been lonely. Her loneliness was increasingly magnified as both her and her MtF friend developed serious mental problems.
+She also wants to be like a little girl who can’t be bothered to make an effort and needs company occasionally. However, because of her identification (MtF) and the society’s increasing atomization, she had always been lonely. Her loneliness was increasingly magnified as both her and her MtF friend developed serious mental problems.
 
 Her death caught people off guard. The night before, she had a simple dinner with some people in the school club. She was concerned about the issue of the family district in the school at that time[^1], but she wasn’t able to see the issue resolved. We didn't learn of her committing suicide until her dormitory was surrounded by police.
 

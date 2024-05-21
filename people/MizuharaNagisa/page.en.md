@@ -31,7 +31,7 @@ This is the [last piece of writing](https://pbs.twimg.com/media/E6odBBBVIAAM-Zt?
 > so I decided to end my life.
 > I don't really know what would happen,
 > either I'd be dead or I'd be in the ICU, lol.
-> Regrettablly, I would be unable to enjoy the 3060 video card I just got.
+> Regrettably, I would be unable to enjoy the 3060 video card I just got.
 > And Nintendo Switch, PlayStation 5.
 >
 > Everything goes wrong when my family is involved.

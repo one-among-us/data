@@ -23,7 +23,7 @@ She was admitted to one of the top universities in China because of her brillian
 In life, she liked to play *Minecraft* and *Karbel Space Program*.
 After all these years, she became a gentle big sister to many people.
 
-She sufferred major depression disorder throughout the last year of her life.
+She suffered major depression disorder throughout the last year of her life.
 Although she was pushed to suicide several times, she still tried to live as happily as she could.
 She made many friends and built up many relationships in that year alone:
 
@@ -74,7 +74,7 @@ Translation:
 > 
 > > (Translation of the post):
 > >
-> > To be able to maintain a state between male and female is a miracle――height, body shape, behavior, skin, and voice.
+> > To be able to maintain a state between male and female is a miracle――height, body shape, behaviour, skin, and voice.
 > > A state like this allows me to switch gender presentations relatively easily without fear of being clocked.
 > > Being in a state like this delayed the worsening of my Gender Dysphoria.
 > >

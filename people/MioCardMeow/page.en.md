@@ -35,7 +35,7 @@ SugarMeow said, in fact, MioCardMeow was in fact a clingy girl. It was a pity th
 
 Her hostile family and negative impact of long-term medication (pituitary adenoma) gave rise to her suicidal thoughts. She passed away after an unsuccessful resuscitation.
 
-Her departure was reported by [Miao Xiao Bai](https://twitter.com/pizyj/status/1492928433172582400?s=21) on Feburary 14th, 2022.
+Her departure was reported by [Miao Xiao Bai](https://twitter.com/pizyj/status/1492928433172582400?s=21) on February 14th, 2022.
 
 ## After Her Leaving
 
