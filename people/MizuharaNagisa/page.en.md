@@ -12,7 +12,7 @@ She was friends with [Ying](https://www.one-among.us/profile/Uekawakuyuurei/).
 During her life, she was an active long-term contributor for Chinese Wikipedia and other MediaWiki sites.
 Since 2019, she started playing *Kancolle*.
 Her favourite character was Destroyer Hibiki.
-Her hobbies were tinkering with computer hardware like Respberry Pi and drawing.
+Her hobbies were tinkering with computer hardware like Raspberry Pi and drawing.
 She was also proficient in Japanese.
 
 Because of depression and other problems, she had to stop going to school since 2019;
