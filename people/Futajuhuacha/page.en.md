@@ -83,7 +83,7 @@ From the first seven day to the seventh seven day[^2] of Xueli's death,
 she always missed Xueli, the lovely gentle girl who quietly left alone.
 
 > May the world treat you gently.
-> 
+>
 > It's suddenly raining heavily in Chongqing...
 >
 > Is this your way of calling me...?
@@ -96,7 +96,7 @@ she almost couldn't control the thought of suicide on the Huanghuayuan Jialingji
 which was a land of fate —— the place of death of Xueli and several other MtFs in Chongqing.
 
 At the end of June, she attempted to take her own life again and was admitted to ICU.
-Afte her physical condition improved, she wrote down this little poem:
+After her physical condition improved, she wrote down this little poem:
 
 <PhotoScroll photos={[
 '${path}/photos/photo1.jpg',
