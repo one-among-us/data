@@ -56,7 +56,7 @@ That night, Sugar actually deleted her contact.
 The second day, a Twitter user who claimed to be Sugar's high school classmate brought her some random thoughts on behalf of Sugar.
 Then A requested them to look after her.
 
-Later, Sugar began her winter vacation, and got her diagnosis certificate of gender dysphoria in Shenzhen Kangning Hospital —— This was only known by A after her death.
+Later, Sugar began her winter holiday, and got her diagnosis certificate of gender dysphoria in Shenzhen Kangning Hospital —— This was only known by A after her death.
 
 ## Thick fog over Jialing River (Her departure)
 
