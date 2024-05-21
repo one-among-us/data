@@ -130,7 +130,7 @@ On 1st September 2019, Neko left Haohaizi, and started her new life after a peri
 >
 > From 2018-03-16 22:31
 >
-> To  2020-03-16 22:31
+> To 2020-03-16 22:31
 >
 > Thanks to all your efforts in that period
 >
