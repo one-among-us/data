@@ -7,7 +7,7 @@ info:
 
 ## 简介
 
-[淺羽貓頭](https://twitter.com/homoyamakaze) ，上傳了 MtF.wiki 上[首個遼寧地區開證方法](https://mtf.wiki/zh-cn/docs/psyco/liaoning/liu-hong/)，線下協助多名跨性別開具易性症證明和處方，和淺羽織雪一起幫助數位跨性別女性買到了低價日雌，數量約在百盒以上。
+[淺羽貓頭](https://twitter.com/homoyamakaze) ，上傳了 MtF.wiki 上[首個遼寧地區開證方法](https://mtf.wiki/zh-cn/docs/psyco/liaoning/liu-hong/)[^1]，線下協助多名跨性別開具易性症證明和處方，和淺羽織雪一起幫助數位跨性別女性買到了低價日雌，數量約在百盒以上。
 
 <PhotoScroll photos={[ '${path}/photos/1.jpg', ]} /> <PhotoScroll photos={[ '${path}/photos/2.png', ]} />
 
@@ -18,3 +18,5 @@ info:
 該消息於 2022 年 11 月 25 日由 [穗也柚子](https://twitter.com/YuzuTvT) 和 [Lee](https://twitter.com/rbqwansui) 發佈。
 
 條目貢獻：[穗也柚子](https://twitter.com/YuzuTvT)
+
+[^1]: 此部分內容正在經受事實核查 (Fact Check)

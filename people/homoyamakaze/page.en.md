@@ -8,7 +8,7 @@ info:
 ## Description
 
 [Qian Yu Mao Tou](https://twitter.com/homoyamakaze)
-wrote the first article about [how to get a diagnosis of gender dysphoria in Liaoning](https://mtf.wiki/zh-cn/docs/psyco/liaoning/liu-hong/)
+wrote the first article about [how to get a diagnosis of gender dysphoria in Liaoning](https://mtf.wiki/zh-cn/docs/psyco/liaoning/liu-hong/)[^1]
 on [MtF.wiki](https://mtf.wiki).
 She also helped many trans people in person to get their diagnosis and prescriptions.
 Working together with Qian Yu Zhi Xue, she helped many people get affordable HRT medicine, amount of which was over a hundred boxes.
@@ -26,3 +26,5 @@ Confirmed on twitter by both [Sui Ye You Zi](https://twitter.com/YuzuTvT) and [L
 
 Contributor of entry:
 [Sui Ye You Zi](https://twitter.com/YuzuTvT)
+
+[^1]: Under fact checking
