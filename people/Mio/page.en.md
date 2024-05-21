@@ -62,7 +62,7 @@ Translation:
 >
 > Mio: Is it because you saw my Tieba (Translator's note: a popular social media platform) post?
 >
-> Me: No, I haven't checked Tieba in a while. I did see your Wechat (Translator's note: another popular social media platform) post, though.
+> Me: No, I haven't checked Tieba in a while. I did see your WeChat (Translator's note: another popular social media platform) post, though.
 > 
 > Me: Have you considered what you're experiencing to be Gender Dysphoria?
 > 
@@ -70,7 +70,7 @@ Translation:
 > 
 > Me: I think we need to meet. How about May 1st? (Translator's note: a holiday)
 > 
-> Me: (photo, a Wechat post)
+> Me: (photo, a WeChat post)
 > 
 > > (Translation of the post):
 > >
