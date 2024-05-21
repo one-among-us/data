@@ -25,7 +25,7 @@ However, she was passionate about academic questions,
 and she always joined in the discussion and applauded her friends for their neat ideas.
 
 She often deleted her own ideas or works after creating them, or she posted them anonymously.
-Nonetheless, there are still some answers of her remained on Zhihu now, rediating her brilliance.
+Nonetheless, there are still some answers of her remained on Zhihu now, radiating her brilliance.
 
 She was obsessed with her favourite subjects, and achieved that "erudite and Atsushi, cut near the question thinking."
 
@@ -47,7 +47,7 @@ After consulting numerous references to ascertain the lethal dose of the drug,
 she ultimately decided to end her life on the morning of September 24th, 2019.
 
 After that, her friends endeavoured to contact with USTC authorities, and police in Poyang, Shangrao.
-However, due to the lack of of timely treatment, she was unable to recover and left us at last.
+However, due to the lack of timely treatment, she was unable to recover and left us at last.
 
 ## Memorial
 
@@ -59,7 +59,7 @@ Sakura Moeka wrote:
 >
 > But she would never see that.
 
-Her friends perpetually felt a deep longing for her persence.
+Her friends perpetually felt a deep longing for her presence.
 Even the mere sight of the character `∂` evoked profound sorrow within them.
 
 Countless companionships, and stories of getting to know each other had finally become fragments of the past...
