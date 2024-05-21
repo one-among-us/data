@@ -37,7 +37,7 @@ In 2022 April, [Bei Yan Yun Yi](https://github.com/BeiyanYunyi) saw a social med
 It was also at that time that Bei Yan Yun Yi figured out her gender identity.
 Bei Yan Yun Yi remembered that Mio had done research on SRS during primary school.
 Therefore, when she reconnected with Mio, she came out to her.
-Just like that, best "boy" friends become best girl friends.
+Just like that, best "boy" friends became best girl friends.
 
 <PhotoScroll photos={[
 '${path}/photos/photo6.jpg',
