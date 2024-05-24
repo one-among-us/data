@@ -44,7 +44,7 @@ Of course, she also recorded daily life in her blog, and we can still see her st
 
 Yumao once studied abroad in the US, then she went back to Shanghai to continue her study in university.
 
-In 2017, she encountered Neko in Twitter (Now X), and she felt that Neko was skilled and powerful.
+In 2017, she encountered Neko on Twitter (Now X), and she felt that Neko was skilled and powerful.
 After that, they became close partners.
 
 In that period, there was not so much censorship about transgender topic in Zhihu.
@@ -52,7 +52,7 @@ So Yumao always @ Neko in relevant topics, then showed their affection in public
 
 During that time, Yumao got many mental supports. She described the care from Neko like this:
 
-> "Even those things were dark and painful, which had been hidden, you still observed and felt them. Maybe you understanded more then myself. How wonderful... You also found my scattered identity, then lifted me out of abyss. That was the first time I was been touched by others."
+> "Even those things were dark and painful, which had been hidden, you still observed and felt them. Maybe you understood more than myself. How wonderful... You also found my scattered identity, then lifted me out of abyss. That was the first time I was touched by others."
 
 However, they were forced to separate.
 After that, Neko was brought back to Yunnan by family, and was sent to correctional school (a "school" which uses punishments on students to force them to conform).
@@ -82,7 +82,7 @@ The next day, she left this world with regrets at her age of 17.
 
 > Wish that I could become a pretty girl who is kind-hearted, and become the sister of Ayaka and Ruri.
 
-In her blog post *[Separation and Reunion](https://web.archive.org/web/20210517104118/https://oao.moe/archives/948/)* published in march, she left many words to her friends, and thanked to their company all along. 
+In her blog post *[Separation and Reunion](https://web.archive.org/web/20210517104118/https://oao.moe/archives/948/)* published in March, she left many words to her friends, and thanked to their company all along. 
 
 <PhotoScroll photos={[
     '${path}/photos/photo1.jpg',
@@ -130,7 +130,7 @@ On 1st September 2019, Neko left Haohaizi, and started her new life after a peri
 >
 > From 2018-03-16 22:31
 >
-> To  2020-03-16 22:31
+> To 2020-03-16 22:31
 >
 > Thanks to all your efforts in that period
 >

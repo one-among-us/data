@@ -18,9 +18,9 @@ She showcased her fluency in poetry and her ability to critique the world by wri
 
 Realizing her true gender identity at an early age,
 she struggled with severe anxiety,
-which she she endured silently for a long time.
+which she endured silently for a long time.
 She always felt that she was trapped in a nightmare of not being recognized as a girl,
-and she hoped to wake up from it everyday.
+and she hoped to wake up from it every day.
 Later, she chose the path of self-discovery, and embraced her identity as a girl.
 
 Huacha was a gentle girl, akin to her friend [Xuewulihuameng](https://one-among.us/profile/xuewulihuameng).
@@ -83,7 +83,7 @@ From the first seven day to the seventh seven day[^2] of Xueli's death,
 she always missed Xueli, the lovely gentle girl who quietly left alone.
 
 > May the world treat you gently.
-> 
+>
 > It's suddenly raining heavily in Chongqing...
 >
 > Is this your way of calling me...?
@@ -96,7 +96,7 @@ she almost couldn't control the thought of suicide on the Huanghuayuan Jialingji
 which was a land of fate —— the place of death of Xueli and several other MtFs in Chongqing.
 
 At the end of June, she attempted to take her own life again and was admitted to ICU.
-Afte her physical condition improved, she wrote down this little poem:
+After her physical condition improved, she wrote down this little poem:
 
 <PhotoScroll photos={[
 '${path}/photos/photo1.jpg',
@@ -112,7 +112,7 @@ The dreamlike lighting seemed to immerse her in a dream...
 In the same place, a similar night, she took her own life as Xueli did.
 
 The rescue in the late night failed to save her life.
-In the early morning of the next day, The girl chasing the milky way left the world at last.
+In the early morning of the next day, The girl chasing the Milky Way left the world at last.
 
 > Farewell, Huacha. Hope you and Xueli can be together well in heaven.
 >

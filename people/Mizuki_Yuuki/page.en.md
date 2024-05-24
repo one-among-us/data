@@ -23,7 +23,7 @@ In early December, when Mizuki got their first Kigurumi headpiece, they were ove
 Three days later, I invited them for an outdoor photoshoot in Century Park – my first outdoor photoshoot.
 
 After this photoshoot, Mizuki organized a Kigurumi party and traveled twice: one to Kuala Lumpur before Christmas, and another to Hong Kong after New Year's Day.
-They were not fond of traveling so that was a bit surprising.
+They were not fond of traveling, so that was a bit surprising.
 
 Then they left this world.
 Perhaps it was financial troubles that overwhelmed them, or maybe they had fulfilled all their wishes.
