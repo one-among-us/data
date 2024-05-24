@@ -16,7 +16,7 @@ Her hobbies were tinkering with computer hardware like Raspberry Pi and drawing.
 She was also proficient in Japanese.
 
 Because of depression and other problems, she had to stop going to school since 2019;
-because of unacceptance from her family and other problems she faced, her depression and anxiety got worse and started to suffer from insomnia.
+because of unacceptance of her family and other problems she faced, her depression and anxiety got worse and started to suffer from insomnia.
 On 2021 July 21st, she took her own life to leave this cruel world.
 
 This is the [last piece of writing](https://pbs.twimg.com/media/E6odBBBVIAAM-Zt?format=jpg&name=4096x4096) she left us.
