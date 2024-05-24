@@ -33,7 +33,7 @@ She made wishes to meteors occasionally. She said: "It's not because I believe t
 According to Neko, Yumao loved spicy hot pot, and always enjoyed it with rice.
 
 Yumao liked to watch stars while waiting to fall asleep at night.
-After she returned to China, due to bad weather and fewer spare time, she couldn't watch stars as often as she did.
+After she returned to China, due to bad weather and few spare time, she couldn't watch stars as often as she did.
 So [she made a special trip to Dishui Lake and watched stars](https://web.archive.org/web/20210517104313/https://oao.moe/archives/834/).
 
 She saved many thoughts in her [blog](https://web.archive.org/web/20210420170241/https://oao.moe/archives/), and these blog posts spanned many subjects: computer science, military and politics.
