@@ -22,7 +22,7 @@ Interestingly, she has a lovely sister who bites others (playfully and harmlessl
 I met Qianyuan in November 2022. In my impression, she was a lively high-school student. 
 
 She had dishevelled hair of medium length, which grew over her ears and nearly covered her eyes.
-She always wore a light grey scarf and a light green coat.
+She always wore a light gray scarf and a light green coat.
 She was truly an adorable child.
 
 Since we first met online, she'd said that she wanted to played with me.
