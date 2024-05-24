@@ -11,7 +11,7 @@ Huacha was a lovely and determined trans girl who loved this world.
 
 She was an OIer and once participated in the National Olympiad in Informatics(NOI).
 
-She adored long hair, so she opted for hair extension to fulfil her love for it.
+She adored long hair, so she opted for hair extension to fulfill her love for it.
 
 She loved writing and reading, and she often delved into the works of Lu Xun.
 She showcased her fluency in poetry and her ability to critique the world by writing essays, reminiscent of Lu Xun's style.
