@@ -27,7 +27,7 @@ Her bookshelf was filled up already at that time.
 Not only that, she also went to the bookstore next to her father's workspace and left a deep impression on the bookstore's manager.
 
 During her high school years, Nan'an Wanda Plaza's Sisyphe Books was one of the places she went to the most.
-There, she could find tranquillity in the pleasant smell of coffee and books.
+There, she could find tranquility in the pleasant smell of coffee and books.
 
 She loved writing, and was once elected as the president of Chongqing No.2 Foreign Language School Nanlu Literary Club.
 In one of her writings, she wrote "Real writing is offering the writer themselves to Goddess Muses's sacrificial altar."
