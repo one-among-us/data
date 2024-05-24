@@ -22,7 +22,7 @@ The fact that worth mentioning the most is, she started doing constructed langua
 constructed [Combinese](https://yuyan.fandom.com/zh/wiki/联合军语), [Yupoian](https://yuyan.fandom.com/zh/wiki/尤波伊语) and [Crigàt](https://yuyan.fandom.com/zh/wiki/克里加语) for the project mentioned above, *Combine Prelude*.
 Because of her work on this project, she was famous both in the *Half-Life* community and in the constructed language community.
 
-Shizuha's favourite anime is *YuruYuri*.
+Shizuha's favorite anime is *YuruYuri*.
 She used the main character, Akari Akaza, as her profile photo.
 
 Shizuha is persistent and brave, both for creative work and for life, sometimes even stubborn.
