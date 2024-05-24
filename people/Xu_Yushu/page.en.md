@@ -128,7 +128,7 @@ After listening to the advice of the doctor, he told Xu Yushu "Try to forget it,
 Xu Yushu's father actually always tried to understand Xu Yushu.
 He learnt psychology in university but was never taught anything about gender.
 He didn't think his child really had gender dysphoria.
-He said Xu Yushu "never had any weird behaviours" at home,
+He said Xu Yushu "never had any weird behaviors" at home,
 "didn't cry for feminine clothing or wigs", and was only wanting to be a girl because she wanted to have people to protect her from all that bullying,
 
 After her departure, her father still used male pronouns to refer to Xu Yushu, and seldom talked about her desire of being a girl.
