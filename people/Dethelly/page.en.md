@@ -15,7 +15,7 @@ Moreover, she hadn't a friend to confide her thought, she could only hide these 
 That made her look a bit intimidated.
 
 She always prepared a lot ahead of meeting friends in real life.
-She was always worried about leaving a bad impression, so she asked them tons of questions in advance (such as which kinds of gift they would like), and warned them she might exhibit regressive behaviours.
+She was always worried about leaving a bad impression, so she asked them tons of questions in advance (such as which kinds of gift they would like), and warned them she might exhibit regressive behaviors.
 
 Her family is conservative.
 Her father worked in China Railways Group and her mother was a teacher.
