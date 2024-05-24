@@ -8,7 +8,7 @@ Yuxue is a person who craves companionship, which was often mentioned in her twe
 
 She had the side of being a little girl. She used to decorate mangoes with candles. She also did some research on electronics.
 
-Her parents expressed serious disapproval of her transgender behaviour at first, but eventually gained a little understanding of her after her efforts. Like other Chinese schools, her school prevented her from carrying HRT medicines to school and keeping her hair long, which may have exacerbated her depression.
+Her parents expressed serious disapproval of her transgender behavior at first, but eventually gained a little understanding of her after her efforts. Like other Chinese schools, her school prevented her from carrying HRT medicines to school and keeping her hair long, which may have exacerbated her depression.
 
 It is a pity that her friends’ efforts did not stop her depression from worsening.
 In the end, she chose suicide.
