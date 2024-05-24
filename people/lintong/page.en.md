@@ -11,7 +11,7 @@ info:
 > She has a mother who she rarely contacts.
 > Dishes like “scrambled eggs with tomatoes” were her favorites.
 > Monster Energy was her drink of choice.
-> Personality wise,
+> Personalitywise,
 > her tendency to ask others to do things when they are not in the mood for it was the most notable.
 > Acts like a princess sometimes.
 > Likes to trouble her partner but not her friends.
