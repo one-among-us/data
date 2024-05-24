@@ -1,7 +1,7 @@
 ---
 name: Qi
 ---
-Qi didn’t often talk on the Internet, but she was very welcoming in real life. Her humour always brought people around her happiness.
+Qi didn’t often talk on the Internet, but she was very welcoming in real life. Her humor always brought people around her happiness.
 
 She seemed mysterious. She didn’t often introduce herself because she thinks: “I am me, I want you know me for who I am, not know me as someone with a certain label. If someone can’t understand me, that’s their problem. I don’t want them to hate people who have the same label or experience as me because of me.”
 
