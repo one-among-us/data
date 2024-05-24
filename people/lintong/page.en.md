@@ -9,7 +9,7 @@ info:
 
 > Lin Tong is a girl who is a bit insecure.
 > She has a mother who she rarely contacts.
-> Dishes like “scrambled eggs with tomatoes” were her favourites.
+> Dishes like “scrambled eggs with tomatoes” were her favorites.
 > Monster Energy was her drink of choice.
 > Personality wise,
 > her tendency to ask others to do things when they are not in the mood for it was the most notable.
