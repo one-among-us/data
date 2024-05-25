@@ -53,6 +53,7 @@ function buildPeopleInfoAndList() {
     for (const { dirname, srcPath, distPath } of people) {
 
       if (excludeList.includes(dirname)) continue;
+      if (isDirEmpty(srcPath)) continue;
 
       const infoFile = fs.readFileSync(path.join(srcPath, `info.yml`), "utf-8");
       const info: any = YAML.load(infoFile);
@@ -132,6 +133,7 @@ function buildPeoplePages() {
   for (const { dirname, srcPath, distPath } of people) {
 
     if (excludeList.includes(dirname)) continue;
+    if (isDirEmpty(srcPath)) continue;
 
     for (const lang of ['', '.zh_hant', '.en'])
     {
@@ -219,4 +221,8 @@ function trim(str: string, ch: string) {
     --end;
 
   return (start > 0 || end < str.length) ? str.substring(start, end) : str;
+}
+
+function isDirEmpty(dir: string): boolean {
+  return fs.readdirSync(dir).length == 0;
 }
