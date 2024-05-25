@@ -59,6 +59,6 @@ We probably don't know their name yet,
 they departed quietly,
 only leaving a few words to those who accompanied with them.
 
-Or perhaps, just as the words on homepage of One Among Us: Perhaps I can't even verify their "real existence".
+Or perhaps, just as the words on homepage of One Among Us say: Perhaps I can't even verify their "real existence".
 
 May we still recall the memory we shared with them in the future.
