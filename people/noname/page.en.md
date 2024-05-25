@@ -46,3 +46,19 @@ On September 11, 2023, a netizen posted on the Coolapk Forum telling the story o
 Unfortunately, most netizens still regard the death as “the Internet’s poisonous effects on teenagers” without truly understanding the needs of transgender people. The poster also couldn't really understand his transfem cousin's needs, but did take some action to help her. This incident is a microcosm of the oppression faced by transgender people in China from both family and society. The original post is now deleted.
 
 <PhotoScroll photos={[ '${path}/photos/kuan1.jpg', '${path}/photos/kuan2.jpg', '${path}/photos/kuan3.jpg', '${path} /photos/kuan4.jpg', ]} />
+
+### Those departed transgender friends who died between Nov 2023 to May 2024
+
+The destinies of our friends among transgender community are often closely related,
+and the departure of one always touched our hearts.
+
+During this period, the number of departed transgender individuals in our sight has far exceeded previous counts.
+Many of those departed friends shared emotional connection.
+
+We probably don't know their name yet,
+they departed quietly,
+only leaving a few words to those who accompanied with them.
+
+Or perhaps, just as the words on homepage of One Among Us say: Perhaps I can't even verify their "real existence".
+
+May we still recall the memory we shared with them in the future.
