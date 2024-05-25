@@ -52,7 +52,7 @@ Unfortunately, most netizens still regard the death as “the Internet’s poiso
 The destinies of our friends among transgender community are often closely related,
 and the departure of one always touched our hearts.
 
-During this period, the number of departed transgender dividuals in our sight has far exceeded previous counts.
+During this period, the number of departed transgender individuals in our sight has far exceeded previous counts.
 Many of those departed friends shared emotional connection.
 
 We probably don't know their name yet,
