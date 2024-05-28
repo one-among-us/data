@@ -1,7 +1,7 @@
 id: a2581911655
 profileUrl: ${path}/photos/profile.png
 info:
-  # born: '????-12-19'
+  born: '2005-12-19'
   died: '2024-01-21' # 00:08
 websites:
     twitter: https://twitter.com/a2581911655
