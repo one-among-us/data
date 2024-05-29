@@ -23,7 +23,7 @@ I love white and red, as well as that kind of rainbow in Glitch.
 I have a sweet tooth, I will feel happy for a long time after holding a packet of white rabbit creamy candies in my hands.
 I love cats, and adopted a cat called Ayaka.
 
-She was an admiral of *Kancolle* , and her first action figure was Destroyer Akizuki in *kancolle*.
+She was an admiral of *Kancolle*, and her first action figure was Destroyer Akizuki in *kancolle*.
 
 She enjoyed passing time in silence and ease.
 For example, she'd put on the headphones and drank hot coffee in café, then watch the window and observe as people come and leave. That makes her relaxed.
@@ -59,7 +59,7 @@ After that, Neko was brought back to Yunnan by family, and was sent to correctio
 Then, it was reported that Neko had already died by suicide.
 Yumao was extremely grieved after hearing the news.
 She continuously sent messages about missing Neko in their Telegram channel.
-She quoted *Cassiopeia(カシオペヤ)* , which was a song they used to listen together, to express her grief.
+She quoted *Cassiopeia(カシオペヤ)*, which was a song they used to listen together, to express her grief.
 
 Although she also found that the circumstances of the suicide of Neko was complicated and confusing according to some sources.
 But there was no more news about Neko indeed. She really hoped Neko was still alive:
@@ -113,7 +113,7 @@ The investigative journalist of *Beijing News* also interviewed the staff of Hao
 
 However, her parents made a shocking decision.
 They said that they had already brought her out of the school, then cancelled the census register of Neko.
-In the interview of *Beijing News* , they spoke in a tearful voice and claimed that Neko had taken her own life in the early hours of 24th March.
+In the interview of *Beijing News*, they spoke in a tearful voice and claimed that Neko had taken her own life in the early hours of 24th March.
 
 Neko was continued to be in Haohaizi since then. She was informed of Yumao's death in October. This news almost devastated her.
 
