@@ -48,6 +48,7 @@ function buildPeopleInfoAndList() {
     // Compiled meta of list of people for the front page (contains keys id, name, profileUrl)
     const peopleList: PeopleMeta[] = [];
     const peopleHomeList: PeopleMeta[] = [];
+    const birthdayList = [] as [string, string][]
 
     // For each person
     for (const { dirname, srcPath, distPath } of people) {
@@ -76,6 +77,10 @@ function buildPeopleInfoAndList() {
       {
         try { info.info.age = Math.abs(moment(info.info.died).diff(info.info.born, 'years', false)) }
         catch (e) { console.log(`Unable to calculate age for ${dirname}`) }
+      }
+
+      if (info.id && info.info && info.info.born) {
+        birthdayList.push([info.id, info.info.born])
       }
 
       // Convert info dict to [[key, value], ...]
@@ -125,6 +130,7 @@ function buildPeopleInfoAndList() {
     // Write people-list.json
     fs.writeFileSync(path.join(projectRoot, DIST_DIR, `people-list${lang}.json`), JSON.stringify(peopleList));
     fs.writeFileSync(path.join(projectRoot, DIST_DIR, `people-home-list${lang}.json`), JSON.stringify(peopleHomeList));
+    fs.writeFileSync(path.join(projectRoot, DIST_DIR, 'birthday-list.json'), JSON.stringify(birthdayList));
   }
 }
 
