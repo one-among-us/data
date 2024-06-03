@@ -1,7 +1,7 @@
 ---
-name: Kagurazaka Hanasaka
+name: Hanasaka
 info:
-    alias: Chika
+    alias: Kagurazaka Hanasaka, Chika
     location: Dalian, Liaoning
 ---
 
