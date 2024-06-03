@@ -1,7 +1,7 @@
 ---
 name: 神楽坂千歌
 info:
-    alias: 千歌, Hanasaka
+    alias: 千歌, Hanasaka, hakureico
     location: 遼寧大連
 ---
 

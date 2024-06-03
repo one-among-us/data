@@ -1,7 +1,7 @@
 ---
 name: Hanasaka
 info:
-    alias: Kagurazaka Hanasaka, Chika
+    alias: Kagurazaka Hanasaka, hakureico
     location: Dalian, Liaoning
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: 神楽坂千歌
 info:
-    alias: 千歌, Hanasaka
+    alias: 千歌, Hanasaka, Hakureico
     location: 辽宁大连
 ---
 
@@ -21,6 +21,9 @@ info:
 </details>
 
 ## 简介
+
+神楽坂千歌，一个可爱的女孩子，在辽宁师范大学数学学院就读。
+
 
 千歌是一个可爱的女孩子，喜欢玩 OSU。
 
