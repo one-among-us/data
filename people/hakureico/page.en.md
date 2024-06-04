@@ -23,7 +23,7 @@ info:
 ## Description
 
 Hanasaka was a trans girl who was lively and lovely.
-She studied in School of Mathematics at Liaoning Normal University.
+She studied in the School of Mathematics at Liaoning Normal University.
 
 She was proficient in mathematics and enjoyed learning computer science.
 
@@ -37,16 +37,16 @@ Although these were always solo trips.
     '${path}/photos/photo2.jpg',
 ]} />
 
-She was good at playing music game OSU, and uploaded many videos of her gameplay.
-She was still online even she was in a bad mental condition.
+She was good at playing rhythm game OSU, and uploaded many videos of her gameplay.
+She was still online even when she was in a bad mental condition.
 
 Hanasaka also focused on several kinds of games,
 such as *THE iDOLM@STER SHINY COLORS* and *Nekopara*.
 Sadly, she gradually lost interest in games due to life pressure,
-and she no longer updated her activities on games afterwards.
+and she no longer updated her activities in games afterwards.
 
-For some reasons, her mental health got worse since March 2018. Luckily, there were still people who cared about her.
-In early June 2018, she went to IKEA with an acquaintance, and eat tasty and affordable ice cream corns together.
+For some reason, her mental health worsened since March 2018. Luckily, there were still people who cared about her.
+In early June 2018, she went to IKEA with an acquaintance, and ate tasty and affordable ice cream cones together.
 
 ## Her Departure
 
@@ -89,12 +89,12 @@ Mizuki told us a short story instead of publishing a cold obituary.
 > updated 18-08-09
 
 The sentence was left by her boyfriend to her.
-She was seeking for the end of her first love, but she cannot receive an answer.
+She was seeking the end of her first love, but she cannot receive an answer.
 even if the answer was "Go f*ck yourself"
 
 Finally, she could only leave such words:
 
-> "May the world could treat you well."
+> "May the world treat you well."
 > 
 > "At least better than me."
 
