@@ -50,7 +50,7 @@ In early June 2018, she went to IKEA with an acquaintance, and ate tasty and aff
 
 ## Her Departure
 
-As Hanasaka described herself on her Zhihu profile: "Just a Giftia, about to be destroyed".
+As Hanasaka described herself on her Zhihu profile: "Just a Giftia, about to be deactivated".
 
 A Giftia is a type of android with a humanoid body in anime *PLASTIC MEMORIES*.
 They have their own personality and emotions.
