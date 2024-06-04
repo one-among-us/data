@@ -69,9 +69,9 @@ Fortunately, she was out of danger later on.
 > 
 > Executing overweight landing checklist
 >
-> // I'm probably a fallen angel 
+> // I'm probably a fallen angel.
 >
-> // My unpredictable mood is just like the weather outside
+> // My unpredictable mood is just like the weather outside.
 >
 > // Please rest assured, everyone who forwarded my post. It won't crash!
 
