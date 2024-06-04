@@ -27,7 +27,7 @@ She studied in the School of Mathematics at Liaoning Normal University.
 
 She was proficient in mathematics and enjoyed learning computer science.
 
-She was also a traffic-fan.
+She was also a traffic enthusiast.
 She was interested in city buses, rail transit and national railways.
 Occasionally, she took flights and looked at the blue sky outside the porthole.
 Although these were always solo trips.
@@ -80,7 +80,7 @@ and she also said, "Please keep alive even if you are desperate. In that case, y
 
 But she still chose to leave this world in August.
 
-Before that, she entrusted Mizuki, a railfan in United States, to announce her death on her account.
+Before that, she entrusted Mizuki, a railfan in the United States, to announce her death on her account.
 
 Mizuki told us a short story instead of publishing a cold obituary.
 
@@ -89,7 +89,7 @@ Mizuki told us a short story instead of publishing a cold obituary.
 > updated 18-08-09
 
 The sentence was left by her boyfriend to her.
-She was seeking the end of her first love, but she cannot receive an answer.
+She was seeking the end of her first love, but she couldn't receive an answer.
 even if the answer was "Go f*ck yourself"
 
 Finally, she could only leave such words:
@@ -103,9 +103,9 @@ She was a gentle person with a "helper" personality.
 She always thought about others without considering herself.
 But perhaps it's also the reason why they parted.
 
-At last, she burnt her belongings, and drowned in the river that never stopped flowing.
+At last, she burned her belongings, and drowned in the river that never stopped flowing.
 
-She had been in a world where no one would hate her, and no bad things would happen.
+She had been in a world where no one would hate her, and nothing bad would happen.
 
 ## Her Letter
 
