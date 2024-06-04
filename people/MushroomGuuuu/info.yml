@@ -1,0 +1,13 @@
+id: MushroomGuuuu
+profileUrl: ${path}/photos/profile.png
+info:
+  born: '1999-05-29'
+  # 确认自：Kokoro 的想法 - 知乎 https://www.zhihu.com/pin/984898658231369728
+  # 推特 [Kakao] 亦为950529
+  # B 站记录的时间为 4 月 29 日，但不排除手误填写失误的可能
+  died: '2017-10-01'
+  # 经过知乎与推特的发言时间与语言可大致推算
+websites:
+    twitter: https://twitter.com/MushroomGuuuu
+    zhihu: https://www.zhihu.com/people/mo-gu-ni-ge-xiao-wei-niang
+    Bilibili: https://space.bilibili.com/6595208
