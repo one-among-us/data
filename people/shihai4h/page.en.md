@@ -146,11 +146,11 @@ I'm a numb person who keeps living in my own world and only understood everythin
 I didn't know anything about her oppressive family and those cruel things happened to her.
 My cold heart didn't experience her suffering, as an ancient Chinese poet wrote in his prose:
 
-> "The wind is born from the earth, Rises from the tips of green duckweed."[^3]
+> "The wind is born from the earth, Rises from the tips of green duckweed[^3]."
 
 If I was a more caring person, maybe I could've realized those abnormalities, maybe I could've prevented her death.
 
-> Do not cry for love, my dear.[^4]
+> Do not cry for love, my dear[^4].
 
 In her view, I'm a big sister who likes her.
 She was too kind.
