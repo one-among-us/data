@@ -250,13 +250,13 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 
 [^1]: from Freud, S. (1908). ‘Civilized’ Sexual Morality and Modern Nervous I lness. The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume IX (1906-1908): Jensen's ‘Gradiva’ and Other Works, 177-204
 
-[^2]: from A Dream of Red Mansions Volume I (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【第一册 P452】ISBN: 9787119006437
+[^2]: from A Dream of Red Mansions Volume I (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【Volume I P452】ISBN: 9787119006437
 
 [^3]: from Wen Xuan or Selections of Refined Literature, Volume III: Rhapsodies on Natural Phenomena, Birds and Animals, Aspirations and Feelings, Sorrowful Laments, Literature, Music, and Passions, compiled by Xiao Tong (501-531) , David R. Knechtges【P9】
 
 [^4]: from *Conversations About Love* by Li Yinhe
 
-[^5]: from A Dream of Red Mansions Volume II (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【第二册 P672】ISBN: 9787119006437
+[^5]: from A Dream of Red Mansions Volume II (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【Volume II P672】ISBN: 9787119006437
 
 [^6]: from Chapter 1, The Dream of Red Mansion(Jia-Xu Version), Translated by *One Among Us Member* with the help of Li'an
 
@@ -266,11 +266,11 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 
 [^9]: Magic Barge: A Chinese legend said this belonged to the immortals and sailed in the Sky River, Milky Way.
 
-[^10]: from A Dream of Red Mansions Volume II (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【第二册 P672】ISBN: 9787119006437
+[^10]: from A Dream of Red Mansions Volume II (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【Volume I P672】ISBN: 9787119006437
 
 {/* Following are en localization notes, available for consultation.
 
-中原：Zhongyuan, the Central Plain(s)
+中原：Zhongyuan, the central plain(s)
 
 林黛玉（林妹妹）：Lin Dai-yu(David Hawkes)  Lin Tai-yu (杨宪益、戴乃迭)
 
