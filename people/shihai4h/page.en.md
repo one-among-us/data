@@ -248,6 +248,8 @@ I still wanted to ask you why, but no one will give me an answer now no matter h
 
 Contributor: [Li'an](https://twitter.com/LianShihai)
 
+<details>
+<summary>**References and Annotation**</summary>
 [^1]: from Freud, S. (1908). ‘Civilized’ Sexual Morality and Modern Nervous I lness. The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume IX (1906-1908): Jensen's ‘Gradiva’ and Other Works, 177-204
 
 [^2]: from A Dream of Red Mansions Volume I (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【Volume I P452】ISBN: 9787119006437
@@ -267,6 +269,8 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 [^9]: Magic Barge: A Chinese legend said this belonged to the immortals and sailed in the Sky River, Milky Way.
 
 [^10]: from A Dream of Red Mansions Volume II (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【Volume I P672】ISBN: 9787119006437
+</details>
+
 
 {/* Following are en localization notes, available for consultation.
 
