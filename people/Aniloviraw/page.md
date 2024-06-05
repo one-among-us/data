@@ -60,7 +60,7 @@ info:
 > 「我真的  
 > 「爱妳们每一个人」
 
-我的小天使,  
+我的小天使,   
 回见.  
 
 <PhotoScroll photos={[ '${path}/photos/photo2.jpg' ]} />
