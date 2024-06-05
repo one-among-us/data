@@ -11,13 +11,13 @@ info:
 >
 > Ten tablets of chlorpromazine, so sweet
 >
-> Let’s set off  
-> See you in the car!  
+> Let’s set off...  
+> See you in the train!  
 > Loving all of you!  
 
 <PhotoScroll photos={[ '${path}/photos/photo0.jpg', '${path}/photos/photo1.jpg' ]} />
 
-> You have been understand who I am, I think.
+> You probably have been understand who I am, I think.
 >
 > Promise...  
 
@@ -36,10 +36,10 @@ Stuff in the stomach have not been digested...and acid reflux
 Some strange feeling——
 ——Want to go and play with you
 
-> Ugly, filthy like me after a few days of interruption from GATH.  
+> Ugly, filthy me after a few days of GATH.  
 > No need to use that drugs.  
 > finish the last thing,  
-> And lastly, aboard the Ginga Tetsudō, with you.
+> And finally, aboard the Ginga Tetsudō, with you.
 >
 > Remember and notice me~
 > I'm afraid of missing that stop.
@@ -48,7 +48,7 @@ Some strange feeling——
 
 i love you  
 But buried deep in my heart  
-When you hate me and forget me  
+When you hate me, and forget me  
 i finally succeeded  
 
 <div style="min-height: 20vh" />
