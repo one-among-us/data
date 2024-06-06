@@ -11,4 +11,4 @@ name: 樱樱
 
 [^1]: https://leohearts.com/archives/farewell-yingying.html
 
-[^2] 永别了。我想你了，樱樱。https://leohearts.com/archives/farewell-yingying.html
+[^2] [永别了。我想你了，樱樱。](https://leohearts.com/archives/farewell-yingying.html)
