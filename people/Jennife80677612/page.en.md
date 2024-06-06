@@ -19,6 +19,9 @@ info:
 
 Jennifer was a trans girl longing for happiness.
 
+Her avator was Vtuber Yukihana Lamy,
+and she enjoyed playing rhythm game Project Sekai.
+
 When she was 13 years old,
 she told her parents for the first time, "**I want to be a girl.**"
 However, her parents dismissed it,
