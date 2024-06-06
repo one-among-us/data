@@ -10,10 +10,10 @@ She had published a lot of articles and videos about electronics in both her per
 
 It's a pity that all this stopped abruptly when she lost her life forever in a car accident.
 
-May she still have the same cheerfulness and passion to do what she wanted to do in her next world! [^1]
+May she still have the same cheerfulness and passion to do what she wanted to do in her next world! [^2]
 
 References
 
 [^1]: https://leohearts.com/archives/farewell-yingying.html
 
-[1]Farewell. I miss you, Sakura. https://leohearts.com/archives/farewell-yingying.html
+[^2]: [Farewell. I miss you, Sakura.](https://leohearts.com/archives/farewell-yingying.html)
