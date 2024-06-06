@@ -19,7 +19,7 @@ info:
 
 Jennifer was a trans girl longing for happiness.
 
-Her avator was Vtuber Yukihana Lamy,
+Her avatar was Vtuber Yukihana Lamy,
 and she enjoyed playing rhythm game Project Sekai.
 
 When she was 13 years old,
