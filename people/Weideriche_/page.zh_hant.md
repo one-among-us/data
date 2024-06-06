@@ -2,7 +2,7 @@
 name: 紫壑
 info:
     alias: 紫壑
-    location: 中國廣東
+    location: 中國廣東 #清远/中山, by 魔骨
 ---
 
 ## 簡介
@@ -19,4 +19,4 @@ info:
 
 於 2023-11-05 在廣東中山市與她的夥伴一同離開了這個世界。
 
-條目貢獻：One-Among-Us, [魚喵](http://one-among.us/profile/shi_Yumiaoya), [吉普莉爾](http://twitter.com/Kotori42156659)
+條目貢獻：One-Among-Us, 魚喵, [吉普莉爾](http://twitter.com/Kotori42156659)

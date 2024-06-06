@@ -29,7 +29,7 @@ If she believes sacrificing herself would benefit others, she won't have a secon
 
 She cares about her friends a lot.
 
-She's a Eastern Orthodox Christian.
+She's an Eastern Orthodox Christian.
 
 She doesn't really trust God 100%, though.
 

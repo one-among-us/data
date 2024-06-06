@@ -8,7 +8,8 @@ import metadataParser from 'markdown-yaml-metadata-parser';
 
 import { renderMdx } from "./mdx.js";
 import moment from "moment";
-import { Icon } from "./icon.js";
+import { handleFeatures } from "./feature.js";
+import { HData, PeopleMeta } from "./data.js";
 
 const PUBLIC_DIR = "public";
 
@@ -27,16 +28,13 @@ const people = fs.readdirSync(peopleDir).map(person => ({
   distPath: path.join(projectRoot, DIST_DIR, PEOPLE_DIR, person)
 }));
 
-const commentOnlyList = JSON.parse(fs.readFileSync(path.join(projectRoot, DATA_DIR, "comment-only.json")).toString()) as String[];
-const excludeList = commentOnlyList.concat(JSON.parse(fs.readFileSync(path.join(projectRoot, DATA_DIR, 'exclude.json')).toString()) as String[]);
-
-interface PeopleMeta {
-  id: string
-  name: string
-  profileUrl: string
-  path: string
-  sortKey: string
-}
+const hdata = JSON.parse(fs.readFileSync(path.join(projectRoot, DATA_DIR, "hdata.json")).toString()) as HData;
+const commentOnlyList = hdata.commentOnly;
+const excludeList = commentOnlyList.concat(hdata.exclude);
+const notShowOnHomeList = hdata.notShowOnHome;
+const actualHide = hdata.actualHide;
+const trigger = hdata.trigger;
+const switchPair = hdata.switch;
 
 // Transform `info.json5` to `info.json`.
 // Extract metadata from `people/${dirname}/info.json5` to `dist/people-list.json`.
@@ -49,11 +47,14 @@ function buildPeopleInfoAndList() {
 
     // Compiled meta of list of people for the front page (contains keys id, name, profileUrl)
     const peopleList: PeopleMeta[] = [];
+    const peopleHomeList: PeopleMeta[] = [];
+    const birthdayList = [] as [string, string][]
 
     // For each person
     for (const { dirname, srcPath, distPath } of people) {
 
       if (excludeList.includes(dirname)) continue;
+      if (isDirEmpty(srcPath)) continue;
 
       const infoFile = fs.readFileSync(path.join(srcPath, `info.yml`), "utf-8");
       const info: any = YAML.load(infoFile);
@@ -76,6 +77,10 @@ function buildPeopleInfoAndList() {
       {
         try { info.info.age = Math.abs(moment(info.info.died).diff(info.info.born, 'years', false)) }
         catch (e) { console.log(`Unable to calculate age for ${dirname}`) }
+      }
+
+      if (info.id && info.info && info.info.born) {
+        birthdayList.push([info.id, info.info.born])
       }
 
       // Convert info dict to [[key, value], ...]
@@ -110,14 +115,22 @@ function buildPeopleInfoAndList() {
       } as PeopleMeta;
 
       // Add meta to people list
-      if (peopleList.filter(it => it.id == peopleMeta.id).length == 0)
-        peopleList.push(peopleMeta);
+      if (peopleList.filter(it => it.id == peopleMeta.id).length == 0) {
+        if (!actualHide.includes(peopleMeta.id)) {
+          peopleList.push(peopleMeta);
+          if (!notShowOnHomeList.includes(peopleMeta.id))
+            peopleHomeList.push(peopleMeta)
+        }
+      }
     }
 
     peopleList.sort((a, b) => b.sortKey.localeCompare(a.sortKey))
+    peopleHomeList.sort((a, b) => b.sortKey.localeCompare(a.sortKey))
 
     // Write people-list.json
     fs.writeFileSync(path.join(projectRoot, DIST_DIR, `people-list${lang}.json`), JSON.stringify(peopleList));
+    fs.writeFileSync(path.join(projectRoot, DIST_DIR, `people-home-list${lang}.json`), JSON.stringify(peopleHomeList));
+    fs.writeFileSync(path.join(projectRoot, DIST_DIR, 'birthday-list.json'), JSON.stringify(birthdayList));
   }
 }
 
@@ -126,17 +139,14 @@ function buildPeoplePages() {
   for (const { dirname, srcPath, distPath } of people) {
 
     if (excludeList.includes(dirname)) continue;
+    if (isDirEmpty(srcPath)) continue;
 
     for (const lang of ['', '.zh_hant', '.en'])
     {
       // Read markdown page and remove markdown meta
       let markdown = metadataParser(fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8")).content.replaceAll("<!--", "{/* ").replaceAll("-->", " */}");
 
-      // Handle Footnote
-      markdown = handleFootnote(markdown)
-
-      // Handle Icon
-      markdown = handleNoteIcon(markdown)
+      markdown = handleFeatures(markdown)
 
       // Autocorrect markdown
       markdown = autocorrect.formatFor(markdown, 'markdown')
@@ -149,26 +159,6 @@ function buildPeoplePages() {
       fs.writeFileSync(path.join(distPath, `page${lang}.json`), JSON.stringify(result));
     }
   }
-}
-
-function handleFootnote(md: string) {
-  if (!md.includes('[^')) return md
-
-  // Replace footnote references with HTML superscript tags
-  return md.replace(/\[\^(\d+)\](?::\s*(.*))?/g, (match, id, text) => text ?
-      // Footnote definition
-      `<li id="footnote-${id}">${text}<a href="#footnote-ref-${id}">↩</a></li>` :
-      // Footnote reference
-      `<sup><a href="#footnote-${id}" id="footnote-ref-${id}">${id}</a></sup>`
-  )
-  
-  // Wrap the footnote definitions in an ordered list
-  .replace(/(<li id="footnote.*<\/li>)/gs, '<ol>\n$1\n</ol>')
-}
-
-function handleNoteIcon(md: string): string {
-  if (!md.includes('[!')) return md;
-  return md.replace(/\[\!(\w+)\](?::\s*(.*))?/g, (match, icon, _) => (Icon[icon as string]));
 }
 
 // Copy `people/${dirname}/photos` to `dist/people/${dirname}/`.
@@ -190,6 +180,8 @@ function copyPeopleAssets() {
 // Copy files `public` to dist.
 function copyPublic() {
   fs.copySync(path.join(projectRoot, PUBLIC_DIR), path.join(projectRoot, DIST_DIR));
+  fs.writeFileSync(path.join(DIST_DIR, 'trigger-list.json'), JSON.stringify(trigger as string[]));
+  fs.writeFileSync(path.join(DIST_DIR, 'switch-pair.json'), JSON.stringify(switchPair as [string, string][]))
 }
 
 function copyComments() {
@@ -207,6 +199,8 @@ function copyComments() {
     info.comments.forEach((c) => (c.content = autocorrect.format(c.content)));
     fs.ensureDirSync(distPath);
     fs.writeFileSync(path.join(distPath, "info.json"), JSON.stringify(info));
+    fs.writeFileSync(path.join(distPath, "info.en.json"), JSON.stringify(info));
+    fs.writeFileSync(path.join(distPath, "info.zh_hant.json"), JSON.stringify(info));
   }
 }
 
@@ -233,4 +227,8 @@ function trim(str: string, ch: string) {
     --end;
 
   return (start > 0 || end < str.length) ? str.substring(start, end) : str;
+}
+
+function isDirEmpty(dir: string): boolean {
+  return fs.readdirSync(dir).length == 0;
 }

@@ -1,1 +1,3 @@
-{"id":17070,"content":"如果你要写Nix，你就不能只写Nix。\n\n你要写NixOS的非FHS环境，环境变量里$PATH长长，无法运行的虛假ld加载器，steam-run启动万物。\n\n你要写庞大的/nix/store，可复现\n推导的sha256，read-only的/etc。\n\n你要写hydra昼夜轰鸣，镜像站的网络流量奔涌不息，翻不到尽头的cachix订阅和公钥。\n\n你要写无数仓库里的flake.nix，常年5k+ open的issue，半年无人问津的PR。\n\n你要写闪烁的电脑屏幕，账户名上的鱼板，堆积成山的药盒，深夜的一声叹息。\n\n——献给所有TGD的NixOS用户，和所有开源社区贡献者们，感谢并敬佩你们。","submitter":"Cryolitia","date":"Mar 27, 2024"}
+{"id":17070,"content":"如果你要写Nix，你就不能只写Nix。\n\n你要写NixOS的非FHS环境，环境变量里 `$PATH` 长长，无法运行的虛假 `ld` 加载器，`steam-run` 启动万物。\n\n你要写庞大的 `/nix/store`，可复现推导的 `sha256` ，read-only的 `/etc`。\n\n你要写hydra昼夜轰鸣，镜像站的网络流量奔涌不息，翻不到尽头的cachix订阅和公钥。\n\n你要写无数仓库里的 `flake.nix`，常年5k+ open的issue，半年无人问津的PR。\n\n你要写深夜闪烁的电脑屏幕，账户名上的鱼板，堆积成山的药盒，深夜的一声叹息。\n\n——献给所有TGD的NixOS用户，和所有开源社区贡献者们，感谢并敬佩你们。","submitter":"Cryolitia","date":"Mar 27, 2024", "replies": [
+    {"content": "愿代码与数据库构成你们身躯不灭的一半。", "submitter": "Maintainer"}
+]}

@@ -2,7 +2,7 @@
 name: Weideriche_
 info:
     alias: Zihe
-    location: Guangdong, China
+    location: Guangdong, China #Qingyuan / Zhongshan, by kokowamakotsu
 ---
 
 ## Description
@@ -22,4 +22,4 @@ She started to self-harm and overdose, and planned to take her own life.
 
 She left this world with her partner in Zhongshan, Guangdong on November 5th, 2023.
 
-Contributors：One-Among-Us, [Yumiaoya](http://one-among.us/profile/shi_Yumiaoya), [Kotori](http://twitter.com/Kotori42156659)
+Contributors：One-Among-Us, Yumiaoya, [Kotori](http://twitter.com/Kotori42156659)

@@ -12,12 +12,12 @@ She was friends with [Ying](https://www.one-among.us/profile/Uekawakuyuurei/).
 During her life, she was an active long-term contributor for Chinese Wikipedia and other MediaWiki sites.
 Since 2019, she started playing *Kancolle*.
 Her favourite character was Destroyer Hibiki.
-Her hobbies were tinkering with computer hardware like Respberry Pi and drawing.
+Her hobbies were tinkering with computer hardware like Raspberry Pi and drawing.
 She was also proficient in Japanese.
 
 Because of depression and other problems, she had to stop going to school since 2019;
-because of inacceptance of her family and other problems she faced, her depression and anxiety got worse and started to suffer from insomnia.
-On 2021 July 21st, she took her own life to leave this cruel world.
+because of unacceptance of her family and other problems she faced, her depression and anxiety got worse and started to suffer from insomnia.
+On 2021 July 20th, she took her own life to leave this cruel world.
 
 This is the [last piece of writing](https://pbs.twimg.com/media/E6odBBBVIAAM-Zt?format=jpg&name=4096x4096) she left us.
 
@@ -31,7 +31,7 @@ This is the [last piece of writing](https://pbs.twimg.com/media/E6odBBBVIAAM-Zt?
 > so I decided to end my life.
 > I don't really know what would happen,
 > either I'd be dead or I'd be in the ICU, lol.
-> Regrettablly, I would be unable to enjoy the 3060 video card I just got.
+> Regrettably, I would be unable to enjoy the 3060 video card I just got.
 > And Nintendo Switch, PlayStation 5.
 >
 > Everything goes wrong when my family is involved.
@@ -66,7 +66,7 @@ This is the [last piece of writing](https://pbs.twimg.com/media/E6odBBBVIAAM-Zt?
 > Once again, thank you, every one of my friends.
 > Sorry for taking your time.
 >
-> — Mizuhara Nagisa, 2021 June 21st.
+> — Mizuhara Nagisa, 2021 June 20th.
 
 <PhotoScroll photos={[
     '${path}/photos/letter.jpg',

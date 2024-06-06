@@ -21,11 +21,11 @@ The first time I met her in real life, I (The author of this entry) was immediat
 '${path}/photos/photo3.jpg',
 ]} />
 
-（The preceding photo is Shihai measuring her height）
+(The preceding photo is Shihai measuring her height)
 
 ## Her Family
 
-Her hometown is located inside the Central Plains.
+Her hometown is located inside the central plains.
 Conservative values is dominant there.
 Her grandfather had two sons because of birth control legislations.
 Her uncle (the elder son) had one daughter (her sister); her father had one "son" (her).
@@ -71,9 +71,7 @@ Sigmund Freud explained his theory about "abnormal behaviors" in his publication
 >
 > The substitutive phenomena which emerge in consequence of the suppression of the instinct amount to what we call nervous illness, or, more precisely, the psychoneuroses.
 >
-> Neurotics are the class of people who, since they possess a recalcitrant organization, only succeed, under the influence of cultural requirements, in achieving a suppression of their instincts which is apparent and which becomes increasingly unsuccessful. They therefore only carry on their collaboration with cultural activities by a great expenditure of force and at the cost of an internal impoverishment, or are obliged at times to interrupt it and fall ill.
->
-> from Freud, S. (1908). ‘Civilized’ Sexual Morality and Modern Nervous I lness. The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume IX (1906-1908): Jensen's ‘Gradiva’ and Other Works, 177-204
+> Neurotics are the class of people who, since they possess a recalcitrant organization, only succeed, under the influence of cultural requirements, in achieving a suppression of their instincts which is apparent and which becomes increasingly unsuccessful. They therefore only carry on their collaboration with cultural activities by a great expenditure of force and at the cost of an internal impoverishment, or are obliged at times to interrupt it and fall ill[^1].
 
 According to conservative values, being trans is a kind of such abnormality.
 She knew her parents may not be able to accept her choices.
@@ -96,9 +94,7 @@ She's born sentimental and has a fragile but kind heart.
 In my opinion, she's a silly girl who's too kind for her own good.
 She'd rather blame her misfortune on her fate rather than others' malice,
 just like Tai-Yu's negative outlook on life and relationships:
-> Coming together can only be followed by parting. The more pleasure people find in parties, the more lonely and unhappy they must feel when the parties break up. So better not forgather in the first place. The same is true of flowers: the delight people when in bloom, but it's so heart-rending to see them fade that it would be better if they never blossomed.
->
-> from A Dream of Red Mansions Volume I (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【第一册 P452】ISBN: 9787119006437
+> Coming together can only be followed by parting. The more pleasure people find in parties, the more lonely and unhappy they must feel when the parties break up. So better not forgather in the first place. The same is true of flowers: the delight people when in bloom, but it's so heart-rending to see them fade that it would be better if they never blossomed[^2].
 
 Since a long time ago, she wanted to avoid forming close relationships because she's afraid of the partings.
 
@@ -116,10 +112,10 @@ Given her character and lack of therapy, this cruel experience made her eventual
 She started to be afraid of close relationships more.
 Her other mental issues like severe depression is also related to this experience.
 
-> When she remembers the horrible things she'd been through, I had seen her whole body cramping, trembling. I had seen her suffer from fear, dread, and shortness of breath.
-> But I was too neglectful and obtuse.
-> I didn't realize the severity of the situation and the difficulty of dealing with it.
-> If I realized, maybe things could be different.
+When she remembers the horrible things she'd been through, I had seen her whole body cramping, trembling. I had seen her suffer from fear, dread, and shortness of breath.
+But I was too neglectful and obtuse.
+I didn't realize the severity of the situation and the difficulty of dealing with it.
+If I realized, maybe things could be different.
 
 She inherited the stubbornness of her father.
 Her father researched nutritionalism and sports in order to make her grow taller.
@@ -150,15 +146,11 @@ I'm a numb person who keeps living in my own world and only understood everythin
 I didn't know anything about her oppressive family and those cruel things happened to her.
 My cold heart didn't experience her suffering, as an ancient Chinese poet wrote in his prose:
 
-> "The wind is born from the earth, Rises from the tips of green duckweed."
-> 
-> from Wen Xuan or Selections of Refined Literature, Volume III: Rhapsodies on Natural Phenomena, Birds and Animals, Aspirations and Feelings, Sorrowful Laments, Literature, Music, and Passions, compiled by Xiao Tong (501-531) , David R. Knechtges【P9】
+> "The wind is born from the earth, Rises from the tips of green duckweed[^3]."
 
 If I was a more caring person, maybe I could've realized those abnormalities, maybe I could've prevented her death.
 
-> Do not cry for love, my dear.
->
-> from *Conversations About Love* by Li Yinhe
+> Do not cry for love, my dear[^4].
 
 In her view, I'm a big sister who likes her.
 She was too kind.
@@ -180,9 +172,7 @@ But I forgot to hold on to your hand and lost you.
 God keeps throwing the dice and it always landed on one.
 Born emotionally sensitive, pressure from family, meeting the wrong people, one after one, she didn't have a chance to collect herself.
 
-> How could such a delicate flower withstand a fierce gale, or the care-stricken willow endure torrential rain?
-> 
-> from A Dream of Red Mansions Volume II (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【第二册 P672】ISBN: 9787119006437
+> How could such a delicate flower withstand a fierce gale, or the care-stricken willow endure torrential rain[^5]?
 
 I don't wanna spend more ink on those people who had betrayed her.
 Humanity, though complex, always leaves traces.
@@ -191,14 +181,10 @@ She was smart enough to realize this from the beginning:
 > There're imperfections in good things, and fortunes always come with small prints.
 > Happiness would turn into sadness; people come and go.
 > In the end it's like a dream, everything turns to void.
-> Maybe it's not worth it in the first place.
->
-> from Chapter 1, The Dream of Red Mansion(Jia-Xu Version), Translated by *One Among Us Member* with the help of Li'an
+> Maybe it's not worth it in the first place[^6].
 
 She thought lots and lots and waited for a juncture.
-> The worm is in man’s heart. That is where it must be sought. One must follow and understand this fatal game that leads from lucidity in the face of experience to flight from light.
->
-> from The Myth of Sisyphus, Albert Camus, Justin O'Brien, Penguin Books Ltd; Spark Publishing【P2】ISBN 13: 9781411473379
+> The worm is in man’s heart. That is where it must be sought. One must follow and understand this fatal game that leads from lucidity in the face of experience to flight from light[^7].
 
 Many philosophers and authors explained well the tragedy, voidness, and absurdity of living.
 Everyone is infinity if they're seen as the center of the world.{/* 这句不太对劲 */}
@@ -214,9 +200,7 @@ Realizing they are enduring this absurd world, some may be motivated for suicide
 
 > Dying voluntarily implies that you have recognized, even instinctively, the ridiculous character of that habit, the absence of any profound reason for living, the insane character of that daily agitation and the uselessness of suffering.
 >
-> What then is that incalculable feeling that deprives the mind of the sleep necessary to life? A world that can be explained even with bad reasons is a familiar world. But, on the other hand, in a universe suddenly divested of illusions and lights, man feels an alien, a stranger. His exile is without remedy since he is deprived of the memory of a lost home or the hope of a promised land. This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity. All healthy men having thought of their own suicide, it can be seen, without further explanation, that there is a direct connection between this feeling and the longing for death.
->
-> from The Myth of Sisyphus, Albert Camus, Justin O'Brien, Penguin Books Ltd; Spark Publishing【P3】ISBN 13: 9781411473379
+> What then is that incalculable feeling that deprives the mind of the sleep necessary to life? A world that can be explained even with bad reasons is a familiar world. But, on the other hand, in a universe suddenly divested of illusions and lights, man feels an alien, a stranger. His exile is without remedy since he is deprived of the memory of a lost home or the hope of a promised land. This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity. All healthy men having thought of their own suicide, it can be seen, without further explanation, that there is a direct connection between this feeling and the longing for death[^8].
 
 Motivations for suicide is complex.
 Few consider it throughly.
@@ -243,11 +227,7 @@ In the end, she chose to become one with the void as a final act of defiance to 
 > even if I spend my whole life,
 > I'll never find that silly cat again.
 
-> No search can be made for the incense that revives the dead, as the way to Fairy Tales is lost. No medicine that restores life can be obtained, as the Magic Barge is gone. Only yesterday I was painting those bluish eyebrows; today, who will warm her cold fingers with the jade rings?
->
-> Magic Barge: Magic Barge: A Chinese legend said this belonged to the immortals and sailed in the Sky River, Milky Way.
->
-> A Dream of Red Mansions Volume II (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【第二册 P672】ISBN: 9787119006437
+> No search can be made for the incense that revives the dead, as the way to Fairy Tales is lost. No medicine that restores life can be obtained, as the Magic Barge[^9] is gone. Only yesterday I was painting those bluish eyebrows; today, who will warm her cold fingers with the jade rings[^10]?
 
 The morning after she left, it snowed.
 I thought, such a kind being must have gone to that star in the sky and became a god of snow.
@@ -268,9 +248,33 @@ I still wanted to ask you why, but no one will give me an answer now no matter h
 
 Contributor: [Li'an](https://twitter.com/LianShihai)
 
+<details>
+<summary>**References and Annotation**</summary>
+[^1]: from Freud, S. (1908). ‘Civilized’ Sexual Morality and Modern Nervous I lness. The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume IX (1906-1908): Jensen's ‘Gradiva’ and Other Works, 177-204
+
+[^2]: from A Dream of Red Mansions Volume I (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【Volume I P452】ISBN: 9787119006437
+
+[^3]: from Wen Xuan or Selections of Refined Literature, Volume III: Rhapsodies on Natural Phenomena, Birds and Animals, Aspirations and Feelings, Sorrowful Laments, Literature, Music, and Passions, compiled by Xiao Tong (501-531) , David R. Knechtges【P9】
+
+[^4]: from *Conversations About Love* by Li Yinhe
+
+[^5]: from A Dream of Red Mansions Volume II (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【Volume II P672】ISBN: 9787119006437
+
+[^6]: from Chapter 1, The Dream of Red Mansion(Jia-Xu Version), Translated by *One Among Us Member* with the help of Li'an
+
+[^7]: from The Myth of Sisyphus, Albert Camus, Justin O'Brien, Penguin Books Ltd; Spark Publishing【P2】ISBN 13: 9781411473379
+
+[^8]: from The Myth of Sisyphus, Albert Camus, Justin O'Brien, Penguin Books Ltd; Spark Publishing【P3】ISBN 13: 9781411473379
+
+[^9]: Magic Barge: A Chinese legend said this belonged to the immortals and sailed in the Sky River, Milky Way.
+
+[^10]: from A Dream of Red Mansions Volume II (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【Volume I P672】ISBN: 9787119006437
+</details>
+
+
 {/* Following are en localization notes, available for consultation.
 
-中原：Zhongyuan, the Central Plain(s)
+中原：Zhongyuan, the central plain(s)
 
 林黛玉（林妹妹）：Lin Dai-yu(David Hawkes)  Lin Tai-yu (杨宪益、戴乃迭)
 
@@ -450,8 +454,3 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 > 霍本译：THE SPIRIT OF THE HIBISCUS: AN ELEGY AND INVOCATION
 
 《天人五衰》：*Tennin Gosui*（罗马音），The Decay of the Angel（英语）*/}
-
-
-
-
-

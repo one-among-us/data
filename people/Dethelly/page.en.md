@@ -62,7 +62,7 @@ Later, Sugar began her winter vacation, and got her diagnosis certificate of gen
 
 On January 22nd, 2024, she went back to her hometown, Chongqing, and regained contact with A.
 
-(According to her mother who worked away from Chongqing, when she just returned home, she seemed happy in Wechat.)
+(According to her mother who worked away from Chongqing, when she just returned home, she seemed happy in WeChat.)
 
 But the reality is the opposite.
 
@@ -101,7 +101,7 @@ Her parents started to tidy up her belongings.
 
 Her mother asked A if she wanted to keep Sugar's IKEA Blåhaj Shark, which she loved to hug.
 
-Her mother said, he was their angel, but unfortunately God made him leave early and he had to leave.
+Her mother said, he was their angel, but unfortunately God made him leave early, and he had to leave.
 
 Her mother had always been grateful to A.
 
@@ -134,7 +134,7 @@ In a daze, a phone call from Chongqing came, and she was familiar with the numbe
 > Girl, I am glad you're okay, wish you a happy life.
 
 Sugar had a very cute face and figure.
-If we change a character of her name to another homophonic one, it would became a girl's name that perfectly matches her gentle and soft temperament.
+If we change a character of her name to another homophonic one, it would become a girl's name that perfectly matches her gentle and soft temperament.
 
 But she just departed, with a mentality of "take a gamble".
 Her life was frozen at the age of 19.
@@ -142,6 +142,25 @@ Her life was frozen at the age of 19.
 When Sugar just passed away, her mother couldn't accept her decisions. But what did her mother say in the end?
 
 Anyway, she had passed away.
+
+## Qingming
+
+<!-- 关于清明的翻译问题，海外有 Ching Ming 之说，此处取现代汉语拼音翻译。对于“清明节”，Festival可以包括清明的踏青部分，但此处基于条目的追思方向，故省去Festival。 -->
+
+Just before Qingming, her mother suddenly sent messages to A.
+Her mother told A how she was diligent and excellent, and how much they loved her.
+
+Sugar's father said that Sugar was the brightest star in the sky.
+
+<PhotoScroll photos={[
+    '${path}/photos/photo1.jpg',
+]} />
+
+However, everything went wrong.
+
+If Sugar was still alive, what would happen now...?
+
+It was a pity that she departed abruptly, without waiting for a turn for the better.
 
 > Hope you'll all remember Sugar.
 > 
@@ -151,7 +170,7 @@ Anyway, she had passed away.
 > 
 > Hope that if you have the ability to call the police, you can dial decisively. You are a lifesaver, not a murderer. Don't be afraid.
 > 
-> Hope you cherishes life, hope still exists; you will only miss the opportunity if you leave too early.
+> Hope you cherish life, hope still exists; you will only miss the opportunity if you leave too early.
 > 
 > Hope you'll all remember Sugar.
 
