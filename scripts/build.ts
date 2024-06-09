@@ -80,7 +80,9 @@ function buildPeopleInfoAndList() {
       }
 
       if (info.id && info.info && info.info.born) {
-        birthdayList.push([info.id, info.info.born])
+        if (!actualHide.includes(info.id)) {
+          birthdayList.push([info.id, info.info.born])
+        }
       }
 
       // Convert info dict to [[key, value], ...]
