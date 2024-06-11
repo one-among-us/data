@@ -8,7 +8,7 @@ info:
 > "Thank you for talking with me so much.
 > If we meet in heaven one day, I'll treat you to some beverages."
 >
-> - "It would be better if we could drink it together in this world.
+> `-` "It would be better if we could drink it together in this world.
 > In addition...what's your favourite flavour?"
 >
 > "I can't wait that long. I'm so sorry..."
