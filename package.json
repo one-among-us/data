@@ -23,8 +23,11 @@
     "esbuild": "^0.18.10",
     "fs-extra": "^11.1.0",
     "js-yaml": "^4.1.0",
+    "katex": "^0.16.10",
     "markdown-yaml-metadata-parser": "^3.0.0",
     "moment": "^2.29.4",
+    "rehype-katex": "6",
+    "remark-math": "5",
     "ts-node": "^10.9.1",
     "typescript": "^5.1.6"
   },
