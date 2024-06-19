@@ -5,43 +5,43 @@ info:
     location: Haikou, Hainan
 ---
 
-[[ {"type":"banner", "icon":"https://one-among.us/favicon-large.png","title":"This entry contains various types of triggering information","text":"If you feel uncomfortable while browsing the page of the deceased, please exit immediately and seek help from doctors, the community, and local suicide intervention agencies if necessary. "} ]]
+[[ {"type":"banner", "icon":"https://one-among.us/favicon-large.png","title":"This entry contains various types of triggering information","text":"If you feel uncomfortable while browsing this page, please exit immediately and seek help from doctors, the community, or local suicide intervention agencies if necessary. "} ]]
 
 > Extremely lucky today
 >
 > Ten tablets of chlorpromazine, so sweet
 >
 > Let’s set off...  
-> See you in the train!  
+> See you on the train!  
 > Loving all of you!  
 
 <PhotoScroll photos={[ '${path}/photos/photo0.jpg', '${path}/photos/photo1.jpg' ]} />
 
-> You probably have been understand who I am, I think.
+> You probably have already figured out who I am.
 >
 > Promise...  
 
 <br /><br />
 
-...Well, too early it delivered.  
+...Well, I posted that too early on socials.  
 Stuff in the stomach have not been digested...and acid reflux
 
 <br /><br />
 
 > Repenting
-> Should not develop any intimate relationships...  
+> I should not develop any intimate relationships...  
 
 <br /><br />
 
-Some strange feeling——
-——Want to go and play with you
+I'm having some strange feelings——
+——I think I want to go and play with you
 
-> Ugly, filthy me after a few days of GATH.  
-> No need to use that drugs.  
-> finish the last thing,  
+> Ugly, filthy me after a few days off GATH.  
+> No need to use those medications.  
+> I'll finish the last thing I need to do,  
 > And finally, aboard the Ginga Tetsudō, with you.
 >
-> Remember and notice me~
+> Remember and notify me~
 > I'm afraid of missing that stop.
 
 <br /><br />
@@ -55,7 +55,7 @@ i finally succeeded
 
 > La homa mondo devus esti detruita
 
-Oh, my  
-angel, see you.  
+Oh, my angel,
+see you.  
 
 <PhotoScroll photos={[ '${path}/photos/photo2.jpg' ]} />
