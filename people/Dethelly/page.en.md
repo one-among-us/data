@@ -11,11 +11,11 @@ In Fall 2023, Sugar went to Hangzhou, Zhejiang to attend university.
 
 She was an introverted girl who cared about others' feelings too much such that she wasn't able to express herself when she needed it.
 She was too shy to express her confusion and anxiety.
-Moreover, she hadn't a friend to confide her thought, she could only hide these in heart. 
+Moreover, she hadn't a friend to confide her thoughts, she could only hide these in the heart. 
 That made her look a bit intimidated.
 
 She always prepared a lot ahead of meeting friends in real life.
-She was always worried about leaving a bad impression, so she asked them tons of questions in advance (such as which kinds of gift they would like), and warned them she might exhibit regressive behaviors.
+She was always worried about leaving a bad impression, so she asked them tons of questions in advance (such as which kinds of gifts they would like), and warned them she might exhibit regressive behaviors.
 
 Her family is conservative.
 Her father worked in China Railways Group and her mother was a teacher.
@@ -35,7 +35,7 @@ The two girls visited many places of interest in Hangzhou……
 
 West Lake Culture Square, Wulin Suqare, Wuliu Lane, and Fengshan Gate.
 
-When parting, She asked A on her thoughts of her plan to "threaten" her parents (to gain acceptance of being trans).
+When parting, She asked A about her thoughts on her plan to "threaten" her parents (to gain acceptance of being trans).
 
 > *Here is what A remembered:*
 >
@@ -67,15 +67,15 @@ On January 22nd, 2024, she went back to her hometown, Chongqing, and regained co
 But the reality is the opposite.
 
 She contacted A before she began to execute her plan.
-She told A again and again that her purpose is not dying.
-The point is to make her parents to realize the necessity of accepting her being trans by showing she's willing to die.
+She told A again and again that her purpose was not to die.
+The point is to make her parents realize the necessity of accepting her being trans by showing she's willing to die.
 
 But the dosage she was about to take was fatal.
 
 A and her other online friends couldn't persuade her, so they called for first aid as a last resort.
 Because they didn't know her exact location, the ambulance left after more than half an hour had passed.
 
-Unfortunately, Sugar was in a critical condition when the ambulance arrived at Second People's Hospital of Yubei District of Chongqing.
+Unfortunately, Sugar was in critical condition when the ambulance arrived at Second People's Hospital of Yubei District of Chongqing.
 And she passed away in the early morning of the next day due to chemical poisoning.
 
 ## After her departure
@@ -109,7 +109,7 @@ Her mother had always been grateful to A.
 
 It's February 12th, 2024. The third day of Spring Festival.
 
-At this night, A set off for a trip to Guiyang and Chongqing.
+On this night, A set off for a trip to Guiyang and Chongqing.
 
 At Ningbo Lishe International Airport,
 
@@ -121,15 +121,15 @@ In a daze, a phone call from Chongqing came, and she was familiar with the numbe
 >
 > Girl, how are you now? (I am fine, what happened?)
 >
-> It's nothing, but…… I always worried about that you might……as well. So I'm calling to ask you are okay or not.
+> It's nothing, but…… I always worried about that you might……as well. So I'm calling to ask if are okay or not.
 > 
-> Girl, if anything happened in the future, please tell your parents and not hold back and say nothing. Your parents always love you.
+> Girl, if anything happens in the future, please tell your parents and not hold back and say nothing. Your parents always love you.
 > 
 > After our generation became parents, we no longer keep the authority and stubbornness of our elders.
 > 
 > So do I…… The path I am currently taking in life is not what my parents hoped, but I think it's no problem.
 >
-> We may not fully understand the decisions made by children, but we will support her if she carefully considered.
+> We may not fully understand the decisions made by children, but we will support her if she carefully considered them.
 > 
 > Girl, I am glad you're okay, wish you a happy life.
 
