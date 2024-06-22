@@ -1,5 +1,5 @@
 id: Rentable
-profileUrl: ${path}/photos/profile.jpg
+profileUrl: ${path}/photos/profile.png
 info:
   born: '2006-06-24'
   died: '2024-06-20'
