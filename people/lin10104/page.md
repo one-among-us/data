@@ -9,19 +9,23 @@ info:
 
 檩是一个学习艺术的跨性别女孩，在她的推文中，我们能够看到许多她的画作草稿。
 
+<div style="display: flex; margin: auto; gap: 80px; flex-direction: row; justify-self: center; justify-content: center; justify-items: center; flex-wrap: wrap">
+
 <PhotoScroll photos={[
     '${path}/photos/photo4.jpg',
     '${path}/photos/photo5.jpg',
     '${path}/photos/photo6.jpg',
 ]} />
 
-她也有着一颗童心，会对各种可爱的玩具感兴趣。
-
 <PhotoScroll photos={[
     '${path}/photos/photo1.png',
     '${path}/photos/photo2.png',
     '${path}/photos/photo3.png',
 ]} />
+
+</div>
+
+她也有着一颗童心，会对各种可爱的玩具感兴趣。
 
 檩有着复杂的家庭情况。她的家庭是重组家庭，父母各有一个孩子，在一起之后就有了她。
 
