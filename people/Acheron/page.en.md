@@ -19,7 +19,7 @@ and another on installing Klipper based on Debian 10.
 ## Departure
 
 Acheron battled depression alone,
-never letting it affect others.
+never letting it affect others,
 and everyone who knew her was fond of her.
 
 Despite an unfortunate childhood and a difficult present,
