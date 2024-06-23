@@ -1,6 +1,7 @@
 ---
 name: Rentable
 info:
+    alias: Ren
     location: Xinxiang, Henan
 ---
 
