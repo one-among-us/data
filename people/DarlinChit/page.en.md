@@ -21,6 +21,12 @@ During her time in Shanghai, although she often worried about financial issues, 
 In her will, Sakuya wrote:
 > My death is unrelated to anyone else; it was purely my personal choice. Please do not hold resentment toward others because of it. Live well for yourselves, with sunshine and happiness."
 
+<PhotoScroll photos={[
+    '${path}/photos/photo1.jpg',
+]} />
+
 Rest well, Sakuya. May you find happiness and peace. Wishing you a smooth journey to the stars.
 
-Contributor for this entry: Nanami
+Contributor for this entry: Nanami[^1]
+
+[^1]: Nanami, Sakuya's friend, who inherit and continue to use Sakuya's account.
