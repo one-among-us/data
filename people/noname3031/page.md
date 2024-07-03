@@ -13,6 +13,8 @@ noah 是一位有些神秘的 MtF，尽管在 Twitter 上的人设是看起来�
 <PhotoScroll photos={[
     '${path}/photos/postcard8.jpg',
     '${path}/photos/postcard9.jpg',
+    '${path}/photos/postcard10.jpg',
+    '${path}/photos/postcard11.jpg',
 ]} />
 
 上面的 NFC 标签内也有明信片上图案的来源。
