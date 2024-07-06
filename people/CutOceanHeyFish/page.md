@@ -4,7 +4,8 @@ info:
     alias: 贴贴, 贴贴姐
 ---
 
-<details><summary>最后一次记录</summary>
+<details>
+<summary> 最后一次记录 </summary>
 
 > 自杀 距上次自杀失败 18天  
 > hrt 停止 第326天  
