@@ -15,7 +15,7 @@ She once excavated an entire chunk in Minecraft with nine friends in the speedru
 Acheron was also knowledgeable in technology.
 She uploaded two notable videos:
 one is unboxing the BearPi-HM Nano development board,
-the other is installing Klipper based on Debian 10.
+and the other is installing Klipper based on Debian 10.
 
 ## Departure
 
