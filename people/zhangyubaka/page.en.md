@@ -20,59 +20,62 @@ Yumao (Zhangqianye) is a trans girl, who is gentle, smart, strong and lovely.
 Her introduction of herself in her profile:
 Perhaps Yumao doesn't like taking part in group activities.
 I love white and red, as well as that kind of rainbow in Glitch.
-I have a sweet tooth, I will feel happy for a long time after holding a packet of white rabbit creamy candies in my hands.
+I have a sweet tooth; I will feel happy for a long time after holding a packet of white rabbit creamy candies in my hands.
 I love cats, and adopted a cat called Ayaka.
 
-She was an admiral of *Kancolle*, and her first action figure was Destroyer Akizuki in *kancolle*.
+She was an admiral of *Kancolle*, and her first figurine was Destroyer Akizuki in *kancolle*.
 
-She enjoyed passing time in silence and ease.
-For example, she'd put on the headphones and drank hot coffee in café, then watch the window and observe as people come and leave. That makes her relaxed.
+She enjoyed passing time in serenity and ease.
+For example, she'd put on headphones and drink hot coffee in a café, then watch out the window and observe people come and go.
+That made her relaxed.
 She had some unusual thoughts sometimes.
-She made wishes to meteors occasionally. She said: "It's not because I believe that, but in that it's free. And there's no evidence showing it doesn't work."
+She made wishes to meteors occasionally.
+She said: "It's not because I believe it. It's just that it don't cost money. And there's no evidence showing it doesn't work."
 
 According to Neko, Yumao loved spicy hot pot, and always enjoyed it with rice.
 
 Yumao liked to watch stars while waiting to fall asleep at night.
-After she returned to China, due to bad weather and few spare time, she couldn't watch stars as often as she did.
+After she returned to China, due to bad weather and little spare time, she couldn't watch stars as often as she did.
 So [she made a special trip to Dishui Lake and watched stars](https://web.archive.org/web/20210517104313/https://oao.moe/archives/834/).
 
 She saved many thoughts in her [blog](https://web.archive.org/web/20210420170241/https://oao.moe/archives/), and these blog posts spanned many subjects: computer science, military and politics.
 She was also interested in literature, and she wrote lots of beautiful proses and poems.
-Of course, she also recorded daily life in her blog, and we can still see her story, her experience, and her train of thoughts now.
+Of course, she also recorded daily life in her blog, and we can still see her story, her experience, and her train of thoughts even now.
 
 ## Experience
 
 Yumao once studied abroad in the US, then she went back to Shanghai to continue her study in university.
 
-In 2017, she encountered Neko on Twitter (Now X), and she felt that Neko was skilled and powerful.
+In 2017, she encountered Neko on Twitter (Now X), and she felt that Neko was a strong person.
 After that, they became close partners.
 
-In that period, there was not so much censorship about transgender topic in Zhihu.
+In that period, there was not so much censorship about transgender topics in Zhihu.
 So Yumao always @ Neko in relevant topics, then showed their affection in public.
 
-During that time, Yumao got many mental supports. She described the care from Neko like this:
+During that time, Yumao got many supports mentally. She described the care from Neko like this:
 
 > "Even those things were dark and painful, which had been hidden, you still observed and felt them. Maybe you understood more than myself. How wonderful... You also found my scattered identity, then lifted me out of abyss. That was the first time I was touched by others."
 
-However, they were forced to separate.
-After that, Neko was brought back to Yunnan by family, and was sent to correctional school (a "school" which uses punishments on students to force them to conform).
-Then, it was reported that Neko had already died by suicide.
-Yumao was extremely grieved after hearing the news.
+However, they were separated forcibly in March 2018.
+Neko was brought back to Yunnan by her family, and was sent to correctional school (a "school" which uses punishments on students to force them to conform).
+Then, it was reported that Neko had died by suicide.
+Yumao was extremely saddened after hearing the news.
 She continuously sent messages about missing Neko in their Telegram channel.
 She quoted *Cassiopeia(カシオペヤ)*, which was a song they used to listen together, to express her grief.
 
-Although she also found that the circumstances of the suicide of Neko was complicated and confusing according to some sources.
-But there was no more news about Neko indeed. She really hoped Neko was still alive:
+Although she also found that the circumstances of the suicide of Neko was complicated and confusing according to some sources,
+there was no more news about Neko indeed.
+She really hoped Neko was still alive:
 
 > "For you I always stay alive... For without you I get lost in life. Wish you are still alive... "
 >
 > (Another version in Zhihu: "Only for you I stay alive... But you are not by my side. Isn't it? Wish you are still alive...")
 
 Yumao always missed Neko, and recalled the days with her.
-She often wrote down some caring words in her blog, such as prompted Neko to manage her hair, or told Neko to add or subtract clothes.
+She often wrote down some caring words in her blog, such as prompting Neko to manage her hair or switching up her clothes.
 
-In this period, Yumao tried to remember previous time and those things which is moving, happy and blissful.
-But her heart was overtaken by sadness, and her memory gradually worsen.
+In this period, Yumao tried to remember the previous times, those moving, happy or blissful events.
+But her heart was overtaken by sadness, and her memory gradually worsened.
 She said that she forgot many things.
 
 She formerly planned to complete SRS within the year, but had to push it back because of her bad mental health and other reasons.
@@ -82,13 +85,17 @@ The next day, she left this world with regrets at her age of 17.
 
 > Wish that I could become a pretty girl who is kind-hearted, and become the sister of Ayaka and Ruri.
 
-In her blog post *[Separation and Reunion](https://web.archive.org/web/20210517104118/https://oao.moe/archives/948/)* published in March, she left many words to her friends, and thanked to their company all along. 
+In her blog post *[Separation and Reunion](https://web.archive.org/web/20210517104118/https://oao.moe/archives/948/)* published in March, she left many words to her friends, and thanked their company all along. 
 
 <PhotoScroll photos={[
     '${path}/photos/photo1.jpg',
 ]} />
 
+{/* TODO: Translate photo1 */}
+
 ## After Her Leaving
+
+{/* TODO: Translate this section */}
 
 In Zhihu question [What are your thoughts about ZhiHu user @yu-zhang-31-35 ?](https://www.zhihu.com/question/284818437), many friends wrote their memories of yumao, and expressed their sadness and regret of the death of her.
 They also felt regrettable for Neko's death due to close relationship between Neko and Yumao.
@@ -150,3 +157,5 @@ After survived the ordeal, Neko tried to get out of the shadow, and she graduall
 Good night, yumao, wish you can be a girl and live happily.
 
 Contributors for this entry: One-Among-Us, [Ayaka Neko](https://twitter.com/ayakaneko)
+
+{/* TODO: Check in Grammarly */}
