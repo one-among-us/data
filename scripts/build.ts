@@ -116,6 +116,8 @@ function buildPeopleInfoAndList() {
         ...Object.fromEntries(["id", "name", "profileUrl"].map(key => [key, info[key]]))
       } as PeopleMeta;
 
+      if (peopleMeta.id == 'noname') peopleMeta.sortKey = '-1';
+
       // Add meta to people list
       if (peopleList.filter(it => it.id == peopleMeta.id).length == 0) {
         if (!actualHide.includes(peopleMeta.id)) {
