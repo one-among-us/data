@@ -5,7 +5,11 @@ info:
     location: Haikou, Hainan
 ---
 
-[[ {"type":"banner", "icon":"https://one-among.us/favicon-large.png","title":"This entry contains various types of triggering information","text":"If you feel uncomfortable while browsing this page, please exit immediately and seek help from doctors, the community, or local suicide intervention agencies if necessary. "} ]]
+<Banner data={{
+    icon: "https://one-among.us/favicon-large.png",
+    title: "This entry contains various types of triggering information",
+    text: "If you feel uncomfortable while browsing this page, please exit immediately and seek help from doctors, the community, or local suicide intervention agencies if necessary."
+}} />
 
 > Extremely lucky today
 >

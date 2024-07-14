@@ -7,7 +7,11 @@ info:
 
 > 「我又能說些什麼呢」
 
-[[ {"type":"banner", "icon":"https://one-among.us/favicon-large.png","title":"本條目含有大量創傷觸發要素","text":"如果您在瀏覽逝者頁麵的時候産生不適，請立即退出並尋求醫生和社群的幫助，必要時尋找當地自殺幹預機構。"} ]]
+<Banner data={{
+    icon: "https://one-among.us/favicon-large.png",
+    title: "本條目含有大量創傷觸發要素",
+    text: "如果您在瀏覽逝者頁麵的時候産生不適，請立即退出並尋求醫生和社群的幫助，必要時尋找當地自殺幹預機構。"
+}} />
 
 > 今天運氣格外的好呢
 >
