@@ -74,22 +74,3 @@ We are trying to rewrite the multilingual architecture of the website to make it
 ```
 
 If you don’t understand how to modify it, please feel free to [Contact Us](https://one-among.us/about/).
-
-## Banner and other tagged data
-
-Markup data such as banner can be used in documents. The format is as follows:
-
-`[[ {/*JSON*/} ]]`
-
-The internal JSON schema is as follows:
-
-* `type`: The type of tagged data, can be `banner`
-* `icon`: The url of the icon. svg cannot be used.
-* `title`: Title of item.
-* `text`: Text of item.
-
-### Example
-
-```json
-[[ {"type":"banner", "icon":"https://one-among.us/favicon-large.png","title":"Some content of this entry doesn’t correspond to fact","text":"You are probably keeping track of an ongoing event, if you feel uncomfortable or stressed, we suggest that you pause browsing the relevant topics."} ]]
-```
