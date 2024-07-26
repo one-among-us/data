@@ -36,4 +36,4 @@ info:
 
 Спокойной ночи, Катерина. 
 
-条目贡献：One-Among-Us, [凡诺](https://twitter.com/VabfTvxPyfhtXgL), [思言](https://twitter.com/siyan_MTF)
+条目贡献：One-Among-Us, [凡诺](https://twitter.com/FANNUO520), [思言](https://twitter.com/siyan_MTF)
