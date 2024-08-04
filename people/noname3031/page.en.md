@@ -15,6 +15,8 @@ Here are some postcards she sent to her friends before leaving:
 <PhotoScroll photos={[
     '${path}/photos/postcard8.jpg',
     '${path}/photos/postcard9.jpg',
+    '${path}/photos/postcard10.jpg',
+    '${path}/photos/postcard11.jpg',
 ]} />
 
 These pictures are the source of the pictures in the NFC tags:

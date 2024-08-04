@@ -22,7 +22,7 @@ Interestingly, she has a lovely sister who bites others (playfully and harmlessl
 I met Qianyuan in November 2022. In my impression, she was a lively high-school student. 
 
 She had dishevelled hair of medium length, which grew over her ears and nearly covered her eyes.
-She always wore a light gray scarf and a light green coat coat.
+She always wore a light gray scarf and a light green coat.
 She was truly an adorable child.
 
 Since we first met online, she'd said that she wanted to played with me.
@@ -38,7 +38,7 @@ She was a very gentle girl. She would listen and respond carefully when you shar
 In addition, she always pleaded us not to overdose, and half jokingly told us not to become "bad girls". 
 
 Her departure was the most regretful and sad thing I learnt in the transgender community.
-I might had a chance to persuade her and play with her...
+I might have had a chance to persuade her and play with her...
 
 ## Departure
 
@@ -56,7 +56,7 @@ In her last moment, she still thought of everyone in her will:
 >
 > Your opinions toward me are not important, because I had loved you. I loved you all very much.
 >
-> I put my last words in my heart, because I am afraid others hear that. I want to tell those who had accompanied with me and assisted me, I am so sorry...
+> I put my last words in my heart, because I am afraid others hear that. I want to tell those who have accompanied me and assisted me, I am so sorry...
 >
 > — Extracted from Qianyuan's will
 

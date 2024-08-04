@@ -15,7 +15,7 @@ She likes to drink Monster Energy.
 
 She often tells me she cannot have a good meal.
 
-She thinks she don't have many friends.
+She thinks she doesn't have many friends.
 
 Her first language is Russian.
 
@@ -29,7 +29,7 @@ If she believes sacrificing herself would benefit others, she won't have a secon
 
 She cares about her friends a lot.
 
-She's a Eastern Orthodox Christian.
+She's an Eastern Orthodox Christian.
 
 She doesn't really trust God 100%, though.
 
@@ -44,7 +44,7 @@ She began transitioning because:
 
 3.  A character she created became more and more similar to herself. She wanted to replace her.
 
-4.  Pressure from family and school was becoming increasingly heavy. She wanted to escape the body she was born with but don't have the means to do so.
+4.  Pressure from family and school was becoming increasingly heavy. She wanted to escape the body she was born with but didn't have the means to do so.
 
 While trying to console her friend, a conflict ensued. She swallowed lots of her meds that night and argued with her father after waking up.
-She then attempted suicide and was sent to the hospital. She was confirmed to be died and cremated by August 1st, 2023.
+She then attempted suicide and was sent to the hospital. She was confirmed to be dead and cremated by August 1st, 2023.

@@ -7,7 +7,7 @@ info:
 
 ## Description
 
-Katerina (Natasha) is a trans woman from Heilongjiang province. She had a variety of interests and hobbies, including Russian, composite bow, weightlifting, aerial photography, and motocycle riding.
+Katerina (Natasha) is a trans woman from Heilongjiang province. She had a variety of interests and hobbies, including Russian, composite bow, weightlifting, aerial photography, and motorcycle riding.
 She also liked liquor; she hoped to open a bar for trans people.
 
 Born in 2003, she always celebrated her birthday on the 27th day of the first lunisolar month.
@@ -47,4 +47,4 @@ Katerina, no matter what you want to eat, we would be together with you to toast
 
 Спокойной ночи, Катерина.
 
-Contributor for this entry: One-Among-Us, [Fannuo](https://twitter.com/VabfTvxPyfhtXgL), [Siyan](https://twitter.com/siyan_MTF)
+Contributor for this entry: One-Among-Us, [Fannuo](https://twitter.com/FANNUO520), [Siyan](https://twitter.com/siyan_MTF)

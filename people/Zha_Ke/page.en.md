@@ -84,5 +84,5 @@ Zha Ke (Lilith) was a transgender man. We have little information of him, only a
 
 <PhotoScroll photos={[ '${path}/photos/letter.jpg']} />
 
-He wrote, “The world abandoned me long ago. I will also eventually be forgotten by everyone.” However, we will remember him forever. We are grateful that the owner of [StarTransForEve](https://startransforeve.com/) provided his information for our rememberance.
+He wrote, “The world abandoned me long ago. I will also eventually be forgotten by everyone.” However, we will remember him forever. We are grateful that the owner of [StarTransForEve](https://startransforeve.com/) provided his information for our remembrance.
 Rest in peace, Zha Ke

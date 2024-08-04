@@ -1,6 +1,7 @@
 id: Barron12312
 profileUrl: ${path}/photos/profile.jpg
 info:
+  born: '2004-01-27'
   died: '2023-11-14'
 websites:
   twitter: https://twitter.com/barron12312

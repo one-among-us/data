@@ -9,7 +9,7 @@ Qi was a gentle, brave, and resolute person who dares to love and hate. She woul
 
 However, she was also plagued by depression and anxiety.
 
-On March 14, 2023, she attempted suicide by jumping off a building due to depression, and her legs were disabled. This made her life very inconvenient and she became more depressed.
+On March 14, 2023, she attempted suicide by jumping off a building due to depression, and her legs were disabled. This made her life very inconvenient, and she became more depressed.
 
 On July 1, 2023, she jumped off a building again after taking a large amount of antidepressant drugs.
 This time, her injuries were beyond saving.

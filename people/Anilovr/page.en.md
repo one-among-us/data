@@ -41,12 +41,12 @@ Her death was confirmed by [方方](https://twitter.com/fang050722) and [铃木�
 
 This world does not deserve you.
 May the other side treat you well.
-May you can share the joy with those who travel together with you,
-on the train travelling through the starry sky.
+May you share the joy with those who travel together with you,
+on the train traveling through the starry sky.
 
 Death is not the end.
 We will meet under the sky of a more loving world.
-Wish you can have the happiness that you missed.
+Wish you have the happiness that you missed.
 
 > A gentle and kind-hearted friend,
 > always thinking about others,

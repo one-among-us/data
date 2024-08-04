@@ -1,0 +1,12 @@
+id: zheermao101
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2008-04-21'
+  # B站、知乎展示生日：4月21日 
+  # 推特发送戳气球日期：4月23日
+  died: '2024-02-26'
+websites:
+    twitter: https://twitter.com/zheermao101
+    zhihu: https://www.zhihu.com/people/43-53-66-47
+    iconify:ri:netease-cloud-music-line: https://music.163.com/#/user?id=3748885018
+    Bilibili: https://space.bilibili.com/526348029

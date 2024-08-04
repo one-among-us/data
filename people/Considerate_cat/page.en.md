@@ -31,11 +31,11 @@ On May 14th, 2023, EnderCat received a forwarded chat record from “Fixing Brok
 
 But she did not realize her dreams or meet EnderCat. On May 13th, 2023, she was very happy, as if she had returned to normal. In the early morning of the next day, she chose to commit suicide.
 
-This was a decision that was hard to accept and understand. I know she endured a lot of pain and pressure. She was forced to stop HRT and was given GnRH analogues. Her parents did not understand her needs, which made her feel hopeless and helpless.
+This was a decision that was hard to accept and understand. I know she endured a lot of pain and pressure. She was forced to stop HRT and was given GnRH analogs. Her parents did not understand her needs, which made her feel hopeless and helpless.
 
 Plus she originally had no confidence or sense of worth in herself. She felt useless and unworthy of being loved. But these were not true. We always loved her.
 
-Her friend EnderCat called 120 at 1:23 am. Her parents also called 120 almost at the same time... Unfortunately she lost consciousness at 1:25 am on May 14th, 2023 and was taken to the hospital... I don't know what happened next, but she eventually did not make it.
+Her friend EnderCat called 120 at 1:23 am. Her parents also called 120 almost at the same time... Unfortunately, she lost consciousness at 1:25 am on May 14th, 2023 and was taken to the hospital... I don't know what happened next, but she eventually did not make it.
 
 > “I could have called 120 ten minutes earlier, but I chose to confirm her status first. I blame myself. I will never forget what she said to me at the end: ‘I'm in so much pain, EnderCat, please help me!’” - EnderCat
 

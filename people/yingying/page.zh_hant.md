@@ -7,11 +7,9 @@ name: 櫻櫻
 
 可惜這一切戛然而止，她在一場車禍中永遠的失去了她的生命。
 
-願在你的下一個世界，你還有同樣的開朗和激情去做你想做的事情吧！ [^1]
-
-參考資料
-
-[1]永別了。我想你了，櫻櫻。 https://leohearts.com/archives/farewell-yingying.html
+願在你的下一個世界，你還有同樣的開朗和激情去做你想做的事情吧！ [^2]
 
 [^1]: https://leohearts.com/archives/farewell-yingying.html
+
+[^2]: [永別了。我想你了，櫻櫻。](https://leohearts.com/archives/farewell-yingying.html)
 

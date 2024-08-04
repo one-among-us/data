@@ -13,7 +13,7 @@ She contributed to the development of many games, including *Pokémon Go* and *T
 Besides being a talented programmer proficient in languages like Java, PHP, and C++, Sakuya was also skilled in stock trading and video editing.
 She once founded a translation group.
 
-She started her own fashion company, but it bankrupted, leading her to lose almost all her income sources.
+She started her own fashion company, but it went bankrupt, leading her to lose almost all her income sources.
 She wasn't able to make a comeback.
 Subsequently, she moved to Shanghai for a while.
 During her time in Shanghai, although she often worried about financial issues, she managed to spend her days relatively happily, thanks to the company and support of her friends.
@@ -21,6 +21,12 @@ During her time in Shanghai, although she often worried about financial issues, 
 In her will, Sakuya wrote:
 > My death is unrelated to anyone else; it was purely my personal choice. Please do not hold resentment toward others because of it. Live well for yourselves, with sunshine and happiness."
 
+<PhotoScroll photos={[
+    '${path}/photos/photo1.jpg',
+]} />
+
 Rest well, Sakuya. May you find happiness and peace. Wishing you a smooth journey to the stars.
 
-Contributor for this entry: Nanami
+Contributor for this entry: Nanami[^1]
+
+[^1]: Nanami, Sakuya's friend, who inherit and continue to use Sakuya's account.

@@ -1,8 +1,8 @@
 ---
 name: lintong
 info:
-    alias: 林童,Lin Tong,Lintong
-    location: Wuhan, Hubei, China
+    alias: Lintong, Darkness
+    location: Wuhan, Hubei
 ---
 
 ## Description

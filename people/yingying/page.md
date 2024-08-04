@@ -7,11 +7,8 @@ name: 樱樱
 
 可惜这一切戛然而止，她在一场车祸中永远的失去了她的生命。
 
-愿在你的下一个世界，你还有同样的开朗和激情去做你想做的事情吧！[^1]
-
-参考资料
+愿在你的下一个世界，你还有同样的开朗和激情去做你想做的事情吧！[^2]
 
 [^1]: https://leohearts.com/archives/farewell-yingying.html
 
-
-[1] 永别了。我想你了，樱樱。https://leohearts.com/archives/farewell-yingying.html
+[^2]: [永别了。我想你了，樱樱。](https://leohearts.com/archives/farewell-yingying.html)

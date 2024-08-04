@@ -24,7 +24,7 @@ Here are some of her drawings before she left:
     '${path}/photos/works6.jpg',
 ]} />
 
-This is her last self description:
+This is her last self-description:
 
 > “I don't think I'm going to change it for several months because I poured lots of effort into it”
 
@@ -97,6 +97,6 @@ Wish you not lonely on the train. And remember: Look at the star Betelgeuse one 
 {/*
 Comments from the translator:
 
-Please, don&apos;t romantize suicid&#33; I'm begging you&#33;
+Please, don&apos;t romanticize suicide&#33; I'm begging you&#33;
 All of you.
 */}
