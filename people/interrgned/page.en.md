@@ -17,4 +17,4 @@ info:
 
 ## Afterword
 
-Contributor for this entry：[Shayu Xiliye](http://twitter.com/UnnnLlllx3)
+Contributor for this entry: [Shayu Xiliye](http://twitter.com/UnnnLlllx3)
