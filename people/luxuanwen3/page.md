@@ -17,16 +17,16 @@ info:
 
 <PhotoScroll photos={[ '${path}/photos/i wish i could.png', ]} />
 
->在这儿我领悟了 
->人们所说的光荣： 
->  就是无拘无束地 
->  爱的权利。
->         ——阿尔贝·加缪
+> 在这儿我领悟了 
+> 人们所说的光荣： 
+> 就是无拘无束地 
+> 爱的权利。
+> ——阿尔贝·加缪
 
 鲵鲵对人十分热情，但并不是大开大合的举止所体现出来的，而是她的片言段语间，蕴含着她对每一个人平等的，饱满的爱。她会称你为宝宝，也会跟你抱抱。她会耐心的讲解你不懂的知识，也尽量不让自己的消极情绪传递给朋友们。
 
->Hope you find your peace in silence.
->Good night and wake up in a brand new world.
+> Hope you find your peace in silence.
+> Good night and wake up in a brand new world.
 
 笔者(@Collapsar_ndn)与鲵鲵相识的时间并不长，但仍被她的氛围所感染，也欢迎所有其他朋友补充，一同怀念曾经的好友。
-最后再次感谢所有曾经帮助过、想要帮助过鲵鲵的朋友@awxs_2081573566 @Bolichara0 @N552AA
+最后再次感谢所有曾经帮助过、想要帮助过鲵鲵的朋友 @awxs_2081573566 @Bolichara0 @N552AA

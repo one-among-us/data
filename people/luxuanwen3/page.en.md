@@ -17,14 +17,14 @@ At 11:55 p.m. on August 4, 2024,Nini made the last decision. After posting her f
 
 <PhotoScroll photos={[ '${path}/photos/i wish i could.png', ]} />
 
->Here I understand what is meant by glory: 
->    the right to love without limits.
->         ― Albert Camus, Lyrical and Critical Essays
+> Here I understand what is meant by glory: 
+> the right to love without limits.
+> ― Albert Camus, Lyrical and Critical Essays
 
 Nini is very warm to people, though this is not always evident in her outward demeanor. Rather, it is reflected in the pieces of her words that contain her equal and full love for everyone. She may call you "babe" and offer a hug. She will patiently explain what you don't know and try not to pass on her negativity to her friends.
 
->Hope you find your peace in silence.
->Good night and wake up in a brand new world.
+> Hope you find your peace in silence.
+> Good night and wake up in a brand new world.
 
 I (@Collapsar_ndn) haven't known Nini for very long, but I'm still affected by her positive energy, and I welcome all the other friends to contribute to the text and reminisce about our former friend,Nini.
-Thanks for your help to Nini.@awxs_2081573566 @Bolichara0 @N552AA
+Thanks for your help to Nini. @awxs_2081573566 @Bolichara0 @N552AA

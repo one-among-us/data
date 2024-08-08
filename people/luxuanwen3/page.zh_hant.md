@@ -16,16 +16,16 @@ info:
 在2024年八月四日晚11時55分，鯢鯢做出了決絕的選擇。在發送了最後一條推文之後，服下了超量的化學藥品，她的好友們多方奔走，想要留下她，留住此世間獨特的她。在次日凌晨三點，鯢鯢離開了我們，去尋求屬於自己的自由。
 <PhotoScroll photos={[ '${path}/photos/i wish i could.png', ]} />
 
->在這兒我領悟瞭
->人們所說的光榮：
->  就是無拘無束地
->  愛的權利。
->         ——阿爾貝·加繆
+> 在這兒我領悟瞭
+> 人們所說的光榮：
+> 就是無拘無束地
+> 愛的權利。
+> ——阿爾貝·加繆
 
 鯢鯢對人十分熱情，但並不是大開大合的舉止所體現出來的，而是她的片言段語間，蘊含着她對每一個人平等的，飽滿的愛。她會稱你爲寶寶，也會跟你抱抱。她會耐心的講解你不懂的知識，也儘量不讓自己的消極情緒傳遞給朋友們。
 
->Hope you find your peace in silence.
->Good night and wake up in a brand new world.
+> Hope you find your peace in silence.
+> Good night and wake up in a brand new world.
 
 筆者(@Collapsar_ndn)與鯢鯢相識的時間並不長，但仍被她的氛圍所感染，也歡迎所有其他朋友補充，一同懷念曾經的好友。
-最後再次感謝所有曾經幫助過、想要幫助過鯢鯢的朋友@awxs_2081573566 @Bolichara0 @N552AA
+最後再次感謝所有曾經幫助過、想要幫助過鯢鯢的朋友 @awxs_2081573566 @Bolichara0 @N552AA
