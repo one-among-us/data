@@ -1,0 +1,15 @@
+id: interrgned
+profileUrl: ${path}/photos/profile.png
+info:
+  born: '1995-05-25'
+  died: '2024-01-22'
+websites:
+  twitter: https://twitter.com/interrgned
+  github: https://github.com/interrgned
+  youtube: https://www.youtube.com/@interrgned
+  Bilibili: https://space.bilibili.com/152550
+  weibo: https://weibo.com/interrgned
+  # mydigit: http://bbs.mydigit.cn/u.php?uid=1316082
+  iconify:bi:steam: https://steamcommunity.com/id/interrgned
+  # makerforums: https://forum.makerforums.info/u/interrgned/summary
+  # oshwlab: https://oshwlab.com/interrgned
