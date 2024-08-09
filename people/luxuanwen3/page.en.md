@@ -40,6 +40,7 @@ She would patiently explain what you didn't know and try not to pass on her nega
 
 I (The author of this entry) hadn't known Nini for very long, but I was still deeply affected by her positive energy.
 I invite all our friends to contribute to this entry and share memories of our dear friend, Nini.
+
 Thanks for your help to Nini. @awxs_2081573566 @Bolichara0 @N552AA
 
 Contributor for this entry: [Collapsar_ndn](https://twitter.com/Collapsar_ndn)
