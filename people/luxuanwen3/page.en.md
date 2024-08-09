@@ -7,8 +7,8 @@ info:
 
 ## Description
 
-**Nini** was a sweet trans girl with a keen interest in computers. She experienced some anxiety, and was generally warm and friendly.
-She took medication and exogenous hormones on a monthly basis. Her avatar was created by the talented artist ディーバ/Deaver](https://x.com/Deaver1229).
+Nini was a sweet trans girl with a keen interest in computers. She experienced some anxiety, and was generally warm and friendly.
+She took medication and exogenous hormones on a monthly basis. Her avatar was created by the talented artist [ディーバ/Deaver](https://x.com/Deaver1229).
 
 However, her parents were resolutely opposed to her transgender identity and expression, so she was closely monitored.
 The only sister who truly understood her found it difficult to communicate owing to distance and academic pressures.
