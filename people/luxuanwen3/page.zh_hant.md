@@ -28,6 +28,7 @@ info:
 > Good night and wake up in a brand new world.  
 
 筆者與鯢鯢相識的時間並不長，但仍被她的氛圍所感染，也歡迎所有其他朋友補充，一同懷念曾經的好友。
+
 最後再次感謝所有曾經幫助過、想要幫助過鯢鯢的朋友們： @awxs_2081573566 @Bolichara0 @N552AA
 
 條目貢獻：[Collapsar_ndn](https://twitter.com/Collapsar_ndn)
