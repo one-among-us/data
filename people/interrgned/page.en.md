@@ -7,14 +7,12 @@ info:
 
 (To-Do)
 
-<!-- I should modify the zh_cn page first. -->
-
 ## Line
 
 ## Wave
 
-## Thought
+## Love
 
-## Afterword
+## End
 
 Contributor for this entry: [Shayu Xiliye](http://twitter.com/UnnnLlllx3)
