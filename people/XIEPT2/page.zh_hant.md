@@ -195,7 +195,7 @@ info:
 >
 > 這是命中註定
 
-那一天，我和葡萄共同的朋友，[單片]（https://one-among.us/profile/interrgned）自殺身亡了。
+那一天，我和葡萄共同的朋友，[單片](https://one-among.us/profile/interrgned)自殺身亡了。
 
 第二天，我開始組織朋友一起去江門，找了一圈後實在找不到人，我問葡萄願意來嗎，她說可以，她傷未好，我也只能表示安慰，但她說起碼為了單片。
 
@@ -317,6 +317,6 @@ info:
 
 做一個快樂的女孩子......
 
-條目貢獻： [紗羽硒璃葉]（https://twitter.com/UnnnLlllx3）
+條目貢獻： [紗羽硒璃葉](https://twitter.com/UnnnLlllx3)
 
 [^1]： 意為個人「代購」境外漫畫書籍
