@@ -10,12 +10,15 @@ info:
 Acheron was a young trans girl who was lovely, brave, and kind-hearted.
 
 She uploaded several Minecraft gameplay videos on Bilibili.
-She once excavated an entire chunk in Minecraft with nine friends in the speedrun community in just 30:17.
+She once excavated an entire chunk in Minecraft with nine friends in the Speedrun community in just 30:17.
 
-Acheron was also knowledgeable in technology.
+Acheron was not just a gamer but also a tech enthusiast.
+She was knowledgeable in various aspects of technology,
+from hardware to software,
+and often shared her insights with the community.
 She uploaded two notable videos:
-one is unboxing the BearPi-HM Nano development board,
-and the other is installing Klipper based on Debian 10.
+one is unboxing the BearPi-HM Nano development board.
+The other is installing Klipper based on Debian 10.
 
 ## Departure
 
