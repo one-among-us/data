@@ -8,7 +8,7 @@ info:
 
 ## Description
 
-In the Fall of 2023, Sugar went to Hangzhou, Zhejiang, to attend university.
+In Fall 2023, Sugar went to Hangzhou, Zhejiang, to attend university.
 
 She was an introverted girl who cared too much about others' feelings, so she wasn't able to express herself when she needed it.
 She was too shy to express her confusion and anxiety.
