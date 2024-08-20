@@ -8,6 +8,8 @@ import metadataParser from 'markdown-yaml-metadata-parser';
 
 import { renderMdx } from "./mdx.js";
 import moment from "moment";
+import { handleFeatures } from "./feature.js";
+import { HData, PeopleMeta } from "./data.js";
 
 const PUBLIC_DIR = "public";
 
@@ -15,6 +17,8 @@ const PEOPLE_DIR = "people";
 const COMMENTS_DIR = "comments";
 
 const DIST_DIR = "dist";
+
+const DATA_DIR = "data";
 
 const projectRoot = path.dirname(path.dirname(url.fileURLToPath(import.meta.url)));
 const peopleDir = path.join(projectRoot, PEOPLE_DIR);
@@ -24,13 +28,13 @@ const people = fs.readdirSync(peopleDir).map(person => ({
   distPath: path.join(projectRoot, DIST_DIR, PEOPLE_DIR, person)
 }));
 
-interface PeopleMeta {
-  id: string
-  name: string
-  profileUrl: string
-  path: string
-  sortKey: string
-}
+const hdata = JSON.parse(fs.readFileSync(path.join(projectRoot, DATA_DIR, "hdata.json")).toString()) as HData;
+const commentOnlyList = hdata.commentOnly;
+const excludeList = commentOnlyList.concat(hdata.exclude);
+const notShowOnHomeList = hdata.notShowOnHome;
+const actualHide = hdata.actualHide;
+const trigger = hdata.trigger;
+const switchPair = hdata.switch;
 
 // Transform `info.json5` to `info.json`.
 // Extract metadata from `people/${dirname}/info.json5` to `dist/people-list.json`.
@@ -43,14 +47,20 @@ function buildPeopleInfoAndList() {
 
     // Compiled meta of list of people for the front page (contains keys id, name, profileUrl)
     const peopleList: PeopleMeta[] = [];
+    const peopleHomeList: PeopleMeta[] = [];
+    const birthdayList = [] as [string, string][]
 
     // For each person
     for (const { dirname, srcPath, distPath } of people) {
+
+      if (excludeList.includes(dirname)) continue;
+      if (isDirEmpty(srcPath)) continue;
+
       const infoFile = fs.readFileSync(path.join(srcPath, `info.yml`), "utf-8");
       const info: any = YAML.load(infoFile);
 
       // Read the page.md of that language
-      const markdown = fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8");
+      const markdown = fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8").replaceAll("<!--", "{/* ").replaceAll("-->", " */}");
 
       // Get the markdown header
       const mdMeta = metadataParser(markdown).metadata
@@ -67,6 +77,12 @@ function buildPeopleInfoAndList() {
       {
         try { info.info.age = Math.abs(moment(info.info.died).diff(info.info.born, 'years', false)) }
         catch (e) { console.log(`Unable to calculate age for ${dirname}`) }
+      }
+
+      if (info.id && info.info && info.info.born) {
+        if (!actualHide.includes(info.id)) {
+          birthdayList.push([info.id, info.info.born])
+        }
       }
 
       // Convert info dict to [[key, value], ...]
@@ -100,25 +116,41 @@ function buildPeopleInfoAndList() {
         ...Object.fromEntries(["id", "name", "profileUrl"].map(key => [key, info[key]]))
       } as PeopleMeta;
 
+      if (peopleMeta.id == 'noname') peopleMeta.sortKey = '-1';
+
       // Add meta to people list
-      if (peopleList.filter(it => it.id == peopleMeta.id).length == 0)
-        peopleList.push(peopleMeta);
+      if (peopleList.filter(it => it.id == peopleMeta.id).length == 0) {
+        if (!actualHide.includes(peopleMeta.id)) {
+          peopleList.push(peopleMeta);
+          if (!notShowOnHomeList.includes(peopleMeta.id))
+            peopleHomeList.push(peopleMeta)
+        }
+      }
     }
 
     peopleList.sort((a, b) => b.sortKey.localeCompare(a.sortKey))
+    peopleHomeList.sort((a, b) => b.sortKey.localeCompare(a.sortKey))
 
     // Write people-list.json
     fs.writeFileSync(path.join(projectRoot, DIST_DIR, `people-list${lang}.json`), JSON.stringify(peopleList));
+    fs.writeFileSync(path.join(projectRoot, DIST_DIR, `people-home-list${lang}.json`), JSON.stringify(peopleHomeList));
+    fs.writeFileSync(path.join(projectRoot, DIST_DIR, 'birthday-list.json'), JSON.stringify(birthdayList));
   }
 }
 
 // Render `people/${dirname}/page.md` to `dist/people/${dirname}/page.js`.
 function buildPeoplePages() {
   for (const { dirname, srcPath, distPath } of people) {
+
+    if (excludeList.includes(dirname)) continue;
+    if (isDirEmpty(srcPath)) continue;
+
     for (const lang of ['', '.zh_hant', '.en'])
     {
       // Read markdown page and remove markdown meta
-      let markdown = metadataParser(fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8")).content;
+      let markdown = metadataParser(fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8")).content.replaceAll("<!--", "{/* ").replaceAll("-->", " */}");
+
+      markdown = handleFeatures(markdown)
 
       // Autocorrect markdown
       markdown = autocorrect.formatFor(markdown, 'markdown')
@@ -152,12 +184,35 @@ function copyPeopleAssets() {
 // Copy files `public` to dist.
 function copyPublic() {
   fs.copySync(path.join(projectRoot, PUBLIC_DIR), path.join(projectRoot, DIST_DIR));
+  fs.writeFileSync(path.join(DIST_DIR, 'trigger-list.json'), JSON.stringify(trigger as string[]));
+  fs.writeFileSync(path.join(DIST_DIR, 'switch-pair.json'), JSON.stringify(switchPair as [string, string][]))
+}
+
+function copyComments() {
+  for (const dirname of commentOnlyList) {
+    const commentPath = path.join(peopleDir, dirname as string, COMMENTS_DIR);
+    const distPath = path.join(projectRoot, DIST_DIR, PEOPLE_DIR, dirname as string);
+    fs.ensureDirSync(commentPath);
+    var info = { comments: [] };
+    info.comments = fs
+        .readdirSync(commentPath)
+        .filter((cf) => cf.endsWith(".json"))
+        .map((cf) =>
+            JSON.parse(fs.readFileSync(path.join(commentPath, cf), "utf-8"))
+        );
+    info.comments.forEach((c) => (c.content = autocorrect.format(c.content)));
+    fs.ensureDirSync(distPath);
+    fs.writeFileSync(path.join(distPath, "info.json"), JSON.stringify(info));
+    fs.writeFileSync(path.join(distPath, "info.en.json"), JSON.stringify(info));
+    fs.writeFileSync(path.join(distPath, "info.zh_hant.json"), JSON.stringify(info));
+  }
 }
 
 buildPeopleInfoAndList();
 buildPeoplePages();
 copyPeopleAssets();
 copyPublic();
+copyComments();
 
 /**
  * Trim a specific char from a string
@@ -176,4 +231,8 @@ function trim(str: string, ch: string) {
     --end;
 
   return (start > 0 || end < str.length) ? str.substring(start, end) : str;
+}
+
+function isDirEmpty(dir: string): boolean {
+  return fs.readdirSync(dir).length == 0;
 }

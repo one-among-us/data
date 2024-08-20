@@ -40,7 +40,7 @@ No medicine Ying tried worked for their disease.
 In Summer 2021, Ying is diagnosed as *Bone metastasis* stage IV.
 Yet, Ying didn't stop caring about their friends to not let us worried even while enduring great physical pain.
 
-In September 2021, Ying went to the other side of the sea (metaphorically) on their favorite ship.
+In September 2021, Ying went to the other side of the sea (metaphorically) on their favourite ship.
 Their last Twitter post was:
 “I want to drink a bigggg cup of iced Coke at last.”
 No problem, Ying. No matter how many cups of Coke you want to drink, we will buy them for you.

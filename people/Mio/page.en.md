@@ -23,13 +23,13 @@ She was admitted to one of the top universities in China because of her brillian
 In life, she liked to play *Minecraft* and *Karbel Space Program*.
 After all these years, she became a gentle big sister to many people.
 
-She sufferred major depression disorder throughout the last year of her life.
+She suffered major depression disorder throughout the last year of her life.
 Although she was pushed to suicide several times, she still tried to live as happily as she could.
 She made many friends and built up many relationships in that year alone:
 
 - She came out to her best friend in primary school.
 - She became close friends with another trans girl.
-- She started to manage the QQ group 春の芽工作室.
+- She started to manage the QQ group *Harunome Hanbai*.
 
 ## From best "boy" friends to best girl friends with her friend whom she met in primary school
 
@@ -37,7 +37,7 @@ In 2022 April, [Bei Yan Yun Yi](https://github.com/BeiyanYunyi) saw a social med
 It was also at that time that Bei Yan Yun Yi figured out her gender identity.
 Bei Yan Yun Yi remembered that Mio had done research on SRS during primary school.
 Therefore, when she reconnected with Mio, she came out to her.
-Just like that, best "boy" friends become best girl friends.
+Just like that, best "boy" friends became best girl friends.
 
 <PhotoScroll photos={[
 '${path}/photos/photo6.jpg',
@@ -62,7 +62,7 @@ Translation:
 >
 > Mio: Is it because you saw my Tieba (Translator's note: a popular social media platform) post?
 >
-> Me: No, I haven't checked Tieba in a while. I did see your Wechat (Translator's note: another popular social media platform) post, though.
+> Me: No, I haven't checked Tieba in a while. I did see your WeChat (Translator's note: another popular social media platform) post, though.
 > 
 > Me: Have you considered what you're experiencing to be Gender Dysphoria?
 > 
@@ -70,7 +70,7 @@ Translation:
 > 
 > Me: I think we need to meet. How about May 1st? (Translator's note: a holiday)
 > 
-> Me: (photo, a Wechat post)
+> Me: (photo, a WeChat post)
 > 
 > > (Translation of the post):
 > >

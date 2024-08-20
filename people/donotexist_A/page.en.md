@@ -31,7 +31,7 @@ Exist once found a [tagline signaling gender expression diversity acceptance by 
 Exist likes to read books.
 Many types of books.
 She has a preference for paper books.
-Once, she went to [Huado library](https://twitter.com/donotexist_A/status/1358339066056482817?s=20) for the book *Gender Trouble* by Butler.
+Once, she went to [Huadu library](https://twitter.com/donotexist_A/status/1358339066056482817?s=20) for the book *Gender Trouble* by Butler.
 
 Exist likes to try out new things.
 She often wandered around the city and found lots of great sceneries other people would have ignored.
@@ -42,7 +42,7 @@ Exist has too many good qualities to list.
 
 Exist helped many trans people in Guangdong to build up confidence by using her social media.
 She shared her experience of how she was able to get a diagnosis of gender dysphoria and get the prescriptions with everyone.
-We believe, if we are able to see Exist one more time, she would share all she saw and learnt during her time in the other world with us.
+We believe, if we are able to see Exist one more time, she would share all she saw and learned during her time in the other world with us.
 
 In 2021, May, Exist died of the low blood pressure caused by medication side effects and complications.
 Good night, Exist.

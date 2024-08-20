@@ -7,7 +7,7 @@ info:
 This page is dedicated to the unidentifiable victims who lost their lives due to systemic violence towards trans people.
 Sometimes, we cannot even get a confirmation on if these people are trans.
 
-### 2022 March 9th, Wu Han Tianjie - Feminine-presenting person stripped and murdered in men's bathroom.
+### 2022 March 9th, Wu Han Jiangchen Paradise Walk - Feminine-presenting person stripped and murdered in men's bathroom.
 
 At 2022 March 9th 15:45, a feminine-presenting person was stripped and murdered in bathroom.
 The assailant and the victim's verbal conflict quickly escalated to physical conflict.
@@ -40,9 +40,25 @@ Nine days after, on 2022 March 18th, One Among Us's official Twitter tweeted:
 
 **Related articles and discussions**：[reddit](https://www.reddit.com/r/China_irl/comments/tb0sen/%E6%AD%A6%E6%B1%89%E5%A4%A9%E8%A1%97%E5%8F%91%E7%94%9F%E6%9D%80%E4%BA%BA%E6%A1%88%E7%96%91%E4%BC%BC%E6%98%AF%E5%AF%B9%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E6%80%A7%E7%9A%84%E4%BB%87%E6%81%A8%E7%8A%AF%E7%BD%AA%E7%9B%B8%E5%85%B3%E8%AF%9D%E9%A2%98%E5%92%8C%E5%BE%AE%E5%8D%9A%E6%AD%A3%E8%A2%AB%E5%A4%A7%E9%87%8F%E5%88%A0%E9%99%A4/), [知乎](https://zhuanlan.zhihu.com/p/478944139), [matters, archived at 2023, 31 Mar.](https://web.archive.org/web/20230331121307/https://matters.news/@cprpoffice/254661-%E6%AD%A6%E6%B1%89%E5%A4%A9%E8%A1%97%E6%9D%80%E4%BA%BA%E6%A1%88%E5%88%9D%E6%AD%A5%E6%8E%A2%E7%A9%B6-%E6%AD%BB%E8%80%85%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%8D%E6%98%AF%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E6%80%A7-bafyreicv5icunxpsd2jxfdfkxhk5p4waxyxge7c4cvektwtyzkjfqjoreu)
 
-### A Transgender Person’s Death Published at KuAn Forum
+### A Transgender Person’s Death Published at Coolapk Forum
 
-On September 11, 2023, a netizen posted on the KuAn Forum telling the story of his transfem cousin, who finally chose to commit suicide due to pressure and violence from his family.
+On September 11, 2023, a netizen posted on the Coolapk Forum telling the story of his transfem cousin, who finally chose to commit suicide due to pressure and violence from his family.
 Unfortunately, most netizens still regard the death as “the Internet’s poisonous effects on teenagers” without truly understanding the needs of transgender people. The poster also couldn't really understand his transfem cousin's needs, but did take some action to help her. This incident is a microcosm of the oppression faced by transgender people in China from both family and society. The original post is now deleted.
 
 <PhotoScroll photos={[ '${path}/photos/kuan1.jpg', '${path}/photos/kuan2.jpg', '${path}/photos/kuan3.jpg', '${path} /photos/kuan4.jpg', ]} />
+
+### Those departed transgender friends who died between Nov 2023 to May 2024
+
+The destinies of our friends among transgender community are often closely related,
+and the departure of one always touched our hearts.
+
+During this period, the number of departed transgender individuals in our sight has far exceeded previous counts for that period in history.
+Many of those departed friends shared emotional connection.
+
+We probably don't know their name yet,
+they departed quietly,
+only leaving a few words to those who accompanied with them.
+
+Or perhaps, just as the words on homepage of One Among Us say: Perhaps I can't even verify their "real existence".
+
+May we still recall the memory we shared with them in the future.

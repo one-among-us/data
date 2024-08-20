@@ -1,0 +1,9 @@
+id: shihai4h
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2004-03-09'
+  died: '2023-12-17'
+  # born: 2004-03-09 11:00
+  # died: 2023-12-17 11:25
+websites:
+  twitter: https://twitter.com/shihai4h

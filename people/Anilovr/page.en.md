@@ -5,13 +5,13 @@ info:
     location: Haikou, China
 ---
 
->「//La homa mondo devus esti detruita//I will wait for you at Alpha Orionis//」
+>「//La homa mondo devus esti detruita//I will wait for you at Betelgeuse//」
 >「I love every one of you. I really do.」
 
 ## Profile
 
 Ani grew up in a single-parent household.
-She has helped many people.
+Her selflessness has touched the lives of many.
 But in the end, she, who gave others hope, wasn't able to escape death herself.
 
 <PhotoScroll photos={[ '${path}/photos/photo1.jpg', ]} />
@@ -24,8 +24,8 @@ But in the end, she, who gave others hope, wasn't able to escape death herself.
 On that day, Ani fulfilled her last plan to leave silently.
 Yet, her death was sudden and shocking.
 
->「Maybe separation is not that awful.
-> When we are dissolved into wind after millions of hours,
+> Maybe separation is not that awful.
+> When we are dissolved into the wind after millions of hours,
 > we will be reunited as bubbles in the same cup of beer.
 > No atoms can truly be destroyed in the universe.
 > Sooner or later, we will be together again.
@@ -41,26 +41,26 @@ Her death was confirmed by [方方](https://twitter.com/fang050722) and [铃木�
 
 This world does not deserve you.
 May the other side treat you well.
-May you can share the joy with those who travel together with you,
+May you share the joy with those who travel together with you,
 on the train travelling through the starry sky.
 
 Death is not the end.
 We will meet under the sky of a more loving world.
-Wish you can have the happiness that you missed.
+I wish you the happiness that you missed.
 
 > A gentle and kind-hearted friend,
 > always thinking about others,
 > compassionate to a fault.
-> Tried to take care of friends when she should have had taken care of herself;
-> shouldered everything herself to not bother anyone else.
+> Tried to take care of friends when she should have taken care of herself;
+> shouldered everything herself so as not bother anyone else.
 
 Ani was outed on October 22nd.
-[Elihuso](https://twitter.com/ElihusoQ) seeked help for her by explaining her situation online.
+[Elihuso](https://twitter.com/ElihusoQ) sought help for her by explaining her situation online.
 However, she rejected every offer of help.
 
 > Not accepting any help is my ideal.
 > I already went against it twice.
 > Once, twice, there will not be a third.
 
-At night, when we look at Alpha Orionis, the brightest star in this starry sky,
-you will be waving at us, smiling.
+At night, when we look at Betelgeuse, the brightest star in this starry sky:
+You will be waving at us, smiling.

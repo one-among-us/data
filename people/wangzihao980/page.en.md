@@ -2,7 +2,7 @@
 name: Chica 陈由岐
 info:
     alias: 王凝予
-    location: Beijing, Chaoyang
+    location: Chaoyang, Beijing
 ---
 
 ## Description

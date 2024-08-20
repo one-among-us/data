@@ -7,7 +7,7 @@ info:
 
 ## Description
 
-Tsukiko is a non-binary friend among us, whose pronouns are He/Him.
+Tsukiko was a non-binary friend among us, whose pronouns were He/Him.
 
 He mentioned that he was fond of *Kagamine Rin* in his Twitter.
 
@@ -33,7 +33,7 @@ A few days before his departure, he took a photo of beautiful night sky and twee
 >
 > "I won't do that."
 >
-> You haven't fullfilled your promise, you are such a big liar.
+> You haven't fulfilled your promise, you are such a big liar.
 > 
 > According to my memory, you are afraid of pain, even morphine cannot relieve that.
 > 

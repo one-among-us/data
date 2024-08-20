@@ -1,7 +1,8 @@
 id: MioCardMeow
-profileUrl: ${path}/photos/profile.jpg
+profileUrl: ${path}/photos/profile.png
 info:
   born: '2005-04-02'
   died: '2022-01-31'
 websites:
   twitter: https://twitter.com/MiocardMeow
+  Bilibili: https://space.bilibili.com/15655639

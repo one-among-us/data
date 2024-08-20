@@ -13,6 +13,6 @@ Her parents expressed serious disapproval of her transgender behavior at first, 
 It is a pity that her friends’ efforts did not stop her depression from worsening.
 In the end, she chose suicide.
 
-After her death, Han Lianyi (a Chinese trans women known for her volunteer suicide prevention work) reflected on her failure to transfer Yuxue to someone else in time when Han was not capable enough for her case; failing to discover Yuxue's obvious signs of suicide in time; and her inadequacy in guiding the rescue of Yuxue at hospital. Han hopes that this failure could help guide future suicide prevention efforts.
+After her death, Han Lianyi (a Chinese trans woman known for her volunteer suicide prevention work) reflected on her failure to transfer Yuxue to someone else in time when Han was not capable enough for her case; failing to discover Yuxue's obvious signs of suicide in time; and her inadequacy in guiding the rescue of Yuxue at hospital. Han hopes that this failure could help guide future suicide prevention efforts.
 
 May Yuxue become a beautiful girl and never be discriminated against in heaven.
