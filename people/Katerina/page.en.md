@@ -29,7 +29,7 @@ Following are some of her photos, including her motorcycle:
 Katerina loved many kinds of food, including balsam pear and lemon tea, pizza, jiaozi, and Tiramisu.
 It could be said that she loved all the delicious dishes.
 She was also skilled at cooking.
-During their time in Guangdong, she grew fond of white-cut chicken.
+While living in Guangdong, she grew fond of white-cut chicken.
 The dish then became her specialty.
 
 She suffered from domestic abuse in her childhood.
