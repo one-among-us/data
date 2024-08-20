@@ -5,23 +5,24 @@ info:
     location: Yubei, Chongqing
 ---
 
+
 ## Description
 
-In Fall 2023, Sugar went to Hangzhou, Zhejiang to attend university.
+In the Fall of 2023, Sugar went to Hangzhou, Zhejiang, to attend university.
 
-She was an introverted girl who cared about others' feelings too much such that she wasn't able to express herself when she needed it.
+She was an introverted girl who cared too much about others' feelings, so she wasn't able to express herself when she needed it.
 She was too shy to express her confusion and anxiety.
-Moreover, she hadn't a friend to confide her thoughts, she could only hide these in the heart. 
+Moreover, she had no friend to confide in her thoughts; she could only hide them in her heart. 
 That made her look a bit intimidated.
 
-She always prepared a lot ahead of meeting friends in real life.
-She was always worried about leaving a bad impression, so she asked them tons of questions in advance (such as which kinds of gifts they would like), and warned them she might exhibit regressive behaviors.
+She always prepared a lot before meeting friends in real life.
+She was always worried about leaving a bad impression, so she asked them tons of questions in advance (such as which kinds of gifts they would like) and warned them she might exhibit regressive behaviours.
 
 Her family is conservative.
-Her father worked in China Railways Group and her mother was a teacher.
+Her father worked for China Railways Group, and her mother was a teacher.
 She didn't receive enough love from them.
-They once threw away her gender-affirming clothing she hid while she was in high school.
-Therefore, she was certain her parents were too conservative to communicate with.
+They once threw away the gender-affirming clothing she hid while she was in high school.
+Therefore, she was sure her parents were too conservative to communicate with.
 
 ## The dissipated haze in Hangzhou
 
@@ -39,24 +40,24 @@ When parting, She asked A about her thoughts on her plan to "threaten" her paren
 
 > *Here is what A remembered:*
 >
-> Sugar: Perhaps what I need to do is to "threaten", since they are too conservative to be communicated with.
+> Sugar: Perhaps I need to "threaten" them since they are too conservative to communicate with.
 > 
 > Sugar: I'm afraid of pain, but I could hurt myself a bit.
 > 
-> Sugar: Thereby they might make a compromise eventually, and I might get more freedom in return.
+> Sugar: Thereby, they might make a compromise eventually, and I might get more freedom in return.
 >
 > Sugar: According to the plan, I will delete you from my friend list after this parting.
 >
 > Sugar: You shouldn't be worried about me. Please forget me as soon as possible.
 
-When A left for home, she left Sugar half a bag of oranges, and messaged her "Adios." (Goodbye) on QQ.
+When A left for home, she left Sugar half a bag of oranges and messaged her "Adios." (Goodbye) on QQ.
 A didn't get any reply.
 That night, Sugar actually deleted her contact.
 
-The second day, a Twitter user who claimed to be Sugar's high school classmate brought her some random thoughts on behalf of Sugar.
+On the second day, a Twitter user who claimed to be Sugar's high school classmate sent her some random thoughts on behalf of Sugar.
 Then A requested them to look after her.
 
-Later, Sugar began her winter vacation, and got her diagnosis certificate of gender dysphoria in Shenzhen Kangning Hospital —— This was only known by A after her death.
+Later, Sugar began her winter vacation and got her diagnosis certificate of gender dysphoria in Shenzhen Kangning Hospital —— This was only known by A after her death.
 
 ## Thick fog over Jialing River (Her departure)
 
@@ -75,7 +76,7 @@ But the dosage she was about to take was fatal.
 A and her other online friends couldn't persuade her, so they called for first aid as a last resort.
 Because they didn't know her exact location, the ambulance left after more than half an hour had passed.
 
-Unfortunately, Sugar was in critical condition when the ambulance arrived at Second People's Hospital of Yubei District of Chongqing.
+Unfortunately, Sugar was in critical condition when the ambulance arrived at the Second People's Hospital of Yubei District of Chongqing.
 And she passed away in the early morning of the next day due to chemical poisoning.
 
 ## After her departure
@@ -93,7 +94,7 @@ She said words like Sugar was too selfish and didn't care about them.
 Then she tried to unlock Sugar's phone.
 
 A asked her mother to bury Sugar as a daughter, but her mother replied like [this](https://twitter.com/KiraRettosei/status/1749728762261012752?s=19).
-(The link may be potentially triggering.)
+(The link may be triggering.)
 
 However, her mother's attitude was changing gradually.
 
@@ -101,15 +102,15 @@ Her parents started to tidy up her belongings.
 
 Her mother asked A if she wanted to keep Sugar's IKEA Blåhaj Shark, which she loved to hug.
 
-Her mother said, he was their angel, but unfortunately God made him leave early, and he had to leave.
+Her mother said he was their angel, but unfortunately, God made him leave early, and he had to leave.
 
 Her mother had always been grateful to A.
 
 ## The new spring
 
-It's February 12th, 2024. The third day of Spring Festival.
+It's February 12th, 2024—the third day of Spring Festival.
 
-On this night, A set off for a trip to Guiyang and Chongqing.
+That night, A set off on a trip to Guiyang and Chongqing.
 
 At Ningbo Lishe International Airport,
 
@@ -121,22 +122,22 @@ In a daze, a phone call from Chongqing came, and she was familiar with the numbe
 >
 > Girl, how are you now? (I am fine, what happened?)
 >
-> It's nothing, but…… I always worried about that you might……as well. So I'm calling to ask if are okay or not.
+> It's nothing, but…… I've always worried that you might……as well. So I'm calling to ask if you're okay or not.
 > 
-> Girl, if anything happens in the future, please tell your parents and not hold back and say nothing. Your parents always love you.
+> Girl, if anything happens in the future, please tell your parents and not hold back and say nothing. Your parents will always love you.
 > 
 > After our generation became parents, we no longer keep the authority and stubbornness of our elders.
 > 
 > So do I…… The path I am currently taking in life is not what my parents hoped, but I think it's no problem.
 >
-> We may not fully understand the decisions made by children, but we will support her if she carefully considered them.
+> We may not fully understand the decisions made by children, but we will support her if she carefully considers them.
 > 
-> Girl, I am glad you're okay, wish you a happy life.
+> Girl, I am glad you're okay. I wish you a happy life.
 
-Sugar had a very cute face and figure.
+Sugar had a cute face and figure.
 If we change a character of her name to another homophonic one, it would become a girl's name that perfectly matches her gentle and soft temperament.
 
-But she just departed, with a mentality of "take a gamble".
+But she just departed with a mentality of "take a gamble".
 Her life was frozen at the age of 19.
 
 When Sugar just passed away, her mother couldn't accept her decisions. But what did her mother say in the end?
@@ -148,7 +149,7 @@ Anyway, she had passed away.
 <!-- 关于清明的翻译问题，海外有 Ching Ming 之说，此处取现代汉语拼音翻译。对于“清明节”，Festival可以包括清明的踏青部分，但此处基于条目的追思方向，故省去Festival。 -->
 
 Just before Qingming, her mother suddenly sent messages to A.
-Her mother told A how she was diligent and excellent, and how much they loved her.
+Her mother told A how diligent and excellent she was and how much they loved her.
 
 Sugar's father said that Sugar was the brightest star in the sky.
 
@@ -164,17 +165,18 @@ It was a pity that she departed abruptly, without waiting for a turn for the bet
 
 > Hope you'll all remember Sugar.
 > 
-> Hope you can share important information, such as your address, with trustworthy friends to avoid any unexpected situations.
+> I hope you can share important information, such as your address, with trustworthy friends to avoid any unexpected situations.
 > 
-> Hope that if you see a help request message, don't just swipe.
+> I hope that if you see a help request message, you don't just swipe.
 > 
-> Hope that if you have the ability to call the police, you can dial decisively. You are a lifesaver, not a murderer. Don't be afraid.
+> I hope that if you can call the police, you can dial decisively. You are a lifesaver, not a murderer. Don't be afraid.
 > 
-> Hope you cherish life, hope still exists; you will only miss the opportunity if you leave too early.
+> I hope you cherish life. Hope still exists; you will only miss the opportunity if you leave too early.
 > 
 > Hope you'll all remember Sugar.
 
 Take care.
 
 <!-- Contributor：[KiraRettosei](http://github.com/KiraRettosei) -->
-<!-- The contributor of this entry is anonymous on the fore-end -->
+<!-- This entry's contributor has requested not to be featured on the webpage. -->
+
