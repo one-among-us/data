@@ -15,9 +15,7 @@ info:
 >
 > **MY GUIDING STAR**.
 
-<details>
-<summary></summary>
-
+<BlurBlock>
 Akira Complex was a wonderful, beautiful, caring person.
 
 They managed to work through their pain for years by bringing joy to many with their exceptional talent and sensational music.
@@ -29,7 +27,6 @@ Bright and fragile,
 shocking but fleeting...
 
 Akira, We will always remember you and your works.
-
-</details>
+</BlurBlock>
 
 > My Guiding star, forever...
