@@ -1,10 +1,12 @@
 {
-    "commentOnly": ["tdor"],
-    "exclude": [],
-    "notShowOnHome": ["MeowBot233"],
-    "actualHide": ["Aniloviraw"],
-    "trigger": ["Aniloviraw"],
-    "switch": [
-        ["Anilovr", "Aniloviraw"]
-    ]
+  "commentOnly": ["tdor"],
+  "exclude": [],
+  "notShowOnHome": ["MeowBot233", "AkiraComplex"],
+  "actualHide": ["Aniloviraw", "akafeza"],
+  "trigger": ["Aniloviraw"],
+  "switch": [
+      ["Anilovr", "Aniloviraw"],
+      ["zhangyubaka", "akafeza"],
+      ["akafeza", "zhangyubaka"]
+  ]
 }
