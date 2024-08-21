@@ -5,8 +5,8 @@
   "actualHide": ["Aniloviraw", "akafeza"],
   "trigger": ["Aniloviraw"],
   "switch": [
-      ["Anilovr", "Aniloviraw"],
-      ["zhangyubaka", "akafeza"],
-      ["akafeza", "zhangyubaka"]
+    ["Anilovr", "Aniloviraw"],
+    ["zhangyubaka", "akafeza"],
+    ["akafeza", "zhangyubaka"]
   ]
 }
