@@ -1,0 +1,9 @@
+id: AkiraComplex
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '1993-03-30'
+  died: '2023-06-26'
+websites:
+  twitter: https://twitter.com/AkiraComplex
+  Youtube: https://www.youtube.com/channel/UCdxf3SY8xgI6x7TRTc8jxrg/featured
+  iconify:hugeicons:soundcloud: https://soundcloud.com/akira-complex

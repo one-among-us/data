@@ -20,13 +20,13 @@ info:
 Jennifer was a trans girl longing for happiness.
 
 Her avatar was Vtuber Yukihana Lamy,
-and she enjoyed playing rhythm game Project Sekai.
+and she enjoyed playing the rhythm game Project Sekai.
 
 When she was 13 years old,
 she told her parents for the first time, "**I want to be a girl.**"
 However, her parents dismissed it,
 thinking that she was influenced by her classmates,
-and strongly denied her thought with harsh words.
+and vehemently denied her thoughts with harsh words.
 
 At that time, Jennifer didn't know what "transgender" meant,
 but she understood the negative connotation of her parents' harsh words.
@@ -41,12 +41,12 @@ but it was only the beginning of her nightmare.
 
 After starting junior high school,
 she tried to make her parents understand her better.
-So she start to find information about "transgender" online.
+So, she starts to find information about "transgender" online.
 She even read academic papers, attempting to communicate with her parents.
 
 Jennifer said:
 
-> "Transgender identity is something I was born with... It's just that a girl's soul is in the wrong body. I don't even ask for SRS. But can you just let me wear girls' clothes, and grow my hair long? I know I'm not pretty, but is it a crime to want to wear girls' clothes?"
+> "Transgender identity is something I was born with... It's just that a girl's soul is in the wrong body. I don't even ask for SRS. But can you just let me wear girls' clothes and grow my hair long? I know I'm not pretty, but is it a crime to want to wear girls' clothes?"
 
 But all her efforts were in vain,
 and what she received in return was more scolding.
@@ -70,7 +70,7 @@ Due to her lack of education,
 she could only work at a local beverage shop,
 earning just enough to make ends meet.
 
-But she knew it would be a long time to escape her original family.
+But she knew it would be a long time before she could escape her original family.
 
 She had to present herself as male for job interviews and work,
 and everyone referred to her with the wrong pronouns,
@@ -78,7 +78,7 @@ which caused her great distress.
 
 > "I really can't live with a mask on... Is it so hard to be myself..."
 
-Despite this, she felt that even working as a server every day was better than staying in the suffocating environment at home.
+Despite this, she felt that working as a server every day was better than staying in her suffocating home environment.
 
 She seemed to see a glimmer of hope.
 During that time, she even thought that if she could just endure and save enough money,
@@ -97,22 +97,22 @@ her heart had grown numb.
 
 ## Departure
 
-Jennifer once said, "Jennifer is a strong girl nya~ Jennifer won't block anyone."
+Jennifer once said, "Jennifer is a strong girl, nya~ Jennifer won't block anyone."
 
 But there was one time, and the last time,
 she made an exception:
 
-"I blocked the account of Han Lianyi. I think she's a great person, but I don't want her to save me. I'm sorry, Sister Han, I'm so sorry..."
+"I blocked Han Lianyi's account. I think she's a great person, but I don't want her to save me. I'm sorry, Sister Han, I'm so sorry..."
 
 As the New Year approached,
-fireworks and firecrackers were alight with spark,
+fireworks and firecrackers were alight with sparks,
 carrying people's best wishes.
 
 The warm glow of lights filled thousands of homes.
 
 But Jennifer left this world in the biting cold wind,
 
-Her story remained in the New Year's Eve.
+Her story remained on New Year's Eve.
 
 Brief illusions brought her happiness and kept her from the cold...
 
@@ -121,4 +121,4 @@ she never got to take estrogen,
 wear a beautiful dress,
 or be called "Miss."
 
-Jennifer, may you no longer suffer and find the happiness in another world.
+Jennifer, may you no longer suffer and find the happiness you deserve in another world.
