@@ -25,7 +25,7 @@ She frequently deleted her responses on Zhihu or made them anonymous.
 Nonetheless, we can still find many of her insightful answers, continuing to reflect her brilliance.
 
 She immersed herself in her favourite subjects and achieved the following:
-“*Scientia et studium quaestio et cogitatio.*”[^1]
+“*Scientia et studium quaestio et cogitatio*”, which means rich in knowledge and tenacious of purposes, inquiring with earnestness and reflecting with self-practice.
 
 Kotori had another well-known nickname, “Truth-seeking Salted Fish”.
 But considering her ability, it might be more appropriate to call her a truth-seeking whale in the ocean.
@@ -74,5 +74,3 @@ You will live on in our hearts.
 <!-- May her memory be eternal -->
 
 Contributors for this entry: One-Among-Us, [Hanlianyi](http://twitter.com/HANLIANYI520), [Kristall Wang](https://github.com/KristallWang)
-
-[^1]: Which means rich in knowledge and tenacious of purposes, inquiring with earnestness and reflecting with self-practice. 
