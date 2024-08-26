@@ -58,4 +58,3 @@ info:
 <!-- May her memory be eternal -->
 
 條目貢獻: One-Among-Us, [寒漣漪](http://twitter.com/HANLIANYI520), [K 醬](https://github.com/KristallWang)
-
