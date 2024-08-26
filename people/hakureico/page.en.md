@@ -107,6 +107,8 @@ But perhaps it's also the reason why they parted.
 
 At last, she burned her belongings, and drowned in the river that never stopped flowing.
 
+<!-- 死亡原因可能是坠河，但并不能完全确定，因此使用模糊的处理方法（即也可以从比喻理解）。-->
+
 She had been in a world where no one would hate her, and nothing bad would happen.
 
 ## Her Letter
