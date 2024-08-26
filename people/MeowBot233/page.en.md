@@ -4,9 +4,11 @@ info:
     alias: MeowBot233, YukisawaNya
 ---
 
-> I heard this story from a wind spirit from afar,
+> Here is a story.
+> 
+> A story, from a wind spirit from afar,
 >
-> The wind spirit brought it to the autumn leaf pile (translator: One Among Us’s Chinese name has the meaning of autumn leaves),
+> The wind spirit brought it to the autumn leaf pile,
 >
 > waiting for a destined listener.
 >
@@ -106,7 +108,7 @@ bounding eternally with her beloved.
 >
 > (...)
 > 
-> Shout a boisterous farewell to this world!
+> Shout a boisterous farewell to this world
 > 
 > They kept holding hands
 > 
@@ -130,7 +132,12 @@ Maybe longer.
 It was a story about love.
 
 Maybe you heard of that story.
-You might feel sad for the fragments of memories contained within it, sighing, “Life is beautiful but fragile.”
+
+You might feel sad for the fragments of memories contained within it,
+
+sighing...
+
+“Life is beautiful but fragile.”
 
 Yet...
 
@@ -141,17 +148,14 @@ Yet...
 
 When you’re tired and struggle to see a light, it’s okay.
 
-It’s okay to rest for a bit and wipe your tears.
+You don’t have to exert yourself too much.
+
+Wipe your tears, and rest for a bit.
 
 There are soothing views everywhere:
 Spring, Summer, Fall, or Winter.
 And “Love”.
 
-The story has come to an end.
 May you be happy every day.
 
 Story: From *Memories of Yukiemiona and Yukisawanya*
-
-May you be happy every day.
-
-Story: From Memories of Yukiemiona and Yukisawanya
