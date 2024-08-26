@@ -153,7 +153,9 @@ You don’t have to exert yourself too much.
 Wipe your tears, and rest for a bit.
 
 There are soothing views everywhere:
+
 Spring, Summer, Fall, or Winter.
+
 And “Love”.
 
 May you be happy every day.
