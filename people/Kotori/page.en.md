@@ -24,7 +24,8 @@ However, she was enthusiastic about academic inquiries and always actively parti
 She frequently deleted her responses on Zhihu or made them anonymous.
 Nonetheless, we can still find many of her insightful answers, continuing to reflect her brilliance.
 
-She immersed herself in her favourite subjects and achieved the following: “Read widely, learn extensively, and stick to your ambitions; ask questions earnestly, and care about current affairs.”
+She immersed herself in her favourite subjects and achieved the following:
+“*Scientia et studium quaestio et cogitatio.*”[^1]
 
 Kotori had another well-known nickname, “Truth-seeking Salted Fish”.
 But considering her ability, it might be more appropriate to call her a truth-seeking whale in the ocean.
@@ -42,12 +43,12 @@ She attempted to take her own life but was rescued.
 After consulting numerous references to ascertain the lethal dose of the drug,
 she ended her life on the morning of September 24th, 2019.
 
-After that, her friends tried to contact USTC management and the local police.
+After that, her friends tried to contact the local police and USTC management.
 However, it was too late.
 
 ## Memorial
 
-Under the Zhihu question [What are your thoughts about Zhihu user @Cheng Peiqi](https://www.zhihu.com/question/347747351) and related obituaries, many friends of Kotori expressed their sadness and regret at her passing.
+Under the Zhihu question [What are your thoughts about Zhihu user @Cheng-pei-qi-52](https://www.zhihu.com/question/347747351) and related obituaries, many friends of Kotori expressed their sadness and regret at her passing.
 
 Sakura Moeka wrote:
 
@@ -68,6 +69,10 @@ Countless friendships and tales of acquaintance had now become mere fragments of
 
 Goodbye, Kotori, but we will never say goodbye.
 
-*You will live on in our hearts.*
+You will live on in our hearts.
+
+<!-- May her memory be eternal -->
 
 Contributors for this entry: One-Among-Us, [Hanlianyi](http://twitter.com/HANLIANYI520), [Kristall Wang](https://github.com/KristallWang)
+
+[^1]: Which means rich in knowledge and tenacious of purposes, inquiring with earnestness and reflecting with self-practice. 
