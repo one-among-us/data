@@ -22,8 +22,8 @@ My heart was filled with endless mourning and sorrow.
 In early December, when Mizuki got their first Kigurumi headpiece, they were overjoyed and felt liberated.
 Three days later, I invited them for an outdoor photoshoot in Century Park – my first outdoor photoshoot.
 
-After this photoshoot, Mizuki organized a Kigurumi party and traveled twice: one to Kuala Lumpur before Christmas, and another to Hong Kong after New Year's Day.
-They were not fond of traveling, so that was a bit surprising.
+After this photoshoot, Mizuki organized a Kigurumi party and travelled twice: one to Kuala Lumpur before Christmas, and another to Hong Kong after New Year's Day.
+They were not fond of travelling, so that was a bit surprising.
 
 Then they left this world.
 Perhaps it was financial troubles that overwhelmed them, or maybe they had fulfilled all their wishes.
@@ -35,7 +35,7 @@ By the time I confirmed the news, it was already noon the next day — Mizuki ha
 I regret not taking more photos of them.
 Their smile and sincere friendship will always be unforgettable.
 
-I hope they have found a world free of pain, a future full of color.
+I hope they have found a world free of pain, a future full of colour.
 
 <PhotoScroll photos={[ '${path}/photos/photo1.jpg', '${path}/photos/photo2.jpg', '${path}/photos/photo3.jpg', '${path}/photos/photo4.jpg', '${path}/photos/photo5.jpg', '${path}/photos/photo6.jpg', ]}/>
 
