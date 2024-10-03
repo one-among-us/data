@@ -1,6 +1,6 @@
 {
     "commentOnly": ["tdor"],
-    "exclude": ["XIEPT2"],
+    "exclude": ["XIEPT2", "shi_Yumiaoya"],
     "notShowOnHome": ["MeowBot233", "AkiraComplex"],
     "actualHide": ["Aniloviraw"],
     "trigger": ["Aniloviraw"],
