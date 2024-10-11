@@ -1,0 +1,11 @@
+id: IDexample
+profileUrl: ${path}/photos/profile.png
+info:
+  born: '1999-11-30'
+  died: '2024-03-31'
+websites:
+    twitter: https://twitter.com/
+    zhihu: https://www.zhihu.com/people/
+    github: https://github.com/
+    iconify:ri:netease-cloud-music-line: https://music.163.com/#/user?id=
+    blog: https://web.archive.org/web/
