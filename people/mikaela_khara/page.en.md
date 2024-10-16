@@ -6,29 +6,29 @@ info:
 ---
 
 
-"Immersed in love and being loved..."
+> "Immersed in love and being loved..."
 
 When it comes to the wounds caused by love, Mika must be mentioned.
 
-"But after meeting Spring Khara, I realized how happy it is to have someone with me."
-
-"But now I have to lose her..."
-
-"I don't want to go on alone anymore."
-
-"Being alone is painful, and I can't see hope."
-
-"𝓠𝓾𝓪𝓷, are you there?"
-
-"Can I give you my Twitter account password?"
-
-"It's somewhat bitter..."
-
-"Spring is leaving for Japan, maybe she's boarding the plane now. Tell her I love her."
-
-"I bought some ice cream. When my stomach starts to ache, I'll eat some to suppress it."
-
-"It won't be painful. It won't."
+> "But after meeting Spring Khara, I realized how happy it is to have someone with me."
+>
+> "But now I have to lose her..."
+>
+> "I don't want to go on alone anymore."
+>
+> "Being alone is painful, and I can't see hope."
+>
+> "𝓠𝓾𝓪𝓷, are you there?"
+>
+> "Can I give you my Twitter account password?"
+>
+> "It's somewhat bitter..."
+>
+> "Spring is leaving for Japan, maybe she's boarding the plane now. Tell her I love her."
+>
+> "I bought some ice cream. When my stomach starts to ache, I'll eat some to suppress it."
+>
+> "It won't be painful. It won't."
 
 <PhotoScroll photos={[
 '${path}/photos/photo1.png',
