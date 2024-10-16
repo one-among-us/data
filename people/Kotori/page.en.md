@@ -7,62 +7,59 @@ info:
     # Shangrao, Jiangxi
 ---
 
-> All things contain mathematical structures.
+> The beauty of math hides in everything.
 >
 > By Kotori
 
 ## Description
 
-Kotori was a girl who was fond of mathematics and physics, she entered the Department of Physics, School of Physical Science, University of Science and Technology of China (USTC) in the fall of 2017.
+Kotori was fond of mathematics and physics.
+She enrolled in the Department of Physics at the School of Physical Sciences, University of Science and Technology of China (USTC) in the fall of 2017.
 
-She also operated another account under the alias "Partial Differential",
-using an avatar depicting the character `∂`,
-which was a stylized cursive `d` mainly used as a mathematical symbol, usually to denote a partial derivative such as `∂z/∂x`.
+Her old account was “Partial Differential”, with an avatar depicting the character `∂`,
+which was a stylized cursive `d’ mainly used as a mathematical symbol, usually to denote a partial derivative such as `∂z/∂x`.
 
-Kotori was an introverted girl.
-She seldom talked with others or expressed her points of view in public.
-However, she was passionate about academic questions,
-and she always joined in the discussion and applauded her friends for their neat ideas.
+Kotori was an introverted girl. She rarely engaged in conversations with others or shared her viewpoints in public.
+However, she was enthusiastic about academic inquiries and always actively participated in discussions, occasionally expressing appreciation for her friends’ excellent ideas.
+She frequently deleted her responses on Zhihu or made them anonymous.
+Nonetheless, we can still find many of her insightful answers, continuing to reflect her brilliance.
 
-She often deleted her own ideas or works after creating them, or she posted them anonymously.
-Nonetheless, there are still some answers of her remained on Zhihu now, radiating her brilliance.
+She immersed herself in her favourite subjects and achieved the following:
+“*Scientia et studium quaestio et cogitatio*”, which means rich in knowledge and tenacious of purposes, inquiring with earnestness and reflecting with self-practice.
 
-She was obsessed with her favourite subjects, and achieved that "erudite and Atsushi, cut near the question thinking."
+Kotori had another well-known nickname, “Truth-seeking Salted Fish”.
+But considering her ability, it might be more appropriate to call her a truth-seeking whale in the ocean.
 
-Kotori had another well-known nickname, Truth-seeking Salted Fish.
-But in terms of her ability, she was truly a truth-seeking whale in the ocean. 
+She could be considered a genius in mathematics and physics.
+Maybe she could’ve made significant contributions to the field of theoretical physics...
 
-She was so good at mathematics and physics that she could also be considered as a talented girl.
-Maybe she would make great contributions in the field of theoretical physics in the future...
-
-But fate always interferes with geniuses.
+But as the saying goes, “The talented die young”.
 
 ## Departure
 
-Kotori suffered from depression and gender dysphoria,
-and her mental health was not so good.
-She had attempted to take her own life before but was rescued.
+Kotori struggled with depression and gender dysphoria, which negatively impacted her mental health.
+She attempted to take her own life but was rescued.
 
 After consulting numerous references to ascertain the lethal dose of the drug,
-she ultimately decided to end her life on the morning of September 24th, 2019.
+she ended her life on the morning of September 24th, 2019.
 
-After that, her friends endeavoured to contact with USTC authorities, and police in Poyang, Shangrao.
-However, due to the lack of timely treatment, she was unable to recover and left us at last.
+After that, her friends tried to contact the local police and USTC management.
+However, it was too late.
 
 ## Memorial
 
-In Zhihu question [What are your thoughts about ZhiHu user @Cheng Peiqi](https://www.zhihu.com/question/347747351) and her obituary, many friends of Kotori expressed their sadness and regret of the death of her.
+Under the Zhihu question [What are your thoughts about Zhihu user @Cheng-pei-qi-52](https://www.zhihu.com/question/347747351) and related obituaries, many friends of Kotori expressed their sadness and regret at her passing.
 
 Sakura Moeka wrote:
 
-> In the Zhihu question of thoughts about me, Kotori replied that I was lovely, and she wanted to see my wedding day.
+> Under the Zhihu question of what others think about me, Kotori replied that I was lovely and she wanted to see me married.
 >
 > But she would never see that.
 
-Her friends perpetually felt a deep longing for her presence.
-Even the mere sight of the character `∂` evoked profound sorrow within them.
+Her friends continued to long for her presence.
+Even the very sight of the character `∂` filled them with deep sorrow.
 
-Countless companionships, and stories of getting to know each other had finally become fragments of the past...
+Countless friendships and tales of acquaintance had now become mere fragments of the past...
 
 > Goodbye, world.
 >
@@ -72,6 +69,8 @@ Countless companionships, and stories of getting to know each other had finally 
 
 Goodbye, Kotori, but we will never say goodbye.
 
-*May your memory be eternal.*
+You will live on in our hearts.
+
+<!-- May her memory be eternal -->
 
 Contributors for this entry: One-Among-Us, [Hanlianyi](http://twitter.com/HANLIANYI520), [Kristall Wang](https://github.com/KristallWang)

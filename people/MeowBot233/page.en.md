@@ -4,49 +4,49 @@ info:
     alias: MeowBot233, YukisawaNya
 ---
 
-> Here, is a story.
+> Here is a story.
+> 
+> A story, from a wind spirit from afar,
 >
-> A story I've heard from wind spirit from far,
+> The wind spirit brought it to the autumn leaf pile,
 >
-> The wind spirit brought it to autumn leaf pile (One Among Us),
+> waiting for a destined listener.
 >
-> and it awaits a destined listener.
+> If you arrived here by the guide of a gentle breeze:
 >
-> If you arrive here by the guide of gentle breeze,
->
-> take a rest, and listen to the story here silently.
+> Please, take a rest and listen to the story here silently.
 
 ## Dream of a Dreamlike Girl
 
-A girl was afflicted by a terminal illness.
+Afflicted by a terminal illness.
 
-In the hospital walls, she was confined to her bed each night.
+Confined to her bed.
 
-Yet within her slumber,
+Yet, within her slumber,
 
-She would have wondrous dreams every night.
+wonderful dreams come to her every night.
 
 In the realm of her dreams,
 
-She wandered with her beloved, in myriad scenes.
+She wandered and played everywhere with her beloved.
 
-From twilight's embrace till dawn's arrival,
+From twilight’s embrace till dawn’s arrival,
 
-She would dream of that——
+She would dream of ——
 
-Her beloved was awaiting at the hospital gates.
+Her beloved waiting at the hospital gates.
 
-Every evening, hand in hand.
+Every evening, hand in hand:
 
-Together they would wander, 
+Together, they would wander, 
 
-and explore countless enchanting experiences.
+and explore countless experiences.
 
 As nightfall descended,
 
-the girl fell into the dream swiftly.
+the girl fell into her dreams swiftly.
 
-then she together with her beloved,
+then together with her beloved,
 
 kissed and hugged each other.
 
@@ -54,7 +54,7 @@ went through shops,
 
 played games,
 
-and she found solace in her beloved's embrace...
+and finding solace in her beloved’s embrace...
 
 Later, in their conversations,
 
@@ -74,94 +74,90 @@ it had never appeared before.
 
 The girl shared her dream tales,
 
-her beloved seemed to have lived them.
+her beloved seemed to have also experienced them.
  
 One day, she realized,
 
-The dreams every night weren't mere fantasies,
+The dreams every night weren’t mere fantasies,
 
-but out-of-body experience.
+but out-of-body experiences.
 
-Her soul intertwined with her beloved's.
+Her soul intertwined with her beloved’s,
 
-Making every dream a reality.
+making every dream a reality.
 
 After that, the girl fled the hospital,
 
 and reunited with her beloved.
 
-They found happiness for a short time.
+They lived happily shortly,
 
-Until her health declined.
+before her health declined.
 
-and she passed away in the arms of her beloved.
+And she passed away in the arms of her beloved.
 
-Yet her soul lingered.
+Yet her soul lingered,
 
-Bound eternally with her beloved.
+bounding eternally with her beloved.
 
 ## Mionya Reunion
 
-> The time limit bell rings
+> The last bell rings:
 > 
-> The two of them are certainly alive
+> The two of them are undoubtedly alive.
 >
 > (...)
 > 
-> Shouting a boisterous farewell to this world
+> Shout a boisterous farewell to this world
 > 
-> If they stay holding hands
+> They kept holding hands
 > 
-> The reunion that won’t come again
+> at the last reunion
 >
 > *From Reunion (Harumaki Gohan, Vocal ver.)*
 
 ## Outside the Story
 
 There is a catgirl, brave and lovely.
-
 An angel she is.
 
-She loves tiramisu most, 
+She loves tiramisu the most; 
+it combines the sweetness of milk with the bitterness of coffee.
+She also loves other sweets.
 
-the kind of food combined the sweetness of milk and the bitterness of coffee.
+She was always deeply in love with a person.
+From the end of 2021 to the fall of 2023.
+Maybe longer.
 
-and other sweet.
+It was a story about love.
 
-She has most-loving...
+Maybe you heard of that story.
 
-From the end of 2021, to the fall of 2023. More long-lasting may be.
+You might feel sad for the fragments of memories contained within it,
 
-There was a romantic, lovely story.
+sighing...
 
-These stories -- you may have listened to -- would commemorated by us: sad fragments of the past.
+“Life is beautiful but fragile.”
 
-People always sigh with feeling:
+Yet...
 
-The fragile one, brilliant "life".
-
-but...
-
-> Indulging in fantasy will not come true after all, and the deceased will not come back. The wish must be realized by the living.
+> The deceased would not come back no matter how much you wish for it.
+> Changes must be fulfilled by the living.
 >
-> Comfort, is this. Maybe.
+> Maybe this is comfort.
 
-Unreliable fatigue, if you feel, or, have no ability to complete the road ahead -- that's no matter.
+When you’re tired and struggle to see a light, it’s okay.
 
-It's not necessary to make too much effort. 
+You don’t have to exert yourself too much.
 
-Dry your tears, a sufficient relax is what you need.
+Wipe your tears, and rest for a bit.
 
-Soothing scenes are everywhere, 
+There are soothing views everywhere:
 
-no matter spring, summer, autumn or winter.
+Spring, Summer, Fall, or Winter.
 
-Moreover, 
-
-Only love lasts forever.
-
-The storytelling has come to an end.
+And “Love”.
 
 May you be happy every day.
 
-Story: From Memories of Yukiemiona and Yukisawanya
+Story: From *Memories of Yukiemiona and Yukisawanya*

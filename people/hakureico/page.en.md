@@ -5,6 +5,8 @@ info:
     location: Dalian, Liaoning
 ---
 
+<!-- 本文的大部分引用原文都是英文，引用部分请仅修语法和可能造成误解的错误-->
+
 <details>
 <summary>**A R I G A T O**</summary>
 > こんなちいさな星座なのに
@@ -105,11 +107,15 @@ But perhaps it's also the reason why they parted.
 
 At last, she burned her belongings, and drowned in the river that never stopped flowing.
 
+<!-- 死亡原因可能是坠河，但并不能完全确定，因此使用模糊的处理方法（即也可以从比喻理解）。-->
+
 She had been in a world where no one would hate her, and nothing bad would happen.
 
 ## Her Letter
 
 Hanasaka left a letter for her only friend:
+
+<!-- 这段话以下全部，包括结尾的两句祝愿，原文都是英文，中文是反向翻译的，请仅修可能造成误解或明显的非刻意语法错误，不大修-->
 
 > I am never gone,
 > 
