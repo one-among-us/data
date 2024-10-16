@@ -59,7 +59,7 @@ I first met Mika on the night of July 31st, 2023.
 Her intention was clear ——
 she wanted to "ship" me and Jing Jiangbie as a couple.
 
-Later on, I learned that she was in a relationship with Spring.
+Later on, I learned that she was in a relationship with Spring Khara.
 Even though they hadn't been together long,
 I could tell from their conversations that they deeply loved each other.
 At that time, she was one of my "little bells[^1]" as I often saw her and Spring flaunting their affection for each other.
@@ -79,7 +79,7 @@ Unfortunately, I was busy researching ways to earn money to prepare for my own i
 
 Money was precisely the breaking point for Mika’s despair.
 
-In late August, Mika had a major meltdown.
+In late August, she tried coming out but ended up facing serious opposition.
 What started as a typical situation—family conflict,
 her parents not wanting her to undergo hormone replacement therapy (HRT).
 So Mika running away from home only to be brought back by the police—ended in conflict resolution at the local police station.
