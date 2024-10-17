@@ -27,4 +27,4 @@ Confirmed on twitter by both [Sui Ye You Zi](https://twitter.com/YuzuTvT) and [L
 Contributor of entry:
 [Sui Ye You Zi](https://twitter.com/YuzuTvT)
 
-[^1]: Under fact checking
+[^1]: Editor's note: After fact-checking, the original contributor to this entry used the name EK-Source-of-Life (now the GitHub account has been deleted), which is not necessarily related to Qian Yu Mao Tou herself.
