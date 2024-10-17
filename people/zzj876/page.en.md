@@ -1,5 +1,5 @@
 ---
-name: zzj876
+name: Hime-chan
 info:
     alias: 姬姬, 姬宝
     location: Jinan, Shandong
