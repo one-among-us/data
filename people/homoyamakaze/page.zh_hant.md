@@ -19,4 +19,4 @@ info:
 
 條目貢獻：[穗也柚子](https://twitter.com/YuzuTvT)
 
-[^1]: 此部分內容正在經受事實核查 (Fact Check)
+[^1]: 編者註：經事實核查，最初貢獻該條目者使用的是 EK-Source-of-Life 名義（現 GitHub 賬號已刪除），不一定與淺羽貓頭本人有關。 
