@@ -304,7 +304,7 @@ These are words written for Danpian. May she find peace on the other side.
 
 Contributor for this entry: [Shayu Xiliye](http://twitter.com/UnnnLlllx3)
 
-[^1] "Maomao" and "Shanmaomao" in the article stand for Shayu Xiliye, the author of this entry.
+[^1]: "Maomao" and "Shanmaomao" in the article stand for Shayu Xiliye, the author of this entry.
 
 <!-- 白与黑的树突曲折蔓延，枯树与其他仍然保留着绿叶的树。
 
