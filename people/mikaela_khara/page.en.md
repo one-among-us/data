@@ -130,7 +130,83 @@ Before leaving the station, I briefly called Mika, trying to calm her down.
 
 Those were Mika’s last words, and at that moment, I felt utterly powerless.
 
-> (To be continued...)
+
+<details>
+<summary>To be continued...</summary>
+
+I received confirmed news of Mika’s departure on October 24th.
+
+Because of a previous competition I qualified for, I went to Sanchakou(three-river-junction) that day. 
+
+Since parking wasn’t allowed inside the Children's Palace,
+we changed clothes in the parking lot beneath the Tianjin Eye.  
+
+And just as we got out of the car, the message came through:  
+
+“They couldn’t bring her back.”
+
+“This is Yongle Bridge, with the Tianjin Eye perched on top. It’s a perfect spot for a date. If you ever have the chance to visit, I’ll treat you to a ride~”  
+
+“Thank you, 𝓠𝓾𝓪𝓷~ I’ve been thinking about riding it for a while. When the time comes, will you join me?”  
+
+As I stood before the Tianjin Eye, these memories came flooding back, freezing everything in place. I forced myself to suppress the sorrow, and although I didn’t perform well, I still completed the final performance of the competition.  
+
+Later, I asked a friend about their impression of Mika:
+
+> I think Mika was just a poor child, probably insecure and desperately wanting someone to rely on.
+>  
+> Her experiences were so similar to mine.
+>  
+> Her body was covered in scars from the beatings she endured at home. When I saw them, I wanted to cry. 
+>  
+> I think... she probably died full of grievances. It didn’t seem like relief at all.
+>  
+> From what I could tell, before she died, she still wanted to feel love. If someone could have gone to her in person and hugged her, it might have made a difference.
+>  
+> I could have gone...  
+>  
+> I had promised to visit her in December, to spend Christmas with her, to make dumplings and eat boiled shrimp together.
+>  
+> There were times when it felt like she was begging me to come.
+
+From Sanchakou, 
+if you follow the Ziya River and the North Canal upstream,
+the currents will carry you northward,
+all the way to the heart of Beijing.
+
+And now, here I am,
+standing at Sanchakou,
+where past memories and thoughts all seem to converge.
+
+Her sudden departure brought everything to an abrupt halt,
+as if all the stories left unfinished were frozen in that moment. 
+
+All those promises...making dumplings, celebrating Christmas...have now become dreams with nowhere to rest.
+
+I don’t think Mika truly wanted to leave this world.
+She was just so desperate for someone to hear her inner cries,
+for someone to hold her and offer her a place to belong.
+She lived too clearly in a world too complicated, and she carried that clarity alone,
+hidden beneath layers of pain that eventually overwhelmed her like a flood.  
+
+“If I had realized sooner and been firmer, would things have turned out differently?”
+ 
+This question haunts me like a recurring nightmare.
+But time moves on without compassion,
+moving forward without pause, leaving us only with regret and endless longing.
+
+Standing at Sanchakou, the cold wind brushes against my face.
+Before me, the rivers flow endlessly—they merge, split, and flow forward, never looking back, much like life itself.
+
+Mika once said,  
+“I hope that one day we can sit on the Tianjin Eye and admire the view together.”  
+
+I know now that she may never get to see that view.  
+But her story, her love, and her misunderstood persistence will forever remain in the hearts of those who remember her.
+
+Love has never really disappears...it’s just that we can no longer speak it to her in person.
+
+</details>
 
 ## Epilogue
 
