@@ -7,7 +7,7 @@ info:
 
 > Like a warbling oriole gliding below the blossom... Like a mountain spring purling down a bank.
 
-# Immersed in love and being loved
+# <center> Immersed in love and being loved
 
 When it comes to the wounds caused by love, Mika must be mentioned.
 
