@@ -5,8 +5,11 @@ info:
     location: Beijing, China
 ---
 
+> Like a warbling oriole gliding below the blossom... 
+> 
+> Like a mountain spring purling down a bank...
 
-> "Immersed in love and being loved..."
+<h3 align = "center">- Immersed in love and being loved -</h3>
 
 When it comes to the wounds caused by love, Mika must be mentioned.
 
@@ -196,7 +199,8 @@ But time moves on without compassion,
 moving forward without pause, leaving us only with regret and endless longing.
 
 Standing at Sanchakou, the cold wind brushes against my face.
-Before me, the rivers flow endlessly—they merge, split, and flow forward, never looking back, much like life itself.
+
+Before me, the rivers flow endlessly—they merge, part, and course toward the Bohai Sea, never turning back, much like life itself.
 
 Mika once said,  
 “I hope that one day we can sit on the Tianjin Eye and admire the view together.”  
@@ -205,6 +209,12 @@ I know now that she may never get to see that view.
 But her story, her love, and her misunderstood persistence will forever remain in the hearts of those who remember her.
 
 Love has never really disappears...it’s just that we can no longer speak it to her in person.
+
+<PhotoScroll photos={[
+'${path}/photos/photo2.jpg',
+'${path}/photos/photo3.jpg',
+'${path}/photos/photo4.jpg',
+]} />
 
 </details>
 
@@ -233,7 +243,7 @@ One night, in a group chat, I was on a call with Mika.
 
 This is the origin of XYN (Tianjin) Technology.
 
-Excerpt from: [𝓠𝓾𝓪𝓷](https://twitter.com/ryq59)'s Chronicle Issue No.33, 2023
+Excerpt from: [𝓠𝓾𝓪𝓷](https://twitter.com/yqua_)'s Chronicle Issue No.33, 2023
 
 [^1]: "Little bells" originally refers to the notification feature on Twitter that alerts users when someone they follow posts a tweet. Users can choose to enable or disable these notifications for specific accounts. Here, 'Little Bell' refers to 𝓠𝓾𝓪𝓷 enabling notifications for certain mutual followers (mutuals) to ensure she could promptly like their posts. At that time, 𝓠𝓾𝓪𝓷 maintained such interactions with around 300 mutuals.
 
