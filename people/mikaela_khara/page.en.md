@@ -5,7 +5,9 @@ info:
     location: Beijing, China
 ---
 
-> Like a warbling oriole gliding below the blossom... Like a mountain spring purling down a bank.
+> Like a warbling oriole gliding below the blossom... 
+> 
+> Like a mountain spring purling down a bank...
 
 <h3 align = "center">- Immersed in love and being loved -</h3>
 
@@ -197,7 +199,8 @@ But time moves on without compassion,
 moving forward without pause, leaving us only with regret and endless longing.
 
 Standing at Sanchakou, the cold wind brushes against my face.
-Before me, the rivers flow endlessly—they merge, split, and flow forward, never looking back, much like life itself.
+
+Before me, the rivers flow endlessly—they merge, part, and course toward the Bohai Sea, never turning back, much like life itself.
 
 Mika once said,  
 “I hope that one day we can sit on the Tianjin Eye and admire the view together.”  
