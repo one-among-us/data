@@ -11,7 +11,7 @@ info:
 
 ## Introduction  
 
-Tian Lulu was a popular *League of Legends* streamer active on platforms like Bilibili and Huya, with a large fan base.
+Tian Lulu was a popular *League of Legends* streamer active on platforms like Bilibili and Huya, with a large number of followers.
 
 She had a special fondness for the *League of Legends* character Seraphine, the Starry-Eyed Songstress, frequently using her in games.
 Lulu’s profile picture was Seraphine as well.  
