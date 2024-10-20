@@ -30,7 +30,7 @@ There were countless things about her that left a lasting impression on those wh
 
 ## Her Departure  
 
-lxy’s sudden departure was a tremendous shock to her friends.  
+Lxy’s sudden departure was a tremendous shock to her friends.
 
 She left behind only a few words, but they were filled with warmth and care for those around her.  
 
