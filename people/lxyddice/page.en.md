@@ -2,7 +2,7 @@
 name: lxyddice
 info:
     alias: lxy
-    location: Hainan, China
+    location: Guangzhou, Guangdong
 ---
 
 ## Description
@@ -11,4 +11,4 @@ info:
 
 ## Experience
 
-Contributors for this entry: 
+Contributors for this entry: One-Among-Us, AloneStar, System Ringva, Erhuo
