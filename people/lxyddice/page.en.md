@@ -52,7 +52,7 @@ She gave all her love and kindness to others, but left none for herself.
 
 AloneStar bid farewell to her with a playthrough of *Arcaea*'s *Last | Moment*.
 
-During the gameplay, they triggered a <font color= #dd4444>Lost</font> and a <font color= #ffaa11>Far</font> with intent —— the <font color= #dd4444>Lost</font> symbolising her absence, and the <font color= #ffaa11>Far</font> representing the lingering regrets between them.
+During the gameplay, they triggered a <span style="color: #dd4444;">Lost</span> and a <span style="color: #ffaa11;">Far</span> with intent —— the <span style="color: #dd4444;">Lost</span> symbolising her absence, and the <span style="color: #ffaa11;">Far</span> representing the lingering regrets between them.
 
 > Thinking back on the moments we shared, I find it hard to let go.  
 >  
