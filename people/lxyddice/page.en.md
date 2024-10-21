@@ -50,6 +50,10 @@ She gave all her love and kindness to others, but left none for herself.
 
 ## Some Memories of Her Friend
 
+AloneStar bid farewell to her with a playthrough of *Arcaea*'s *Last | Moment*.
+
+During the gameplay, they triggered a Lost and a Far with intent —— the Lost symbolising her absence, and the Far representing the lingering regrets between them.
+
 > Thinking back on the moments we shared, I find it hard to let go.  
 >  
 > From the time you taught me how to unpick a skirt’s seam line, to the long conversations we had… Over these two years, we talked about so many things.  
