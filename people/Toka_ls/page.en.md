@@ -6,19 +6,19 @@ info:
 ---
 
 
-> "There is no time for flowers to wither, nor a moment for love to be conveyed. Love is eternal, and the violet forever endures in this world."
+> "Flowers never know a time to wither, nor does love find a moment to be conveyed. Love is eternal, and the violet shall forever endure in this world."
 >
 > "May you and your beloved meet again by chance one day."
 >
 > —— Toka Sakyo, 2024/10/07
 
-The moment she opened her eyes, a fantasy world bloomed for her.
+In the instant she opened her eyes, a fantastical world blossomed before her.
 
 The starry sky has sent this daughter of the sky, and she is willing to become an earthly companion from now on.
 
 The morning sun lit up a ray of morning light, and then turned into her two wings.
 
-Clouds and clouds dimmed the scenery for a day, and then quietly left behind her colorful clothes.
+The clouds veiled the day’s splendor, then quietly left behind her resplendent gown.
 
 The Big Dipper is long and narrow, turning into a twinkling tassel
 
@@ -78,7 +78,7 @@ In her spare time from work, she also studies AI graphics. Not only did she use 
 
 > さようなら~
 >
-> By the time I read this letter, I should have been in everyone’s memory.
+> By reading this letter, I shall remain only in your memories.
 >
 > From the moment we met, time really flew by. And next, everyone will have to spend a time that I don’t know.
 >
