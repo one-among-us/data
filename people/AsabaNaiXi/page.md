@@ -1,8 +1,8 @@
 ---
 name: 铃木千夏
 info:
-    alias: Chinatsu Suzuki，浅羽奈兮，AsabaNaiXi
-    location: 重庆潼南
+  alias: Chinatsu Suzuki，浅羽奈兮，AsabaNaiXi
+  location: 重庆潼南
 
 ---
 

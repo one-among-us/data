@@ -1,8 +1,8 @@
 ---
 name: Chinatsu Suzuki
 info:
-    alias: AsabaNaiXi
-    location: Tongnan, Chongqing
+  alias: AsabaNaiXi
+  location: Tongnan, Chongqing
 
 ---
 
