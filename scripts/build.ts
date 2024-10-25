@@ -184,6 +184,7 @@ function copyPeopleAssets() {
 // Copy files `public` to dist.
 function copyPublic() {
   fs.copySync(path.join(projectRoot, PUBLIC_DIR), path.join(projectRoot, DIST_DIR));
+  fs.copySync(path.join(projectRoot, DATA_DIR, 'eggs.json'), path.join(projectRoot, DIST_DIR, 'eggs.json'));
   fs.writeFileSync(path.join(DIST_DIR, 'trigger-list.json'), JSON.stringify(trigger as string[]));
   fs.writeFileSync(path.join(DIST_DIR, 'switch-pair.json'), JSON.stringify(switchPair as [string, string][]))
 }
