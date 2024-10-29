@@ -94,3 +94,4 @@ info:
 > 絕筆
 
 <!-- 條目貢獻: 奇妙漂流 & 眼見為虛 - 凰榎, U.M.R Powered, huige -->
+<Sakura count="50" />

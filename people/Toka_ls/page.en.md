@@ -93,3 +93,4 @@ In her spare time from work, she also studies AI graphics. Not only did she use 
 > Toka Sakyo
 
 <!-- Contributors for this entry: Wonderful Drifting & Illusions of the Eye - Huangjia, U.M.R Powered, Huige -->
+<Sakura count="50" />
