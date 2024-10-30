@@ -9,6 +9,26 @@ info:
 
 ## Description
 
+Suigetsu, a gentle girl who is active on radio waves.
+
+Even though she sometimes shows her obsession with technology, is this also her lovely side?
+
+<PhotoScroll photos={[
+    "${path}/photos/image0.jpg",
+    "${path}/photos/image1.jpg",
+    "${path}/photos/image2.jpg"
+]} />
+
+> zako～zako～Ciallo～(∠・ω< )⌒★
+
+<PhotoScroll photos={["${path}/photos/image3.png"]} />
+
+> Not Laziness, but truly lazy.
+>
+> Ah, plays on you?
+
+Truly a little fox she is~
+
 ## Farewell
 
 > Greenland-1 balloon officially lost contact at 17:52:56 last night
