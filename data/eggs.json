@@ -121,5 +121,18 @@
       "width": 64,
       "height": 64
     }
+  },
+  {
+    "type": "open",
+    "userid": ["BI4PBV", "interrgned"],
+    "id": "radio",
+    "toast": {
+      "title": "跨过空间与距离",
+      "text": "­—· · ···­— · ·­—· / ·­—·· ­—­—­— ···­— · ­—·· / ­—·­—­— ­—­—­— ··­— / ··· ­—­—­— / ­—­— ··­— ­—·­—· ····",
+      "img": "https://data.one-among.us/img/radar.png",
+      "width": 64,
+      "height": 64,
+      "color": "#f0f8feff"
+    }
   }
 ]
