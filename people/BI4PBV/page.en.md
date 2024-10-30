@@ -1,7 +1,7 @@
 ---
 name: Suigetsu Houka
 info:
-    alias: Suigetsu
+    alias: Suigetsu, BI4PBV/QBG
     location: Qingdao, Shandong
 ---
 

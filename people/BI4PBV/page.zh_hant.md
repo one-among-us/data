@@ -1,7 +1,7 @@
 ---
 name: 歲月封華
 info:
-    alias: 歲月
+    alias: 歲月, BI4PBV/QBG
     location: 山東青島
 ---
 

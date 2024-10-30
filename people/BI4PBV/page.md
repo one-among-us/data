@@ -1,13 +1,33 @@
 ---
 name: 岁月封华
 info:
-    alias: 岁月
+    alias: 岁月, BI4PBV/QBG
     location: 山东青岛
 ---
 
 > Good bye, Greenland-1
 
 ## 简介
+
+岁月, 是个活跃在无线电波上的温柔女孩子呢
+
+即使有时会显现对于技术的执着, 但这也是她所可爱的一面呢?
+
+<PhotoScroll photos={[
+    "${path}/photos/image0.jpg",
+    "${path}/photos/image1.jpg",
+    "${path}/photos/image2.jpg"
+]} />
+
+> zako～zako～Ciallo～(∠・ω< )⌒★
+
+<PhotoScroll photos={["${path}/photos/image3.png"]} />
+
+> 不是犯懒，而是真懒
+>
+> 啊，干干你的
+
+确是一只小狐狸呢
 
 ## 回见
 
