@@ -25,7 +25,7 @@ Even though she sometimes shows her obsession with technology, is this also her 
 
 > Not Laziness, but truly lazy.
 >
-> Ah, plays on you?
+> Ah, date plays on yours?
 
 Truly a little fox she is~
 
