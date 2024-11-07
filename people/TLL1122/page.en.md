@@ -41,6 +41,6 @@ Beneath her vibrant public persona lay a deep helplessness and despair.
 
 Ultimately, she found herself falling into an irreversible abyss...
 
-"If I could be a Jewel person[^1] in my next life, that would be nice..."  
+"If I could be a jewel person[^1] in my next life, that would be nice..."  
 
 [^1]: *Land of the Lustrous* features characters made of various minerals and gemstones. Though they appear feminine, they use male pronouns in daily communication and are considered genderless beings.
