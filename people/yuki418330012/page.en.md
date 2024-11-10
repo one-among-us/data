@@ -9,7 +9,7 @@ info:
 Yuki was a gentle and lovely trans girl with a slim figure and smooth skin.
 She liked dark girly style very much.
 
-She was a big fan of musical works, liked *Bocchi the Rock!* and *Needy Streamer Overload*, and so on.
+She was a big fan of musical works, liked *Bocchi the Rock!*, *Needy Streamer Overload*, and so on.
 She owned a pink guitar. She was also very skilled at music games such as maimaiDX.
 
 Yuki expressed a disinterest in people, but many people like her nonetheless. She often said she wanted to become able to work, support herself, and be independent, so she could earn money for surgery (SRS).
