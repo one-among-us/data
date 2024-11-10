@@ -5,7 +5,7 @@ info:
     location: Xinxiang, Henan
 ---
 
-> Does Heaven accept trans girl?
+> Does Heaven accept trans girls?
 
 > Thought a lot:
 >
