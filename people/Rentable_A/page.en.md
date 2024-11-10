@@ -19,15 +19,15 @@ info:
 Rentable, a girl who looked a little mysterious, was from Xinxiang, Henan.  
 Despite this, she always seemed lively when she was with her friends.
 
-> Sometimes I take many kinds of drugs...  
+Sometimes she took many kinds of drugs...  
 
-She has someone she cares about.
+She had someone she cared about.
 
 > My brain is like a ball of paste wrapped up.
 > I can’t even remember what happened more than ten seconds ago.
 > That's it...good night.
 
-After [YanTian](https://one-among.us/profile/SS3B_0016) passed away, she tried to leave this world by cutting her wrists.  
+After [YanTian](https://one-among.us/profile/SS3B_0016) passed away, she tried to leave this world by cutting her wrists.
 
 > That feeling of being stripped away bit by bit.
 > Watching myself encounter another self in the hallucination.

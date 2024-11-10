@@ -23,7 +23,7 @@ She sometimes seemed too obsessed with technology. However, that was also one as
 
 <PhotoScroll photos={["${path}/photos/image3.png"]} />
 
-> Not "taking time off", but truly lazy.
+> Not just taking a break, but truly lazy, no mistake.
 >
 > Ah, wanna play?
 
