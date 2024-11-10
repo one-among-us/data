@@ -1,7 +1,7 @@
 ---
 name: lxyddice
 info:
-    alias: lxy
+    alias: lxy, W-chan
     location: Guangzhou, Guangdong
 ---
 
@@ -11,7 +11,7 @@ info:
 
 ## Introduction
 
-When people talk about lxy (meaning ice crystal below 0 degrees),
+When people talk about lxy (also known as “ice crystal below 0 degrees”),
 they often describe her as a kind-hearted and thoughtful person,
 always putting others first.  
 
