@@ -6,36 +6,40 @@ info:
 
 ## Introduction
 
-Yuki was a gentle and lovely trans woman. She had a slim figure and smooth skin.
+Yuki was a gentle and lovely trans girl with a slim figure and smooth skin.
+She liked dark girly style very much.
 
-She loved music. She liked works like Bocchi the Rock!, Chōten-chan, and メンヘラスタイル. She owns a pink guitar. She is also very skilled at music games such as maimaiDX. She expressed a disinterest in people, but many people like her nonetheless.
-She often said she wanted to become able to work, support herself, and be independent, so she could earn money for surgery (SRS).
+She was a big fan of musical works, liked *Bocchi the Rock!* and *Needy Streamer Overload*, and so on.
+She owned a pink guitar. She was also very skilled at music games such as maimaiDX.
+
+Yuki expressed a disinterest in people, but many people like her nonetheless. She often said she wanted to become able to work, support herself, and be independent, so she could earn money for surgery (SRS).
 
 Her dreams at night sometimes felt more realistic than reality, but many were nightmares or unsettlingly strange.
 
-She didn't want to cause trouble for others, so she kept many thoughts to herself.
+Not wanting to be a burden of others, she always kept many thoughts to herself.
 
 ## Life
 
 In her childhood, she suffered domestic violence and school bullying, which laid the foundation for her depression.
 Early on, her parents could not understand her gender identity. They tricked her into a conversion institution, and she was confined there for half a year.
 During the confinement, she suffered inhumane abuse, such as being forced to drink swill, corporal punishment, and witnessing bloodshed.
-Those eventually
-led to a mental breakdown; she hammered her hand which caused a comminuted fracture of her little finger.
+Those eventually led to a mental breakdown; she hammered her hand which caused a comminuted fracture of her little finger.
 She also developed schizophrenia, which worsened her depression and bipolar disorder.
 After this, her family gradually began to understand her.
-After she attempted suicide, her family became more accepting of her.
-They accepted her idea of getting the surgery.
+After she attempted self-surgery, her family became more accepting of her.
+They accepted her idea of getting the surgery (SRS).
 Her mother visited her in Chengdu twice and took her out for meals. However, her family still never took her bipolar disorder and schizophrenia seriously and didn't let her continue to see the doctors. 
 Therefore, Yuki was in a state of medication withdrawal.
 
 To make money and become self-sufficient, Yuki tried working as a game proxy player (grinding out the boring parts of games for someone else) and a food delivery worker.
-However, playing Genshin Impact (a popular game) as a proxy player only earned her 50 yuan despite the high workload.
+However, playing *Genshin Impact* as a proxy player only earned her 50 yuan despite the high workload.
 As for the food delivery work, since she's underage she was not directly employed by Meituan Takeout or pastry shops but by Yicheng Feike (an outsourcing delivery company employing minors).
-She also worked part-time for Meituan and Eleme.
-Yuki wanted to start working quickly to earn money, so she signed a restrictive car rental contract with a streetlight company. The contract required her to pay the rent for three months, or else she would have to pay liquidated damages.
+She also worked part-time for Meituan and Ele.me.
 
+Yuki wanted to start working quickly to earn money, so she signed an exploitative contract for a delivery e-bike.
+The contract required her to pay the rent for three months, or else she would have to pay liquidated damages.
 But her wages were delayed, and the police couldn't force the companies to pay her on time.
+
 On Children's Day, Yuki's phone and keys were stolen while at work.
 Fearing her boyfriend might inform her family and make them worry, she did not return to her boyfriend's house that night.
 Spending the whole night outside, she was hungry and cold.
@@ -66,4 +70,5 @@ Her body was discovered on July 5th.
 Contributors: Zhenli, Sansan, Suona
 
 [^1]: Yuki's substitute parent? They were like mother and daughter. Zhouzhou cared for Yuki for a long time and rescued Yuki many times from suicide.
+
 [^2]: She's younger than Yuki age-wise, but she treats Yuki as her sister. She liked Yuki a lot, gave her gifts, and cooked her meals.

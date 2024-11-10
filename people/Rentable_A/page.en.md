@@ -5,7 +5,7 @@ info:
     location: Xinxiang, Henan
 ---
 
-> Does Heaven accept trans people?
+> Does Heaven accept trans girl?
 
 > Thought a lot:
 >
@@ -16,7 +16,7 @@ info:
 
 ## Introduction
 
-Rentable, a girl who looks a little mysterious, was from Xinxiang, Henan.  
+Rentable, a girl who looked a little mysterious, was from Xinxiang, Henan.  
 Despite this, she always seemed lively when she was with her friends.
 
 > Sometimes I take many kinds of drugs...  
