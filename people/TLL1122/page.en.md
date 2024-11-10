@@ -9,7 +9,7 @@ info:
 > 
 > Lulu loves you!"
 
-## Introduction  
+## Description 
 
 Tian Lulu (meaning sweet deer) was a popular *League of Legends* streamer active on platforms like Bilibili and Huya, with a large number of followers.
 
