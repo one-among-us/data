@@ -1,7 +1,7 @@
 ---
 name: 零下一度的冰晶
 info:
-    alias: lxyddice, lxy
+    alias: lxyddice, lxy, W 酱
     location: 廣東廣州
 ---
 
