@@ -12,47 +12,45 @@ info:
 >
 > —— Toka Sakyo, 2024/10/07
 
-In the instant she opened her eyes, a fantastical world blossomed before her.
+The moment she opened her eyes, a magical world blossomed before her.
 
-The starry sky has sent this daughter of the sky, and she is willing to become an earthly companion from now on.
+The starry sky brought the daughter of the heavens, who desires to become a companion in the mortal world henceforth
 
-The morning sun lit up a ray of morning light, and then turned into her two wings.
+The morning sun lights up a streak of dawn, transforming into her two wings from then on
 
-The clouds veiled the day’s splendor, then quietly left behind her resplendent gown.
+The clouds and mists paints the scenery of the day, then silently leaves behind her iridescent robe
 
-The Big Dipper is long and narrow, turning into a twinkling tassel
+The narrow and long Big Dipper transforms into a shimmering tassel
 
-The stream twists and turns, turning into a lively musical note
+The meandering stream transforms into dynamic musical notes
 
-The flawless girl walks through the crowd, catching all the splendor in her eyes
+The flawless young girl moves through the crowd, taking in the splendor with her eyes
 
-However, under the cloudy day and night on the surface, what is hidden is the darkness
+Like a spirit in a dream, she silently moves among all things
+﻿
+However, deep within the shadows where the day and night cycle on the surface of the earth alternates, darkness always lurks.
 
-When the sun shining on the earth has dispersed,
+As the sun that lights up the earth sets, and the bright moonlight fades away, she stands alone in the silent cold.
 
-When the gentle, bright and quiet moon drifts away,
+She caressed the rock, feeling its icy coldness like frost. There was no wind in her ears, only the gentle glow of warmth in her heart that never faded.
 
-At this moment when there is no time to take care of her
+At this moment, the light has moved away from her, but the inner spark has not been extinguished.
 
-She stroked the ice-cold rock,
+At this moment, life may be temporarily absent, but the seeds of waiting will eventually sprout and bloom.
 
-The light is far away from her at this moment, but if there is light in the soul, it will be illuminated
+At this moment, thorns are growing, but the greenery will surely spread with the arrival of spring.
+﻿
+As the last warm sunset fades behind the horizon, she remains steadfast in the depths of the cold night.
 
-Life is far away from her now, but the seeds will sprout in spring
+In her anticipation, she saw the light piercing through the shadows, gradually warming the cold rock.
 
-At this moment, thorns surround her, but the greenery will spread when we meet again
+In the deepest recesses of the soul, those tiny hopes burn like flickering flames,
 
-When the warm sun leaves the distant horizon and shines on the cold and hard rocks,
+Despite the thorns that litter the path ahead, she still believes that the gentle green will spread to every inch of darkness.
+﻿
+Perhaps in her world, the light is no more than a tiny candle flame.
 
-She was frozen by the cold, hoping that the spring light could penetrate the darkness,
-
-There is hope burning deep in my heart, expecting the seeds to break through the ground and sprout,
-
-Even if the road is full of thorns, she still firmly believes that the soft green will eventually spread.
-
-It wasn't until the end that we discovered that the light in her world was only the size of a candle.
-
-But what she wrote to us is a bright light
+But it is this glimmer of light that illuminates her brushstrokes, bringing warmth to the world.
 
 ## Description
 
