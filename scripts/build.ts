@@ -10,6 +10,7 @@ import { renderMdx } from "./mdx.js";
 import moment from "moment";
 import { handleFeatures } from "./feature.js";
 import { HData, PeopleMeta } from "./data.js";
+import { encodeBlur } from "./blurhash.js";
 
 const PUBLIC_DIR = "public";
 
@@ -35,6 +36,24 @@ const notShowOnHomeList = hdata.notShowOnHome;
 const actualHide = hdata.actualHide;
 const trigger = hdata.trigger;
 const switchPair = hdata.switch;
+
+async function buildBlurCode() {
+  const blurCode = {};
+
+  for (const {dirname, srcPath, distPath} of people) {
+    if (excludeList.includes(dirname)) continue;
+    if (isDirEmpty(srcPath)) continue;
+
+    const info: any = YAML.load(fs.readFileSync(path.join(srcPath, `info.yml`), 'utf-8'))
+    if (typeof(info.profileUrl) != 'string') continue;
+    const photoPath = path.join(srcPath, (info.profileUrl as string).replaceAll('${path}/', ''))
+    blurCode[dirname] = await encodeBlur(photoPath);
+    console.log(`Blur code of ${dirname} has generated`)
+  }
+
+  fs.ensureDirSync(path.join(projectRoot, DIST_DIR));
+  fs.writeFileSync(path.join(projectRoot, DIST_DIR, 'blur-code.json'), JSON.stringify(blurCode))
+}
 
 // Transform `info.json5` to `info.json`.
 // Extract metadata from `people/${dirname}/info.json5` to `dist/people-list.json`.
@@ -209,6 +228,7 @@ function copyComments() {
   }
 }
 
+buildBlurCode();
 buildPeopleInfoAndList();
 buildPeoplePages();
 copyPeopleAssets();
