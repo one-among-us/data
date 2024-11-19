@@ -15,7 +15,7 @@ info:
 只是, 没有像御坂妹妹一样回到现世罢
 
 > 我们一起在死后反抗这个不公的世界
-> <PhotoScroll photos={["${path}/image0.png"]} />
+> <PhotoScroll photos={["${path}/photos/image0.png"]} />
 
 なんかになりたい なりたい 何者かでいい
 
