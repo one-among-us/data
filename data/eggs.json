@@ -135,5 +135,19 @@
       "height": 64,
       "color": "#f0f8feff"
     }
+  },
+  {
+    "type": "open",
+    "userid": ["ElihusoQ"],
+    "id": "Antares",
+    "toast": {
+      "title": "#Antares",
+      "text": "沒有答案, 才是永無延續的答案",
+      "img": "https://data.one-among.us/img/antares.png",
+      "background": "url(https://data.one-among.us/img/stardust.jpg)",
+      "width": 64,
+      "height": 64,
+      "color": "#f0f8feff"
+    }
   }
 ]
