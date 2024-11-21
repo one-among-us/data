@@ -30,3 +30,5 @@ Let me end with a poem by Yeats, *Haters of the Wind*:
 > Of the woman that he loves, until he dies;  
 > Although the rushes and the fowl of the air  
 > Cry of his love with their pitiful cries.  
+
+<PhotoScroll photos={["${path}/photos/image0.jpg"]} />

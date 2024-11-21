@@ -30,3 +30,5 @@ Arita對筆者來說是有著許多特殊意義的人，也完全可以說，是
 > Of the woman that he loves, until he dies;  
 > Although the rushes and the fowl of the air  
 > Cry of his love with their pitiful cries.  
+
+<PhotoScroll photos={["${path}/photos/image0.jpg"]} />
