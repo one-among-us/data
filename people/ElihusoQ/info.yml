@@ -1,0 +1,10 @@
+id: ElihusoQ
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2005-06-14'
+  #died: '20xx-xx-xx'
+websites:
+  twitter: 'https://twitter.com/ElihusoQ'
+  github: 'https://github.com/LS-KR'
+  mastodon: 'https://el5.net/@elihuso'
+  telegram: 'https://t.me/Elihuso'
