@@ -8,7 +8,7 @@ info:
 <Banner data={{
     icon: "https://one-among.us/favicon-large.png",
     title: "This entry contains various types of triggering information",
-    text: "If you feel uncomfortable while browsing this page, please exit immediately and seek help from doctors, the community, or local suicide intervention agencies if necessary."
+    text: "If you feel uncomfortable while browsing this page, please exit immediately and seek help from health professionals, the community, or local suicide intervention agencies if necessary."
 }} />
 
 > Extremely lucky today
@@ -28,11 +28,11 @@ info:
 <br /><br />
 
 ...Well, I posted that too early on socials.  
-Stuff in the stomach have not been digested...and acid reflux
+Stuff in the stomach has not been digested...and acid reflux
 
 <br /><br />
 
-> Repenting
+> Regrets
 > I should not develop any intimate relationships...  
 
 <br /><br />
@@ -40,8 +40,8 @@ Stuff in the stomach have not been digested...and acid reflux
 I'm having some strange feelings——
 ——I think I want to go and play with you
 
-> Ugly, filthy me after a few days off GATH.  
-> No need to use those medications.  
+> Ugly, filthy me after a few days off GATH (Gender Affirming Hormone Therapy). 
+> No need to waste those meds.  
 > I'll finish the last thing I need to do,  
 > And finally, aboard the Ginga Tetsudō, with you.
 >
@@ -50,12 +50,12 @@ I'm having some strange feelings——
 
 <br /><br />
 
-i love you  
-But buried deep in my heart  
-When you hate me, and forget me  
-i finally succeeded  
+I love you,
+But my love is buried deep in my heart.
+The time when you hate me and forget me
+is when I have finally succeeded.
 
-<div style="min-height: 20vh" />
+<div style="min-height: 20vh; min-block-size: 20vb;" />
 
 > La homa mondo devus esti detruita
 

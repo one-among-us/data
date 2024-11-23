@@ -1,0 +1,139 @@
+[
+  {
+    "type": "open",
+    "userid": ["MeowBot233"],
+    "id": "isSeenMeowBot233",
+    "toast": {
+      "title": "找到了喵~",
+      "text": "诶? 找什么喵? ",
+      "img": "https://data.one-among.us/img/cat-face-emoji-2048x1828.png",
+      "width": 64,
+      "height": 57
+    }
+  },
+  {
+    "type": "open",
+    "userid": ["Anilovr", "noname3031", "dogesir_"],
+    "id": "Betelgeuse",
+    "toast": {
+      "title": "参宿四 ~Betelgeuse~",
+      "text": "R.I.P.  - Be resilient -",
+      "img": "https://data.one-among.us/img/betelgeuse.png",
+      "background": "url(https://data.one-among.us/img/stardust.jpg)",
+      "width": 64,
+      "height": 64,
+      "color": "#f0f8ff"
+    }
+  },
+  {
+    "type": "open",
+    "userid": ["xuewulihuameng", "Futajuhuacha", "Xu_Yushu", "Dethelly"],
+    "id": "ChongQing",
+    "toast": {
+      "title": "嘉陵雾稠",
+      "text": "雾终将散去, 而我们终将看到彩虹",
+      "img": "https://data.one-among.us/img/bridge.png",
+      "background": "url(https://data.one-among.us/img/fog.jpg)",
+      "width": 64,
+      "height": 47
+    }
+  },
+  {
+    "type": "open",
+    "userid": ["zhangyubaka", "Uekawakuyuurei", "MizuharaNagisa"],
+    "id": "Boat",
+    "toast": {
+      "title": "海色",
+      "text": "拔锚起航, 跨越闪耀泪光的海岸",
+      "img": "https://data.one-among.us/img/ship.png",
+      "background": "#0b2058ff",
+      "width": 64,
+      "height": 64,
+      "color": "#f0f8feff"
+    }
+  },
+  {
+    "type": "tag",
+    "userid": ["zhangyubaka"],
+    "tag": "summary",
+    "id": "detailsByYumao",
+    "toast": {
+      "title": "往昔苦难",
+      "text": "因为妳而存在, 因为妳而不在, 要在啊......",
+      "img": "https://data.one-among.us/img/lifeline.png",
+      "background": "#EEEEEE88",
+      "width": 64,
+      "height": 64
+    }
+  },
+  {
+    "type": "tag",
+    "userid": ["mikaela_khara"],
+    "tag": "summary",
+    "id": "mikaela_khara_ferris",
+    "toast": {
+      "title": "永乐桥上的风景",
+      "text": "连绵不断的河流，像生命本身一样无法回头……",
+      "img": "https://data.one-among.us/img/Tientsin-Eye.png",
+      "width": 64,
+      "height": 64
+    }
+  },
+  {
+    "type": "wait",
+    "userid": ["shihai4h"],
+    "wait": 20000,
+    "id": "funeralFlowers",
+    "toast": {
+      "title": "葬花",
+      "text": "花谢花飞花满天, 红消香断有谁怜? ",
+      "img": "https://data.one-among.us/img/tumb.png",
+      "background": "url(https://data.one-among.us/img/flower.png)",
+      "width": 64,
+      "height": 64
+    }
+  },
+  {
+    "type": "keyword",
+    "userid": [
+      "SevenBird",
+      "Considerate_cat",
+      "tttsuuukikoo_",
+      "hakureico",
+      "xixi_yuexi",
+      "Jennife80677612"
+    ],
+    "id": "rhythm",
+    "keyword": [
+      "音游",
+      "音遊",
+      "Arc",
+      "舞萌",
+      "maimaiDX",
+      "OSU",
+      "ptt",
+      "Project Sekai"
+    ],
+    "toast": {
+      "title": "希望有个 All Perfect 的结局",
+      "text": " ~ All that I'm left with is your reminiscences ~ ",
+      "img": "https://data.one-among.us/img/musical-score.png",
+      "width": 64,
+      "height": 64
+    }
+  },
+  {
+    "type": "open",
+    "userid": ["BI4PBV", "interrgned"],
+    "id": "radio",
+    "toast": {
+      "title": "跨过空间与距离",
+      "text": "­—· · ···­— · ·­—· / ·­—·· ­—­—­— ···­— · ­—·· / ­—·­—­— ­—­—­— ··­— / ··· ­—­—­— / ­—­— ··­— ­—·­—· ····",
+      "img": "https://data.one-among.us/img/radar.png",
+      "background": "black",
+      "width": 64,
+      "height": 64,
+      "color": "#f0f8feff"
+    }
+  }
+]

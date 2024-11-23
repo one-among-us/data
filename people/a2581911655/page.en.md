@@ -5,17 +5,17 @@ info:
     location: Urumqi, Xinjiang
 ---
 
-## Description
+## Introduction
 
-Chewing Gum was a trans girl loving life and caring about others.
+Chewing Gum was a trans girl enthusiastic about life.
 
-On Bilibili, she posted videos of various games, most of which belonged to vehicle simulation game, including *World Truck - Driving Simulator*, *Spintires: MudRunner* and so on.
-She also played PUBG and Genshin Impact, which were currently popular games.
+On Bilibili, she posted recordings of various games, most of which belonged to the vehicle simulation genre, including *World Truck - Driving Simulator*, *Spintires: MudRunner*, and so on.
+She also played popular games like PUBG and Genshin Impact.
 
-She had a good hands-on ability, and conducted DIY on many devices by herself,
-she also did some little experiences with her own hands.
+She had good dexterity and DIYed many electronics.
+She also did some mini-experiments.
 
-On her road of exploring being a girl, she once had sense of inferiority, confusion, and anxiety, but she still lived strongly for a long time.
+Her road of discovering what it means to be a girl was filled with inferiority, confusion, and anxiety; yet, she still lived fiercely for a long time, leaving behind many beautiful memories.
 
 Following are some personal photos she left in this world:
 
@@ -28,13 +28,13 @@ Following are some personal photos she left in this world:
 
 At the end of 2023, she planned a 3-month journey.
 
-During the time, she came to Guangdong, and got into [Yantian](https://one-among.us/profile/SS3B_0016/)'s Iveco van. She tweeted:
+During her journey, she went to Guangdong, and got into [Yantian](https://one-among.us/profile/SS3B_0016/)'s Iveco van. She tweeted:
 
 > “It was comfortable to sit on the front passenger-side seat of Yantian's van~”
 
-After that, she arrived in Shanghai, Zhejiang, and Henan, and met with many friends.
+After that, she went to Shanghai, Zhejiang, and Henan to meet some friends.
 
-On January 18th, 2024, she ended her journey reluctantly and said that she won't able to see everyone again until one and a half year later. 
+On January 18th, 2024, she ended her journey reluctantly, "I won't able to see everyone again until one and a half years later."
 
-But she couldn't fulfill her appointment. 
-The farewell is a life and death parted. Two days later, she attempted to take her life, and finally left us forever.
+But she couldn't fulfill her promise.
+Two days later, she attempted to take her life, and now we're separated by life and death.

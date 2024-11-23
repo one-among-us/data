@@ -4,22 +4,71 @@ info:
     location: Chengdu, Sichuan
 ---
 
-## Description
+## Introduction
 
-Yuki is a soft and lovely trans woman with a gentle personality, a slim figure, and smooth, fair skin with no visible pores on her face.
+Yuki was a gentle and lovely trans girl with a slim figure and smooth skin.
+She liked dark girly style very much.
 
-She is very skilled at music games, especially maimaiDX, and loves music, Bocchi the Rock!, Chōten-chan, and メンヘラスタイル. She owns a pink guitar. She is not very interested in people, but many people like her. She often says she wants to become an adult soon and be independent so she can earn money for surgery.
+She was a big fan of musical works, liked *Bocchi the Rock!*, *Needy Streamer Overload*, and so on.
+She owned a pink guitar. She was also very skilled at music games such as maimaiDX.
 
-Her dreams seemed very real, sometimes more real than reality, but she always had nightmares and strange dreams.
+Yuki expressed a disinterest in people, but many people like her nonetheless. She often said she wanted to become able to work, support herself, and be independent, so she could earn money for surgery (SRS).
 
-She didn't want to cause trouble for others, so she kept many things to herself.
+Her dreams at night sometimes felt more realistic than reality, but many were nightmares or unsettlingly strange.
 
-## Her Life
+Not wanting to be a burden of others, she always kept many thoughts to herself.
 
-In her childhood, she suffered domestic violence and school bullying, which laid the foundation for her depression. Early on, her parents could not understand her gender identity and tricked her into being confined in a conversion institution for half a year. During this period, she suffered inhumane abuse, such as being forced to drink swill, corporal punishment, and bloodshed, which led to a mental breakdown where she hammered her own hand, causing a comminuted fracture of her little finger. During this time, she developed schizophrenia, which worsened her depression and bipolar disorder. After this, her family gradually began to understand her. After she attempted suicide, her family's attitude improved significantly, and they supported her surgery, with her mother visiting her in Chengdu twice and taking her out for meals. However, her family did not take her bipolar disorder and schizophrenia seriously, and there was no continuous treatment, causing Yuki to be in a state of medication withdrawal.
+## Life
 
-To make money and become self-reliant, Yuki tried working as a game proxy player and food delivery worker. However, playing Genshin Impact as a proxy player only earned her 50 yuan despite the high workload, and the food delivery work might have been hindered by her being underage, as she was not directly employed by Meituan Takeout and Cake Shop but by Yicheng Feike. She also worked part-time for Meituan and Ele.me. Yuki wanted to start working quickly to earn money, so she signed a car rental contract with a streetlight company. If she didn't rent for three months, she would have to pay liquidated damages, but her wages were still in arrears, and reporting to the police was to no avail. On Children's Day, Yuki's mobile phone and keys were stolen while she was out relaxing at work. Therefore, she did not return to her boyfriend's house, fearing he would inform her family and make them worry, so she spent the night outside. That night, she was hungry and cold. After her phone was stolen and she called the police, the thief was not caught. Later, her tablet disappeared, and again the police did not help. She loved that phone and tablet very much. Yuki became extremely disappointed with the world. She had attempted suicide many times before, and in the past year, the frequency increased, sometimes even three or four times a month. Her sisters often called the police and organized offline rescue operations.
+In her childhood, she suffered domestic violence and school bullying, which laid the foundation for her depression.
+Early on, her parents could not understand her gender identity. They tricked her into a conversion institution, and she was confined there for half a year.
+During the confinement, she suffered inhumane abuse, such as being forced to drink swill, corporal punishment, and witnessing bloodshed.
+Those eventually led to a mental breakdown; she hammered her hand which caused a comminuted fracture of her little finger.
+She also developed schizophrenia, which worsened her depression and bipolar disorder.
+After this, her family gradually began to understand her.
+After she attempted self-surgery, her family became more accepting of her.
+They accepted her idea of getting the surgery (SRS).
+Her mother visited her in Chengdu twice and took her out for meals. However, her family still never took her bipolar disorder and schizophrenia seriously and didn't let her continue to see the doctors. 
+Therefore, Yuki was in a state of medication withdrawal.
+
+To make money and become self-sufficient, Yuki tried working as a game proxy player (grinding out the boring parts of games for someone else) and a food delivery worker.
+However, playing *Genshin Impact* as a proxy player only earned her 50 yuan despite the high workload.
+As for the food delivery work, since she's underage she was not directly employed by Meituan Takeout or pastry shops but by Yicheng Feike (an outsourcing delivery company employing minors).
+She also worked part-time for Meituan and Ele.me.
+
+Yuki wanted to start working quickly to earn money, so she signed an exploitative contract for a delivery e-bike.
+The contract required her to pay the rent for three months, or else she would have to pay liquidated damages.
+But her wages were delayed, and the police couldn't force the companies to pay her on time.
+
+On Children's Day, Yuki's phone and keys were stolen while at work.
+Fearing her boyfriend might inform her family and make them worry, she did not return to her boyfriend's house that night.
+Spending the whole night outside, she was hungry and cold.
+Later, her tablet was also stolen.
+Once again, the police could not resolve the situation.
+It was devastating for her because she liked that phone and that tablet.
+
+At this point, Yuki became extremely disappointed with the world.
+She had attempted suicide many times before.
+In the last year of her life (2024), the frequency increased to sometimes three or four times a month.
+Her friends often called the police and organized offline rescue operations to interrupt her suicide attempts.
 
 <PhotoScroll photos={['${path}/photos/image0.jpeg','${path}/photos/image1.jpeg','${path}/photos/image2.jpeg','${path}/photos/image3.jpeg','${path}/photos/image4.jpeg','${path}/photos/image5.jpeg','${path}/photos/image6.jpeg']} />
 
-Yuki wanted to live in Chengdu. She initially came to Chengdu to meet her ex "Xixi," who often changed names and now has tens of thousands of followers, but he abandoned her. After being taken in by Zhouzhou, she lived with her. Zhouzhou treated her as a daughter. Later, Zhouzhou returned to her hometown to live with her family, and her boyfriend rented the original house to live with Yuki. Eventually, there were some conflicts between the two, so Yuki went to stay with Zhenli to relax. After Zhenli went abroad, Yuki moved in with Xixi Biscuit. As a result, her boyfriend and sisters could not always stay with her and rescue her in time. In her last days, she was uncharacteristically no more self-harm, and her mood was very stable. On June 27, her boyfriend even accompanied her to eat delicious food, play cute dances, and send her to the subway station. After Yuki returned to her residence, she usually used her mobile phone She never left her tablet, but she didn't bring anything with her this time. She walked to the river alone and jumped in. Her body was not discovered until July 5.
+Yuki wanted to live in Chengdu. She initially came to Chengdu to meet her ex "Xixi," who often changed names and now has tens of thousands of followers. However, Xixi abandoned her.
+After being taken in by Zhouzhou[^1], she lived with her. Zhouzhou treated her as if she were her daughter.
+Later, Zhouzhou returned to her hometown to live with her family.
+Yuki's boyfriend rented the original house to live with Yuki.
+They had some conflicts, so Yuki went to stay with Zhenli[^2] to ease the awkwardness.
+After Zhenli went abroad, Yuki moved in with Xixi Biscuit.
+As a result, her boyfriend and friends could not always be by her side and rescue her in time.
+
+In her last few days, to everyone's surprise, she didn't self-harm, and her mood seemed very stable.
+On June 27th, her boyfriend accompanied her. They ate delicious food and played maimaiDX.
+After her boyfriend saw her off at a subway station and she returned to her residence, she walked to the river alone, not bringing her phone or tablet this time only, and jumped in.
+Her body was discovered on July 5th.
+
+Contributors: Zhenli, Sansan, Suona
+
+[^1]: Yuki's substitute parent? They were like mother and daughter. Zhouzhou cared for Yuki for a long time and rescued Yuki many times from suicide.
+
+[^2]: She's younger than Yuki age-wise, but she treats Yuki as her sister. She liked Yuki a lot, gave her gifts, and cooked her meals.

@@ -271,6 +271,7 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 [^10]: from A Dream of Red Mansions Volume II (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【Volume I P672】ISBN: 9787119006437
 </details>
 
+<Sakura count="50" />
 
 {/* Following are en localization notes, available for consultation.
 
