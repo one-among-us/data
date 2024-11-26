@@ -1,0 +1,5 @@
+id: saurikissa
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2004-03-20'
+  died: '2024-03-01'
