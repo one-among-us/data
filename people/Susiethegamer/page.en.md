@@ -7,7 +7,7 @@ info:
 
 ## Past
 
-## Remembrance
+## Memory
 
 Contributors for this entry: [Nekomaki](https://twitter.com/nekomakiQAQ), [Snowfairy](https://twitter.com/snowfairy011026), One-Among-Us
 
