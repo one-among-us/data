@@ -12,7 +12,8 @@
     "build": "node --loader ts-node/esm/transpile-only scripts/build.ts",
     "build-preview": "yarn build && scripts/preview.sh",
     "serve": "http-server --cors='*' dist",
-    "preview": "yarn build-preview && yarn serve"
+    "preview": "yarn build-preview && yarn serve",
+    "translate": "node --loader ts-node/esm/transpile-only scripts/translate.ts"
   },
   "dependencies": {
     "@andreekeberg/imagedata": "^1.0.2",
@@ -20,10 +21,12 @@
     "@swc/core": "^1.3.17",
     "@types/fs-extra": "^11.0.1",
     "@types/node": "^20",
+    "args-parser": "^1.3.0",
     "autocorrect-node": "^2.5.5",
     "blurhash": "^2.0.5",
     "esbuild": "^0.18.10",
     "fs-extra": "^11.1.0",
+    "google-translate-api-x": "^10.7.1",
     "js-yaml": "^4.1.0",
     "katex": "^0.16.10",
     "markdown-yaml-metadata-parser": "^3.0.0",
