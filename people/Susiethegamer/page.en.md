@@ -86,10 +86,7 @@ but her next tweet was a message about taking the drugs and leaving us.
 
 For various reasons, the local police were unable to find her in time, and by then, it was already too late.
 
-The last time I saw Susie,
-she was a lively and energetic trans girl as ever,
-but at the funeral,
-all I could do was watch as her cold, small casket.
+> The last time I saw Susie, she was a lively and energetic trans girl as ever, but at the funeral, all I could do was watch as her cold, small casket.
 
 ## Farewell
 
