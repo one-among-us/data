@@ -135,7 +135,7 @@ The meeting and embrace at Shinagawa Station feel as if it were yesterday,
 And the izakaya we visited that night often flickers in my mind.
 
 The heavens are cold, may fairies clear the snow and ice from Susie's path,
-So she may travel warmly to the heaven.
+so she may travel warmly to the heaven.
 
 Susie, may you be free from all burdens in your next life.
 May your wishes come true in a kinder world.
