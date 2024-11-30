@@ -111,25 +111,23 @@ No more games of *Rainbow Six Siege* or *The Finals*.
 
 ---
 
-> 夜半华南江岸夜，桐花驿站风清。
+> The moon lingered on the wayfarer's hall, 
+> 
+> Sea wind nested in the strand’s fiery pall.
+> 
+> Once we, under southern sky’s glorious pane
+> 
+> weaved words of joy that never shall wane.
 >
-> 三人聚首伴诗情。初逢君亦乐，言语到天明。
->
-> 筑后千山传恶报，惊闻已失悲声。
->
-> 品川订誓忍难行。长空如有意，神使破寒冰。
-
-<!-- > *Under Huainan’s starry skies, the wind whispers through the Tung blossoms.*
->
-> *Three souls met by fate, sharing poetry till dawn.*
->
-> *Mountains now carry the sorrowful news—one has gone.*
->
-> *The promise made at Shinagawa lingers still.*
->
-> *May the heavens, in their grace, clear the frost from her path, guiding her to warmth and light.*
->
-> 这诗歌有一些细节我还想问，先用原文吧。 -->
+> So bright now, another moon, mirror of a stranger
+> 
+> who can’t rhyme more, but hears the murmur
+> 
+> of fearsome cloud and rapids.
+> 
+> White lilac of barren string
+> 
+> Guard her from snow 'round the unforgiving stars.
 
 The meeting and embrace at Shinagawa Station feel as if it were yesterday,
 And the izakaya we visited that night often flickers in my mind.
@@ -141,3 +139,5 @@ Susie, may you be free from all burdens in your next life.
 May your wishes come true in a kinder world.
 
 Contributors for this entry: [Nekomaki](https://twitter.com/nekomakiQAQ), [Snowfairy](https://twitter.com/snowfairy011026), One-Among-Us
+
+Translator for poem by Snowfairy: Rinko
