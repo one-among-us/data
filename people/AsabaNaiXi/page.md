@@ -73,4 +73,4 @@ info:
 
 <PhotoScroll photos={['${path}/photos/image6.jpeg', '${path}/photos/image7.jpeg', '${path}/photos/image3.png', '${path}/photos/image4.png']} />
 
-> 条目贡献与临终关怀参与者：[lib一抹阳光](t.me/Eternal_Black0796) [祈/みつき るり🧋](https://x.com/Ruri_Mitsuki) 夜猫猫（找不到账号）[神樂坂 凌](https://shirleymtf.top/) 不愿透露姓名的伙伴们
+> 条目贡献与临终关怀参与者：[lib一抹阳光](t.me/Eternal_Black0796) / [祈/みつき るり🧋](https://x.com/Ruri_Mitsuki) / 夜猫猫（找不到账号）/ [神樂坂 凌](https://shirleymtf.top/) / 不愿透露姓名的伙伴们
