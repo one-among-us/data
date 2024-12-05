@@ -73,4 +73,6 @@ info:
 
 <PhotoScroll photos={['${path}/photos/image6.jpeg', '${path}/photos/image7.jpeg', '${path}/photos/image3.png', '${path} /photos/image4.png']} />
 
+> 條目貢獻與臨終關懷參與者：[lib一抹陽光](t.me/Eternal_Black0796) / [祈/みつき るり🧋](https://x.com/Ruri_Mitsuki) / 夜貓貓（找不到帳號）/ [神樂坂 凌](https://shirleymtf.top/) / 不願透露姓名的夥伴們
+
 
