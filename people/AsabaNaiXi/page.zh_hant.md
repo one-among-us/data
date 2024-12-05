@@ -1,7 +1,7 @@
 ---
 name: 鈴木千夏
 info:
-  alias: Chinatsu Suzuki 淺羽奈兮 AsabaNaiXi 奈兮嘤嘤嘤 護航找我666（外掛圈曾用名） 淺羽雙葉（BreachForums，疑似致敬《女神異聞錄》）
+  alias: Chinatsu Suzuki/淺羽奈兮/AsabaNaiXi/奈兮嘤嘤嘤/護航找我666（外掛圈曾用名)/淺羽雙葉（BreachForums，疑似致敬《女神異聞錄》）
   location: 重慶潼南、廣東深圳
 
 ---
