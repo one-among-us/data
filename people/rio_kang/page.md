@@ -1,13 +1,13 @@
 ---
 name: Rio
 info:
-  alias: Ryu-Im，Yotaro
-  location: 日本
+    alias: Ryu-Im, Yotaro
+    location: 日本
 ---
 
->我在学校度过了糟糕的一天，但我想我已经克服了💔
+> 我在学校度过了糟糕的一天，但我想我已经克服了💔
 
->我被迫变性，但这是不可避免的😔
+> 我被迫变性，但这是不可避免的😔
 
 ## 简介
 
@@ -22,7 +22,7 @@ Ryu 是《崩坏星铁道》中的 Robin 和 Feixiao、《Ensemble Stars》中�
 2024 年 8 月 12 日。她的许多联系人在各种社交媒体上收到了此消息：
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.png',
+    '${path}/photos/photo1.png',
 ]} />
 
 截至撰写此纪念时，她离开的情况仍然未知，她没有留下任何话语或告别，只有回忆。
@@ -31,6 +31,6 @@ Ryu 是《崩坏星铁道》中的 Robin 和 Feixiao、《Ensemble Stars》中�
 
 悲剧消息传出后不久，她的妹妹 Haruki 联系了我们，并以 [Google Docs](https://docs.google.com/document/d/1-FaVzCOrZ2NkrRGDkIOyoLZpIGClUZcwdzaZV4NoRwA/edit?tab=t.0) 的形式向我们提供了可用信息，并以 [Canva](https://www.canva.com/design/DAGY-0aiXjE/cZIzTKKN87Q_7zp1mPdBCg/edit) 的形式提供了她朋友的亲切话语
 
-此条目的贡献者：One-Among-Us、[https://github.com/Paranoid-Pufferfish/](Crystal)
+条目贡献：[Crystal](https://github.com/Paranoid-Pufferfish)
 
 愿你的每一天都是星期天，你这个可爱的阳光宝贝
