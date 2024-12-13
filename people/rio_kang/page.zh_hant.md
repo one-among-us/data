@@ -29,7 +29,7 @@ Ryu 是《崩壞星軌》中的 Robin 和 Feixiao、《Ensemble Stars》中的 K
 
 ## 春樹的紀念
 
-在悲慘消息浮出水面後不久，她的妹妹 Haruki 聯繫了我們，並以 [Google Docs](https://docs.google.com/document/d/1-FaVzCOrZ2NkrRGDkIOyoLZpIGClUZcwdzaZV4NoRwA/edit?tab=t.0) 的形式向我們提供了可用信息，以及她的朋友以 [Canva] 形式表達的善意之言(https://www.canva.com/design/DAGY-0aiXjE/cZIzTKKN87Q_7zp1mPdBCg/edit)。
+在悲慘消息浮出水面後不久，她的妹妹 Haruki 聯繫了我們，並以 [Google Docs](https://docs.google.com/document/d/1-FaVzCOrZ2NkrRGDkIOyoLZpIGClUZcwdzaZV4NoRwA/edit?tab=t.0) 的形式向我們提供了可用信息，以及她的朋友以 [Canvas](https://www.canva.com/design/DAGY-0aiXjE/cZIzTKKN87Q_7zp1mPdBCg/edit) 形式表達的善意之言。
 
 條目貢獻：[Crystal](https://github.com/Paranoid-Pufferfish)
 
