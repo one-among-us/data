@@ -29,7 +29,7 @@ Ryu 是《崩坏星铁道》中的 Robin 和 Feixiao、《Ensemble Stars》中�
 
 ## Haruki 的纪念
 
-悲剧消息传出后不久，她的妹妹 Haruki 联系了我们，并以 [Google Docs](https://docs.google.com/document/d/1-FaVzCOrZ2NkrRGDkIOyoLZpIGClUZcwdzaZV4NoRwA/edit?tab=t.0) 的形式向我们提供了可用信息，并以 [Canva](https://www.canva.com/design/DAGY-0aiXjE/cZIzTKKN87Q_7zp1mPdBCg/edit) 的形式提供了她朋友的亲切话语。
+悲剧消息传出后不久，她的妹妹 Haruki 联系了我们，并以 [Google Docs](https://docs.google.com/document/d/1-FaVzCOrZ2NkrRGDkIOyoLZpIGClUZcwdzaZV4NoRwA/edit?tab=t.0) 的形式向我们提供了可用信息，还以 [Canva](https://www.canva.com/design/DAGY-0aiXjE/cZIzTKKN87Q_7zp1mPdBCg/edit) 的形式提供了她朋友的亲切话语。
 
 条目贡献：[Crystal](https://github.com/Paranoid-Pufferfish)
 
