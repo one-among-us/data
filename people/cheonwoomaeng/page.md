@@ -50,7 +50,7 @@ info:
 
 ## 来自春树的纪念
 
-噩耗传出后不久，她的妹妹春树联系了我们，并提供了一些现有的信息，包括 [Google 文档](https://docs.google.com/document/d/1-FaVzCOrZ2NkrRGDkIOyoLZpIGClUZcwdzaZV4NoRwA/edit?tab=t.0)和来自她朋友的可画悼念设计。
+噩耗传出后不久，她的妹妹春树联系了我们，并提供了一些现有的信息，包括 [Google 文档](https://docs.google.com/document/d/1-FaVzCOrZ2NkrRGDkIOyoLZpIGClUZcwdzaZV4NoRwA/edit?tab=t.0)和来自朋友们以[可画](https://www.canva.com/design/DAGY-0aiXjE/cZIzTKKN87Q_7zp1mPdBCg/edit)形式表达的善意之言。
 
 <details>
 <summary>**春树撰写的悼文（日语原文）**</summary>
