@@ -1,5 +1,5 @@
 ---
-name: Rio
+name: 莉緒
 info:
     alias: Ryu-Im, Yotaro
     location: 日本
