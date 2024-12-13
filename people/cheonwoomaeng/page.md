@@ -2,7 +2,7 @@
 name: 莉绪
 info:
     alias: Ryu-Im, Yotaro
-    location: 日本
+    location: 日本东京
 ---
 
 > 我在学校度过了糟糕的一天，不过我想我已经放下了吧……💔
