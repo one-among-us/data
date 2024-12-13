@@ -27,12 +27,37 @@ On the day of 08/12/2024. Many of her contacts received this message on various 
     '${path}/photos/photo1.png',
 ]} />
 
+<details>
+<summary>**Message(English version)**</summary>
+
+> Hello,
+>
+> We apologize for the sudden message. We are contacting you as part of an important investigation involving one of your mutual contacts. This message is being sent from the victim's Discord account, but please understand that it is not from the victim. We are gathering information to help us understand the situation. Other social media accounts are also being checked.
+>
+> At this time, the cause of the incident is not clear. We would be grateful if you could help by answering a few questions:
+>
+> Did you notice anything unusual or strange about the victim recently?
+> 
+> Did the victim share personal information or say something that seemed different or unusual?
+> 
+> Were there any problems, such as bullying, arguments, or times when the victim might have felt ignored or upset?
+> 
+> If you remember anything else that seems important, please let us know.
+> 
+> We also apologize for the simple English in this message. The victim seems to have conversed in multiple languages, so we are sending this message in all of them to ensure it is easy to understand for all individuals.
+> 
+> This message has been sent to everyone who interacted with the victim in the past two months. Please understand that the case is private, so we cannot give more details. Any information shared can be very helpful.
+> 
+> Thank you.
+
+</details>
+
 As of the time of writing this memorial, the circumstances around her departure is still unknown, she left us with no words or no goodbyes, only memories.
 
 ## Haruki's memorial
 
 Soon after the tragic news surfaced, her younger sister Haruki contacted us, and provided us with the available information in the form of a [Google Docs](https://docs.google.com/document/d/1-FaVzCOrZ2NkrRGDkIOyoLZpIGClUZcwdzaZV4NoRwA/edit?tab=t.0) and Kind words from her friends in the form of a [Canva](https://www.canva.com/design/DAGY-0aiXjE/cZIzTKKN87Q_7zp1mPdBCg/edit)
 
-Contributors for this entry: [Crystal](https://github.com/Paranoid-Pufferfish)
+May All your days be Sundays you cute bundle of sunshine.
 
-May All your days be Sundays you cute bundle of sunshine 
+Contributors for this entry: [Crystal](https://github.com/Paranoid-Pufferfish)
