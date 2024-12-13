@@ -1,8 +1,8 @@
 ---
 name: Rio
 info:
- alias： 柳林、與太郎
- location：日本
+ alias: 柳林、與太郎
+ location: 日本
 ---
 
 >我在學校度過了糟糕的一天，但我想我已經過去了💔
