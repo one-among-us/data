@@ -1,8 +1,8 @@
 ---
-姓名：Rio
-信息：
-别名：Ryu-Im，Yotaro
-地点：日本
+name: Rio
+info:
+  alias: Ryu-Im，Yotaro
+  location: 日本
 ---
 
 >我在学校度过了糟糕的一天，但我想我已经克服了💔
