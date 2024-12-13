@@ -5,6 +5,8 @@ info:
     location: Japan
 ---
 
+<!-- 这篇文章的原文即英文，作者的第一语言为英语，请翻译时不要动本篇。 -->
+
 > I had a bad day at school but i think im over it 💔
 >
 > I'm lowkey being forced to detransition but it was inevitable 😔
