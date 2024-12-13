@@ -53,7 +53,7 @@ info:
 噩耗传出后不久，她的妹妹春树联系了我们，并提供了一些现有的信息，包括 [Google 文档](https://docs.google.com/document/d/1-FaVzCOrZ2NkrRGDkIOyoLZpIGClUZcwdzaZV4NoRwA/edit?tab=t.0)和来自她朋友的可画悼念设计。
 
 <details>
-<summary>**Haruki 撰写的悼文（日语原文）**</summary>
+<summary>**春树撰写的悼文（日语原文）**</summary>
 
 > 親愛なる莉緒へ、 
 > 

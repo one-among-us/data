@@ -54,7 +54,7 @@ info:
 在噩耗傳出後不久，她的妹妹春樹聯繫了我們，並以 [Google Docs](https://docs.google.com/document/d/1-FaVzCOrZ2NkrRGDkIOyoLZpIGClUZcwdzaZV4NoRwA/edit?tab=t.0) 的形式向我們提供了可用信息，以及她的朋友以[可畫](https://www.canva.com/design/DAGY-0aiXjE/cZIzTKKN87Q_7zp1mPdBCg/edit)形式表達的善意之言。
 
 <details>
-<summary>**Haruki 撰寫的悼文（日語原文）**</summary>
+<summary>**春樹撰寫的悼文（日語原文）**</summary>
 
 > 親愛なる莉緒へ、 
 > 
