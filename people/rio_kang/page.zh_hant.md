@@ -11,9 +11,7 @@ info:
 
 ## 簡介
 
-Ryu 是一位充滿奇思妙想與歡樂的日本跨性別女孩。
-每一個遇到她的人都認為她是大家的靈感和希望之源，她也是我們認識過最善良的靈魂之一。
-Ryu 的親密朋友們常說她有些“傻裡傻氣”的，但其實這便是她的可愛與魅力所在呢……
+Ryu 是一位充滿奇思妙想與歡樂的日本跨性別女孩。每一個遇到她的人都認為她是大家的靈感和希望之源，她也是我們認識過最善良的靈魂之一。Ryu 的親密朋友們常說她有些「傻裡傻氣」的，但其實這便是她的可愛與魅力所在呢……
 
 Ryu 非常喜歡《崩壞：星穹鐵道》中的羅賓和飛霄，以及《偶像夢幻祭》的羽風薰和高峯翠。
 她還玩《Project Sekai》《Alien Stage》以及許多類似的遊戲。除此之外，她還熱愛著 Vocaloid 和韓國流行音樂。
@@ -53,7 +51,7 @@ Ryu 非常喜歡《崩壞：星穹鐵道》中的羅賓和飛霄，以及《偶�
 
 ## 春樹的紀念
 
-在噩耗傳出後不久，她的妹妹春樹聯繫了我們，並以 [Google Docs](https://docs.google.com/document/d/1-FaVzCOrZ2NkrRGDkIOyoLZpIGClUZcwdzaZV4NoRwA/edit?tab=t.0) 的形式向我們提供了可用信息，以及她的朋友以 [可畫](https://www.canva.com/design/DAGY-0aiXjE/cZIzTKKN87Q_7zp1mPdBCg/edit)形式表達的善意之言。
+在噩耗傳出後不久，她的妹妹春樹聯繫了我們，並以 [Google Docs](https://docs.google.com/document/d/1-FaVzCOrZ2NkrRGDkIOyoLZpIGClUZcwdzaZV4NoRwA/edit?tab=t.0) 的形式向我們提供了可用信息，以及她的朋友以[可畫](https://www.canva.com/design/DAGY-0aiXjE/cZIzTKKN87Q_7zp1mPdBCg/edit)形式表達的善意之言。
 
 <details>
 <summary>**Haruki 撰寫的悼文（日語原文）**</summary>

@@ -21,14 +21,14 @@ She has a straw page which is linked on her profile here, Sadly, We've only arch
 
 ## Departure
 
-On the day of 08/12/2024. Many of her contacts received this message on various social media :
+On the day of 2024-12-08. Many of her contacts received this message on various social media :
 
 <PhotoScroll photos={[
     '${path}/photos/photo1.png',
 ]} />
 
 <details>
-<summary>**Message(English version)**</summary>
+<summary>**Message (English version)**</summary>
 
 > Hello,
 >
