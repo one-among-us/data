@@ -6,7 +6,7 @@ info:
 ---
 
 > I had a bad day at school but i think im over it 💔
-
+>
 > I'm lowkey being forced to detransition but it was inevitable 😔
 
 ## Introduction
