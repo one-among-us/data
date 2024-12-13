@@ -60,4 +60,4 @@ Soon after the tragic news surfaced, her younger sister Haruki contacted us, and
 
 May All your days be Sundays you cute bundle of sunshine.
 
-Contributors for this entry: [Crystal](https://github.com/Paranoid-Pufferfish)
+Contributor for this entry: [Crystal](https://github.com/Paranoid-Pufferfish)
