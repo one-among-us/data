@@ -1,5 +1,5 @@
 ---
-name：Rio
+name: Rio
 info:
  alias： 柳林、與太郎
  location：日本
