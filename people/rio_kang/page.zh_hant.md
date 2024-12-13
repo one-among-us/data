@@ -22,9 +22,10 @@ Ryu 是《崩壞星軌》中的 Robin 和 Feixiao、《Ensemble Stars》中的 K
 
 2024 年 8 月 12 日這一天。她的許多聯絡人在各種社交媒體上收到了這條訊息：
 
-<PhotoScroll照片={[
- '${path}/photos/photo1.png',
+<PhotoScroll photos={[
+    '${path}/photos/photo1.png',
 ]} />
+
 
 截至撰寫這篇悼念之時，她離開時的情況仍不得而知，她沒有給我們留下任何言語，也沒有告別，只有回憶。
 
