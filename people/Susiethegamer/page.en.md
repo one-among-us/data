@@ -7,7 +7,7 @@ info:
 
 ## Memories
 
-Susie was a sweet and cheerful trans girl. She had a passion for video games. Her username, “Susiethegamer,” was taken from the character Goldenglow (Susie Glitter) in *Arknights*.
+Susie was a sweet and cheerful trans girl. She had a passion for video games. She especially liked the character Goldenglow (Susie Glitter) in *Arknights*. And so, she used the username “Susiethegamer”.
 
 Susie and her best friend Nekomaki often played games together.
 She usually played *The Finals*, and whenever she suffered from simulator sickness, she would switch to Nekomaki’s favourite game *Rainbow Six Siege*.
