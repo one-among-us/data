@@ -2,6 +2,7 @@
 name: Lyna
 info:
     alias: yulian, Nyanner
+    location: Dalian, Liaoning
 ---
 
 > This world is fake, I have a masturbation fantasy
