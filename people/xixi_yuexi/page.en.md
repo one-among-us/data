@@ -6,10 +6,10 @@ info:
 
 ## Description
 
-> A random rhythm game player! ! !
+> Random rhythm game player here! ! !
 
-Yuexi is a lively and adorable girl who loves to play various games, mainly music games.   
-There are somebody who she love and also loves her.
+Yuexi was a lively and adorable girl who liked to play games, primarily music games.   
+She was in mutual love with someone.
 
 <PhotoScroll photos={[
 '${path}/photos/photo0.jpg',
@@ -19,31 +19,31 @@ There are somebody who she love and also loves her.
 '${path}/photos/photo4.jpg',
 ]} />
 
-Sometimes, she likes to go to the arcade in Xinjiekou[^1] to play maimaiDX a few times.  
+Sometimes, she played maimaiDX for a few turns at the arcade in Xinjiekou[^1].
 
-> The End ~ 9000 points achieved ~ I feel great today, 9 SSS+, 3 SSS and some small points, totally 99 points!
+> I feel great today! ~ 9000 points achieved, 9 SSS+, 3 SSS and some small points, exactly 99 points!
 
-Other times, she turns on her tablet to obtain ptt[^2] for a while.
+Sometimes, she played Arcaea on her tablet to earn ptt[^2].
 
 <br />
 
-This silly girl loves to eat barbecue, sometimes finishing a big plate all by herself.
+She loved to eat barbecue; sometimes, she'd finish a big plate all by herself. How shortsighted.
 
 <PhotoScroll photos={['${path}/photos/photo5.jpg']} />
 
-Sometimes she even turns into a child.
+Sometimes, she mentally turns into a child.
 
 > I caught a doll today, yay!
 
-Loves you.
+Love you.
 
 ## Departure
 
-After she took a leave of absence from [Nanjing Agricultural University](https://rle.wiki/campus/NJAU.html) and returning home, her already unsustainable mental state deteriorated further..  
+After she took a leave of absence from [Nanjing Agricultural University](https://rle.wiki/campus/NJAU.html) and returned home, her already fragile mental state deteriorated further.
 
-> I can't muster the energy for the hobbies I once loved. What do I have left? Hmm... it seems I still have an interest in delicious food and beautiful clothes. Maybe... I can still save myself (laughs)
+> I can’t muster the energy for the hobbies I once loved. What do I have left? Hmm... I might still have an interest in food and clothing. Maybe, just maybe, I can still save myself (laughs)
 
-In the end, she chose to leave during the supposed joyous summer vacation
+In the end, she chose to leave during the supposed joyous summer vacation.
 
 > Farewell, YueXi...  
 
