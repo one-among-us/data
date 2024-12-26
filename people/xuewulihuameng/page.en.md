@@ -32,7 +32,7 @@ From the afternoon to the evening of April 1st, 2018, she was still living happi
 
 However, that same night, she revealed her gender identity to her parents. Her parents reacted horribly.
 Then, after browsing numerous negative messages on the internet,
-she started to consider committing suicide.
+she started to consider taking her own life.
 
 On that quiet night, without letting anyone know, she went to the Huanghuayuan Jialingjiang Bridge...
 
@@ -47,13 +47,13 @@ After leaving a scheduled suicide note, Xueli chose to leave this world.
 When she was found, she wore a beautiful dress, smiling.
 
 She always treated people around her gently,
-but what she’d done was so cruel to herself...she was said to be afraid of pain after all.
+but what she’d done was so cruel to herself...according to her friends, she was terrified of pain after all.
 
 ## After Her Departure
 
 Xueli’s friend [Futajuhuacha](https://one-among.us/profile/Futajuhuacha) was also a very gentle girl.
 
-After her departure, Huacha deeply missed her and eventually committed suicide on the same bridge.
+After her departure, Huacha deeply missed her and eventually ended her life on the same bridge.
 
 “As if the vernal breeze had come back overnight, Adorning thousands of pear trees with blossoms white.”
 
