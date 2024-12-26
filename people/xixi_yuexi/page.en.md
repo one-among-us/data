@@ -23,7 +23,7 @@ Sometimes, she played maimaiDX for a few turns at the arcade in Xinjiekou[^1].
 
 > I feel great today! ~ 9000 points achieved, 9 SSS+, 3 SSS and some small points, exactly 99 points!
 
-Sometimes, she played Arcaea on her tablet to earn ptt[^2].
+Sometimes, she played Arcaea on her tablet to hone her skills (increase ptt[^2]).
 
 <br />
 
