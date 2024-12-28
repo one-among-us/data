@@ -107,7 +107,7 @@ She also has dreams in her heart, like forming a band that lasts a lifetime.
 
 But music is just an escape from pain.
 
-> "I wish I could have the youth and love of a girl, but it seems like there’s no chance anymore..."
+> I wish I could have the youth and love of a girl, but it seems like there’s no chance anymore...
 
 That’s what she says.
 
