@@ -133,13 +133,6 @@ info:
 
 <!-- From ギターと孤独と蒼い惑星 (Guitar, Loneliness and Blue Planet) (English Translation)： -->
 
-<!-- なんかになりたい なりたい 何者かでいい
-I want, I want to be something, just be someone
-馬鹿なわたしは歌うだけ
-The idiot that I am, I just sing
-ぶちまけちゃおうか 星に
-Why don't I just lay it all out to the stars -->
-
 但我们真的能找到那颗星吗?
 
 ## 终章
