@@ -117,12 +117,17 @@ It’s just like what Kessoku Band sings...
 
 <!-- Kessoku Band: A fictional band from *Bocchi the Rock!*. -->
 
-> なにかになりたい なりたい 何者かでいい  
-> I want, I want to be something, just be someone  
-> 馬鹿なわたしは歌うだけ  
-> The idiot that I am, I just sing  
-> ぶちまけちゃおうか 星に  
-> Why don’t I just lay it all out to the stars  
+> なにかになりたい なりたい 何者かでいい
+>
+> I want, I want to be something, just be someone
+>
+> 馬鹿なわたしは歌うだけ
+>
+> The idiot that I am, I just sing
+>
+> ぶちまけちゃおうか 星に
+>
+> Why don’t I just lay it all out to the stars
 
 But can we ever find that star?
 
