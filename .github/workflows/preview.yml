@@ -42,8 +42,8 @@ jobs:
         with:
           script: |
             const prNumber = context.payload.pull_request.number;
-            const now = new Date().toISOString();
-            const reviewBody = `🐱 感谢贡献！\n\n部署了预览，在这里哦: https://${prNumber}.data-preview.pages.dev\n\n🕒 最后更新: ${now}`;
+            const now = new Date().toISOString().substring(0, 19).replace('T', ' ');
+            const reviewBody = `🐱 感谢贡献！\n\n部署了预览，在这里哦: https://pr-${prNumber}.data-preview.pages.dev\n\n🕒 最后更新: ${now} (UTC)`;
             
             // 获取现有 review
             const { data: reviews } = await github.rest.pulls.listReviews({
