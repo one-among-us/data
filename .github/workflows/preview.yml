@@ -1,0 +1,70 @@
+name: PR Preview
+
+on:
+  pull_request:
+    # Trigger the workflow on these PR events:
+    types: [opened, synchronize, reopened]
+    # Limit to specific branches:
+    branches: [ main, develop ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      deployments: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'yarn'
+
+      - name: Build
+        run: |
+          yarn install --production --frozen-lockfile
+          yarn build-preview
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          command: pages deploy dist --project-name=data-preview --branch=pr-${{ github.event.pull_request.number }}
+      
+      - name: Pull request comment
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const prNumber = context.payload.pull_request.number;
+            const now = new Date().toISOString();
+            const reviewBody = `🐱 感谢贡献！\n\n部署了预览，在这里哦: https://${prNumber}.data-preview.pages.dev\n\n🕒 最后更新: ${now}`;
+            
+            // 获取现有 review
+            const { data: reviews } = await github.rest.pulls.listReviews({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: prNumber,
+            });
+            const existingReview = reviews.find(review => review.body.includes('部署了预览'));
+            if (existingReview) {
+              // 如果已经有 review，更新它
+              await github.rest.pulls.updateReview({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: prNumber,
+                review_id: existingReview.id,
+                body: reviewBody,
+              });
+            } else {
+              // 如果没有 review，创建新的 review
+              await github.rest.pulls.createReview({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: prNumber,
+                body: reviewBody,
+                event: "COMMENT",
+              });
+            }
