@@ -26,6 +26,7 @@ jobs:
         run: |
           yarn install --production --frozen-lockfile
           yarn build-preview
+          rm -rf dist/web.tgz
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
