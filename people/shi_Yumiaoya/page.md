@@ -5,7 +5,11 @@ info:
     location: 江苏常州
 ---
 
-[[ {"type":"banner", "icon":"https://one-among.us/favicon-large.png","title":"该条目部分内容与事实不符","text":"您可能在关注一项正在发生的热点事件，如果您在相关事件的讨论中感到不适或精神压力，建议您暂停浏览相关内容。"} ]]
+<Banner data={{
+    icon: "https://one-among.us/favicon-large.png",
+    title: "该条目部分内容与事实不符",
+    text: "您可能在关注一项正在发生的热点事件，如果您在相关事件的讨论中感到不适或精神压力，建议您暂停浏览相关内容。"
+}} />
 
 > [!Caution]**提示**
 >
