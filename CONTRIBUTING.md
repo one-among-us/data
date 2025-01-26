@@ -131,9 +131,9 @@ For Windows, Yarn could be find at [Classic YarnPkg](https://classic.yarnpkg.com
     * `slot` html slot
   * example:
     ```mdx
-    <BlueBlock>
+    <BlurBlock>
     this is an example blurred paragraph.
-    </BlueBlock>
+    </BlurBlock>
     ```
 * `CapDownQuote`
   * usage: `<CapDownQuote messages={string[][]} />`
