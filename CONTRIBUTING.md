@@ -109,7 +109,7 @@ For Windows, Yarn could be find at [Classic YarnPkg](https://classic.yarnpkg.com
 ## 4. MDX external features
 
 1. Both `{/*something*/}` and `<!--something-->` can be rendered as comment, will not displayed on the website;
-2. KaTeX formula could be used in the page. eg. $C_p=\dfrac{p-p_\infty}{\frac12\rho U_\infty^2}$
+2. KaTeX formula could be used in the page. eg. `$C_p=\dfrac{p-p_\infty}{\frac12\rho U_\infty^2}$` as $C_p=\dfrac{p-p_\infty}{\frac12\rho U_\infty^2}$
 3. Footnote could be used.
 4. GitHub `[!Note]` mark could be used.
 
