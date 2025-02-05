@@ -6,7 +6,7 @@
     "toast": {
       "title": "找到了喵~",
       "text": "诶? 找什么喵? ",
-      "img": "https://data.one-among.us/img/cat-face-emoji-2048x1828.png",
+      "img": "https://data.one-among.us/img/cat-face-emoji-2048x1828.webp",
       "width": 64,
       "height": 57
     }
@@ -18,8 +18,8 @@
     "toast": {
       "title": "参宿四 ~Betelgeuse~",
       "text": "R.I.P.  - Be resilient -",
-      "img": "https://data.one-among.us/img/betelgeuse.png",
-      "background": "url(https://data.one-among.us/img/stardust.jpg)",
+      "img": "https://data.one-among.us/img/betelgeuse.webp",
+      "background": "url(https://data.one-among.us/img/stardust.webp)",
       "width": 64,
       "height": 64,
       "color": "#f0f8ff"
@@ -32,8 +32,8 @@
     "toast": {
       "title": "嘉陵雾稠",
       "text": "雾终将散去, 而我们终将看到彩虹",
-      "img": "https://data.one-among.us/img/bridge.png",
-      "background": "url(https://data.one-among.us/img/fog.jpg)",
+      "img": "https://data.one-among.us/img/bridge.webp",
+      "background": "url(https://data.one-among.us/img/fog.webp)",
       "width": 64,
       "height": 47
     }
@@ -45,7 +45,7 @@
     "toast": {
       "title": "海色",
       "text": "拔锚起航, 跨越闪耀泪光的海岸",
-      "img": "https://data.one-among.us/img/ship.png",
+      "img": "https://data.one-among.us/img/ship.webp",
       "background": "#0b2058ff",
       "width": 64,
       "height": 64,
@@ -60,7 +60,7 @@
     "toast": {
       "title": "往昔苦难",
       "text": "因为妳而存在, 因为妳而不在, 要在啊......",
-      "img": "https://data.one-among.us/img/lifeline.png",
+      "img": "https://data.one-among.us/img/lifeline.webp",
       "background": "#EEEEEE88",
       "width": 64,
       "height": 64
@@ -74,7 +74,7 @@
     "toast": {
       "title": "永乐桥上的风景",
       "text": "连绵不断的河流，像生命本身一样无法回头……",
-      "img": "https://data.one-among.us/img/Tientsin-Eye.png",
+      "img": "https://data.one-among.us/img/Tientsin-Eye.webp",
       "width": 64,
       "height": 64
     }
@@ -87,8 +87,8 @@
     "toast": {
       "title": "葬花",
       "text": "花谢花飞花满天, 红消香断有谁怜? ",
-      "img": "https://data.one-among.us/img/tumb.png",
-      "background": "url(https://data.one-among.us/img/flower.png)",
+      "img": "https://data.one-among.us/img/tumb.webp",
+      "background": "url(https://data.one-among.us/img/flowers.webp)",
       "width": 64,
       "height": 64
     }
@@ -117,7 +117,7 @@
     "toast": {
       "title": "希望有个 All Perfect 的结局",
       "text": " ~ All that I'm left with is your reminiscences ~ ",
-      "img": "https://data.one-among.us/img/musical-score.png",
+      "img": "https://data.one-among.us/img/musical-score.webp",
       "width": 64,
       "height": 64
     }
@@ -129,7 +129,7 @@
     "toast": {
       "title": "跨过空间与距离",
       "text": "­—· · ···­— · ·­—· / ·­—·· ­—­—­— ···­— · ­—·· / ­—·­—­— ­—­—­— ··­— / ··· ­—­—­— / ­—­— ··­— ­—·­—· ····",
-      "img": "https://data.one-among.us/img/radar.png",
+      "img": "https://data.one-among.us/img/radar.webp",
       "background": "black",
       "width": 64,
       "height": 64,
