@@ -1,5 +1,5 @@
 id: MioCardMeow
-profileUrl: ${path}/photos/profile.png
+profileUrl: ${path}/photos/profile.jpg
 info:
   born: '2005-04-02'
   died: '2022-01-31'
