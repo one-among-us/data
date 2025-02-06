@@ -36,8 +36,8 @@ Mone 是我们的一位顺性别同伴，是一个非常可爱的小女孩。
 > 你要好好生活，好好爱自己哦！
 
 <PhotoScroll photos={[
-'${path}/photos/messages1.png',
-'${path}/photos/messages2.png',
+'${path}/photos/messages1.webp',
+'${path}/photos/messages2.webp',
 ]} />
 
 她很喜欢她的弟弟，在她生日前一阵子，她的父亲短暂地带着她的弟弟回来看望她，她与弟弟度过了一段愉快的时光。但在父亲与弟弟离开之后，巨大的落差让她重新陷入了难过之中，她的抑郁与自责心绪越来越严重了。
@@ -45,9 +45,9 @@ Mone 是我们的一位顺性别同伴，是一个非常可爱的小女孩。
 不过，即便深陷于抑郁症的泥潭之中，她仍然开心地向大家分享自己的日常生活，也在夕阳的美景与芬芳的鲜花之中努力寻找安慰。
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.png',
-'${path}/photos/photo2.png',
-'${path}/photos/photo3.png',
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
+'${path}/photos/photo3.webp',
 ]} />
 
 在选择离开这个世界之前，Mone 给大家留下了一张可爱的图片，表示自己真的非常喜欢大家。

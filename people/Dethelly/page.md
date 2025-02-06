@@ -126,7 +126,7 @@ A 向糖的母亲表示如果可以希望将糖作为女儿下葬，但她是[�
 糖的父亲说，她是天空中最亮的星星。
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.jpg',
+    '${path}/photos/photo1.webp',
 ]} />
 
 可惜一切都很不巧地错付，如果糖还活着，不知如今会如何呢……？

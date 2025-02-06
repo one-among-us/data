@@ -13,11 +13,11 @@ info:
 陈由岐是一个来自北京朝阳的可爱女孩，这点从她发布的照片中可以看出。
 
 <PhotoScroll photos={[
-    '${path}/photos/picture1.jpg',
-    '${path}/photos/picture2.jpg',
-    '${path}/photos/picture3.jpg',
-    '${path}/photos/picture4.jpg',
-    '${path}/photos/picture5.jpg',
+    '${path}/photos/picture1.webp',
+    '${path}/photos/picture2.webp',
+    '${path}/photos/picture3.webp',
+    '${path}/photos/picture4.webp',
+    '${path}/photos/picture5.webp',
 ]} />
 
 在 2023 年 1 月 5 号晚，她于晚上 10:54 发表 [告別推文](https://twitter.com/wangzihao980/status/1611013359188709376) 后于当天凌晨离开了这个世界。
@@ -27,7 +27,7 @@ info:
 这是她留给我们的，[最后的文字](https://twitter.com/wangzihao980/status/1602321958557085697)。
 
 <PhotoScroll photos={[
-    '${path}/photos/Word1.jpg',
+    '${path}/photos/Word1.webp',
 ]} />
 
 无论你是否认识她，都请为这位可怜的姑娘哀悼并献上美好的祝福吧。

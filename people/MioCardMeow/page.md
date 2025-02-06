@@ -18,13 +18,13 @@ info:
 她还喜欢拍摄风景，留下了许多自然的美好瞬间。
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.jpg',
-'${path}/photos/photo2.jpg',
-'${path}/photos/photo3.jpg',
-'${path}/photos/photo4.jpg',
-'${path}/photos/photo5.jpg',
-'${path}/photos/photo6.jpg',
-'${path}/photos/photo7.jpg',
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
+'${path}/photos/photo3.webp',
+'${path}/photos/photo4.webp',
+'${path}/photos/photo5.webp',
+'${path}/photos/photo6.webp',
+'${path}/photos/photo7.webp',
 ]} />
 
 她还会塔罗牌占卜，不过据朋友说，似乎总是占卜出来「不太好的事情」。
