@@ -21,7 +21,7 @@ info:
 > 車上再見!  
 > 我愛妳們!  
 
-<PhotoScroll photos={[ '${path}/photos/photo0.jpg', '${path}/photos/photo1.jpg' ]} />
+<PhotoScroll photos={[ '${path}/photos/photo0.webp', '${path}/photos/photo1.webp' ]} />
 
 > 我覺得妳已經知道我是誰了  
 >
@@ -67,4 +67,4 @@ info:
 我的小天使,   
 回见.  
 
-<PhotoScroll photos={[ '${path}/photos/photo2.jpg' ]} />
+<PhotoScroll photos={[ '${path}/photos/photo2.webp' ]} />
