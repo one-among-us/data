@@ -58,7 +58,9 @@ But it’s alright—she will wait for me. In the next life, we will be reunited
 > Written by: A Ray of Sunshine for Chinatsu, Her Main Supporter  
 > With the assistance of Miss EnderCat  
 
-<details><summary>Original</summary>
+<details>
+<summary>Original</summary>
+
 <PhotoScroll photos={['${path}/photos/image1.webp', '${path}/photos/image2.webp']} />
 
 > 她寫給lib一抹陽光的遺書
