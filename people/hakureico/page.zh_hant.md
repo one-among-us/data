@@ -32,8 +32,8 @@ info:
 雖然，許多時候都是一個人的旅行呢……
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.png',
-    '${path}/photos/photo2.jpg',
+    '${path}/photos/photo1.webp',
+    '${path}/photos/photo2.webp',
 ]} />
 
 她很擅長玩音樂遊戲 OSU，並在 Bilibili 上載了許多她遊玩譜面的視頻，即使在她精神不好的時候，她的 OSU 也仍然是線上狀態。
