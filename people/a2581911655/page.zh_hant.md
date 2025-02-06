@@ -20,8 +20,8 @@ info:
 在探索作為女孩子的道路上，儘管也有過自卑、迷茫，以及各種焦慮情緒，但她堅強地生活了許久，也在這個世界上留下了許多美好的印記：
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.jpg',
-    '${path}/photos/photo2.jpg',
+    '${path}/photos/photo1.webp',
+    '${path}/photos/photo2.webp',
 ]} />
 
 ## 旅途的終點
