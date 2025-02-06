@@ -22,7 +22,7 @@ info:
 2024 年 12 月 8 日，她的众多友人收到了这样的消息：
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.png',
+    '${path}/photos/photo1.webp',
 ]} />
 
 <details>
