@@ -58,20 +58,23 @@ But it’s alright—she will wait for me. In the next life, we will be reunited
 > Written by: A Ray of Sunshine for Chinatsu, Her Main Supporter  
 > With the assistance of Miss EnderCat  
 
-<PhotoScroll photos={['${path}/photos/image1.png', '${path}/photos/image2.png']} />
+<details><summary>Original</summary>
+<PhotoScroll photos={['${path}/photos/image1.webp', '${path}/photos/image2.webp']} />
 
 > 她寫給lib一抹陽光的遺書
 
-<PhotoScroll photos={['${path}/photos/image2.jpeg', '${path}/photos/image3.jpeg']} />
+<PhotoScroll photos={['${path}/photos/photo2.webp', '${path}/photos/photo3.webp']} />
 
 > 她對lib一抹陽光說：『和你在一起的時光，是我14年以來最幸福的時候了』
 
-<PhotoScroll photos={['${path}/photos/image4.jpeg']} />
+<PhotoScroll photos={['${path}/photos/photo4.webp']} />
 
 > 『感謝末影貓小姐協助我幫助千夏』—lib一抹陽光
 
-<PhotoScroll photos={['${path}/photos/image5.jpeg']} />
+<PhotoScroll photos={['${path}/photos/photo5.webp']} />
 
 > 『如果能有下輩子，我們一定要在一起』—鈴木千夏、lib一抹陽光
 
-<PhotoScroll photos={['${path}/photos/image6.jpeg', '${path}/photos/image7.jpeg', '${path}/photos/image3.png', '${path} /photos/image4.png']} />
+<PhotoScroll photos={['${path}/photos/photo6.webp', '${path}/photos/photo7.webp', '${path}/photos/image3.webp', '${path}/photos/image4.webp']} />
+
+</details>

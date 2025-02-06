@@ -55,20 +55,20 @@ info:
 > lib一抹阳光：千夏的朋友，主要干预者
 > 末影猫：千夏的朋友，协助干预者
 
-<PhotoScroll photos={['${path}/photos/image1.png', '${path}/photos/image2.png']} />
+<PhotoScroll photos={['${path}/photos/image1.webp', '${path}/photos/image2.webp']} />
 
 > 她写给lib一抹阳光的遗书
 
-<PhotoScroll photos={['${path}/photos/image2.jpeg', '${path}/photos/image3.jpeg']} />
+<PhotoScroll photos={['${path}/photos/photo2.webp', '${path}/photos/photo3.webp']} />
 
 > 她对lib一抹阳光说：『和你在一起的时光，是我14年以来最幸福的时候了』
 
-<PhotoScroll photos={['${path}/photos/image4.jpeg']} />
+<PhotoScroll photos={['${path}/photos/photo4.webp']} />
 
 > 『感谢末影猫小姐协助我帮助千夏』——lib一抹阳光
 
-<PhotoScroll photos={['${path}/photos/image5.jpeg']} />
+<PhotoScroll photos={['${path}/photos/photo5.webp']} />
 
 > 『如果能有下辈子，我们一定要在一起』——铃木千夏、lib一抹阳光
 
-<PhotoScroll photos={['${path}/photos/image6.jpeg', '${path}/photos/image7.jpeg', '${path}/photos/image3.png', '${path}/photos/image4.png']} />
+<PhotoScroll photos={['${path}/photos/photo6.webp', '${path}/photos/photo7.webp', '${path}/photos/image3.webp', '${path}/photos/image4.webp']} />
