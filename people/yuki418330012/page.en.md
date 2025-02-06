@@ -52,7 +52,7 @@ She had attempted suicide many times before.
 In the last year of her life (2024), the frequency increased to sometimes three or four times a month.
 Her friends often called the police and organized offline rescue operations to interrupt her suicide attempts.
 
-<PhotoScroll photos={['${path}/photos/image0.jpeg','${path}/photos/image1.jpeg','${path}/photos/image2.jpeg','${path}/photos/image3.jpeg','${path}/photos/image4.jpeg','${path}/photos/image5.jpeg','${path}/photos/image6.jpeg']} />
+<PhotoScroll photos={['${path}/photos/image0.webp','${path}/photos/image1.webp','${path}/photos/image2.webp','${path}/photos/image3.webp','${path}/photos/image4.webp','${path}/photos/image5.webp','${path}/photos/image6.webp']} />
 
 Yuki wanted to live in Chengdu. She initially came to Chengdu to meet her ex "Xixi," who often changed names and now has tens of thousands of followers. However, Xixi abandoned her.
 After being taken in by Zhouzhou[^1], she lived with her. Zhouzhou treated her as if she were her daughter.
