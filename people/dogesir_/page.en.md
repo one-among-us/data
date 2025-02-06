@@ -16,12 +16,12 @@ We believe, as long as she wants, she would be able to draw anything well.
 Here are some of her drawings before she left:
 
 <PhotoScroll photos={[
-    '${path}/photos/works1.jpg',
-    '${path}/photos/works2.jpg',
-    '${path}/photos/works3.jpg',
-    '${path}/photos/works4.jpg',
-    '${path}/photos/works5.jpg',
-    '${path}/photos/works6.jpg',
+    '${path}/photos/works1.webp',
+    '${path}/photos/works2.webp',
+    '${path}/photos/works3.webp',
+    '${path}/photos/works4.webp',
+    '${path}/photos/works5.webp',
+    '${path}/photos/works6.webp',
 ]} />
 
 This is her last self-description:
@@ -30,7 +30,7 @@ This is her last self-description:
 
 Now it's never going to change…
 
-<PhotoScroll photos={[ '${path}/photos/intro.jpg' ]} />
+<PhotoScroll photos={[ '${path}/photos/intro.webp' ]} />
 
 English transcript of her self-description above:
 
@@ -78,7 +78,7 @@ She was also a lover of Minecraft.
 She had been updating a Minecraft map for a long time on Bilibili
 Here are some photos she took:
 
-<PhotoScroll photos={[ '${path}/photos/mc1.jpg', '${path}/photos/mc2.jpg', '${path}/photos/mc3.jpg', '${path}/photos/mc4.jpg', '${path}/photos/mc5.jpg', '${path}/photos/mc6.jpg', '${path}/photos/mc7.jpg', '${path}/photos/mc8.jpg', ]} />
+<PhotoScroll photos={[ '${path}/photos/mc1.webp', '${path}/photos/mc2.webp', '${path}/photos/mc3.webp', '${path}/photos/mc4.webp', '${path}/photos/mc5.webp', '${path}/photos/mc6.webp', '${path}/photos/mc7.webp', '${path}/photos/mc8.webp', ]} />
 
 It was not her first attempt to get on *the train*.
 Before the end, she tried **4** times.
@@ -88,7 +88,7 @@ She was not alone; another girl was together with her on the way.
 
 > “You liked that photo (1st picture) I took in a Winter, so you sent me this postcard (2nd picture). Then I'll send you a photo I took in Summer!” —Shou Tui Che
 
-<PhotoScroll photos={[ '${path}/photos/photo1.jpg', '${path}/photos/works3.jpg', '${path}/photos/photo2.jpg', ]} />
+<PhotoScroll photos={[ '${path}/photos/photo1.webp', '${path}/photos/works3.webp', '${path}/photos/photo2.webp', ]} />
 
 We wanted to receive another postcard from her.
 
