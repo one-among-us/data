@@ -39,13 +39,13 @@ info:
 
 > 「我明明能早 10 分钟打 120，可是我偏偏在第一时间选择了先确认状态，我很自责，我永远也忘不了她最后对我说的『我好难受，末影猫救我！』」——末影猫
 
-<PhotoScroll photos={[ '${path}/photos/Photo1.png']} />
+<PhotoScroll photos={[ '${path}/photos/Photo1.webp']} />
 
 ## 她的圖庫
 
 > 選自貓貓的 QQ 空間, 全是建築照。
 
-<PhotoScroll photos={[ '${path}/photos/Photo4.png', '${path}/photos/Photo3.png', '${path}/photos/Photo2.png']} />
+<PhotoScroll photos={[ '${path}/photos/Photo4.webp', '${path}/photos/Photo3.webp', '${path}/photos/Photo2.webp']} />
 
 ## 頁面中出現的其他人  
 
