@@ -68,7 +68,7 @@ info:
 6 月末，她再度嘗試輕生，進了 ICU，在情況好轉之後，她寫下了這篇小詩：
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.jpg',
+'${path}/photos/photo1.webp',
 ]} />
 
 其實她內心仍有活下去的意願，直到離世前幾日，她仍舊尋找著希望，向 Siri 問詢著預防自殺的方法。

@@ -14,14 +14,14 @@ Suigetsu was a gentle girl who was active on radio waves.
 She sometimes seemed too obsessed with technology. However, that was also one aspect of her cuteness.
 
 <PhotoScroll photos={[
-    "${path}/photos/image0.jpg",
-    "${path}/photos/image1.jpg",
-    "${path}/photos/image2.jpg"
+    "${path}/photos/image0.webp",
+    "${path}/photos/image1.webp",
+    "${path}/photos/image2.webp"
 ]} />
 
 > zako～zako～Ciallo～(∠・ω< )⌒★
 
-<PhotoScroll photos={["${path}/photos/image3.png"]} />
+<PhotoScroll photos={["${path}/photos/image3.webp"]} />
 
 > Not just taking a break, but truly lazy, no mistake.
 >

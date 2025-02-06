@@ -14,7 +14,7 @@ she was able to be on good terms with every doctor and patient she meets.
 Here is a drawing of her by an art student she met during one of her stays in the hospital:
 
 <PhotoScroll photos={[
-    '${path}/photos/portrait.jpg', 
+    '${path}/photos/portrait.webp', 
 ]} />
 
 Because Exist's haircut was similar to the character Isabelle in *Animal Crossing*;

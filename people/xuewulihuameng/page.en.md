@@ -17,7 +17,7 @@ She was skilled in drawing.
 She once made a drawing as a present for her friend.
 However, only after her death did her friend receive the drawing.
 
-<PhotoScroll photos={[ '${path}/photos/photo1.jpg',]} />  
+<PhotoScroll photos={[ '${path}/photos/photo1.webp',]} />  
 
 In the Zhihu questions [How’s meeting Xuewulihuameng in real life?](https://www.zhihu.com/question/269853559) and [What do you think of the death-seeking tendencies of Xuewulihuameng?](https://www.zhihu.com/question/268738337), many of her friends expressed their grief and said that she was really kind.
 Just before her departure, she still consoled and encouraged one of her friends.
@@ -38,7 +38,7 @@ On that quiet night, without letting anyone know, she went to the Huanghuayuan J
 
 Following is the last photo she left behind:
 
-<PhotoScroll photos={[ '${path}/photos/photo2.jpg',]} />  
+<PhotoScroll photos={[ '${path}/photos/photo2.webp',]} />  
 
 Looking into the distance from the bridge,
 the blurred lights seemed to be moistened by tears...

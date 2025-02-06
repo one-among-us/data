@@ -31,4 +31,4 @@ Let me end with a poem by Yeats, *Haters of the Wind*:
 > Although the rushes and the fowl of the air  
 > Cry of his love with their pitiful cries.  
 
-<PhotoScroll photos={["${path}/photos/image0.jpg"]} />
+<PhotoScroll photos={["${path}/photos/image0.webp"]} />

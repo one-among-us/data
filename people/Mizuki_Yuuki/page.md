@@ -27,6 +27,6 @@ mizuki 生前是一位非常开朗、非常乐观、非常在意朋友的 non-bi
 
 希望你去往没有痛苦的世界，希望你的未来缤纷多彩。
 
-<PhotoScroll photos={[ '${path}/photos/photo1.jpg', '${path}/photos/photo2.jpg', '${path}/photos/photo3.jpg', '${path}/photos/photo4.jpg', '${path}/photos/photo5.jpg', '${path}/photos/photo6.jpg', ]}/>
+<PhotoScroll photos={[ '${path}/photos/photo1.webp', '${path}/photos/photo2.webp', '${path}/photos/photo3.webp', '${path}/photos/photo4.webp', '${path}/photos/photo5.webp', '${path}/photos/photo6.webp', ]}/>
 
 条目贡献：[NNG](https://twitter.com/NNGnoMKT)

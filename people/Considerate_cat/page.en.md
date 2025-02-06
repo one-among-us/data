@@ -60,13 +60,13 @@ Unfortunately, she lost consciousness at 1:25 am on May 14th, 2023 and was taken
 
 > “I could have called 120 ten minutes earlier, but I chose to confirm her status first. I blame myself. I will never forget what she said to me at the end: ‘I’m in so much pain, EnderCat, please help me!’” - EnderCat
 
-<PhotoScroll photos={[ '${path}/photos/Photo1.png']} />
+<PhotoScroll photos={[ '${path}/photos/Photo1.webp']} />
 
 ## Her gallery
 
 > Selected from MoeCat’s Qzone, all are architectural photos
 
-<PhotoScroll photos={[ '${path}/photos/Photo4.png', '${path}/photos/Photo3.png', '${path}/photos/Photo2.png']} />
+<PhotoScroll photos={[ '${path}/photos/Photo4.webp', '${path}/photos/Photo3.webp', '${path}/photos/Photo2.webp']} />
 
 ## Other people who appear on this page
 

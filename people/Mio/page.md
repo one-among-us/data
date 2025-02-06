@@ -8,8 +8,8 @@ info:
 > 「澪？不是哦，其实 Mio 也是随便取的，不会日语阿巴」
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.jpg',
-'${path}/photos/photo2.jpg',
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
 ]} />
 
 Mio，来自广东省佛山市，父亲是高中教师，母亲是家庭主妇，有一个姐姐。智力超群又心灵手巧的她生前就读于当地的一所 985。
@@ -26,8 +26,8 @@ Mio，来自广东省佛山市，父亲是高中教师，母亲是家庭主妇�
 在 2022 年 4 月，Mio 的一条朋友圈被[北雁云依](https://github.com/BeiyanYunyi)看到了。当时刚确定性别认同的北雁云依想到 Mio 在小学时就曾搜索 SRS 相关知识，于是与 Mio 重新联系上时就向她出了柜，曾经的“基友”就这样变成了姬友。
 
 <PhotoScroll photos={[
-'${path}/photos/photo6.jpg',
-'${path}/photos/photo7.jpg',
+'${path}/photos/photo6.webp',
+'${path}/photos/photo7.webp',
 ]} />
 
 ## 找到闺蜜
@@ -35,13 +35,13 @@ Mio，来自广东省佛山市，父亲是高中教师，母亲是家庭主妇�
 Mio 和她的 MtF 闺蜜度过了一个多月的生活，期间共见面 6 次，这是这段友谊的见证：
 
 <PhotoScroll photos={[
-'${path}/photos/photo5.jpg'
+'${path}/photos/photo5.webp'
 ]} />
 
 而这，是 Mio 送闺蜜到机场后离开的背影，闺蜜见到她的最后一面。
 
 <PhotoScroll photos={[
-'${path}/photos/photo4.jpg'
+'${path}/photos/photo4.webp'
 ]} />
 
 ---
@@ -53,15 +53,15 @@ Mio 和她的 MtF 闺蜜度过了一个多月的生活，期间共见面 6 次�
 她没能挺过这件事情的压力，导致抑郁急性发作。这次，她没有告诉任何人，只设定了次日 12 时的定时推文。第二天，母亲发现她时，她已经失去了任何被抢救回来的希望，只留给我们无尽的哀思。
 
 <PhotoScroll photos={[
-'${path}/photos/twitter1.jpg',
-'${path}/photos/twitter2.jpg',
-'${path}/photos/twitter3.jpg',
+'${path}/photos/twitter1.webp',
+'${path}/photos/twitter2.webp',
+'${path}/photos/twitter3.webp',
 ]} />
 
 这是她最后的聊天记录。
 
 <PhotoScroll photos={[
-'${path}/photos/photo3.jpg'
+'${path}/photos/photo3.webp'
 ]} />
 
 > 惋秋  

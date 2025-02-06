@@ -154,7 +154,7 @@ Her mother told A how diligent and excellent she was and how much they loved her
 Sugar's father said that Sugar was the brightest star in the sky.
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.jpg',
+    '${path}/photos/photo1.webp',
 ]} />
 
 However, everything went wrong.

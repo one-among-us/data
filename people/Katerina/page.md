@@ -18,10 +18,10 @@ info:
 下面是她的一部分照片，里面也包括了她喜欢的摩托车：
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.png',
-    '${path}/photos/photo2.jpg',
-    '${path}/photos/photo3.jpg',
-    '${path}/photos/photo4.jpg',
+    '${path}/photos/photo1.webp',
+    '${path}/photos/photo2.webp',
+    '${path}/photos/photo3.webp',
+    '${path}/photos/photo4.webp',
 ]} />
 
 卡捷琳娜喜欢各种美食，包括苦瓜柠檬茶、披萨、饺子、提拉米苏。不过，其实只要是好吃的她都喜欢。她还有着一手很不错的厨艺。在广东的那段时间，她觉得白切鸡特别好吃，于是这道菜就变成了她最拿手的菜。

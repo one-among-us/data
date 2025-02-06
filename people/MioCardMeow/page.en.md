@@ -19,13 +19,13 @@ She liked to take photos of landscapes.
 She recorded those beautiful moments of nature:
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.jpg',
-'${path}/photos/photo2.jpg',
-'${path}/photos/photo3.jpg',
-'${path}/photos/photo4.jpg',
-'${path}/photos/photo5.jpg',
-'${path}/photos/photo6.jpg',
-'${path}/photos/photo7.jpg',
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
+'${path}/photos/photo3.webp',
+'${path}/photos/photo4.webp',
+'${path}/photos/photo5.webp',
+'${path}/photos/photo6.webp',
+'${path}/photos/photo7.webp',
 ]} />
 
 She knew how to use Tarot for divination. However, according to her friends, she often got bad predictions in divination.

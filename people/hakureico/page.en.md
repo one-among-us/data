@@ -35,8 +35,8 @@ Occasionally, she took flights and looked at the blue sky outside the porthole.
 Although these were always solo trips.
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.png',
-    '${path}/photos/photo2.jpg',
+    '${path}/photos/photo1.webp',
+    '${path}/photos/photo2.webp',
 ]} />
 
 She was good at playing rhythm game OSU, and uploaded many videos of her gameplay.

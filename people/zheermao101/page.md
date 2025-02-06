@@ -34,8 +34,8 @@ info:
 [Arts](https://one-among.us/profile/ArtsEpiphany) 也曾经给折耳猫发送过关心的信，她们关系很好，折耳猫一直留着她的信件。
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.jpg',
-    '${path}/photos/photo2.jpg',
+    '${path}/photos/photo1.webp',
+    '${path}/photos/photo2.webp',
 ]} />
 
 折耳猫曾好几次尝试离开这个世界，但在救助之中艰难地存活了下来。
@@ -45,7 +45,7 @@ info:
 在离开之前几天，她给 One Among Us 的邮箱发送了一封邮件。那些秋叶的成员在看到后连夜给她发送了一份回信：
 
 <PhotoScroll photos={[
-    '${path}/photos/photo3.png',
+    '${path}/photos/photo3.webp',
 ]} />
 
 后来，那些秋叶的成员在 Telegram 上联系上了她，试着安慰了她，与她聊了许久。包括跨性别相关的经历，爱与被爱，以及活下去的意义，试图多挽留她一会儿。

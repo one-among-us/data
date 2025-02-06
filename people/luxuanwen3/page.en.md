@@ -24,7 +24,7 @@ After posting her last tweet, she took an overdose of chemicals.
 Her close friends rushed to save her.
 However, at 3 a.m. the next morning, Nini left us to pursue her own path and seek her freedom.
 
-<PhotoScroll photos={[ '${path}/photos/i wish i could.png', ]} />
+<PhotoScroll photos={[ '${path}/photos/photo0.webp', ]} />
 
 > Here I understand what is meant by glory:  
 > the right to love without limits.  
