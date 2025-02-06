@@ -157,8 +157,8 @@ Why don't I just lay it all out to the stars -->
 如果可以帶著衝浪板去沖浪就好了呢。
 
 <PhotoScroll photos={[
- '${path}/photos/photo1.jpg',
- '${path}/photos/photo2.jpg',
+ '${path}/photos/photo1.webp',
+ '${path}/photos/photo2.webp',
 ]} />
 
 樓上的鋼琴彈得真好聽，平時只覺得吵鬧。
@@ -187,7 +187,7 @@ Why don't I just lay it all out to the stars -->
 >
 > 就像 Angel Beats 那樣，我們一起在死後反抗這個不公的世界。
 >
-> <PhotoScroll photos={["${path}/photos/photo3.png"]} />
+> <PhotoScroll photos={["${path}/photos/photo3.webp"]} />
 
 <!-- (此處從第一人稱轉客觀敘述) -->
 
