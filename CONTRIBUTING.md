@@ -82,6 +82,7 @@ For Windows, Yarn could be find at [Classic YarnPkg](https://classic.yarnpkg.com
 * `actualHide`: `string[]`, if you don't want a entry show on the home and won't be redirected by random buttons, add it into this item.  
   If you set a entry in this list, you have no need to set it into `notShowOnHome` again.
 * `trigger`: `string[]`, if you think this article is likely to irritate readers and should be restricted, please set this option.
+* `skipAge`: `string[]`, if you want to skip age calculation, or not display age, put id in this option.
 
 ### Example
 
