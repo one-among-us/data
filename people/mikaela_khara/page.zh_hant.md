@@ -20,7 +20,7 @@ info:
   </blockquote>
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.png',
+'${path}/photos/photo1.webp',
 ]} />
 
 Mikaela Khara，16 歲，北京人。
@@ -163,9 +163,9 @@ Mika 說過：「希望有一天能一起坐在天眼上看風景。」
 愛從未走遠，只是我們再也無法親口對她說了。
 
 <PhotoScroll photos={[
-'${path}/photos/photo2.jpg',
-'${path}/photos/photo3.jpg',
-'${path}/photos/photo4.jpg',
+'${path}/photos/photo2.webp',
+'${path}/photos/photo3.webp',
+'${path}/photos/photo4.webp',
 ]} />
 
 </details>

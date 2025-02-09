@@ -45,7 +45,7 @@ Nine days after, on 2022 March 18th, One Among Us's official Twitter tweeted:
 On September 11, 2023, a netizen posted on the Coolapk Forum telling the story of his transfem cousin, who finally chose to commit suicide due to pressure and violence from his family.
 Unfortunately, most netizens still regard the death as “the Internet’s poisonous effects on teenagers” without truly understanding the needs of transgender people. The poster also couldn't really understand his transfem cousin's needs, but did take some action to help her. This incident is a microcosm of the oppression faced by transgender people in China from both family and society. The original post is now deleted.
 
-<PhotoScroll photos={[ '${path}/photos/kuan1.jpg', '${path}/photos/kuan2.jpg', '${path}/photos/kuan3.jpg', '${path} /photos/kuan4.jpg', ]} />
+<PhotoScroll photos={[ '${path}/photos/kuan1.webp', '${path}/photos/kuan2.webp', '${path}/photos/kuan3.webp', '${path} /photos/kuan4.webp', ]} />
 
 ### Those departed transgender friends who died between Nov 2023 to May 2024
 

@@ -58,9 +58,9 @@ info:
 她文气轻靡，文风华丽。常在高考后的一两个月，引经据典，写下长信，祝愿前程似锦。
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.jpg',
-'${path}/photos/photo2.jpg',
-'${path}/photos/photo3.jpg',
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
+'${path}/photos/photo3.webp',
 ]} />
 
 偶尔灵感迸发，左右推敲，留下工整的格律。

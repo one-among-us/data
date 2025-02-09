@@ -14,14 +14,14 @@ info:
 即使有時會顯現對於技術的執著, 但這也是她所可愛的一面呢?
 
 <PhotoScroll photos={[
-    "${path}/photos/image0.jpg",
-    "${path}/photos/image1.jpg",
-    "${path}/photos/image2.jpg"
+    "${path}/photos/image0.webp",
+    "${path}/photos/image1.webp",
+    "${path}/photos/image2.webp"
 ]} />
 
 > zako～zako～Ciallo～(∠・ω< )⌒★
 
-<PhotoScroll photos={["${path}/photos/image3.png"]} />
+<PhotoScroll photos={["${path}/photos/image3.webp"]} />
 
 > 不是犯懶, 而是真懶
 >

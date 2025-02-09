@@ -38,15 +38,15 @@ In April 2024, Susie and some friends visited Snowfairy, who was studying at a l
 Those days were filled with laughter.
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.PNG',
-'${path}/photos/photo2.PNG',
-'${path}/photos/photo3.PNG',
-'${path}/photos/photo4.PNG',
-'${path}/photos/photo5.PNG',
-'${path}/photos/photo6.PNG',
-'${path}/photos/photo7.PNG',
-'${path}/photos/photo8.PNG',
-'${path}/photos/photo9.PNG',
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
+'${path}/photos/photo3.webp',
+'${path}/photos/photo4.webp',
+'${path}/photos/photo5.webp',
+'${path}/photos/photo6.webp',
+'${path}/photos/photo7.webp',
+'${path}/photos/photo8.webp',
+'${path}/photos/photo9.webp',
 ]} />
 
 *(Photos from Susie’s trip to Shibuya, Shinjuku, and Ikebukuro)*

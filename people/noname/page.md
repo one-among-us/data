@@ -31,7 +31,7 @@ info:
 
 2023 年 9 月 11 日，有一名网友在酷安论坛发帖，陈述了其表妹作为跨性别者，由于来自家庭的压力与暴力最终选择自杀的故事。遗憾的是，大多网友还是将此事视为「网络对青少年的荼毒」而没有真正理解跨性别者的需要。发帖人也无法真正理解他表妹的需要，但确实采取了一些行动帮助她。这件事可以作为中国跨性别者受到家庭社会两方面的压迫的缩影。目前原帖已被删除。
 
-<PhotoScroll photos={[ '${path}/photos/kuan1.jpg', '${path}/photos/kuan2.jpg',  '${path}/photos/kuan3.jpg',  '${path}/photos/kuan4.jpg', ]} />
+<PhotoScroll photos={[ '${path}/photos/kuan1.webp', '${path}/photos/kuan2.webp',  '${path}/photos/kuan3.webp',  '${path}/photos/kuan4.webp', ]} />
 
 ### 2023 年 11 月至 2024 年 5 月离开的跨性别同伴
 

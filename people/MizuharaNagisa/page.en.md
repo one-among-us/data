@@ -69,7 +69,7 @@ This is the [last piece of writing](https://pbs.twimg.com/media/E6odBBBVIAAM-Zt?
 > — Mizuhara Nagisa, 2021 June 20th.
 
 <PhotoScroll photos={[
-    '${path}/photos/letter.jpg',
+    '${path}/photos/letter.webp',
 ]} />
 
 We wish you to be able to meet the girls in Jinjufu and live happily in another world,

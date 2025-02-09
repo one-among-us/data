@@ -28,15 +28,15 @@ Susie 一直有著較強的自殺慾望，大家雖然沒說什麼，但一直�
 2024 年 4 月至 5 月，Susie 和她的朋友到日本探望當時還在讀語言學校的雪仙。在相處的那幾天，大家都很開心。
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.PNG',
-'${path}/photos/photo2.PNG',
-'${path}/photos/photo3.PNG',
-'${path}/photos/photo4.PNG',
-'${path}/photos/photo5.PNG',
-'${path}/photos/photo6.PNG',
-'${path}/photos/photo7.PNG',
-'${path}/photos/photo8.PNG',
-'${path}/photos/photo9.PNG',
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
+'${path}/photos/photo3.webp',
+'${path}/photos/photo4.webp',
+'${path}/photos/photo5.webp',
+'${path}/photos/photo6.webp',
+'${path}/photos/photo7.webp',
+'${path}/photos/photo8.webp',
+'${path}/photos/photo9.webp',
 ]} />
 
 (Susie 在澀谷, 新宿, 池袋時拍攝的相片)

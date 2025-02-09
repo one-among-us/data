@@ -82,6 +82,7 @@ For Windows, Yarn could be find at [Classic YarnPkg](https://classic.yarnpkg.com
 * `actualHide`: `string[]`, if you don't want a entry show on the home and won't be redirected by random buttons, add it into this item.  
   If you set a entry in this list, you have no need to set it into `notShowOnHome` again.
 * `trigger`: `string[]`, if you think this article is likely to irritate readers and should be restricted, please set this option.
+* `skipAge`: `string[]`, if you want to skip age calculation, or not display age, put id in this option.
 
 ### Example
 
@@ -109,7 +110,7 @@ For Windows, Yarn could be find at [Classic YarnPkg](https://classic.yarnpkg.com
 ## 4. MDX external features
 
 1. Both `{/*something*/}` and `<!--something-->` can be rendered as comment, will not displayed on the website;
-2. KaTeX formula could be used in the page. eg. $C_p=\dfrac{p-p_\infty}{\frac12\rho U_\infty^2}$
+2. KaTeX formula could be used in the page. eg. `$C_p=\dfrac{p-p_\infty}{\frac12\rho U_\infty^2}$` as $C_p=\dfrac{p-p_\infty}{\frac12\rho U_\infty^2}$
 3. Footnote could be used.
 4. GitHub `[!Note]` mark could be used.
 
@@ -131,9 +132,9 @@ For Windows, Yarn could be find at [Classic YarnPkg](https://classic.yarnpkg.com
     * `slot` html slot
   * example:
     ```mdx
-    <BlueBlock>
+    <BlurBlock>
     this is an example blurred paragraph.
-    </BlueBlock>
+    </BlurBlock>
     ```
 * `CapDownQuote`
   * usage: `<CapDownQuote messages={string[][]} />`
