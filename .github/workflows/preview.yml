@@ -3,7 +3,15 @@ name: PR Preview
 on:
   pull_request_target:
     types: [opened, synchronize, reopened]
-    branches: [main]
+    branches: [main, develop]
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: 'Pull Request number to deploy preview for'
+        required: true
+      pr_branch:
+        description: 'The branch name to deploy'
+        required: true
 
 jobs:
   build:
@@ -15,12 +23,30 @@ jobs:
       pull-requests: write
 
     steps:
+      # First, check out the workflow file (from the base) so secrets are available.
+      - name: Checkout base branch
+        uses: actions/checkout@v4
+
+      # Determine PR info based on the event type.
+      - name: Set PR info
+        id: pr-info
+        run: |
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            echo "PR_NUMBER=${{ github.event.inputs.pr_number }}" >> $GITHUB_ENV
+            echo "PR_BRANCH=${{ github.event.inputs.pr_branch }}" >> $GITHUB_ENV
+          else
+            echo "PR_NUMBER=${{ github.event.pull_request.number }}" >> $GITHUB_ENV
+            echo "PR_BRANCH=${{ github.event.pull_request.head.ref }}" >> $GITHUB_ENV
+          fi
+
+      # Now check out the PR’s head branch (whether from a PR event or supplied manually)
       - name: Checkout PR branch
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.head.ref }}
+          ref: ${{ env.PR_BRANCH }}
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: 'yarn'
@@ -37,25 +63,25 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-          command: pages deploy dist --project-name=data-preview --branch=pr-${{ github.event.pull_request.number }}
+          command: pages deploy dist --project-name=data-preview --branch=pr-${{ env.PR_NUMBER }}
 
       - name: Pull request comment
         uses: actions/github-script@v6
         with:
           script: |
-            const prNumber = context.payload.pull_request.number;
+            const prNumber = "${{ env.PR_NUMBER }}";
             const now = new Date().toISOString().substring(0, 19).replace('T', ' ');
             const reviewBody = `🐱 感谢贡献！\n\n部署了预览，在这里哦: https://pr-${prNumber}.data-preview.pages.dev\n\n🕒 最后更新: ${now} (UTC)`;
             
-            // Look for an existing review comment containing the preview message.
+            // List existing reviews on the PR.
             const { data: reviews } = await github.rest.pulls.listReviews({
               owner: context.repo.owner,
               repo: context.repo.repo,
               pull_number: prNumber,
             });
-            const existingReview = reviews.find(review => review.body.includes('部署了预览'));
+            const existingReview = reviews.find(review => review.body && review.body.includes('部署了预览'));
             if (existingReview) {
-              // Update the existing review comment.
+              // Update the existing review.
               await github.rest.pulls.updateReview({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
