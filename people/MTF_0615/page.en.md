@@ -6,12 +6,17 @@ info:
 
 ## Introduction
 
-GeunYook, a lovely girl with grand dreams. She is proficient in music and enjoys playing the "Cat and Mouse" mobile game. She has rescued others on many occasions, earning her the reputation of an indisputable community star.
+GeunYook was a lovely girl with grand dreams. She was proficient in music production and enjoyed playing the "Tom and Jerry" mobile game.
+She rescued others many times, earning her the reputation of an indisputable community star.
 
-According to her, at the beginning of 2024, I was her only friend. We played the "Cat and Mouse" game very well together. In September, she found someone she cared for, but her lover’s sudden suicide sent her spiraling into collapse and chaos. By that time, I was no longer in frequent contact with her, and, feeling abandoned by the world, she sank into an unprecedented depression.
+According to her, I was her only friend at the beginning of 2024.
+We enjoyed playing the "Tom and Jerry" game together.
+In September, she found someone she liked, but her significant other’s sudden suicide sent her spiraling into collapse and chaos.
+By that time, I was no longer in regular contact with her, and, feeling abandoned by the world, she sank into an unprecedented depression.
 
 ## Her Departure
 
-Dissatisfied with the state of the world and tormented by its hardships, she suffered unbearably and had attempted suicide multiple times before being rescued. At a time unknown to anyone, she silently left once again, but this time, everyone knew she would not return.
+Dissatisfied with the state of the world and tormented by its hardships, she suffered unbearably and had attempted suicide multiple times.
+She silently left once again unknown to anyone, but this time, everyone knew she would not return.
 
 <PhotoScroll photos={["${path}/photos/image0.png"]} />
