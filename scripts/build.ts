@@ -37,6 +37,7 @@ const actualHide = hdata.actualHide;
 const trigger = hdata.trigger;
 const switchPair = hdata.switch;
 const skipAges = hdata.skipAges;
+const probilities = hdata.probilities;
 
 async function buildBlurCode() {
   const blurCode = {};
@@ -207,6 +208,7 @@ function copyPublic() {
   fs.copySync(path.join(projectRoot, DATA_DIR, 'eggs.json'), path.join(projectRoot, DIST_DIR, 'eggs.json'));
   fs.writeFileSync(path.join(DIST_DIR, 'trigger-list.json'), JSON.stringify(trigger as string[]));
   fs.writeFileSync(path.join(DIST_DIR, 'switch-pair.json'), JSON.stringify(switchPair as [string, string][]))
+  fs.writeFileSync(path.join(DIST_DIR, 'probilities.json'), JSON.stringify(probilities))
 }
 
 function copyComments() {
