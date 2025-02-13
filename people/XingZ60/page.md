@@ -47,7 +47,7 @@ info:
 
 <details>
 
-<summary>谨以此文，纪念故友星璃璃。<br/>铃语, 2024 年 12 月 24 日</summary>
+<summary>铃语, 2024 年 12 月 24 日<br/>谨以此文，纪念故友星璃璃。</summary>
 
 <h3 align = "center">（一·前言）</h3>
 
@@ -384,7 +384,7 @@ wing, 2025年2月9日
 ### 九重现实
 
 <details>
-<summary> 雨狸 【妄想症Paranoia】<br/>☉☉☉☉</summary>
+<summary> 雨狸 【妄想症Paranoia】<br/><p style="text-align: center;">☉☉☉☉</p></summary>
 
 这个故事刚刚发生不久，
 
@@ -450,7 +450,7 @@ wing, 2025年2月9日
 ### 零重祈愿
 
 <details>
-<summary> 雨狸 【妄想症Paranoia】<br/>☿☿☿☿☿☿</summary>
+<summary> 雨狸 【妄想症Paranoia】<br/><p style="text-align: center;">☿☿☿☿☿☿</p></summary>
 
 >《Maybe All Transgender People Are Really Vampires》
 >
@@ -546,8 +546,6 @@ wing, 2025年2月9日
 
 - 所以我真不知道 z60 为什么会指定我写评价。z60 到底看上我什么？
 
-锦心
-
 </details>
 
 ## 致曾划过夜空的流星
@@ -574,7 +572,9 @@ wing, 2025年2月9日
 
 此致。
 
-<p style="text-align: end;">调查员 深夜, 书于2024.2-2025.2</p>
+<p style="text-align: end;">调查员 深夜 书于2024.2-2025.2</p>
+
+条目贡献：无常 及行文中所出现的朋友们
 
 [^1]: 即 Transcend Lights 
 
