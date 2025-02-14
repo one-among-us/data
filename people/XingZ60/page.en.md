@@ -24,7 +24,7 @@ In her view, helping others, especially vulnerable groups, to survive, live, and
 ## Dedication
 
 <details>
-<summary><h3 style="display:inline-block; ">Lingyu, December 24, 2024</h3><br/>This article is written in memory of my late friend XingZ60</summary>
+<summary><h3 style="display:inline; ">Lingyu, December 24, 2024</h3><br/>This article is written in memory of my late friend XingZ60</summary>
 <p style="text-align: center;">(I. Foreword)</p>
 
 According to XingZ60's will, I am writing this article to commemorate her.
@@ -155,7 +155,7 @@ I have written so much without realizing it. Perhaps, what I think are the more 
 > <p style="text-align: end;">——繪都 2024年12月17日</p>
 
 <details>
-<summary><h3 style="display:inline-block; ">Impermanence May 4, 2024 Cloudy</h3><br/>You wanted me to write what you called the "final conclusion" part for you, so I wrote it. </summary>
+<summary><h3 style="display:inline; ">Impermanence May 4, 2024 Cloudy</h3><br/>You wanted me to write what you called the "final conclusion" part for you, so I wrote it. </summary>
 
 In this regard, I always have a problem: I am almost the person you designated who spends the least time with you and knows you the least. Why did you choose me, and what do you want to see me write? I think you should know that when you choose the people who write this section for you, you also choose the content that will be presented in this section. Many things about you, especially those that are generally considered bad, I only learned about them after you passed away. Perhaps if you hadn't ended your life so simply, I would have had the chance to hear you tell me these things in person, but there is really no chance anymore. I decided to write only based on my experiences with you while you were still alive. This is probably what you want, right?
 
@@ -190,7 +190,7 @@ I don't know what kind of feelings I have for you, but I feel that at least I lo
 </details>
 
 <details>
-<summary><h3 style="display:inline-block; ">Touno December 31, 2024</h3><br/>It is with heavy hearts that we mourn the loss of a brave and resilient soul. She lives in a world that is not friendly to her, and endures the pressure from social discipline and endless prejudice, but always chooses to move forward in her own way. </summary>
+<summary><h3 style="display:inline; ">Touno December 31, 2024</h3><br/>It is with heavy hearts that we mourn the loss of a brave and resilient soul. She lives in a world that is not friendly to her, and endures the pressure from social discipline and endless prejudice, but always chooses to move forward in her own way. </summary>
 
 She is a microcosm of countless marginalized individuals, looking for their own place in loneliness and struggle. Although the coldness and oppression of society eventually made her choose to leave, the meaning of her life far exceeds her departure. Her story reminds us that those who are marginalized are not weaklings, but warriors who bear a heavy social burden.
 
@@ -203,7 +203,7 @@ May she be free from all shackles in the other world, be free to be herself, and
 </details>
 
 <details>
-<summary><h3 style="display:inline-block; ">Mikä:<br/>"Well Dying, Well Dying, Well Dying, meow"<br/></h3><p style="text-align: end;">Mikä, January 23, 2025</p></summary>
+<summary><h3 style="display:inline; ">Mikä:<br/>"Well Dying, Well Dying, Well Dying, meow"<br/></h3><p style="text-align: end;">Mikä, January 23, 2025</p></summary>
 <BlurBlock>
 
 I don't know why Mikä didn't appear in the list of people designated for XingZ60's epitaph.
@@ -246,7 +246,7 @@ Perhaps it would have been better to encourage him to correct his mistakes. In m
 It has been more than a year since then. I hope he can rest in peace.
 
 <details>
-<summary><h3 style="display:inline-block; ">White Hair Suki February 4, 2025</h3></summary>
+<summary><h3 style="display:inline; ">White Hair Suki February 4, 2025</h3></summary>
 
 My acquaintance with XingZ60 originated from my exploration of my own gender. We met during the exploration and had similar conversations. Perhaps we were of the same type or had many other similarities. We became very familiar with each other after knowing each other for seven days. Just 72 days left an indelible mark on your life.
 
@@ -269,7 +269,7 @@ XingZ60 cuts through the sky and falls into the atmosphere
 </details>
 
 <details>
-<summary><h3 style="display:inline-block; ">Happy New Year, brother and sister-in-law. You are my grandfather and I am your son.</h3><br/>Three sentences to support the title: blank/quotation marks Written at 23:56 on January 1, 2024 when I collapsed.</summary>
+<summary><h3 style="display:inline; ">Happy New Year, brother and sister-in-law. You are my grandfather and I am your son.</h3><br/>Three sentences to support the title: blank/quotation marks Written at 23:56 on January 1, 2024 when I collapsed.</summary>
 
 > "Eloi, Eloi, Lama Sabathani?!" [^2]
 >
@@ -465,7 +465,7 @@ It's a pity, because we are all insects, and desire is just a cross-section of f
 </details>
 
 <details>
-<summary><h3 style="display:inline-block; ">Jinxin February 10, 2025</h3><br/>Unfortunately, due to personal reasons, my memory is a bit problematic. As of the time I wrote this paragraph (February 10, 2025), I have almost completely forgotten what kind of person z60 is. You also need to ask people when z60 will die. In my memory, z60 is just a person who once lived. </summary>
+<summary><h3 style="display:inline; ">Jinxin February 10, 2025</h3><br/>Unfortunately, due to personal reasons, my memory is a bit problematic. As of the time I wrote this paragraph (February 10, 2025), I have almost completely forgotten what kind of person z60 is. You also need to ask people when z60 will die. In my memory, z60 is just a person who once lived. </summary>
 
 I said a long time ago that I hated Cybertron. With the closure of limelight, I withdrew from the transgender community and stopped caring about these things. Maybe I don’t hate it as much now, but I still can’t say I like it.
 
