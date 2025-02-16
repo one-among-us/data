@@ -5,95 +5,117 @@ info:
     location: Beijing, China
 ---
 
-> Yes, life is a game, so living is my right, not my obligation. So, I can even do something while holding a cyanide capsule. I’m willing to do it, and I am preparing to do it. That means, in some dangerous situations, I might even do such things. In situations where I might get caught, I would still say, "Yes, I’ll do it," and I will absolutely not let my enemies get me."
+> Yes, life is a game, so living is my right, not my obligation. So, I can even do something while holding a cyanide capsule. I’m willing to do it, and I am preparing to do it. That means, in some dangerous situations, I might even do such things. In situations where I might get caught, I would still say, “Yes, I’ll do it, and I will absolutely not let my enemies get me.”
+
+The following text was written in accordance with the wishes of XingZ60 herself. Because of the large time span, the loss of some of the suicide note, and the fact that after her death her friends were generally in a state of great grief and acted in their own ways, it is difficult to write this article in a way that fully realizes the arrangements and ideas that she had in mind before she passed away.
 
 ## Introduction
 
-XingZ60 (modern pharmaceutical circle); originally known as Z60 (limelight); Wu Siya (Zhihu).
-Her Zhihu years were as a cross-dressing boy. In early 2022, after losing her phone, she became a part of limelight and continued her activities there, still maintaining the cross-dressing persona. Until July 2022, when things started to spiral, and in October 2022, she attempted suicide for the first time. Afterward, she withdrew from the scene for a period, from October 2022 to April 2023. During this time, she returned, diving deeper into cross-dressing culture, until her final downfall in September 2023. Afterward, she was diagnosed with a condition.
-This is something that cannot be changed.
+XingZ60 (contemporary trans “xyn” community); originally known as Z60 (limelight); Wu Siya (ZhiHu).
+
+During her active years on ZhiHu, she was a trans ally boy. In early 2022, after losing her phone, she became a part of limelight and continued her activities there, still maintaining the personal image of an ally.
+
+Until July 2022, she started transition. In October 2022, she attempted suicide for the first time. Afterward, she disappeared from the community and retreated from her transition for a period, from October 2022 to April 2023. During this time, she returned for her interest in the rhythmic game “Maimai”, diving deeper into trans culture.
+
+Finally she came out as a trans in September 2023. Afterward, she was able to get diagnosed for her identity.
+
+The inclination of transition is something that cannot be changed.
 
 <PhotoScroll photos={[ '${path}/photos/image0.webp', ]} />
 
-In her view, helping others, especially vulnerable groups, to survive, live, and develop better has always been very important. In her spare time, she organized and participated in numerous suicide intervention and rescue operations, which had a significant impact in daily life. Her actions helped others, especially vulnerable groups, and through her efforts, she did her utmost to prevent self-harm and even suicide.
+She had a very good intuition of rhythmic games, but due to her concentration problem, she did not play the purple (hardest) tracks.
+
+## Engagement in Trans Aid
+
+In her view, helping others, especially those in marginalized groups, to survive, live, and develop better has always been very important.
+
+In her spare time, she organized and participated in numerous suicide intervention and rescue operations. She was involved in the rescue of [Shizuha](https://one-among.us/profile/GLaDOSister). , which had a significant impact in daily life. Trans aid work had always been a part in her daily life. <!-- 前面这句中文懂什么意思，先这么翻译，大家看一下 --> 
+
+Her actions helped marginalized people. Through her efforts, she did her utmost to prevent self-harm and suicide.
 
 > Z60 is the second biggest fool I've ever met.
 >
-> <p style="text-align: end;">——Iryangzi, February 7, 2025</p>
+> <p style="text-align: end;">——Irako, February 7, 2025</p>
 
-## Dedication
 
 <details>
-<summary><h3 style="display:inline; ">Lingyu, December 24, 2024</h3><br/>This article is written in memory of my late friend XingZ60</summary>
-<p style="text-align: center;">(I. Foreword)</p>
+<summary><h3 style="display:inline; ">Lingyu, December 24, 2024</h3><br/>This article is written in memory of my late friend XingZ60.</summary>
+<h3 align = "center">(I. Foreword)</h3>
 
-According to XingZ60's will, I am writing this article to commemorate her.
+According to XingZ60's will, I am writing this article to commemorate them.
 
-This article should have been written long ago, but first, because of the significant impact XingZ60 had on me, and my limited linguistic ability, I felt that a few words wouldn’t do her justice; second, her passing had a profound shock on me. So this article has been left unfinished. Later, after my mental state recovered somewhat, I began to try to understand and recognize XingZ60 from various perspectives, which led to this article.
+This article should have been written long ago, but first, because of the significant impact XingZ60 had on me, and my limited language ability, I felt that a few words wouldn’t do her justice; second, their passing had a profound shock on me. So this article has been left unfinished. Later, after my mental health recovered somewhat, I began to try to understand and recognize XingZ60 from various perspectives, which led to this article.
 
-Some people say XingZ60 was an "abstract" person, and everyone had a unique understanding of her. The XingZ60 presented in this article might only reflect my personal understanding; this is just one opinion—take it or leave it, as the saying goes. It’s important to listen to many voices and not just one.
+Some people say XingZ60 was an “abstract” (funny) person, and everyone had a unique understanding of her. The XingZ60 presented in this article might only reflect my personal understanding; this is just one opinion—take it or leave it, as the saying goes. You may also refer to others' views for a more accurate understanding.
 
-<p style="text-align: center;">(II)</p>
+<h3 align = "center">(II)</h3>
 
-"Respecting the deceased" seems to be an unquestionable, self-evident truth for most of us. However, the concept of "respecting the deceased" seems to be understood differently by everyone.
+“Respecting the deceased” and “first is the deceased” seems to be an unquestionable, self-evident truth for most of us. However, the conception of “respecting the deceased” seems to be understood differently by everyone.
 
-We witnessed XingZ60's parents manage her appearance at her funeral in a traditional male gender expression and hung a large photo of her with short hair at the center of the memorial hall. We also saw them throw her ashes into the trunk of a car. Many were shocked and angered by her parents' actions. It seemed that the respect for the deceased in her parents' eyes was overshadowed by social customs and deeply ingrained biases of the living.
+We witnessed XingZ60's parents manage her appearance at their funeral in a traditional male gender expression and hung a large photo of them with short hair at the center of the memorial hall. We also saw them throw their ashes into the trunk of a car. Many were shocked and angered by their parents' actions. It seemed that the respect for the deceased in their parents' eyes was overshadowed by social customs and deeply ingrained biases of the living.
 
-Throughout history, people have tended to focus on the positive aspects of a person's life in memorials, often avoiding or ignoring their faults. For example, Wu Zetian's tombstone is blank, and her deeds are judged by future generations. In this case, XingZ60 was somewhat like Wu Zetian. She once said, "When someone dies, all matters—right or wrong—are 'decided by the lid of the coffin'; people can evaluate them." This was also reflected in her will, where she invited people with differing viewpoints to write parts of *One Among Us* and left a message saying, "Anyone who wants to write, can write."
+Throughout history, people have tended to focus on the positive aspects of a person's life in memorials, often avoiding or ignoring their faults. For example, Wu Zetian's tombstone is blank, and her deeds are judged by future generations. In this case, XingZ60 was somewhat like Wu Zetian. They once said, “When someone dies, all matters—right or wrong—are ‘decided by the lid of the coffin’; people can evaluate them.” This was also reflected in her will, where they invited people with differing viewpoints to write parts of *One Among Us* and left a message saying, “Anyone who wants to write, can write.”
 
 Since XingZ60's thoughts were like this, I’ll just write some stories. I’ll include some thoughts she brought me but try not to make value judgments about her actions. Let the "right or wrong" be evaluated by future generations.
 
-<p style="text-align: center;">(III)</p>
+<h3 align = "center"> (III) </h3>
 
-XingZ60 seemed to have a split personality; she once said she had at least three personalities—"Xingyun" (Star Cloud), "Huanyun" (Illusion Dream), and "Benhuan" (Benzene Ring). One personality identified as male, another as female, and the third one’s gender identity is unclear to me.
+XingZ60 seemed to have a dissociative identity. She once said she had at least three personalities—“Xingyun” (Star Cloud), “Huanmeng” (Illusion Dream), and “Benhuan” (Benzene Ring). One personality identified as male, another as female, and the third one’s gender identity is unclear to me.
 
-I once thought of XingZ60 as a transgender woman for a long time, but after learning about her situation, I pondered for a long time—perhaps this is more akin to being Gender Fluid, and no personal pronoun seems entirely suitable for her.
+I once thought of XingZ60 as a transgender woman for a long time, but after learning about their situation, I pondered for a long time—perhaps this is more akin to being Gender Fluid, and no personal pronoun seems entirely suitable.
 
-This was the first time I encountered such a friend. Later, I saw a pin shaped like a rotating dial on another friend's bag—divided into sky blue (he), pink (she), and purple (they), which could be rotated to indicate one’s gender identity. This might suit her perfectly.
+This was the first time I encountered such a friend. Later, I saw a pin shaped like a rotating dial on another friend's bag—divided into sky blue (he), pink (she), and purple (they), which could be rotated to indicate one’s gender identity.
 
-However, if we step back a level, the real confusion stems from the conflict between XingZ60’s personalities. The issue of personal pronouns might be just a reflection of this conflict in the realm of gender. What about in other areas? Perhaps each of her personalities had different temperaments, personalities, abilities, needs, interests, ideals, and values. As friends, how should we treat these personalities or this "combination of multiple personalities"? If her will only represents the will of one of her personalities, is it still valid? By fulfilling her will and writing this article, am I respecting the deceased, or am I not?
+This might suit her perfectly.
 
-I studied law and hold a legal qualification certificate, but I don’t know the answer to this question. I tried searching online, but all I found were standard, rigid applications of legal provisions: "Whether a person with split personalities has civil capacity depends on whether they can recognize their behavior." It seems these answers don’t fundamentally resolve the issue.
+However, if we step back a level, the real confusion stems from the conflict between XingZ60’s personalities. The issue of personal pronouns might be just a reflection of this conflict in the realm of gender. What about in other areas? Perhaps each of her personalities had different temperaments, personalities, abilities, needs, interests, ideals, and values. As friends, how should we treat these personalities or this “combination of multiple personalities”? If their will only represents the will of one of their personalities, is it still valid? By fulfilling their will and writing this article, am I respecting the deceased, or am I not?
 
-Some even tried to patch this by saying, "If the behavior was done by the 'normal' personality, it's valid; if done by the 'abnormal' personality, it's invalid." But how do we distinguish between a "normal" and an "abnormal" personality? Why do outsiders arbitrarily label "Xingyun" as the "normal" personality and "Huanyun" as the "abnormal" one (or vice versa)?
+I studied law and hold a legal qualification certificate, but I don’t know the answer to this question. I tried searching online, but all I found were standard, rigid applications of legal provisions: “Whether a person with split personalities has civil capacity depends on whether they can recognize their behavior.” It seems these answers don’t fundamentally resolve the issue.
+
+Some even tried to patch this by saying, “If the behavior was done by the ‘normal’ personality, it's valid; if done by the ‘abnormal’ personality, it's invalid.” But how do we distinguish between a “normal” and an “abnormal” personality? Why do outsiders arbitrarily label “Xingyun” as the “normal” personality and “Huanmeng” as the “abnormal” one (or vice versa)?
 
 I don't know the answers to these questions.
 
-<p style="text-align: center;">(IV)</p>
+<h3 align = "center">(IV)</h3>
 
-XingZ60 (or perhaps one of her personalities) once publicly made jokes about other sexual minorities who had passed away. As a result, some of her friends also joked about her after her death. This sparked quite a debate—some of her friends believed that by XingZ60 joking about the deceased, she was someone who "accepted jokes about the deceased," and making jokes about her was a way of respecting her behavior and values. Others, however, found it unacceptable, and an argument ensued, ending in a chaotic mess.
+XingZ60 (or perhaps one of their personalities) once publicly made jokes about other sexual minorities who had passed away. As a result, some of their friends also joked about them after their death. This sparked quite a debate—some of their friends believed that by XingZ60 joking about the deceased, they were someone who "accepted jokes about the deceased," and making jokes about them should be, against our intuition, a way of respecting her behavior and values. Others, however, found it unacceptable, and an argument ensued, ending in a chaotic mess.
 
 Yes, human joys and sorrows do not connect, nor do their ways of thinking. But who can be blamed? People’s mental and nervous systems develop differently, their environments and life experiences vary greatly, and their rationality and emotions are heavily controlled by neurochemicals. The depth of thought and communication needed for mutual understanding takes enormous energy. As a result, human freedom is still constrained by uncontrollable conditions. Or, to put it another way, "freedom is always bound by shackles"—and for this reason, mediation often becomes futile, and resonance between people of different views is a rare luxury. Instead, people fight, attack, and hurt each other. The world thus becomes a disguised arena.
 
-"Some group" is even such an arena. People mock each other, and offline, they even physically attack each other. I once tried to mediate "some group’s" conflicts, relentlessly and without boundaries, but this didn’t result in much success, and even backfired. XingZ60 said this:
+“Group X” is even such an arena. People mock each other, and offline, they even physically attack each other. I once tried to “mediate” the conflicts in this group, relentlessly and without boundaries, in order to got all "peacefully along with others” but this didn’t result in much success, and even backfired. XingZ60 said this:
 
-> "I understand both sides, but I can’t reconcile them."
+> “I understand both sides, but I can’t reconcile them.”
 
 How helpless this reality is. And such helplessness exists everywhere in life. Whether it’s between people or between people and things.
 
 Faced with such a conflict, XingZ60’s solution was to create separate groups to isolate the two sides. If people who succeeded through their own efforts attacked those who sought attention through hardship, she simply separated them into different groups. So, she created a new group:
 
-> "This is the place to lick wounds, not to display superiority."
+> “This is the place to lick wounds, not to display superiority.”
 
-She included many people in that group whom she considered unsuccessful in worldly terms (even considered failures), many of whom had engaged in self-harm and drug abuse. But XingZ60 showed great tolerance towards these people:
+She included many people in that group whom she considered unsuccessful in worldly terms (even considered losers), many of whom had engaged in self-harm and drug abuse. But XingZ60 showed great tolerance towards these people:
 
-> "They are all forced into it."
+> “They all have no choice but into it.”
 
 XingZ60 even said:
 
-> "I’m no different from you. Although I look like a high-achieving student from Beihang University, that year the cutoff score was quite low, and I only got in by luck. I should have been just like all of you."
+> “I’m no different from you. Although I look like a high-achieving student from Beihang University, that year the cutoff score was quite low, and I only got in by luck. I should have been just like all of you.”
 
-Later, I realized that XingZ60 wasn’t blaming anyone. She was just empathizing with the unfortunate ones. She regarded all of us as equals.
-
-Later, I went online to check the admission score line of Beihang University that year, and found that there was no gap in the admission score line that year.
+Later, I went online to check the admission score of Beihang University that year, and found that she did not only get in by luck. The admission score is not an off-track one.
 
 I didn't take it seriously at the time, until I heard about the story of another friend - the general situation was that he grew up in a single-parent family and was emotionally neglected by his guardian while growing up; such an environment shaped his distorted personality, causing him to become addicted to drug abuse and be dealt with by the public security authorities.
 
-After hearing this story and thinking about it, I suddenly had a creepy feeling of surviving a disaster: if my life was also "interrupted" by chance, and I started out in a single-parent family with no emotional support, then my ending might not be much better than that of this friend. Maybe I should have been shot for murder and arson.
+After hearing this story and thinking about it, I suddenly had a creepy feeling of surviving a disaster: if my life was also “off-track” by chance, and I started out in a single-parent family with no emotional support, then my ending might not be much better than that of this friend. Maybe I should have been shot for murder and arson.
 
-XingZ60's parents are both teachers. This seemed to make me suddenly understand XingZ60's "modesty" about her academic qualifications, and for a time I regarded XingZ60 as a god in my heart. Later, I suddenly realized that there was no need for this. Because, by the same logic, if I "upgrade" to XingZ60's life, then "I can do it too"; if XingZ60 "breaks down" and becomes my life, then "TA can't step down either".
+XingZ60's parents are both teachers. This seemed to make me suddenly understand XingZ60's “modesty” about her academic qualifications, and for a time I regarded XingZ60 as a god in my heart. Later, I suddenly realized that there was no need for this. Because, by the same logic, if I “kept the same track” with XingZ60's life, then “I can do it too”; if XingZ60 “got into my off-track life”, then “they can't do it either”.
 
 Thinking of this, I suddenly felt a sense of relief in my heart.
+
+
+
+<!-- TODO 先校到这里，好累 --> 
+
+
+
 
 <p style="text-align: center;">(V)</p>
 
