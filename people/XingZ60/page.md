@@ -451,7 +451,7 @@ wing, 2025年2月9日
 ### 零重祈愿
 
 <details>
-<summary> <p>雨狸 【妄想症Paranoia】</p><p style="text-align: center;">☿☿☿☿☿☿</p></summary>
+<summary>雨狸 【妄想症Paranoia】<p style="text-align: center;">☿☿☿☿☿☿</p></summary>
 
 >《Maybe All Transgender People Are Really Vampires》
 >
