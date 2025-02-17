@@ -172,9 +172,11 @@ I have written so much without realizing it. Perhaps, what I think are the more 
 
 </details>
 
-> 補
+> "Born of love, by love undone."
 >
 > <p style="text-align: end;">——繪都 2024年12月17日</p>
+
+<!-- 这里是绘都给的翻译，不要动它了。 -->
 
 <details>
 <summary><h3 style="display:inline; ">Impermanence May 4, 2024 Cloudy</h3><br/>You wanted me to write what you called the "final conclusion" part for you, so I wrote it. </summary>
