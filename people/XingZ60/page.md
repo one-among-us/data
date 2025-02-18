@@ -332,7 +332,7 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 <details>
 
-<summary><p>大哥大嫂过年好，你是我的爷，我是你们的儿</p><p>三句承题：空白/引号 写于 2024 年 1 月 1 日 23 点 56 分崩溃时</p></summary>
+<summary><p style="display: inline;">大哥大嫂过年好，你是我的爷，我是你们的儿</p><p>三句承题：空白/引号 写于 2024 年 1 月 1 日 23 点 56 分崩溃时</p></summary>
 
 > 「以罗伊，以罗伊，拉马撒巴各大尼？！」[^4]
 >
@@ -394,7 +394,7 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 ### 九重现实
 
 <details>
-<summary> <p>雨狸 【妄想症Paranoia】</p><p style="text-align: center;">☉☉☉☉</p></summary>
+<summary><p style="display: inline;">雨狸 【妄想症Paranoia】</p><p style="text-align: center;">☉☉☉☉</p></summary>
 
 这个故事刚刚发生不久，
 
@@ -461,7 +461,7 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 ### 零重祈愿
 
 <details>
-<summary>雨狸 【妄想症Paranoia】<p style="text-align: center;">☿☿☿☿☿☿</p></summary>
+<summary><p style="display: inline">雨狸 【妄想症Paranoia】</p><p style="text-align: center;">☿☿☿☿☿☿</p></summary>
 
 >《Maybe All Transgender People Are Really Vampires》
 >
