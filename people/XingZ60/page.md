@@ -227,7 +227,7 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 </details>
 
-<p style="text-align: end;">无常, 2024 年 5 月 4 日 阴</p>
+<p style="text-align: end;">——无常, 2024 年 5 月 4 日 阴</p>
 
 ### 其五：东云
 
