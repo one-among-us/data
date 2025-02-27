@@ -326,17 +326,14 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 </details>
 
-### 其九：
-
-<!-- 这段开始后面的格式之后再说 -->
+### 其九：空白
 
 <details style="margin-top: 0.5rem;">
-
-<summary><p style="display: inline;">大哥大嫂过年好，你是我的爷，我是你们的儿</p><p>三句承题：空白/引号 写于 2024 年 1 月 1 日 23 点 56 分崩溃时</p><blockquote><p>「以罗伊，以罗伊，拉马撒巴各大尼？！」[^4]</p><p>而且较永久地悲悯他们的前途，然而仇恨他们的现在。[^5]</p><p>这个丑陋的世界，不配得到她的美好</p><p>《Maybe All Transgender People Are Really Vampires》</p></blockquote></summary>
+<p style="display: inline;">大哥大嫂过年好，你是我的爷，我是你们的儿</p>
+<h3 align = "center">三句承题</h3>
+<summary><p style="text-align: end;">空白/引号 写于 2024 年 1 月 1 日 23 点 56 分崩溃时</p><p></p><blockquote><p>「以罗伊，以罗伊，拉马撒巴各大尼？！」[^4]</p><p>而且较永久地悲悯他们的前途，然而仇恨他们的现在。[^5]</p><p>这个丑陋的世界，不配得到她的美好</p><p>《Maybe All Transgender People Are Really Vampires》[^6]</p></blockquote></summary>
 
 ---
-
-<!-- 头晕，先审阅到这里。有一部分注释在amika本地。 -->
 
 2024.1.2 09.26 唐泽：想和星璃璃告别的朋友今天可以到昌平殡仪馆吊唁.
 
@@ -348,11 +345,12 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 ---
 
-*理论上，以下全文不存在通假字
+</details>
 
-七句破题：
+<h3 align = "center">七句破题</h3>
 
-<p style="text-align: center;">⊕⊕⊕⊕</p>
+<details style="margin-top: 0.5rem;">
+<summary><p style="text-align: center;">⊕⊕⊕⊕</p></summary>
 
 原来，她早就做了最坏的打算
 
@@ -382,14 +380,14 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 </details>
 
-### 九重现实
+<h3 align = "center">笼中之鸟</h3>
 
 <details style="margin-top: 0.5rem;">
-<summary><p style="display: inline;">雨狸 【妄想症Paranoia】</p><p style="text-align: center;">☉☉☉☉</p></summary>
+<summary><p style="text-align: center;">☉☉☉☉</p></summary>
 
 这个故事刚刚发生不久，
 
-有一只螐儿被关在了蛆虫做成的笼子里
+有一只螐[^7]儿被关在了蛆虫做成的笼子里
 
 人们歌颂着他的幸福
 
@@ -415,7 +413,7 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 希望自己是饿冻中的生灵，饥寒交迫，却拥有自由
 
-铁栅栏扼住了她的咽喉，蛛糸穿透了她的心脏
+铁栅栏扼住了她的咽喉，蛛糸[^8]穿透了她的心脏
 
 你会在垃圾桶里发现它的
 
@@ -435,7 +433,7 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 我希望它能翱翔于天空
 
-来自《[笼中之鸟](https://www.bilibili.com/video/BV17Q4y1s7j1)》，作者 洁澄天奏Official
+——来自《[笼中之鸟](https://www.bilibili.com/video/BV17Q4y1s7j1)》，作者 洁澄天奏Official
 
 有少量删改
 
@@ -443,16 +441,20 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 (本文对洁澄天奏作品的引用皆已获得洁澄天奏本人授权)
 
+</details>
+
+<h3 align = "center">九重现实</h3>
+
 「泠珞，你觉得世界上最令人难过的事情是什么呢？」
 
 「蝴蝶。丑陋的毛毛虫，好不容易可以在梦境中忘记自己的软弱，忘记自己身为害虫的身份，却又生出美丽的翅膀，被光吵醒，被迫意识到自己还活着的事实，然后还要亲手撕开幽居的洞穴。越痛苦，翅膀越充血，它们就越美丽，然后再次为美丽和「醒着就要活下去」的定律而痛苦。它们会飞，却又只能在俗气的花丛中苟且偷生，仰视着永远触及不到的高空的鹰。然后死亡就突然降临，它们连沾沾自喜的这一点高度也被剥夺。它们甚至不能迎来一次壮烈的坠亡，只是轻飘飘地、轻飘飘地……」
 
-</details>
+—— 雨狸【妄想症Paranoia】
 
-### 零重祈愿
+<h3 align = "center">零重祈愿</h3>
 
 <details style="margin-top: 0.5rem;">
-<summary><p style="display: inline">雨狸 【妄想症Paranoia】</p><p style="text-align: center;">☿☿☿☿☿☿</p></summary>
+<summary><p style="text-align: center;">☿☿☿☿☿☿</p></summary>
 
 >《Maybe All Transgender People Are Really Vampires》
 >
@@ -500,6 +502,10 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 在那一刻我终于知道自己并非天性擅长轻描淡写,而是天生的无力与笨拙。
 
+——雨狸 【妄想症Paranoia】
+
+</details>
+
 ---
 
 抱歉，星璃璃，即使是在我最为擅长的领域
@@ -511,6 +517,8 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 但是，我会听取您的建议去努力的，一定会的
 
 ---
+
+<h3 align = "center">☿☿☿☿☿☿</h3>
 
 曾经，有人说，面朝大海，春暖花开；
 
@@ -524,7 +532,6 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 可惜，因为，我们都是虫子，欲望只是恐惧的截面
 
-</details>
 
 ### 新起一段 by 锦心
 
@@ -591,3 +598,9 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 [^4]: 出自鲁迅散文诗《复仇（其二）》，即 Eli, Eli, lama sabachthani? 翻出来，就是：我的上帝，你为什么离弃我？
 
 [^5]: 亦出自鲁迅散文诗《复仇（其二）》。                            
+
+[^6]: 见后文
+
+[^7]: 既可作虫解，亦可作鸟解。
+
+[^8]: 出自芥川龙之介的《蜘蛛の糸》
