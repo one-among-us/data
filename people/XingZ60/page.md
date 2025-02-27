@@ -333,7 +333,11 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 <details style="margin-top: 0.5rem;">
 <summary><p style="text-align: end;">空白/引号 写于 2024 年 1 月 1 日 23 点 56 分崩溃时</p><p></p><blockquote><p>「以罗伊，以罗伊，拉马撒巴各大尼？！」[^4]</p><p>而且较永久地悲悯他们的前途，然而仇恨他们的现在。[^5]</p><p>这个丑陋的世界，不配得到她的美好</p><p>《Maybe All Transgender People Are Really Vampires》[^6]</p></blockquote></summary>
 
+<br/>
+
 ---
+
+<br/>
 
 2024.1.2 09.26 唐泽：想和星璃璃告别的朋友今天可以到昌平殡仪馆吊唁.
 
@@ -343,7 +347,11 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 ——空白发起但算不上主持，大家自发聚集力量为她举办的小型纪念仪式
 
+<br/>
+
 ---
+
+<br/>
 
 </details>
 
@@ -419,7 +427,7 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 我希望它能翱翔于天空
 
-<p style="text-align: end;">——来自《[笼中之鸟](https://www.bilibili.com/video/BV17Q4y1s7j1)[^9]》，作者 洁澄天奏Official</p>
+<p style="text-align: end;">——来自《[笼中之鸟](https://www.bilibili.com/video/BV17Q4y1s7j1)》[^9]，作者 洁澄天奏Official</p>
 
 </details>
 
@@ -456,7 +464,11 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 </details>
 
+<br/>
+
 ---
+
+<br/>
 
 抱歉，星璃璃，即使是在我最为擅长的领域
 
@@ -466,7 +478,11 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 但是，我会听取您的建议去努力的，一定会的
 
+<br/>
+
 ---
+
+<br/>
 
 曾经，有人说，面朝大海，春暖花开；
 
