@@ -332,16 +332,7 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 <details style="margin-top: 0.5rem;">
 
-<summary><p style="display: inline;">大哥大嫂过年好，你是我的爷，我是你们的儿</p><p>三句承题：空白/引号 写于 2024 年 1 月 1 日 23 点 56 分崩溃时</p></summary>
-
-> 「以罗伊，以罗伊，拉马撒巴各大尼？！」[^4]
->
-> 而且较永久地悲悯他们的前途，然而仇恨他们的现在。[^5]
->
-> 这个丑陋的世界，不配得到她的美好 　　
->
-> 《Maybe All Transgender People Are Really Vampires》
->
+<summary><p style="display: inline;">大哥大嫂过年好，你是我的爷，我是你们的儿</p><p>三句承题：空白/引号 写于 2024 年 1 月 1 日 23 点 56 分崩溃时</p><blockquote><p>「以罗伊，以罗伊，拉马撒巴各大尼？！」[^4]</p><p>而且较永久地悲悯他们的前途，然而仇恨他们的现在。[^5]</p><p>这个丑陋的世界，不配得到她的美好</p><p>《Maybe All Transgender People Are Really Vampires》</p></blockquote></summary>
 
 ---
 
@@ -597,6 +588,6 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 [^3]: 即 Transcend Lights
 
-[^4]: 即 Eli, Eli, lama sabachthani?
+[^4]: 出自鲁迅散文诗《复仇（其二）》，即 Eli, Eli, lama sabachthani? 翻出来，就是：我的上帝，你为什么离弃我？
 
-[^5]: 出自鲁迅散文诗《复仇（其二）》
+[^5]: 亦出自鲁迅散文诗《复仇（其二）》。                            
