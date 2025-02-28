@@ -34,7 +34,7 @@ When it comes to the wounds caused by love, Mika must be mentioned.
 > "It won't be painful. It won't."
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.png',
+'${path}/photos/photo1.webp',
 ]} />
 
 Mikaela Khara, also known as Mika,
@@ -211,9 +211,9 @@ But her story, her love, and her misunderstood persistence will forever remain i
 Love has never really disappears...it’s just that we can no longer speak it to her in person.
 
 <PhotoScroll photos={[
-'${path}/photos/photo2.jpg',
-'${path}/photos/photo3.jpg',
-'${path}/photos/photo4.jpg',
+'${path}/photos/photo2.webp',
+'${path}/photos/photo3.webp',
+'${path}/photos/photo4.webp',
 ]} />
 
 </details>

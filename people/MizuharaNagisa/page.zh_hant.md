@@ -14,7 +14,7 @@ info:
 這是水原留給我們的，[最後的文字](https://pbs.twimg.com/media/E6odBBBVIAAM-Zt?format=jpg&name=4096x4096)。
 
 <PhotoScroll photos={[
-    '${path}/photos/letter.jpg',
+    '${path}/photos/letter.webp',
 ]} />
 
 希望你在永遠放下這個世界的苦難之後，可以在另一個世界與鎮守府的姑娘們相遇，和她們一起快樂地生活下去。

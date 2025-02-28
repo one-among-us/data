@@ -19,7 +19,7 @@ info:
 > See you on the train!  
 > Loving all of you!  
 
-<PhotoScroll photos={[ '${path}/photos/photo0.jpg', '${path}/photos/photo1.jpg' ]} />
+<PhotoScroll photos={[ '${path}/photos/photo0.webp', '${path}/photos/photo1.webp' ]} />
 
 > You probably have already figured out who I am.
 >
@@ -62,4 +62,4 @@ is when I have finally succeeded.
 Oh, my angel,
 see you.  
 
-<PhotoScroll photos={[ '${path}/photos/photo2.jpg' ]} />
+<PhotoScroll photos={[ '${path}/photos/photo2.webp' ]} />

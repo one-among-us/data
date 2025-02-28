@@ -59,9 +59,9 @@ Toka Sakyo, also Nonamev, member of LS Project, a literary girl who loves writin
 She has a light and elegant writing style. She often quotes scriptures and writes long letters a month or two after the college entrance examination, wishing her a bright future.
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.jpg',
-'${path}/photos/photo2.jpg',
-'${path}/photos/photo3.jpg',
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
+'${path}/photos/photo3.webp',
 ]} />
 
 Occasionally inspiration strikes, and after careful consideration, I leave a neat rhythm.

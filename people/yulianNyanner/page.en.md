@@ -146,8 +146,8 @@ Let’s go to the beach together, watch the seagulls, and listen to music by The
 If only we could grab surfboards and go surfing, that’d be great.
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.jpg',
-    '${path}/photos/photo2.jpg',
+    '${path}/photos/photo1.webp',
+    '${path}/photos/photo2.webp',
 ]} />
 
 The piano upstairs sounds so beautiful — usually, I’d find it annoying.
@@ -175,7 +175,7 @@ If that’s the case...
 >
 > Just like *Angel Beats*, let’s rally together and resist this unjust world after death.
 >
-> <PhotoScroll photos={["${path}/photos/photo3.png"]} />
+> <PhotoScroll photos={["${path}/photos/photo3.webp"]} />
 
 <!-- (Switching back to objective narration here.) -->
 

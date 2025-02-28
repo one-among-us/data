@@ -88,7 +88,7 @@ The next day, she left this world with regrets at her age of 17.
 In her blog post *[Separation and Reunion](https://web.archive.org/web/20210517104118/https://oao.moe/archives/948/)* published in March, she left many words to her friends, and thanked their company all along. 
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.jpg',
+    '${path}/photos/photo1.webp',
 ]} />
 
 {/* TODO: Translate photo1 */}

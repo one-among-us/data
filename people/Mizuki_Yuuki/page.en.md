@@ -37,6 +37,6 @@ Their smile and sincere friendship will always be unforgettable.
 
 I hope they have found a world free of pain, a future full of colour.
 
-<PhotoScroll photos={[ '${path}/photos/photo1.jpg', '${path}/photos/photo2.jpg', '${path}/photos/photo3.jpg', '${path}/photos/photo4.jpg', '${path}/photos/photo5.jpg', '${path}/photos/photo6.jpg', ]}/>
+<PhotoScroll photos={[ '${path}/photos/photo1.webp', '${path}/photos/photo2.webp', '${path}/photos/photo3.webp', '${path}/photos/photo4.webp', '${path}/photos/photo5.webp', '${path}/photos/photo6.webp', ]}/>
 
 Contributors for this entry: [NNG](https://twitter.com/NNGnoMKT)

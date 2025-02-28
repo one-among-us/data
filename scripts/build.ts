@@ -36,6 +36,8 @@ const notShowOnHomeList = hdata.notShowOnHome;
 const actualHide = hdata.actualHide;
 const trigger = hdata.trigger;
 const switchPair = hdata.switch;
+const skipAges = hdata.skipAges;
+const probilities = hdata.probilities;
 
 async function buildBlurCode() {
   const blurCode = {};
@@ -92,7 +94,7 @@ function buildPeopleInfoAndList() {
       const sortKey = info.info?.died ?? mdMeta.info?.died ?? '0'
 
       // Add age
-      if (info.info && info.info.died && info.info.born)
+      if (info.info && info.info.died && info.info.born && (!skipAges.includes(dirname)))
       {
         try { info.info.age = Math.abs(moment(info.info.died).diff(info.info.born, 'years', false)) }
         catch (e) { console.log(`Unable to calculate age for ${dirname}`) }
@@ -206,6 +208,7 @@ function copyPublic() {
   fs.copySync(path.join(projectRoot, DATA_DIR, 'eggs.json'), path.join(projectRoot, DIST_DIR, 'eggs.json'));
   fs.writeFileSync(path.join(DIST_DIR, 'trigger-list.json'), JSON.stringify(trigger as string[]));
   fs.writeFileSync(path.join(DIST_DIR, 'switch-pair.json'), JSON.stringify(switchPair as [string, string][]))
+  fs.writeFileSync(path.join(DIST_DIR, 'probilities.json'), JSON.stringify(probilities))
 }
 
 function copyComments() {

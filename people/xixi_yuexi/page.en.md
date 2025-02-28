@@ -12,11 +12,11 @@ Yuexi was a lively and adorable girl who liked to play games, primarily music ga
 She was in mutual love with someone.
 
 <PhotoScroll photos={[
-'${path}/photos/photo0.jpg',
-'${path}/photos/photo1.jpg',
-'${path}/photos/photo2.jpg',
-'${path}/photos/photo3.jpg',
-'${path}/photos/photo4.jpg',
+'${path}/photos/photo0.webp',
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
+'${path}/photos/photo3.webp',
+'${path}/photos/photo4.webp',
 ]} />
 
 Sometimes, she played maimaiDX for a few turns at the arcade in Xinjiekou[^1].
@@ -29,7 +29,7 @@ Sometimes, she played Arcaea on her tablet to hone her skills (increase ptt[^2])
 
 She loved to eat barbecue; sometimes, she'd finish a big plate all by herself. How shortsighted.
 
-<PhotoScroll photos={['${path}/photos/photo5.jpg']} />
+<PhotoScroll photos={['${path}/photos/photo5.webp']} />
 
 Sometimes, she mentally turns into a child.
 
