@@ -15,7 +15,7 @@ She wants to share her story in her true form and bring happiness to more people
 
 She’s a girl who loves life. Beneath the lights, in the simplest of lives, she carries the most distant dreams.
 
-She enjoys fishing, collecting stamps, singing, and traveling, wanting to connect with the world. She likes recording her life in her own way, leaving marks on the pages of memories. Sometimes, she’s like a painter, sketching a picture of "Old Man Chen"—a tea-drinking, newspaper-reading, fishing enthusiast—in her high school classmates’ memories. At other times, she’s like a poet, using high-level English and Japanese to turn her life's memories into poetry. And sometimes, she’s like an actress, hiding her deepest pain under the importance she places on friendship, playing the reliable listener when others share their troubles.
+She enjoys fishing, collecting stamps, singing, and traveling, wanting to connect with the world. She likes recording her life in her own way, leaving marks on the pages of memories. Sometimes, she’s like a painter, sketching a picture of “Old Man Chen”—a tea-drinking, newspaper-reading, fishing enthusiast—in her high school classmates’ memories. At other times, she’s like a poet, using high-level English and Japanese to turn her life's memories into poetry. And sometimes, she’s like an actress, hiding her deepest pain under the importance she places on friendship, playing the reliable listener when others share their troubles.
 
 In the final moments of her life, she casts a farewell glow to all who knew her. That glow is like the mist that rolls over mountains, like the night music brought by a gentle breeze from a quiet world, like moonlight glistening on the creek. Then, it leaves her ashes as a mark, symbolizing she was once here.
 
@@ -31,7 +31,7 @@ She wants to care for the lives of others with a warm and kind heart, bringing t
 
 So, she’s a girl who can be trusted. You see, far across the mountains and seas, she gave a clear direction in the most complicated of situations.
 
-Even when burdened with both physical and psychological pressure, she would still take care of her companions. She’d plan meals and itineraries in advance, offering reliable solutions when she learned about their busy schedules or personal preferences. The time she left for her companions would always be a memory cherished by everyone. She wasn’t the weak child of stereotypes; she was a "senior" people could rely on, and also a "teacher" who could be trusted.
+Even when burdened with both physical and psychological pressure, she would still take care of her companions. She’d plan meals and itineraries in advance, offering reliable solutions when she learned about their busy schedules or personal preferences. The time she left for her companions would always be a memory cherished by everyone. She wasn’t the weak child of stereotypes; she was a “senior” people could rely on, and also a “teacher” who could be trusted.
 
 She wants to accompany more people with her cuteness and bring sunshine to their lives.
 
@@ -41,15 +41,15 @@ Because she loves cute things, she loves to present herself in the cutest ways i
 
 Her head is large and heavy, with her eyes barely able to catch a glimpse of the world. But whenever she catches a glimpse of those she has healed, the cute doll feels the recognition and joy in their warm gaze.
 
-"Well, do you like this cute side of me? Can you stay with this cute little doll for a while? I really love it! If you like, we can hug, okay? Wanna come?"
+“Well, do you like this cute side of me? Can you stay with this cute little doll for a while? I really love it! If you like, we can hug, okay? Wanna come?”
 
-"Wearing this headpiece and being seen as a girl makes me so happy! Even if I face more troubles, I can still hide them under a smile!"
+“Wearing this headpiece and being seen as a girl makes me so happy! Even if I face more troubles, I can still hide them under a smile!”
 
 Since high school, she became the “high-performance robot” in the memories of friends and family. Even on the night before her passing, she still managed to bury the greatest worries, choosing to show her cutest side to those who shared her passion.
 
-"Our memories of kigurumi started with the doll, and they will end with it when I leave."
+“Our memories of kigurumi started with the doll, and they will end with it when I leave.”
 
-"My head is so heavy and tired... The doll wants to sleep now... Can you say goodnight again?"
+“My head is so heavy and tired... The doll wants to sleep now... Can you say goodnight again?”
 
 Kigurumi was the few moments of happiness in her life when she could appear as a doll. It was a conversation with the sun, moon, and stars, a dialogue with rivers and lakes, a handshake with trees, and a brush against the grass—a timeless eternity.
 
