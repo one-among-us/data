@@ -25,7 +25,7 @@ So, she’s a girl of incredible perseverance. You see, in the starry night, she
 
 With type II diabetes, fatty liver, and other underlying health issues, she spent her high school years in Chengdu. After the college entrance exam, she set off for the city by the Jialing River, where she began a new life at Xihua University. Though the school environment wasn’t ideal, her ambition never wavered. As a member of the student council, she faced the intense demands of her research team, but still, she never gave up on her N2 Japanese exam. Such an independent and determined girl deserved a better life, didn’t she?
 
-But perhaps God, in His sense of “fairness”, made her meet with family misunderstandings and pressure. Her phone was taken and checked; soon after, her relationships were interfered with by family, and the dreams locked in her heart were repeatedly obstructed when the cupboard door burst open. “My heart’s peaceful place is not my hometown…”
+But perhaps God, in His sense of "fairness", made her meet with family misunderstandings and pressure. Her phone was taken and checked; soon after, her relationships were interfered with by family, and the dreams locked in her heart were repeatedly obstructed when the cupboard door burst open. "My heart’s peaceful place is not my hometown…"
 
 She wants to care for the lives of others with a warm and kind heart, bringing them small rays of light.
 
@@ -45,7 +45,7 @@ Her head is large and heavy, with her eyes barely able to catch a glimpse of the
 
 "Wearing this headpiece and being seen as a girl makes me so happy! Even if I face more troubles, I can still hide them under a smile!"
 
-Since high school, she became the “high-performance robot” in the memories of friends and family. Even on the night before her passing, she still managed to bury the greatest worries, choosing to show her cutest side to those who shared her passion.
+Since high school, she became the "high-performance robot" in the memories of friends and family. Even on the night before her passing, she still managed to bury the greatest worries, choosing to show her cutest side to those who shared her passion.
 
 "Our memories of kigurumi started with the doll, and they will end with it when I leave."
 
@@ -55,9 +55,9 @@ Kigurumi was the few moments of happiness in her life when she could appear as a
 
 She wants to accompany more people with her cuteness and bring sunshine to their lives.
 
-“My... wish? I also want to be cuter. I want to become someone people can trust.”
+"My... wish? I also want to be cuter. I want to become someone people can trust."
 
-“Please don’t distance yourself because of my gender... I won’t hurt you.”
+"Please don’t distance yourself because of my gender... I won’t hurt you."
 
 ## Passing
 
@@ -65,15 +65,15 @@ Pain never truly leaves; it just shifts from here to there, or perhaps transitio
 
 However, due to her underlying health conditions, the side effects of hormones were especially evident in her body. Even so, she still wanted to calm her fluctuating body, for only in a better state could she make more people happy.
 
-“If I take good care of myself, I can make more people feel at ease. Then everything will have a chance.”
+"If I take good care of myself, I can make more people feel at ease. Then everything will have a chance."
 
 The sweet little pills floated through her body, and the hormones slowly entered her system, as if a warm current drove her to edit the final message she would leave us:
 
-“Actually, I feel like I won’t make it to that day. It all feels like a fantasy before death.”
+"Actually, I feel like I won’t make it to that day. It all feels like a fantasy before death."
 
-“But I still want to be cuter, more reliable. I want to become an older sister who can help more people. There are so many kids who need help.”
+"But I still want to be cuter, more reliable. I want to become an older sister who can help more people. There are so many kids who need help."
 
-“I’m sorry... Teacher, I just can’t hold on anymore. Remember me as the cutest version of myself. I really wanted to show more people this side of me.”
+"I’m sorry... Teacher, I just can’t hold on anymore. Remember me as the cutest version of myself. I really wanted to show more people this side of me."
 
 Just hours after speaking these words, she passed away.
 
