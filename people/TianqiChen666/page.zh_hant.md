@@ -1,7 +1,7 @@
 ---
-name: 面碼
+name: めんま
 info:
-    alias: めんま
+    alias: 面碼
     location: 四川成都
 ---
 
