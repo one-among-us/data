@@ -11,7 +11,7 @@ This version is NOT the formal version. Maintainers will update this after finis
 
 > Yes, life is a game, so living is my right, not my obligation. So, I can even do something while holding a cyanide capsule. I’m willing to do it, and I am preparing to do it. That means, in some dangerous situations, I might even do such things. In situations where I might get caught, I would still say, “Yes, I’ll do it, and I will absolutely not let my enemies get me.”
 
-The following text was written in accordance with the wishes of XingZ60 herself. Because of the large time span, the loss of some of the suicide note, and the fact that after her death her friends were generally in a state of great grief and acted in their own ways, it is difficult to write this article in a way that fully realizes the arrangements and ideas that she had in mind before she passed away.
+[!Tip] The following text was written in accordance with the wishes of XingZ60 herself. Because of the large time span, the loss of some of the suicide note, and the fact that after her death her friends were generally in a state of great grief and acted in their own ways, it is difficult to write this article in a way that fully realizes the arrangements and ideas that she had in mind before she passed away.
 
 ## Introduction
 
