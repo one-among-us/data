@@ -1,6 +1,6 @@
 ---
 name: 星璃璃
-info: 
+info:
     alias: 璃璃, Z60
     location: 中国北京
 ---

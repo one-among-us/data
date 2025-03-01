@@ -1,6 +1,6 @@
 ---
 name: XingZ60
-info: 
+info:
     alias: Lili, Z60
     location: Beijing, China
 ---
