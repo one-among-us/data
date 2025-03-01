@@ -25,7 +25,7 @@ So, she’s a girl of incredible perseverance. You see, in the starry night, she
 
 With type II diabetes, fatty liver, and other underlying health issues, she spent her high school years in Chengdu. After the college entrance exam, she set off for the city by the Jialing River, where she began a new life at Xihua University. Though the school environment wasn’t ideal, her ambition never wavered. As a member of the student council, she faced the intense demands of her research team, but still, she never gave up on her N2 Japanese exam. Such an independent and determined girl deserved a better life, didn’t she?
 
-But perhaps God, in His sense of "fairness", made her meet with family misunderstandings and pressure. Her phone was taken and checked; soon after, her relationships were interfered with by family, and the dreams locked in her heart were repeatedly obstructed when the cupboard door burst open. "My heart’s peaceful place is not my hometown…"
+But perhaps God, in His sense of “fairness”, made her meet with family misunderstandings and pressure. Her phone was taken and checked; soon after, her relationships were interfered with by family, and the dreams locked in her heart were repeatedly obstructed when the cupboard door burst open. “My heart’s peaceful place is not my hometown…”
 
 She wants to care for the lives of others with a warm and kind heart, bringing them small rays of light.
 
