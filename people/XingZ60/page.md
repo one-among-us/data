@@ -356,7 +356,7 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 </details>
 
 <h3 align = "center">七句破题</h3>
-<h3 align = "center">⊕⊕⊕⊕</h3>
+<TextRing text="⊕⊕⊕⊕" fontSize="1.25rem"/>
 <details style="margin-top: 0.5rem;">
 <summary><p>原来，她早就做了最坏的打算</p><p>本来，是为了完成她目标的</p><p>一场闹剧</p><p>可是，却有人亲手把自己的孩子逼入绝路，自己在医院的铁架床上睡得倒挺安稳</p><p>在生命的最后，连她所期望的哪怕只是一点点如此卑微的权利都不肯给予</p><p>孩子从头到尾根本没有得到一个有自我意识的个体应有的尊重</p><p>甚至都没有被作为一个「人」来看待……</p></summary>
 
@@ -375,7 +375,7 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 </details>
 
 <h3 align = "center">笼中之鸟</h3>
-<h3 align = "center">☉☉☉☉</h3>
+<TextRing text="☉☉☉☉" fontSize="1.25rem"/>
 <!-- <p style="text-align: center;"></p> -->
 
 <details style="margin-top: 0.5rem;">
@@ -442,7 +442,7 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 </details>
 
 <h3 align = "center">零重祈愿</h3>
-<h3 align = "center">☿☿☿☿☿☿</h3>
+<TextRing text="☿☿☿☿☿☿" fontSize="1.25rem"/>
 <!-- <p style="text-align: center;"></p> -->
 <details style="margin-top: 0.5rem;">
 <summary><blockquote><p>《Maybe All Transgender People Are Really Vampires》</p><p>作者：Chrysanthemum Tran</p><p>也许所有跨性别者都是吸血鬼</p><p>当然我不是说会被太阳灼伤</p><p>或者是渴望少女的脖颈</p><p>毕竟，大多数跨儿甚至无法确定自己步行回家的时候，自己的血液会不会溅到路边的人行道上</p><p>我也没有住在特兰西瓦尼亚城堡里</p><p>即使我的确算得上是一位女王（*注 非二元性别双关）</p><p>每当遭到他人的辱骂，对我来说就好像是被银灼烧了一般</p><p>我承认特兰西瓦尼亚确实是一处能让边缘人生存的庇护所</p><p>但是期盼中的安全感甚至比虚构的怪物更像是一种幻觉</p><p>我是一只长着怪异獠牙的猎物</p><p>当你上一次看到我这样的人的时候</p><p>有没有看到暴徒手中火炬的光芒</p><p>和刺来的干草叉？</p><p>这个时候，难道他们不想让我的脑袋被木桩刺穿吗？</p></blockquote></summary>

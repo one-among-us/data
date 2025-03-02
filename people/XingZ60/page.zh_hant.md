@@ -354,7 +354,7 @@ TA 在新群里拉了很多 TA 認為在世俗意義上並沒有獲得成功（�
 </details>
 
 <h3 align = "center">七句破題</h3>
-<h3 align = "center">⊕⊕⊕⊕</h3>
+<TextRing text="⊕⊕⊕⊕" fontSize="1.25rem"/>
 <details style="margin-top: 0.5rem;">
 <summary><p>原來，她早就做了最壞的打算</p><p>本來，是為了完成她目標的</p><p>一場鬧劇</p><p>可是，卻有人親手把自己的孩子逼入絕路，自己在醫院的鐵架床上給予安穩</p><p>可是，卻有人親手把自己的孩子逼入絕路，自己在醫院的鐵架床上給予她倒立的安全個體應有的尊重</p><p>甚至沒有被當作一個「人」來看待…</p></summary>
 
@@ -373,7 +373,7 @@ TA 在新群里拉了很多 TA 認為在世俗意義上並沒有獲得成功（�
 </details>
 
 <h3 align = "center">籠中之鳥</h3>
-<h3 align = "center">☉☉☉☉</h3>
+<TextRing text="☉☉☉☉" fontSize="1.25rem"/>
 <!-- <p style="text-align: center;"></p> -->
 
 <details style="margin-top: 0.5rem;">
@@ -440,7 +440,7 @@ TA 在新群里拉了很多 TA 認為在世俗意義上並沒有獲得成功（�
 </details>
 
 <h3 align = "center">零重祈禱</h3>
-<h3 align = "center">☿☿☿☿☿☿</h3>
+<TextRing text="☿☿☿☿☿☿" fontSize="1.25rem"/>
 <details style="margin-top: 0.5rem;">
 <summary><blockquote><p>《Maybe All Transgender People Are Really Vampires》</p><p>作者：Chrysanthemum Tran</p><p>也許所有跨性別者都是吸血鬼</p><p>畢竟我不是說會被太陽灼傷的甚至不會走</p><p>我也沒有住在特蘭西瓦尼亞城堡裡</p><p>即使我的確算得上是一位女王（*註非二元性別雙關）</p><p>每當遭到他人的辱罵，對我來說就好像是被銀灼燒了一般</p><p>我承認特蘭西瓦尼亞確實是一處能讓邊緣人生存的庇護所</p><p>但是期盼中的安全感甚至比虛構的怪物更像是一種幻覺</p><p>我是一隻長著怪沒有看到暴徒手中火炬的光芒</p><p>和刺來的乾草叉？ </p><p>這時候，他們不想讓我的頭被木樁刺穿嗎？ </p></blockquote></summary>
 
