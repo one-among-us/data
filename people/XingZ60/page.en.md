@@ -7,7 +7,9 @@ info:
 
 **Come back later!**
 
-This version is NOT the formal version. Maintainers will update this after finishing Simplified Chinese version.
+[!Warning] This version is NOT the formal version. Maintainers will update this after finishing Simplified Chinese version.
+
+[!Caution] This is an unfinished version. Please refer to the Traditional Chinese page.
 
 > Yes, life is a game, so living is my right, not my obligation. So, I can even do something while holding a cyanide capsule. I’m willing to do it, and I am preparing to do it. That means, in some dangerous situations, I might even do such things. In situations where I might get caught, I would still say, “Yes, I’ll do it, and I will absolutely not let my enemies get me.”
 
