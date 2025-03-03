@@ -43,7 +43,7 @@ lxy 的离开对她的朋友们来说，都是非常猝不及防的事情……
 
 柠檬酱用一曲 Arcaea 的 Last | Moment 向 lxyddice 送别：
 
-在游玩中，柠檬酱设计了一次 <span style="color: #d20f39; font-weight: bold;">Lost</span> 和 一次 <span style="color: #fe640b; font-weight: bold;">Far</span>，<span style="color: #d20f39; font-weight: bold;">Lost</span> 表达的是她已不在，而 <span style="color: #fe640b; font-weight: bold;">Far</span> 表达的是 TA 们之间留下的遗憾。
+在游玩中，柠檬酱设计了一次 <span style="background: linear-gradient(180deg, #d20f39, #f38ba8); font-weight: bold; background-clip: text; color: transparent">Lost</span> 和 一次 <span style="background: linear-gradient(180deg, #fe640b, #f9e2af); font-weight: bold; background-clip: text; color: transparent">Far</span>，<span style="background: linear-gradient(180deg, #d20f39, #f38ba8); font-weight: bold; background-clip: text; color: transparent">Lost</span> 表达的是她已不在，而 <span style="background: linear-gradient(180deg, #fe640b, #f9e2af); font-weight: bold; background-clip: text; color: transparent">Far</span> 表达的是 TA 们之间留下的遗憾。
 
 > 回想着与你的点点滴滴，还真是让人难以释怀。
 >
