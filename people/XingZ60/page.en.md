@@ -249,7 +249,7 @@ May her soul find peace in another world, free from the confines of this one. He
 ### Mikä
 
 <details style="margin-top: 0.5rem;">
-<summary><blockquote style="display: inline"><p>Meowvelous Demise</p><p style="text-align: end;">——Xu</p></blockquote></summary>
+<summary><blockquote><p>Meowvelous Demise</p><p style="text-align: end;">——Xu</p></blockquote></summary>
 
 <BlurBlock>
 I don’t know why Mikä did not appear in XingZ60’s epitaph designation,
