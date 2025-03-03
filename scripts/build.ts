@@ -258,5 +258,7 @@ function trim(str: string, ch: string) {
 }
 
 function isDirEmpty(dir: string): boolean {
-  return fs.readdirSync(dir).length == 0;
+  if (fs.readdirSync(dir).length == 0) return true;
+  else if ((fs.readdirSync(dir).length == 1) && (fs.readdirSync(dir)[0] == 'comments')) return true;
+  return false;
 }
