@@ -183,7 +183,7 @@ I have written so much without realizing it. Perhaps, I think the more important
 
 ### HiYku
 
-> Supplement
+> Born of love, by love undone.
 >
 > <p style="text-align: end;">——HiYku, December 17, 2024</p>
 
@@ -320,11 +320,11 @@ From what others said, XingZ60 is more complicated and abstract than I had imagi
 
 <p style="text-align: end;">—— Baimao Suki, February 4, 2025</p>
 
-### _
+### __
 
 <h3 align = "center">Three sentences to follow the title</h3>
 <details style="margin-top: 0.5rem;">
-<summary><p style="text-align: end;">「」 Written at 23:56 on January 1, 2024, when the collapse occurred</p><p></p><blockquote><p>"Eloi, Eloi, Lama Sabathani? [^4]" And they hated their future more miserably. [^5]</p><p>This ugly world doesn't deserve her beauty</p><p>《Maybe All Transgender People Are Really Vampires》[^6]</p></blockquote></summary>
+<summary><p style="text-align: end;">__ /「」 Written at 23:56 on January 1, 2024, when the collapse occurred</p><p></p><blockquote><p>"Eloi, Eloi, Lama Sabathani? [^4]" And they hated their future more miserably. [^5]</p><p>This ugly world doesn't deserve her beauty</p><p>《Maybe All Transgender People Are Really Vampires》[^6]</p></blockquote></summary>
 
 <br/>
 
