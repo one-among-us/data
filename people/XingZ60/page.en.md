@@ -51,7 +51,7 @@ Her actions helped marginalized people. Through her efforts, she did her utmost 
 
 <h3 align = "center">This article is written to commemorate my old friend XingZ60</h3>
 
-<p style="text-align: center;">Ring Language</p>
+<p style="text-align: center;">Lingyu</p>
 
 <h3 align = "center">(I. Preface)</h3>
 
@@ -69,7 +69,7 @@ Throughout the ages, people tend to "write some good words on the tombstone", ta
 
 Since XingZ60 has this idea, I will just write some stories casually. I would like to write down some of the thoughts that XingZ60 brought to me, but I will try not to make any value judgments on her behavior, and let future generations judge her right and wrong, merits and demerits.
 
-<h3 align = "center">(Three)</h3>
+<h3 align = "center">(III)</h3>
 
 XingZ60 seems to have split personality. She said she has at least three personalities, "Nebula", "Dream" and "Benzene Ring". Among them, the gender identity of one personality is male, the gender identity of another personality is female, and the gender identity of another personality is not clear to the author.
 
@@ -147,7 +147,7 @@ However, the arrival of the "big net" was so accidental. It just so happened tha
 
 So this is the result.
 
-<h3 align = "center">(Six)</h3>
+<h3 align = "center">(VI)</h3>
 
 But, XingZ60 still hopes that I will "stick to what I insist on" - I think it means "mediate the conflict".
 
