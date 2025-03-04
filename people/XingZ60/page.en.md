@@ -53,13 +53,13 @@ Her actions helped marginalized people. Through her efforts, she did her utmost 
 
 <p style="text-align: center;">Lingyu</p>
 
-<h3 align = "center">(I. Preface)</h3>
+<DottedNumber n="I. Preface"/>
 
 <details style="margin-top: 0.5rem;">
 
 <summary>According to XingZ60's will, I am writing this article to commemorate XingZ60. <br/><br/>Originally, this article should have been completed a long time ago, but firstly, XingZ60 had a great influence on me, and my language skills were limited, so a few words didn’t seem enough to write a good article; secondly, XingZ60’s departure also brought me a great shock, so this article was put on hold. Later, after my mental state recovered a little, I began to try to understand and know XingZ60 from all aspects and angles, and this article came about. <br/><br/>Some people say that XingZ60 is an "abstract" person, and everyone has a unique understanding of XingZ60. The XingZ60 reflected in this article may only be limited to my personal understanding of XingZ60. Don’t just listen to one person’s opinion; listen to both sides and you will be enlightened, while listening to only one side will lead you to confusion. </summary>
 
-<h3 align = "center">(II)</h3>
+<DottedNumber n="II"/>
 
 "The dead are the greatest" and "Respect the deceased" seem to be self-evident and self-evident truths in the minds of most of us. However, everyone seems to have a different understanding of what "respecting the deceased" means.
 
@@ -69,7 +69,7 @@ Throughout the ages, people tend to "write some good words on the tombstone", ta
 
 Since XingZ60 has this idea, I will just write some stories casually. I would like to write down some of the thoughts that XingZ60 brought to me, but I will try not to make any value judgments on her behavior, and let future generations judge her right and wrong, merits and demerits.
 
-<h3 align = "center">(III)</h3>
+<DottedNumber n="III"/>
 
 XingZ60 seems to have split personality. She said she has at least three personalities, "Nebula", "Dream" and "Benzene Ring". Among them, the gender identity of one personality is male, the gender identity of another personality is female, and the gender identity of another personality is not clear to the author.
 
@@ -87,7 +87,7 @@ So someone patched it up and said, "If this is a behavior done in a normal perso
 
 I don't know the answers to these questions.
 
-<h3 align = "center">(IV)</h3>
+<DottedNumber n="IV"/>
 
 XingZ60 (or possibly one of her personalities) publicly made jokes about other deceased sexual minorities more than once during her lifetime; therefore, some of XingZ60's friends also made jokes about the deceased XingZ60 more than once. This sparked quite a bit of debate - these friends believed that XingZ60's behavior showed that she was a person who agreed that "it's okay to make fun of the deceased", so making fun of her was actually a manifestation of respect for her behavior patterns and values. However, some of XingZ60's friends think that this is unacceptable. So the two sides started arguing, and it ended up in a mess.
 
@@ -121,7 +121,7 @@ XingZ60's parents are both teachers. This seemed to make me suddenly understand 
 
 Thinking of this, I suddenly felt a sense of relief.
 
-<h3 align = "center">(V)</h3>
+<DottedNumber n="V"/>
 
 However, the operating mode of this world is not controlled by a single variable.
 
@@ -147,7 +147,7 @@ However, the arrival of the "big net" was so accidental. It just so happened tha
 
 So this is the result.
 
-<h3 align = "center">(VI)</h3>
+<DottedNumber n="VI"/>
 
 But, XingZ60 still hopes that I will "stick to what I insist on" - I think it means "mediate the conflict".
 
@@ -157,7 +157,7 @@ Later, I accidentally saw a famous saying by a poet: "When a person dies, it is 
 
 So I opened the window, and what came into my sight was the boundless sea with spring flowers blooming.
 
-<h3 align = "center">(VII)</h3>
+<DottedNumber n="VII"/>
 
 However, "Genshin Impact" is a brand new open world adventure game independently developed by miHoYo. XingZ60 plays "Genshin Impact". This "Genshin Impact" is not that "Genshin Impact"; for example, "Wu Meng DX", which is called "Arcade Genshin Impact" by everyone, is also a type of "Genshin Impact".
 
@@ -173,7 +173,7 @@ Later, he and I hugged each other and said goodbye. This was the first time he a
 
 The glory is always there, and I will always be with you, wherever you are.
 
-<h3 align = "center">(VIII. Written at the end)</h3>
+<DottedNumber n="VIII. Written at the end"/>
 
 I have written so much without realizing it. Perhaps, I think the more important experiences with her and the thoughts and ideas he brought to me should all be written here. Due to length and other reasons, I think this article should end here. There are many stories in life that are the same and different every day. Some of them I will present in other ways, and others I will just let remain in my memories.
 
