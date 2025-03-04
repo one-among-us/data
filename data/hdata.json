@@ -8,5 +8,8 @@
         ["Anilovr", "Aniloviraw"],
         ["Elihuso", "ElihusoQ"]
     ],
-    "skipAges": ["cheonwoomaeng"]
+    "skipAges": ["cheonwoomaeng"],
+    "probilities": {
+        "XingZ60": 1
+    }
 }
