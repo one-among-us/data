@@ -49,7 +49,7 @@ info:
 
 <p style="text-align: center;">铃语</p>
 
-<DottedNumber n="一 前言"/>
+<DottedNumber n="一 前言" dash/>
 
 <details style="margin-top: 0.5rem;">
 
@@ -169,7 +169,7 @@ TA 在新群里拉了很多 TA 认为在世俗意义上并没有获得成功（�
 
 光辉常在，天涯海角，与君同在。
 
-<DottedNumber n="八·写在最后"/>
+<DottedNumber n="八 写在最后" dash/>
 
 不知不觉地就写了这么多了，或许大概，我认为比较重要的，和 TA 一起的经历，以及 TA 给我带来的所思所想，应该都写在这里了。基于篇幅等原因，我想，这篇文章就写到这里了。还有许许多多生命中每天相同又每天不同的故事，有一些我会以其他的方式把它们呈现出来，还有另外一些就让它们留在回忆中吧。
 
