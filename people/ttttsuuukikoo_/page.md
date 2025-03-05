@@ -19,7 +19,7 @@ Tsukiko 是我们的一位非二元伙伴，并使用“他”的称呼。
 
 > 这样的天空，我还能看多久呢？
 
-<PhotoScroll photos={[ '${path}/photos/sky.jpg',]} />  
+<PhotoScroll photos={[ '${path}/photos/sky.webp',]} />  
 
 ## 离开
 

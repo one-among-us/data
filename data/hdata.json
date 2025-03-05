@@ -6,5 +6,9 @@
     "trigger": ["Aniloviraw"],
     "switch": [
         ["Anilovr", "Aniloviraw"]
-    ]
+    ],
+    "skipAges": ["cheonwoomaeng"],
+    "probilities": {
+        "XingZ60": 1
+    }
 }

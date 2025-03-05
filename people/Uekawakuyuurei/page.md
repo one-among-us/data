@@ -14,14 +14,14 @@ info:
 靠画作赞赏获得的收入是 ta 的一部分经济来源。即使不幸确诊了升结肠印戒细胞癌，阿蛍也没有放下 ta 的画笔。后来，阿蛍把大部分画作的电子档上传到了 ta 的 [Telegram 频道](https://t.me/joinchat/65vSQ6ELb3YxN2I9)，供大家无偿下载和欣赏。在这里挑选的几幅画作，可以让大家管窥阿蛍的绘画风格。
 
 <PhotoScroll photos={[
-    '${path}/photos/IMG_1308.JPG', 
-    '${path}/photos/img002.jpg', 
-    '${path}/photos/img051.jpg', 
-    '${path}/photos/img197.jpg', 
-    '${path}/photos/img231.jpg', 
-    '${path}/photos/img252.jpg', 
-    '${path}/photos/img253.jpg', 
-    '${path}/photos/img370.jpg', 
+    '${path}/photos/IMG_1308.webp', 
+    '${path}/photos/img002.webp', 
+    '${path}/photos/img051.webp', 
+    '${path}/photos/img197.webp', 
+    '${path}/photos/img231.webp', 
+    '${path}/photos/img252.webp', 
+    '${path}/photos/img253.webp', 
+    '${path}/photos/img370.webp', 
 ]} />
 
 但这个世界就是这么不公平，阿蛍的病情持续恶化，并且一直没有找到合适的靶向药物。在 2021 年夏天，阿蛍被确诊为骨转移 IV 期。不过，即使承受着剧烈的疼痛，阿蛍仍然在关心和爱护着每一个安慰 ta 的推友，尽量不让我们担心。

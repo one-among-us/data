@@ -82,6 +82,7 @@ For Windows, Yarn could be find at [Classic YarnPkg](https://classic.yarnpkg.com
 * `actualHide`: `string[]`, if you don't want a entry show on the home and won't be redirected by random buttons, add it into this item.  
   If you set a entry in this list, you have no need to set it into `notShowOnHome` again.
 * `trigger`: `string[]`, if you think this article is likely to irritate readers and should be restricted, please set this option.
+* `skipAge`: `string[]`, if you want to skip age calculation, or not display age, put id in this option.
 
 ### Example
 
@@ -109,7 +110,7 @@ For Windows, Yarn could be find at [Classic YarnPkg](https://classic.yarnpkg.com
 ## 4. MDX external features
 
 1. Both `{/*something*/}` and `<!--something-->` can be rendered as comment, will not displayed on the website;
-2. KaTeX formula could be used in the page. eg. $C_p=\dfrac{p-p_\infty}{\frac12\rho U_\infty^2}$
+2. KaTeX formula could be used in the page. eg. `$C_p=\dfrac{p-p_\infty}{\frac12\rho U_\infty^2}$` as $C_p=\dfrac{p-p_\infty}{\frac12\rho U_\infty^2}$
 3. Footnote could be used.
 4. GitHub `[!Note]` mark could be used.
 
@@ -131,11 +132,22 @@ For Windows, Yarn could be find at [Classic YarnPkg](https://classic.yarnpkg.com
     * `slot` html slot
   * example:
     ```mdx
-    <BlueBlock>
+    <BlurBlock>
     this is an example blurred paragraph.
-    </BlueBlock>
+    </BlurBlock>
     ```
 * `CapDownQuote`
   * usage: `<CapDownQuote messages={string[][]} />`
     * messages: `string[][]`, the message of quote block.
   * example: `<blockquote><CapDownQuote messages={[["你走了呀……姊姊……”", "“这个天线的馈线那些怎么看来着？”"], ["“不上学了嘛……”", "“不是说好了下一次……”"], ["“山猫猫！抱住~”", "“她听力不太好哦……”"], ["“为什么……”", "“把我们丢在这……”"], ["“这是为了她……”", "“下一次一起打mai……”"], ["“教我开车嘛~”", "“帮我照顾好山猫猫~“"], ["“姊姊好厉害，好羡慕……”", "“又被家里人说了，公司的工作也很多……”"]]} /></blockquote>`
+* `TextRing`
+  * usage: `<TextRing text="" />`
+    * text: `string`, the text you want display
+* `DottedNumber`
+  * usage: `<DottedNumber n="" />` OR `<DottedNumber n={number}`
+    * n: `string|number`, the number you want to display.
+
+## 6. Punctuations
+
+* In zh_hans/zh_hant pages, we prefer to use these punctuations: `，。？！:;——()[]{}「」『』《》`
+* In en_ca pages, we prefer to use these punctuations: `,.?!:;-()[]{}“”‘’<>`

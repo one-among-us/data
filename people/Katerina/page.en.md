@@ -20,10 +20,10 @@ Her QQ avatar came from the opening song video of *Super Cub*. It was an animati
 Following are some of her photos, including her motorcycle:
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.png',
-    '${path}/photos/photo2.jpg',
-    '${path}/photos/photo3.jpg',
-    '${path}/photos/photo4.jpg',
+    '${path}/photos/photo1.webp',
+    '${path}/photos/photo2.webp',
+    '${path}/photos/photo3.webp',
+    '${path}/photos/photo4.webp',
 ]} />
 
 Katerina loved many kinds of food, including balsam pear and lemon tea, pizza, jiaozi, and Tiramisu.

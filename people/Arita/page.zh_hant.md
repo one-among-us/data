@@ -31,4 +31,4 @@ Arita對筆者來說是有著許多特殊意義的人，也完全可以說，是
 > Although the rushes and the fowl of the air  
 > Cry of his love with their pitiful cries.  
 
-<PhotoScroll photos={["${path}/photos/image0.jpg"]} />
+<PhotoScroll photos={["${path}/photos/image0.webp"]} />

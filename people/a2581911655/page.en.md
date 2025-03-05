@@ -20,8 +20,8 @@ Her road of discovering what it means to be a girl was filled with inferiority, 
 Following are some personal photos she left in this world:
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.jpg',
-    '${path}/photos/photo2.jpg',
+    '${path}/photos/photo1.webp',
+    '${path}/photos/photo2.webp',
 ]} />
 
 ## The End of Her Journey
