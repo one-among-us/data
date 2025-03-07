@@ -7,7 +7,10 @@ info:
 
 ## Introduction
 
-Menma was a kind and gentle transgender girl who liked the character Menma in *Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai* (an anime). She uses this name exclusively across all her social media platforms. Like Menma, she left everyone behind. Perhaps this time, there will be no reunion ten years later in August.
+Menma was a kind and gentle transgender girl who liked the character Meiko in *Anohana: The Flower We Saw That Day* (an anime).
+She used this name exclusively across all her social media platforms.
+Like Meiko, she left everyone behind.
+Perhaps this time, there will be no reunion ten years later in August.
 
 ## Wish
 
@@ -26,7 +29,8 @@ So, she’s a girl of incredible perseverance. You see, in the starry night, she
 While battling with type II diabetes, fatty liver, and other underlying health issues, she finished high school in Chengdu.
 After the entrance examination for higher education, she set off for the city by the Jialing River, where she began a new life at Xihua University.
 Though the learning environment wasn’t ideal, her ambition never wavered.
-As a member of the student council, she faced the intense demands of her research team, but she never gave up on her N2 Japanese exam. Such an independent and determined girl deserved a better life, didn’t she?
+As a member of the student council, she faced the intense demands of her research team, but she never gave up on her N2 Japanese exam.
+Such an independent and determined girl deserved a better life, didn’t she?
 
 But perhaps God, in His sense of “fairness,” made her meet with family misunderstandings and pressure. Her phone was taken and checked; soon after, family interfered with her relationships, and the dreams locked in her heart were repeatedly obstructed when she was outed.
 “My heart’s rightful place is not my hometown…”
@@ -46,23 +50,23 @@ She once made a deep impression with the images of Alona and Atori. As a respons
 
 Her Kigurumi headpiece was large and heavy, so her eyes could barely catch a glimpse of the world while she was wearing it. But whenever she catches a glimpse of those she has healed, the cute Kigurumi doll feels the recognition and joy in their warm gaze.
 
-“Well, do you like this cute side of me? Can you stay with this cute little doll for a while? I really love it! If you like, we can hug, okay? Wanna come?”
-
-“Wearing this headpiece and being seen as a girl makes me so happy! No matter how many troubles I face, I can hide them under a smile!”
+> Well, do you like this cute side of me? Can you stay with this cute little doll for a while? I really love it! If you like, we can hug, okay? Wanna come?
+>
+> Wearing this headpiece and being seen as a girl makes me so happy! No matter how many troubles I face, I can hide them under a smile!
 
 Since high school, she has become the “high-performance robot” (a reference to a cute character she cosplayed as) in the memories of close friends. Even on the night before her passing, she still managed to bury the greatest worries, choosing to show her cutest side to those who shared her passion.
 
-“Our memories of Kigurumi started with the doll, and they will end with it when I leave.”
-
-“My head feels so heavy and tired in my headpiece... The doll wants to sleep now... Can you repeat goodnight?”
+> Our memories of Kigurumi started with the doll, and they will end with it when I leave.
+>
+> My head feels so heavy and tired in my headpiece... The doll wants to sleep now... Can you repeat goodnight?
 
 Kigurumi was the few moments of happiness in her life when she could appear as a doll. It was a conversation with the Sun, the Moon, and the stars, a dialogue with rivers and lakes, a handshake with trees, and a brush against the grass—a timeless eternity.
 
 She wanted to accompany more people with her cuteness and bring sunshine to their lives.
 
-“My... wish? I actually do want to be even cuter. I want to become someone people can trust.”
-
-“Please don’t distance yourself because of my gender... I won’t hurt you.”
+> My... wish? I actually do want to be even cuter. I want to become someone people can trust.”
+>
+> Please don’t distance yourself from me because of my gender... I won’t hurt you.
 
 ## Passing
 
@@ -70,15 +74,15 @@ Pain never truly leaves; it just shifts from one place to another, or perhaps fr
 
 However, due to her underlying health conditions, the side effects of hormones were especially evident in her body. Even so, she still wanted to calm her fluctuating body, for only by being in a better state could she make more people happy.
 
-“If I take good care of myself, I can make more people feel at ease. Then everything will have a chance to be fine.”
+> If I take good care of myself, I can make more people feel at ease. Then everything will be fine.
 
 The sweet little pills floated through her body, and the hormones slowly entered her system as if a warm current drove her to edit the final message she would leave us:
 
-“Actually, I feel like I won’t make it to that day. It all feels like a fantasy before death.”
-
-“But I still want to be cuter, more reliable. I want to become an older sister who can help more people. There are so many kids who need help.”
-
-“I’m sorry...teacher, I just can’t hold on anymore. Remember me as the cutest version of myself. I really wanted to show more people this side of me.”
+> Actually, I feel like I won’t make it to that day. It all feels like a fantasy before death.
+>
+> But I still want to be cuter, more reliable. I want to become an older sister who can help more people. There are so many kids who need help.”
+>
+> I’m sorry...teacher, I just can’t hold on anymore. Remember me as the cutest version of myself. I really wanted to show more people this side of me.
 
 Just hours after speaking these words, she passed away.
 
@@ -93,3 +97,5 @@ Sleep well, Menma. This time, the transformation into a doll—truly, you have b
 Goodbye, Menma. This time, the game of Uno—truly, we’ve added a lot.
 
 There, the cute girl will continue to comfort everyone. There, the cute doll will continue to play the beloved role. There, she’ll take good care of herself, just as she promised.
+
+Contributor for content: [Cherry](https://github.com/dongguacute)
