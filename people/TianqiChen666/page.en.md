@@ -98,4 +98,4 @@ Goodbye, Menma. This time, the game of Uno—truly, we’ve added a lot.
 
 There, the cute girl will continue to comfort everyone. There, the cute doll will continue to play the beloved role. There, she’ll take good care of herself, just as she promised.
 
-Contributor for content: [Cherry](https://github.com/dongguacute)
+Contributor for this entry: [Cherry](https://github.com/dongguacute)
