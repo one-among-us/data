@@ -1,8 +1,8 @@
 ---
 name: Menma
 info:
-    alias: めんま,Menma
-    location: Chengdu,Sichuan
+    alias: めんま, Menma
+    location: Chengdu, Sichuan
 ---
 
 ## Introduction
