@@ -53,7 +53,10 @@ Her actions helped marginalized people. Through her efforts, she did her utmost 
 
 <p style="text-align: center;">Lingyu</p>
 
-<DottedNumber n="I. Preface" dash/>
+<Hexagon>
+<h3>I</h3>
+<h3>Preface</h3>
+</Hexagon>
 
 <details style="margin-top: 0.5rem;">
 
@@ -173,7 +176,10 @@ Later, he and I hugged each other and said goodbye. This was the first time he a
 
 The glory is always there, and I will always be with you, wherever you are.
 
-<DottedNumber n="VIII. Written at the end" dash/>
+<Hexagon>
+<h3>VIII</h3>
+<h3>Written at the end</h3>
+</Hexagon>
 
 I have written so much without realizing it. Perhaps, I think the more important experiences with her and the thoughts and ideas he brought to me should all be written here. Due to length and other reasons, I think this article should end here. There are many stories in life that are the same and different every day. Some of them I will present in other ways, and others I will just let remain in my memories.
 
