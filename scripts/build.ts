@@ -70,6 +70,7 @@ function buildPeopleInfoAndList() {
     const peopleList: PeopleMeta[] = [];
     const peopleHomeList: PeopleMeta[] = [];
     const birthdayList = [] as [string, string][]
+    const departureList = [] as [string, string][]
 
     // For each person
     for (const { dirname, srcPath, distPath } of people) {
@@ -103,6 +104,12 @@ function buildPeopleInfoAndList() {
       if (info.id && info.info && info.info.born) {
         if (!actualHide.includes(info.id)) {
           birthdayList.push([info.id, info.info.born])
+        }
+      }
+
+      if (info.id && info.info && info.info.died) {
+        if (!actualHide.includes(info.id)) {
+          departureList.push([info.id, info.info.died])
         }
       }
 
@@ -156,6 +163,7 @@ function buildPeopleInfoAndList() {
     fs.writeFileSync(path.join(projectRoot, DIST_DIR, `people-list${lang}.json`), JSON.stringify(peopleList));
     fs.writeFileSync(path.join(projectRoot, DIST_DIR, `people-home-list${lang}.json`), JSON.stringify(peopleHomeList));
     fs.writeFileSync(path.join(projectRoot, DIST_DIR, 'birthday-list.json'), JSON.stringify(birthdayList));
+    fs.writeFileSync(path.join(projectRoot, DIST_DIR, 'departure-list.json'), JSON.stringify(departureList));
   }
 }
 
