@@ -1,7 +1,7 @@
 ---
 name: Huasheng
 info:
-    alias: Huasheng(Huasheng), Little Huasheng
+    alias: Huasheng(Peanut), Little Huasheng
     location: Nantong, Jiangsu
 ---
 
