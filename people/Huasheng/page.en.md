@@ -78,7 +78,7 @@ The unbearable lightness of being.
 Life, like composing a symphony, weaves random events into a central theme under the guidance of beauty, recording it into the music of our existence. As a composer shapes a sonata, life’s theme repeats, evolves, deepens. Anna could have ended her life in many ways, but it was the station, the unforgettable theme of death combined with the awakening of love, that lured her at her most desperate moment, with tragic beauty.
 Thus we compose our lives according to the laws of beauty — even into despair — without ever knowing it.
 
-— Li'an, written in tears, April 6, 2025
+Li'an, written in tears, April 6, 2025
 
 ## To the Eternal Star
 
@@ -115,6 +115,6 @@ may it be filled with the poetry and moonlight you loved.
 This meeting was too short;
 this parting, too long.
 
-— Wangmao, written in tears, April 2, 2025
+Wangmao, written in tears, April 2, 2025
 
 Contributors for this entry: Lian, Wangmao
