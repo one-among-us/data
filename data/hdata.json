@@ -2,7 +2,10 @@
     "commentOnly": ["tdor"],
     "exclude": ["XIEPT2", "shi_Yumiaoya"],
     "notShowOnHome": ["MeowBot233", "AkiraComplex", "AsabaNaiXi"],
-    "actualHide": ["Aniloviraw"],
+    "actualHide": [
+        "Aniloviraw",
+        "DarlinChit"
+    ],
     "trigger": ["Aniloviraw"],
     "switch": [
         ["Anilovr", "Aniloviraw"]
