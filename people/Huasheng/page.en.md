@@ -47,11 +47,12 @@ Changhe demanded that Huasheng buy cat food. Unable to dissuade him, I accompani
 We talked the whole way. That memory of Huasheng is engraved forever in my heart.
 
 Perhaps the conflict began then.
-Perhaps it had been brewing longer. Either way, Huasheng and Changhe clashed often after that, many arguments centering around the cat.
+Perhaps it had been brewing longer.
+Either way, Huasheng and Changhe clashed often after that, many arguments centering around the cat.
 During the Lunar New Year, she returned to Nantong, and Changhe went back to Songyuan. Later, Changhe became infatuated with a trans girl battling cancer, borrowing money from various friends to send to them. Even Huasheng had lent him money.
 Around this time, a friend advised her to leave Changhe behind and start anew.
 
-On the early morning of April 1st,Huasheng unlinked her QQ Couple Space account from Changhe.
+On the early morning of April 1st, Huasheng unlinked her QQ Couple Space account from Changhe.
 That triggered a storm of threats from him. He first doxxed her family’s address, then messaged her:
 
 >"Bind our couple account back together. Being with me is your only choice."
@@ -72,11 +73,12 @@ I want to emphasize again: this was murder. The violence and terror of language 
 
 The most absurd thing is that before killing his ex, Changhe said: "Huasheng, your parents can't escape." After killing her, he said: "I love Huasheng, I want her belongings." But when asked about responsibility, he shamelessly claimed: "Her death has nothing to do with me."
 
-She is gone now. And what can I do?
-The unbearable lightness of being.
-
-Life, like composing a symphony, weaves random events into a central theme under the guidance of beauty, recording it into the music of our existence. As a composer shapes a sonata, life’s theme repeats, evolves, deepens. Anna could have ended her life in many ways, but it was the station, the unforgettable theme of death combined with the awakening of love, that lured her at her most desperate moment, with tragic beauty.
-Thus we compose our lives according to the laws of beauty — even into despair — without ever knowing it.
+She is gone now. And what can I do? The unbearable lightness of being.
+They [human lives] are composed like music.[^1]
+Guided by his sense of beauty, an individual transforms a fortuitous occurrence (Beethoven’s music, death under a train) into a motif, which then assumes a permanent place in the composition of the individual’s life. 
+Anna could have chosen another way to take her life.
+But the motif of death and the railway station, unforgettably bound to the birth of love, enticed her in her hour of despair with its dark beauty. 
+Without realizing it, the individual composes his life according to the laws of beauty even in times of greatest distress.
 
 Li'an, written in tears, April 6, 2025
 
@@ -118,3 +120,5 @@ this parting, too long.
 Wangmao, written in tears, April 2, 2025
 
 Contributors for this entry: Lian, Wangmao
+
+[^1]: from The Unbearable Lightness of Being by Milan Kundera, translated by Michael Henry Heim, Harper Perennial Modern Classics, New York, USA, 2005 (First Published in 1984) 【Part Two, Soul and Body】ISBN: 9780061148521
