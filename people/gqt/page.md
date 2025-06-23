@@ -1,3 +1,9 @@
+---
+name: Ara
+info:
+    alias: gqt, aragqt
+    location: 法国巴黎
+---
 ## 简介
 
 Ara 是一位法意混血跨性别女孩，毕业于佐治亚理工学院物理专业，喜欢玩 CSGO（反恐精英：全球攻势）、NSO（Needy Streamer Overload）、GGS（罪恶装备：Strive）和 Minecraft 等游戏，也喜欢烹饪意大利美食。她有点疯狂。她患有严重的边缘型人格障碍 (BPD) 和精神分裂症，但她仍然是我们见过的最善良的人之一，真诚地关心他人，充满爱心。不幸的是，她的病情导致了她的离开。
