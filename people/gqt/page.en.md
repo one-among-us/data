@@ -5,7 +5,7 @@ info:
     location: Paris, France
 ---
 
-> i hope you understand my descision if it comes to it
+> i hope youll understand my descision if it comes to it
 > 
 > i really am suffering
 
