@@ -7,7 +7,7 @@ info:
 
 ## Introduction
 
-Ara was a Franco-Italian trans girl who graduated from Georgia Tech in physics, enjoyed playing games like CSGO(Counter-Strike: Global Offensive), NSO(Needy Streamer Overload), GGS(Guilty Gear Strive), and Minecraft and loved cooking Italian food. She was a bit crazy around the edges. She massively suffered from borderline personality disorder (BPD) and schizophrenia but still was one of the sweetest people we've met, genuinely caring and loving. Unfortunately, her conditions were what led to her departure.
+Ara was a Franco-Italian trans girl who graduated from Georgia Tech in physics, enjoyed playing games like CSGO(Counter-Strike: Global Offensive), NSO(Needy Streamer Overload), GGS(Guilty Gear Strive), and Minecraft and loved cooking Italian food. She was a bit crazy around the edges. She massively suffered from borderline personality disorder (BPD) but still was one of the sweetest people we've met, genuinely caring and loving. Unfortunately, her conditions were what led to her departure.
 
 ## Departure
 
