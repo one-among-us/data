@@ -49,6 +49,12 @@ One of our memories with Ara was when we all played Minecraft together on a serv
 
 > Screenshots of buildings Ara made on her other server.
 
+## Her sense of humor
+
+Ara had a way of saying the most unhinged things. This one was iconic:
+
+> “my blunt rotation is Osama Bin Laden - Kim Jong Un - Hatsune Miku - Crystal - Trump - Biden (in a hospital bed bc ass cancer) - Hatsune Miku again”
+
 ## Departure
 
 ### Timeline
