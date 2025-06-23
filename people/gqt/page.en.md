@@ -53,7 +53,8 @@ At 2025-06-22 a final note was received
 > Literally can't. Thoughts racing through my head all the time, tried every med, no therapy has helped nor will help.
 > 
 > Hope you respect my decision. I've gotten my degree. It's all I ever wanted and I finally have it.
-My brain is too fucking rotten to do anything further than that. I have peaked in a world that is very clearly going to shit.
+> 
+> My brain is too fucking rotten to do anything further than that. I have peaked in a world that is very clearly going to shit.
 > 
 > Friends understandably distance themselves from me (and admit it), because it's just too much negativity and heavy shit all the time.
 > 
