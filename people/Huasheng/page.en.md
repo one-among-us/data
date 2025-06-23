@@ -5,75 +5,120 @@ info:
     location: Nantong, Jiangsu
 ---
 
+> After many days—after long nights and clear or cloudy days—the waves of grief have gradually passed.
+>  I’ve finally come to a place where I can write this again.
+>
+> The memories are fragmented and scattered, and I won’t try to stitch them together with emotional accusations.
+> That would feel powerless. So instead, I’ll just record the memories and stories as they were.
+> 
+> By: Li'an
+
 ## In Memory of Miss Huasheng
 
-Miss Huasheng has passed away. I will never see her again.
+Huasheng is gone. I’ll never see her again.
 
-Only one meeting — just one — and it became forever.
-Why? Why can I never see Huasheng again? I hate you, Changhe. You killed her.
+Her young life came to a halt in the early morning of April Fool’s Day.
+I kept checking and re-checking, unable to believe it, but no matter how much I tried to deny or soothe myself, nothing could change the fact:
+after the last time I heard her voice that morning, I never heard it again.
+I never saw her again.
+A single encounter — our only one—became forever.
 
-The cause of Huasheng's death traces back to her ex, Changhe, who, after years of severe drug abuse, developed hallucinations.
-Following a two-hour argument with Huasheng, fueled by uncontrollable emotions, Huasheng broke down and took her own life.
-In my view, this was not suicide, but a murder — murder by invisible, venomous words, and a rope spun from malicious cruelty.
-
-Huasheng was a good girl, incredibly gentle.
-I first met her at the end of last November in Amoy(Xiamen). The climate there was still warm, and her face carried the rosy glow of a seaside city. 
-I stayed at her home that night. She treated me and my friends to a Japanese restaurant, and in the evening, she thoughtfully laid out a mattress and quilt for me, asking if I felt cold.
-I will remember it for the rest of my life. I love you, Huasheng — your gentleness, your kindness, your warmth.
+Huasheng was a good person, deeply gentle.
+I met her for the first time in Amoy(Xiamen) at the end of last November.
+The climate was still warm then, and her face carried that warm seaside blush.
+I stayed at her place for the night.
+She treated my friend and me to a cozy Japanese restaurant.
+That night, she laid out a mattress for me, brought over a blanket, and asked if I was cold. 
+I’ll never forget it. I love you, Huasheng — your gentleness, your care, your kindness.
 
 <PhotoScroll photos={[ '${path}/photos/photo1.webp', ]} />
 
-Huasheng was very hospitable. That afternoon, she came to pick us up at Xiamenbei Railway Station and thoughtfully bought me a one-way ticket of AMTR, though I had an NFC-enabled transportation card.
-So, that ticket — now a vessel of memories — was left with me.
+She was so warm and welcoming.
+That afternoon she picked us up from Xiamenbei Railway Station and even bought me a single-trip metro ticket.
+I had an NFC transportation card and didn’t need it, so I kept the ticket as a memento.
 
-In *In Search of Lost Time*, Marcel Proust showed how a taste of a madeleine could transcend time, turning past experiences into something we truly possess, escaping the bounds of time and achieving a kind of eternal moment.
-Now, when I pull out that ticket again from its box, the beautiful memories Huasheng left me seem to permeate everywhere, at every moment.
+In *In Search of Lost Time*, Marcel Proust describes how a single taste of a madeleine can transcend time and bring the past vividly back to life.
+That metro ticket, tucked away in a little box for safekeeping, has done the same. Her memory lives on, intact.
 
-At that time, her partner was Changhe — the same Changhe who ultimately killed her.
+The night was long and dark, the rain on the window like tears that would never end.
 
-Changhe was a deeply unstable child, whose parents divorced during his early years. He dropped out of middle school and washed dishes in Songyuan, Jilin. 
-He became involved in numerous bizarre subcultures, labeling himself as everything from a "Desperate Drug Chemist", a "Dark Web Kingpin", a "pharmacology godfather," a "Narcotics Overlord", a "Malicious Doxing Master" to someone connected with arms dealers in the Philippines. 
-(Of course, I question the truthfulness of much of what he claimed.)
+That evening, we walked to a nearby pet store to buy canned food for a stray cat—two long kilometers along Boyuan Road.
+We talked the whole way.
+And ever since then, my memories of Huasheng always take me back to that night.
 
-From fragments of Huasheng’s conversations with friends, it seems she sympathized with his tragic background.
-She even used her savings from working in Shanghai to bring him to Amoy.
-Changhe was extremely controlling; whenever any friend tried to distance themselves, he would resort to threats and emotional manipulation.
+The city was beautiful at night.
+There’s something about seaside cities—their nights feel different from any other place I’ve known.
+The grilled eel rice she treated me to that night was amazing.
+Huasheng, if there ever comes a day we meet again, let me return the favour.
+I wish we had the chance.
 
-That night, after dinner, we encountered a stray tabby cat near the apartment.
-Changhe became obsessed with the cat and insisted on adopting it.
-But Huasheng didn’t like stray cats and wasn’t able to care for one.
-Yet absurdly, we spent half an hour downstairs watching him play with the cat.
-Changhe demanded that Huasheng buy cat food. Unable to dissuade him, I accompanied her to search for the nearest pet store on Meituan, walking a long two-kilometer stretch along Boyuan Road.
-We talked the whole way. That memory of Huasheng is engraved forever in my heart.
+## An Invisible Killing
 
-Perhaps the conflict began then.
-Perhaps it had been brewing longer.
-Either way, Huasheng and Changhe clashed often after that, many arguments centering around the cat.
-During the Lunar New Year, she returned to Nantong, and Changhe went back to Songyuan. Later, Changhe became infatuated with a trans girl battling cancer, borrowing money from various friends to send to them. Even Huasheng had lent him money.
-Around this time, a friend advised her to leave Changhe behind and start anew.
+On the afternoon of April 1st, 2025, Huasheng passed away.
 
-On the early morning of April 1st, Huasheng unlinked her QQ Couple Space account from Changhe.
-That triggered a storm of threats from him. He first doxxed her family’s address, then messaged her:
+Most people say she took her own life. But those who know the full story understand:
+this wasn’t a choice—it was the result of long-term emotional violence and threats, pushing her closer and closer to collapse.
 
->"Bind our couple account back together. Being with me is your only choice."
+
+<details>
+<summary>**Under violence without knives or guns, a young life collapsed.**</summary>
+
+It began when she tried to cut ties with her ex,
+N — a person with extreme emotional instability,
+who had long abused drugs and frequently spiraled into rage and delusion.
+After she unlinked their couple status on social media, he started harassing and threatening her non-stop.
+
+He sent her home address.
+He claimed he was flying to her city and would burn her house down with gasoline, "so you and your family can go to hell together."
+He demanded she re-link the couple status, saying it was her “only choice.”
+He threatened her with death—hers and her family’s.
+
+These weren’t just words.
+He knew her address.
+He was making travel plans.
+Huasheng tried to seek help.
+She told friends, “He’s coming. I need to run.”
+She told her work group chat someone was trying to kill her.
+In the last few hours of her life, she argued with N for two hours.
+Her last message was: “I can’t take it anymore.” Then she disappeared.
+
+</details>
+
+This memorial is not just about remembering Huasheng.
+It’s also a reminder to society:
+
+This was not an isolated case.
+It was a mirror held up to the silent suffering of many others.
+
+Psychological abuse, verbal threats, and coercive control can be just as deadly as physical violence. They are not “just arguments” or “mood swings.” They are invisible murder.
+
+We ask you to remember:
+
+> Stalking and threats from an ex aren’t about “not moving on”—they are real crimes;
 >
->"Your family can’t run. I’ll fly to Qidong tomorrow, pour gasoline at your door, burn your whole family alive, and stab you to death."
+> Violent language isn’t “just venting”—it’s a weapon that can kill;
 >
->"I'll come find your parents. Since you love living with them so much, you can all go to hell together."
+> Possessive control and manipulative affection aren’t love—they are emotional blackmail;
+>
+> Prolonged psychological pressure is no less destructive than domestic violence.
 
-Later, she told a friend,
-"He's coming, I need to run."
-She also told colleagues on WeChat that someone was trying to kill her and that she was planning to flee. 
-After two hours of argument that afternoon, she left a final message: "I can’t take it anymore."
-And within just over an hour, she lost contact with everyone.
+We hope people will start to take emotional harm seriously. We hope the law will respond faster to invisible abuse. We hope that no one else will be left as isolated and helpless as Huasheng.
 
-Huasheng’s close friend Wangmao traveled over 1,400 kilometers immediately upon hearing the news, 
-hurrying to Nantong to provide supplemental information to the family and police — otherwise, Huasheng's death might have gone undocumented.
-I want to emphasize again: this was murder. The violence and terror of language stole Huasheng’s young life.
+She was gone, but she wasn’t a weak person.
 
-The most absurd thing is that before killing his ex, Changhe said: "Huasheng, your parents can't escape." After killing her, he said: "I love Huasheng, I want her belongings." But when asked about responsibility, he shamelessly claimed: "Her death has nothing to do with me."
+She was just someone who had been surrounded by cruelty for too long, with no one there to pull her out.
 
-She is gone now. And what can I do? The unbearable lightness of being.
+She was just someone no one caught in time.
+
+May she rest in peace.
+And may this world become one where it’s harder to fall through the cracks.
+
+On the same day she passed, her friend Wangmao traveled 1,400 km to Nantong to give information to the police and her family.
+Otherwise, the truth might’ve been buried. Once again: this was a murder. It was violence and threats that took her life.
+
+She is gone. And what can I do, now that her presence has vanished from this world?
+The unbearable lightness of being...
+
 They [human lives] are composed like music.[^1]
 Guided by his sense of beauty, an individual transforms a fortuitous occurrence (Beethoven’s music, death under a train) into a motif, which then assumes a permanent place in the composition of the individual’s life. 
 Anna could have chosen another way to take her life.
@@ -119,6 +164,17 @@ this parting, too long.
 
 Wangmao, written in tears, April 2, 2025
 
-Contributors for this entry: Lian, Wangmao
+Huasheng, you once said you liked me a lot. 
+I don’t know if it was just to make me smile, but it made me really happy.
+I liked you too.
+I cared about you.
+You were so gentle and kind.
+But I’ll never get to see you again, never get to taste your cooking again.
+The dish you made that night — Di San Xian — was so good.
+I hope next life, you won’t meet someone unworthy of your love. I hope you’ll meet someone who truly deserves you.
+
+Your dear friend, Blue-Haired Slime, April 12, 2025
+
+Contributors for this entry: Lian, Wangmao, Blue-Haired Slime
 
 [^1]: from The Unbearable Lightness of Being by Milan Kundera, translated by Michael Henry Heim, Harper Perennial Modern Classics, New York, USA, 2005 (First Published in 1984) 【Part Two, Soul and Body】ISBN: 9780061148521
