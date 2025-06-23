@@ -17,21 +17,21 @@ Ara was a Franco-Italian trans girl who graduated from Georgia Tech in physics, 
 
 Ara’s love for physics came early, and though her degree at Georgia Tech often brought intense pressure, it remained one of the few things that gave her life structure and meaning.
 
-She loved to tinker around with computers, specifically with the Gentoo Linux operating system. She had joined the RISC-V Devboards Program and was planning to port Gentoo to a Lichee Pi 4A. Just a week before her death, she was writing a devblog about tinkering with her board. Her website looked like a terminal emulator, complete with commands and text art of the Gentoo Linux logo. It was minimal and perfectly fit her interest.
+She loved to tinker around with computers, specifically with the Gentoo Linux operating system. She had joined the RISC-V Devboards Program and was planning to port Gentoo to a Lichee Pi 4A. Just a week before her death, she was writing a devblog about tinkering with her board. Her website looked like a terminal emulator, complete with commands and text art of the Gentoo Linux logo. It was minimal and perfectly fit her interests.
 
 Her comfort character KAngel from the game *Needy Streamer Overload*, she saw herself in her a lot to the point it kind of stopped being a joke. She also liked games like *Rain World* and *Cyberpunk 2077*.
 
-Beneath the fire, Ara loved aquariums and had a particular obession with hammerhead sharks. She and her husband would visit aquarium exhibits together, and even had relationship rings styled after a manta ray. She adores bees. She loved drawing, sometimes on paper, sometimes impulsively on mirrors or glas, even in states of psychosis. Her world was chaotic but never void of creativity.
+Beneath the fire, Ara loved aquariums and had a particular obsession with hammerhead sharks. She and her husband would visit aquarium exhibits together and even had relationship rings styled after a manta ray. She adores bees. She loved drawing, sometimes on paper, sometimes impulsively on mirrors or glass, even in states of psychosis. Her world was chaotic but never void of creativity.
 
 She was also a fan of Italian cuisine and made pasta a lot.
 
-Despite all the things she loved—despite her passions, her curiosity, and her obsessions, Ara's battle with BPD was a storm she could never quite outrun. The same intensity that fueled her love also amplified her pain. She wanted to be close to people, to be understood, but the weight of her emotions often made that closeness feel impossible to sustain. Her relationships were full of deep love, but also self-doubt and overwhelming fear of abandonment.
+Despite all the things she loved, her passions, her curiosity, and her obsessions, Ara's battle with BPD was a storm she could never quite outrun. The same intensity that fueled her love also amplified her pain. She wanted to be close to people, to be understood, but the weight of her emotions often made that closeness feel impossible to sustain. Her relationships were full of deep love, but also self-doubt and an overwhelming fear of abandonment.
 
 What ultimately took Ara from us wasn't a lack of effort or will. She fought every day. But BPD is relentless, and in the end, she made a choice not out of weakness, but out of exhaustion.
 
 ## A memory
 
-One of our memories with Ara was when we all played Minecraft together on a server she hosted herself on her laptop. Instead of exploring the whole map, we found a floating island and made our home there, and we jokingly said we have a whole world to our own yet we are playing Skyblock. During our time on the server we talked a lot about random things like shows we we're watching and just banter. She also had another server where she used to build random buildings like towers.
+One of our memories with Ara was when we all played Minecraft together on a server she hosted herself on her laptop. Instead of exploring the whole map, we found a floating island and made our home there, and we jokingly said we have a whole world to our own yet we are playing Skyblock. During our time on the server we talked a lot about random things like shows we were watching and just banter. She also had another server where she used to build random buildings like towers.
 
 <PhotoScroll photos={[
     '${path}/photos/photo2.png',
