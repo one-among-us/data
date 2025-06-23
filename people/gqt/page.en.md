@@ -5,9 +5,15 @@ info:
     location: Paris, France
 ---
 
+> i hope you understand my descision if it comes to it
+> 
+> i really am suffering
+
 ## Introduction
 
 Ara was a Franco-Italian trans girl who graduated from Georgia Tech in physics, enjoyed playing games like CSGO(Counter-Strike: Global Offensive), NSO(Needy Streamer Overload), GGS(Guilty Gear Strive), and Minecraft and loved cooking Italian food. She was a bit crazy around the edges. She massively suffered from borderline personality disorder (BPD), but still was one of the sweetest people we've met, genuinely caring and loving. Unfortunately, her conditions were what led to her departure.
+
+## Her beautiful mind
 
 Ara’s love for physics came early, and though her degree at Georgia Tech often brought intense pressure, it remained one of the few things that gave her life structure and meaning.
 
@@ -22,6 +28,26 @@ She was also a fan of Italian cuisine and made pasta a lot.
 Despite all the things she loved—despite her passions, her curiosity, and her obsessions, Ara's battle with BPD was a storm she could never quite outrun. The same intensity that fueled her love also amplified her pain. She wanted to be close to people, to be understood, but the weight of her emotions often made that closeness feel impossible to sustain. Her relationships were full of deep love, but also self-doubt and overwhelming fear of abandonment.
 
 What ultimately took Ara from us wasn't a lack of effort or will. She fought every day. But BPD is relentless, and in the end, she made a choice not out of weakness, but out of exhaustion.
+
+## A memory
+
+One of our memories with Ara was when we all played Minecraft together on a server she hosted herself on her laptop. Instead of exploring the whole map, we found a floating island and made our home there, and we jokingly said we have a whole world to our own yet we are playing Skyblock. During our time on the server we talked a lot about random things like shows we we're watching and just banter. She also had another server where she used to build random buildings like towers.
+
+<PhotoScroll photos={[
+    '${path}/photos/photo2.png',
+]} />
+
+> Mikka (MtF) on the left, Crystal (crystaltrd) in the middle, Ara (aragqt) on the right.
+
+<PhotoScroll photos={[
+    '${path}/photos/photo3.png',
+    '${path}/photos/photo4.png',
+    '${path}/photos/photo5.png',
+    '${path}/photos/photo6.png',
+    '${path}/photos/photo7.png',
+]} />
+
+> Screenshots of buildings Ara made on her other server.
 
 ## Departure
 
