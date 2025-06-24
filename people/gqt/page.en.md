@@ -5,6 +5,8 @@ info:
     location: Paris, France
 ---
 
+<!-- (Original Language: Engish) -->
+
 > i hope youll understand my descision if it comes to it
 > 
 > i really am suffering
@@ -34,17 +36,17 @@ What ultimately took Ara from us wasn't a lack of effort or will. She fought eve
 One of our memories with Ara was when we all played Minecraft together on a server she hosted herself on her laptop. Instead of exploring the whole map, we found a floating island and made our home there, and we jokingly said we have a whole world to our own yet we are playing Skyblock. During our time on the server we talked a lot about random things like shows we were watching and just banter. She also had another server where she used to build random buildings like towers.
 
 <PhotoScroll photos={[
-    '${path}/photos/photo2.png',
+    '${path}/photos/photo2.webp',
 ]} />
 
 > Mikka (MtF) on the left, Crystal (crystaltrd) in the middle, Ara (aragqt) on the right.
 
 <PhotoScroll photos={[
-    '${path}/photos/photo3.png',
-    '${path}/photos/photo4.png',
-    '${path}/photos/photo5.png',
-    '${path}/photos/photo6.png',
-    '${path}/photos/photo7.png',
+    '${path}/photos/photo3.webp',
+    '${path}/photos/photo4.webp',
+    '${path}/photos/photo5.webp',
+    '${path}/photos/photo6.webp',
+    '${path}/photos/photo7.webp',
 ]} />
 
 > Screenshots of buildings Ara made on her other server.
@@ -86,7 +88,7 @@ Ara had a way of saying the most unhinged things. This one was iconic:
 At 2025-06-22 a final note was received
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.jpg',
+    '${path}/photos/photo1.webp',
 ]} />
 
 <details>
