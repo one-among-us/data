@@ -5,6 +5,8 @@ info:
     location: Paris, France
 ---
 
+<!-- (Original Language: Engish) -->
+
 > i hope youll understand my descision if it comes to it
 > 
 > i really am suffering
