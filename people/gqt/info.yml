@@ -1,0 +1,9 @@
+id: gqt
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2003-02-21'
+  died: '2025-06-22'
+websites:
+  blog: https://gqt.fr
+  iconify:bi:steam: https://steamcommunity.com/id/agqt
+  github: https://github.com/agqt
