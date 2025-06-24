@@ -122,6 +122,4 @@ At 2025-06-22 a final note was received
 
 May her pain finally be at rest, and her memory live on in those who loved her.
 
-Contributors for this entry:
-[Crystal](https://github.com/Crystaltrd)
-[Mikka](https://github.com/cvyl)
+Contributors for this entry: [Crystal](https://github.com/Crystaltrd), [Mikka](https://github.com/cvyl)
