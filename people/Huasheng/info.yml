@@ -1,0 +1,5 @@
+id: Huasheng
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2006-07-04'
+  died: '2025-04-01'
