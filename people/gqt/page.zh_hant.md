@@ -36,17 +36,17 @@ Ara 也有柔軟的一面，熱愛水族館，尤其著迷於雙髻鯊。她和�
 那段時間，我們一邊搭建一邊聊天，聊著最近在看的節目，還有各種玩笑和閒談。她還有另一個伺服器，經常在裡面隨意建造一些奇奇怪怪的建築，比如塔樓。
 
 <PhotoScroll photos={[
-    '${path}/photos/photo2.png',
+    '${path}/photos/photo2.webp',
 ]} />
 
 > 左邊是 Mikka（MtF），中間是 Crystal（crystaltrd），右邊是 Ara（aragqt）。
 
 <PhotoScroll photos={[
-    '${path}/photos/photo3.png',
-    '${path}/photos/photo4.png',
-    '${path}/photos/photo5.png',
-    '${path}/photos/photo6.png',
-    '${path}/photos/photo7.png',
+    '${path}/photos/photo3.webp',
+    '${path}/photos/photo4.webp',
+    '${path}/photos/photo5.webp',
+    '${path}/photos/photo6.webp',
+    '${path}/photos/photo7.webp',
 ]} />
 
 > Ara 在另一個伺服器中建造的建築截圖。
@@ -88,7 +88,7 @@ Ara 總是能用一本正經的語氣說出最荒謬的話。這句絕對是經�
 2025 年 6 月 22 日，收到最後一條訊息：
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.jpg',
+'${path}/photos/photo1.webp',
 ]} />
 
 <details>

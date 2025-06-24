@@ -36,17 +36,17 @@ Ara 也有柔软的一面，热爱水族馆，尤其痴迷于锤头鲨。她和�
 那段时间，我们一边搭建一边聊天，说着最近在看的节目，还有各种玩笑和闲谈。她还有另一个服务器，常常在里面随意建造一些奇奇怪怪的建筑，比如塔楼。
 
 <PhotoScroll photos={[
-    '${path}/photos/photo2.png',
+    '${path}/photos/photo2.webp',
 ]} />
 
 > 左边是 Mikka (MtF)，中间是 Crystal (crystaltrd)，右边是 Ara (aragqt)。
 
 <PhotoScroll photos={[
-    '${path}/photos/photo3.png',
-    '${path}/photos/photo4.png',
-    '${path}/photos/photo5.png',
-    '${path}/photos/photo6.png',
-    '${path}/photos/photo7.png',
+    '${path}/photos/photo3.webp',
+    '${path}/photos/photo4.webp',
+    '${path}/photos/photo5.webp',
+    '${path}/photos/photo6.webp',
+    '${path}/photos/photo7.webp',
 ]} />
 
 > Ara 在另一个服务器中建造的建筑截图。
@@ -88,7 +88,7 @@ Ara 总是能一本正经地说出最离谱的话。这句绝对是经典之一�
 2025年6月22日，收到了最后一条消息
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.jpg',
+'${path}/photos/photo1.webp',
 ]} />
 
 <details>
