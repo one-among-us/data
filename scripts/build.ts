@@ -10,6 +10,7 @@ import { renderMdx } from "./mdx.js";
 import moment from "moment";
 import { handleFeatures } from "./feature.js";
 import { HData, PeopleMeta } from "./data.js";
+import { encodeBlur } from "./blurhash.js";
 
 const PUBLIC_DIR = "public";
 
@@ -35,6 +36,26 @@ const notShowOnHomeList = hdata.notShowOnHome;
 const actualHide = hdata.actualHide;
 const trigger = hdata.trigger;
 const switchPair = hdata.switch;
+const skipAges = hdata.skipAges;
+const probilities = hdata.probilities;
+
+async function buildBlurCode() {
+  const blurCode = {};
+
+  for (const {dirname, srcPath, distPath} of people) {
+    if (excludeList.includes(dirname)) continue;
+    if (isDirEmpty(srcPath)) continue;
+
+    const info: any = YAML.load(fs.readFileSync(path.join(srcPath, `info.yml`), 'utf-8'))
+    if (typeof(info.profileUrl) != 'string') continue;
+    const photoPath = path.join(srcPath, (info.profileUrl as string).replaceAll('${path}/', ''))
+    blurCode[dirname] = await encodeBlur(photoPath);
+    console.log(`Blur code of ${dirname} has generated`)
+  }
+
+  fs.ensureDirSync(path.join(projectRoot, DIST_DIR));
+  fs.writeFileSync(path.join(projectRoot, DIST_DIR, 'blur-code.json'), JSON.stringify(blurCode))
+}
 
 // Transform `info.json5` to `info.json`.
 // Extract metadata from `people/${dirname}/info.json5` to `dist/people-list.json`.
@@ -49,6 +70,7 @@ function buildPeopleInfoAndList() {
     const peopleList: PeopleMeta[] = [];
     const peopleHomeList: PeopleMeta[] = [];
     const birthdayList = [] as [string, string][]
+    const departureList = [] as [string, string][]
 
     // For each person
     for (const { dirname, srcPath, distPath } of people) {
@@ -73,7 +95,7 @@ function buildPeopleInfoAndList() {
       const sortKey = info.info?.died ?? mdMeta.info?.died ?? '0'
 
       // Add age
-      if (info.info && info.info.died && info.info.born)
+      if (info.info && info.info.died && info.info.born && (!skipAges.includes(dirname)))
       {
         try { info.info.age = Math.abs(moment(info.info.died).diff(info.info.born, 'years', false)) }
         catch (e) { console.log(`Unable to calculate age for ${dirname}`) }
@@ -82,6 +104,12 @@ function buildPeopleInfoAndList() {
       if (info.id && info.info && info.info.born) {
         if (!actualHide.includes(info.id)) {
           birthdayList.push([info.id, info.info.born])
+        }
+      }
+
+      if (info.id && info.info && info.info.died) {
+        if (!actualHide.includes(info.id)) {
+          departureList.push([info.id, info.info.died])
         }
       }
 
@@ -135,6 +163,7 @@ function buildPeopleInfoAndList() {
     fs.writeFileSync(path.join(projectRoot, DIST_DIR, `people-list${lang}.json`), JSON.stringify(peopleList));
     fs.writeFileSync(path.join(projectRoot, DIST_DIR, `people-home-list${lang}.json`), JSON.stringify(peopleHomeList));
     fs.writeFileSync(path.join(projectRoot, DIST_DIR, 'birthday-list.json'), JSON.stringify(birthdayList));
+    fs.writeFileSync(path.join(projectRoot, DIST_DIR, 'departure-list.json'), JSON.stringify(departureList));
   }
 }
 
@@ -184,8 +213,10 @@ function copyPeopleAssets() {
 // Copy files `public` to dist.
 function copyPublic() {
   fs.copySync(path.join(projectRoot, PUBLIC_DIR), path.join(projectRoot, DIST_DIR));
+  fs.copySync(path.join(projectRoot, DATA_DIR, 'eggs.json'), path.join(projectRoot, DIST_DIR, 'eggs.json'));
   fs.writeFileSync(path.join(DIST_DIR, 'trigger-list.json'), JSON.stringify(trigger as string[]));
   fs.writeFileSync(path.join(DIST_DIR, 'switch-pair.json'), JSON.stringify(switchPair as [string, string][]))
+  fs.writeFileSync(path.join(DIST_DIR, 'probilities.json'), JSON.stringify(probilities))
 }
 
 function copyComments() {
@@ -208,6 +239,7 @@ function copyComments() {
   }
 }
 
+buildBlurCode();
 buildPeopleInfoAndList();
 buildPeoplePages();
 copyPeopleAssets();
@@ -234,5 +266,7 @@ function trim(str: string, ch: string) {
 }
 
 function isDirEmpty(dir: string): boolean {
-  return fs.readdirSync(dir).length == 0;
+  if (fs.readdirSync(dir).length == 0) return true;
+  else if ((fs.readdirSync(dir).length == 1) && (fs.readdirSync(dir)[0] == 'comments')) return true;
+  return false;
 }

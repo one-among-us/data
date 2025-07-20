@@ -8,8 +8,8 @@ info:
 ## Description
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.jpg',
-'${path}/photos/photo2.jpg',
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
 ]} />
 
 Shihai was a naive girl who preferred to stand by the window, gazing into the distance and losing in thought, just like her favourite QQ avators.
@@ -18,7 +18,7 @@ In that state, she won't notice you if you walk close to her quietly.
 The first time I met her in real life, I (The author of this entry) was immediately attracted by her gloomy temperament just like Lin Tai-yu in *A Dream of Red Mansions*.
 
 <PhotoScroll photos={[
-'${path}/photos/photo3.jpg',
+'${path}/photos/photo3.webp',
 ]} />
 
 (The preceding photo is Shihai measuring her height)
@@ -271,6 +271,7 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 [^10]: from A Dream of Red Mansions Volume II (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【Volume I P672】ISBN: 9787119006437
 </details>
 
+<Sakura count="50" />
 
 {/* Following are en localization notes, available for consultation.
 

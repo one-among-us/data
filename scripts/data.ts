@@ -5,6 +5,8 @@ export interface HData {
     actualHide: string[];
     trigger: string[];
     switch: [string, string][];
+    skipAges: string[];
+    probilities: any;
 }
 
 export interface PeopleMeta {

@@ -22,6 +22,12 @@ function handleDeleteLine(md: string): string {
     return md.replace(/~~(.*?)~~/g, (match, text) => "<del>" + text + "</del>");
 }
 
+function handleSpoiler(md: string): string {
+    if (!md.includes("||")) return md;
+
+    return md.replace(/\|\|(.*?)\|\|/g, (match, text) => `<span class="spoiler"><span>${text}</span></span>`);
+}
+
 function handleNoteIcon(md: string): string {
     if (!md.includes("[!")) return md;
     return md.replace(/\[\!(\w+)\](?::\s*(.*))?/g, (match, icon, _) => Icon[icon as string]);
@@ -33,6 +39,9 @@ export function handleFeatures(markdown: string): string {
 
     // Handle Delete Line: ~~something~~ to <del>something</del>
     md = handleDeleteLine(md)
+
+    // Handle Spoilers
+    md = handleSpoiler(md)
 
     // Handle Icon
     md = handleNoteIcon(md)

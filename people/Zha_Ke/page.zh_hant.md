@@ -9,6 +9,6 @@ info:
 
 （註：信件內容或許有一些觸發要素，包括自殺意念和精神疾患內容，請在點開閱讀前知曉）
 
-<PhotoScroll photos={[ '${path}/photos/letter.jpg']} />
+<PhotoScroll photos={[ '${path}/photos/letter.webp']} />
 
 他說，「世界早已將我拋棄。而我，終究會被所有人所遺忘。」然而，我們不會遺忘他。感謝 [StarTransForEve](https://startransforeve.com/) 的站主為我們提供了紀念他的線索。紮克，願你獲得平靜。

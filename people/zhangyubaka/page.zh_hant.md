@@ -60,7 +60,7 @@ info:
 在 3 月的博客《[分別與重逢](https://web.archive.org/web/20210517104118/https://oao.moe/archives/948/)》之中，她給她的朋友們留下了許多的話語，也一直感謝大家的陪伴。
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.jpg',
+    '${path}/photos/photo1.webp',
 ]} />
 
 ## 身後

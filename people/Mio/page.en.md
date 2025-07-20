@@ -8,8 +8,8 @@ info:
 > “Does my name mean 澪, you ask? Not really. Actually, ‘Mio’ is also something I came up with on a whim. I'm not good at Japanese, sorry.”
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.jpg',
-'${path}/photos/photo2.jpg',
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
 ]} />
 
 Mio is from Guangdong, Foshan.
@@ -40,8 +40,8 @@ Therefore, when she reconnected with Mio, she came out to her.
 Just like that, best "boy" friends became best girl friends.
 
 <PhotoScroll photos={[
-'${path}/photos/photo6.jpg',
-'${path}/photos/photo7.jpg',
+'${path}/photos/photo6.webp',
+'${path}/photos/photo7.webp',
 ]} />
 
 Translation:
@@ -99,13 +99,13 @@ During one month, Mio and her close friend spent time together six times.
 The backpacks they bought together recorded their friendship silently:
 
 <PhotoScroll photos={[
-'${path}/photos/photo5.jpg'
+'${path}/photos/photo5.webp'
 ]} />
 
 Her friend didn’t expect the goodbye at the airport to become the last time she could ever see her:
 
 <PhotoScroll photos={[
-'${path}/photos/photo4.jpg'
+'${path}/photos/photo4.webp'
 ]} />
 
 ---
@@ -126,9 +126,9 @@ This time, she didn’t tell anyone about her plan and only set up a scheduled T
 When her mother found her, it was already too late.
 
 <PhotoScroll photos={[
-'${path}/photos/twitter1.jpg',
-'${path}/photos/twitter2.jpg',
-'${path}/photos/twitter3.jpg',
+'${path}/photos/twitter1.webp',
+'${path}/photos/twitter2.webp',
+'${path}/photos/twitter3.webp',
 ]} />
 
 Translation of the above photos:
@@ -207,7 +207,7 @@ Translation of the above photos:
 These are the last text messages she sent:
 
 <PhotoScroll photos={[
-'${path}/photos/photo3.jpg'
+'${path}/photos/photo3.webp'
 ]} />
 
 Translation:

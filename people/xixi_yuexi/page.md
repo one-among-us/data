@@ -13,11 +13,11 @@ info:
 有着喜欢的, 也喜欢她的人呢.  
 
 <PhotoScroll photos={[
-'${path}/photos/photo0.jpg',
-'${path}/photos/photo1.jpg',
-'${path}/photos/photo2.jpg',
-'${path}/photos/photo3.jpg',
-'${path}/photos/photo4.jpg',
+'${path}/photos/photo0.webp',
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
+'${path}/photos/photo3.webp',
+'${path}/photos/photo4.webp',
 ]} />
 
 有时候, 会去新街口的机厅里, 打几次舞萌呢  
@@ -30,7 +30,7 @@ info:
 
 这个小笨蛋喜欢吃烧烤, 有时候一个人就吃掉一大盘x  
 
-<PhotoScroll photos={['${path}/photos/photo5.jpg']} />
+<PhotoScroll photos={['${path}/photos/photo5.webp']} />
 
 有时候还会变成小孩子一样的呢w  
 

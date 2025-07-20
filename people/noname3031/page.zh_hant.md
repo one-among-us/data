@@ -11,22 +11,24 @@ noah是一位有些神秘的mtf，盡管在twitter上的人設是看起來無趣
 在臨走前她給大家寄了一些明信片。
 
 <PhotoScroll photos={[
-    '${path}/photos/postcard8.jpg',
-    '${path}/photos/postcard9.jpg',
-    '${path}/photos/postcard10.jpg',
-    '${path}/photos/postcard11.jpg',
+    '${path}/photos/postcard8.webp',
+    '${path}/photos/postcard9.webp',
+    '${path}/photos/postcard10.webp',
+    '${path}/photos/postcard11.webp',
+    '${path}/photos/postcard12.webp',
+    '${path}/photos/postcard13.webp',
 ]} />
 
 上面的 NFC 標簽內也有明信片上圖案的來源。
 
 <PhotoScroll photos={[
-    '${path}/photos/postcard1.jpg',
-    '${path}/photos/postcard2.jpg',
-    '${path}/photos/postcard3.jpg',
-    '${path}/photos/postcard4.jpg',
-    '${path}/photos/postcard5.jpg',
-    '${path}/photos/postcard6.jpg',
-    '${path}/photos/postcard7.jpg',
+    '${path}/photos/postcard1.webp',
+    '${path}/photos/postcard2.webp',
+    '${path}/photos/postcard3.webp',
+    '${path}/photos/postcard4.webp',
+    '${path}/photos/postcard5.webp',
+    '${path}/photos/postcard6.webp',
+    '${path}/photos/postcard7.webp',
 ]} />
 
 > noah 曾經誤以為 [某只喵](https://one-among.us/profile/MioCardMeow) 是「我小說中的貓貓」，於是讓我與喵結下了不解之緣。

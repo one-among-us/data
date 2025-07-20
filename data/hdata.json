@@ -1,12 +1,21 @@
 {
-  "commentOnly": ["tdor"],
-  "exclude": ["XIEPT2", "shi_Yumiaoya"],
-  "notShowOnHome": ["MeowBot233", "AkiraComplex"],
-  "actualHide": ["Aniloviraw", "akafeza"],
-  "trigger": ["Aniloviraw"],
-  "switch": [
-    ["Anilovr", "Aniloviraw"],
-    ["zhangyubaka", "akafeza"],
-    ["akafeza", "zhangyubaka"]
-  ]
+    "commentOnly": ["tdor"],
+    "exclude": [
+        "XIEPT2",
+        "shi_Yumiaoya",
+        "DarlinChit"
+    ],
+    "notShowOnHome": ["MeowBot233", "AkiraComplex", "AsabaNaiXi"],
+    "actualHide": ["Aniloviraw","akafeza"],
+    "trigger": ["Aniloviraw"],
+    "switch": [
+        ["Anilovr", "Aniloviraw"],
+        ["zhangyubaka", "akafeza"],
+        ["akafeza", "zhangyubaka"]
+    ],
+    "skipAges": ["cheonwoomaeng"],
+    "probilities": {
+        "XingZ60": 1,
+	      "Huasheng": 1
+    }
 }

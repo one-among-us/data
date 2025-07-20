@@ -8,14 +8,14 @@ info:
 ## 简介
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.jpg',
-'${path}/photos/photo2.jpg',
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
 ]} />
 
 就和她喜欢用的 QQ 头像一样，柿海是个喜欢站在窗户边然后眺望远方发呆的傻傻的姑娘，即使轻轻走近也不易被察觉，初见时，我就被她身上那种林妹妹似阴郁的气质吸引了。
 
 <PhotoScroll photos={[
-'${path}/photos/photo3.jpg',
+'${path}/photos/photo3.webp',
 ]} />
 （柿海在量身高的照片）
 
@@ -133,3 +133,5 @@ info:
 我最亲爱的小柿子，我们来世再见。到那时我肯定还有缘分再见到你，毕竟这辈子的因果交错再也解不开了。我还很想问问你为什么，可是再问一万遍都没有人会给我一个答案了。
 
 条目贡献：[梨安](https://twitter.com/LianShihai)
+
+<Sakura count="50" />
