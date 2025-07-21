@@ -158,4 +158,4 @@ Contributors for this entry: One-Among-Us, [Ayaka Neko](https://twitter.com/ayak
 
 {/* TODO: Check in Grammarly */}
 
-[^1]: Another version in Zhihu: "Only for you I stay alive... But you are not by my side. Isn't it? Wish you are still alive..."
+[^1]: Another version in Zhihu: "Only for you I stay alive... But you are not by my side. Isn't it? Wish you are still alive..." Remakrs: According to research, this line originates from the final lyric of "Yuu" (lyrics/composition: Yumi Nakashima), namely 「いつでもあなたでいて あなたしかいないでしょ」. This lyric expressed an intense sense of emotional dependence: “It has always been you; you’re the only one in my world.”
