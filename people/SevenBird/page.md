@@ -2,7 +2,7 @@
 name: 柒鸟
 info:
     alias: 柒鸟
-    location: 福建
+    location: 福建省宁德市
 ---
 
 >「想念我的时候，就抬头看看月亮吧~」  
