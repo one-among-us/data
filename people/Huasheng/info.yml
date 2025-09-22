@@ -3,3 +3,6 @@ profileUrl: ${path}/photos/profile.jpg
 info:
   born: '2006-07-04'
   died: '2025-04-01'
+desc:
+  zh_hans: 不能承受的生命之轻。
+  en: The unbearable lightness of being...
