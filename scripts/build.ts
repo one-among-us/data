@@ -133,6 +133,10 @@ function buildPeopleInfoAndList() {
       // Autocorrect comment contents
       info.comments.forEach(c => c.content = autocorrect.format(c.content))
 
+      // Save desc for later use in people list, then remove from info
+      const descForList = info.desc;
+      delete info.desc;
+
       // Write info.json
       fs.ensureDirSync(distPath);
       fs.writeFileSync(path.join(distPath, `info${lang}.json`), JSON.stringify(info));
@@ -143,6 +147,15 @@ function buildPeopleInfoAndList() {
         sortKey: sortKey,
         ...Object.fromEntries(["id", "name", "profileUrl"].map(key => [key, info[key]]))
       } as PeopleMeta;
+
+      // Add desc field for the current language
+      if (descForList) {
+        let langKey = trim(lang, ".");
+        if (langKey == '') langKey = "zh_hans";
+        if (descForList[langKey] !== undefined) {
+          peopleMeta.desc = descForList[langKey];
+        }
+      }
 
       if (peopleMeta.id == 'noname') peopleMeta.sortKey = '-1';
 
