@@ -144,6 +144,11 @@ function buildPeopleInfoAndList() {
         ...Object.fromEntries(["id", "name", "profileUrl"].map(key => [key, info[key]]))
       } as PeopleMeta;
 
+      // Add desc field from markdown metadata
+      if (mdMeta.desc !== undefined) {
+        peopleMeta.desc = mdMeta.desc;
+      }
+
       if (peopleMeta.id == 'noname') peopleMeta.sortKey = '-1';
 
       // Add meta to people list
