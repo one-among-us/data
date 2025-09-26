@@ -3,4 +3,8 @@ profileUrl: ${path}/photos/profile.jpg
 info:
   died: '2024-01-23'
 websites:
-    twitter: https://twitter.com/Dethelly
+  twitter: https://twitter.com/Dethelly
+desc:
+  zh_hans: Adios.
+  zh_hant: Adios.
+  en: Adios.

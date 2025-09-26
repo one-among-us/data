@@ -4,5 +4,7 @@ info:
   born: '2005-12-19'
   died: '2024-01-21' # 00:08
 websites:
-    twitter: https://twitter.com/a2581911655
-    Bilibili: https://space.bilibili.com/444330613
+  twitter: https://twitter.com/a2581911655
+  Bilibili: https://space.bilibili.com/444330613
+desc:
+  zh_hans: 我们终将在未来的旅途相会。

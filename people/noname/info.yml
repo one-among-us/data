@@ -2,3 +2,7 @@ id: noname
 profileUrl: ${path}/photos/profile.jpg
 websites:
   one-among-us: https://one-among.us
+desc:
+  zh_hans: ''
+  zh_hant: ''
+  en: ''

@@ -1,4 +1,7 @@
 id: CutOceanHeyFis1
 profileUrl: ${path}/photos/profile.jpg
-websites: 
+websites:
   twitter: https://twitter.com/CutOceanHeyFis1
+desc:
+  zh_hans: 啊，中午了呢，贴贴？
+  en: Cuddle?

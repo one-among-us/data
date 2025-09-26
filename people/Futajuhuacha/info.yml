@@ -5,4 +5,7 @@ info:
   # 离世信息公布：2018-07-11 0时许
   # 最后一条知乎：2018-07-10 16时许
 websites:
-    zhihu: https://www.zhihu.com/people/bu-shi-zi-de-wen-hao
+  zhihu: https://www.zhihu.com/people/bu-shi-zi-de-wen-hao
+desc:
+  zh_hans: 愿世界将你温柔以待。
+  en: May the world treat you gently.
