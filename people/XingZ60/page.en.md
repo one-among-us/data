@@ -3,6 +3,7 @@ name: XingZ60
 info:
     alias: Lili, Z60
     location: Beijing, China
+desc: Living is my right, not my obligation.
 ---
 
 **Come back later!**

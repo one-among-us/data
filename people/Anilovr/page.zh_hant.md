@@ -3,6 +3,7 @@ name: Anilovr
 info:
     alias: Ani
     location: 海南海口
+desc: 我真的 愛你們每一個人。
 ---
 
 >「//La homa mondo devus esti detruita//我會在參宿四上等你//」  

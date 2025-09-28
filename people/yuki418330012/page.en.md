@@ -2,6 +2,7 @@
 name: Yuki Akatsuki
 info:
     location: Chengdu, Sichuan
+desc: Not wanting to be a burden of others.
 ---
 
 ## Introduction

@@ -2,6 +2,7 @@
 name: yuki-_-小雪
 info:
     location: 四川成都
+desc: 对人类不感兴趣？但是有很多人喜欢她呢。
 ---
 
 ## 简介

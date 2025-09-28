@@ -3,6 +3,7 @@ name: Arita
 info:
     alias: Arita, sodapinkpink
     location: Shanghai, China
+desc: I became a rush that horses tread.
 ---
 
 Arita is a kind and beautiful "big sister." She majors in architecture and urban planning, a field the author once dreamed of pursuing as a child. In addition to architectural design, she has a deep love for painting and is quite talented. Her camera is filled with a variety of photos, further reflecting her artistic nature. Arita also has a keen interest in makeup and fashion. According to a friend, she recommends many lesser-known but high-quality cosmetic brands on Xiaohongshu. She favors rose-colored lipstick and rose-scented perfume and often lights scented candles in her room. She strikes me as someone who truly enjoys life. Her friends describe her personality as similar to the author's. At first glance, she may come across as soft-spoken and reserved, often "sitting quietly in the corner," but she is deeply protective of those close to her. She is unafraid to share her views on various aspects of life with those she trusts and desires a partner who can stand beside her to face the world together.

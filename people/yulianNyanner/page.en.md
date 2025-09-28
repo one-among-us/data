@@ -3,6 +3,7 @@ name: Lyna
 info:
     alias: Yulian, Nyanner
     location: Dalian, Liaoning
+desc: In the end, we heard her voice.
 ---
 
 ## Introduction

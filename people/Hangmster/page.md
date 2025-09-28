@@ -3,6 +3,7 @@ name: Hangmster
 info:
     alias: 仓鼠
     location: 河北石家庄
+desc: 大家的开心果。
 ---
 
 ## 简介

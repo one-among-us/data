@@ -3,6 +3,7 @@ name: Yantian
 info:
   alias: Yantian, Metro Line 8
   location: Shenzhen, Guangdong # Honghe, Yunnan, by kokowamakotsu
+desc: Shenzhen Metro Line 8 (Yantian Line)
 ---
 
 ## Description
