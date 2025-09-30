@@ -3,6 +3,7 @@ name: 零下一度的冰晶
 info:
     alias: lxyddice, lxy, W 酱
     location: 广东广州
+desc: 现实难解，但是代码好解。
 ---
 
 > 现实难解，但是代码好解。

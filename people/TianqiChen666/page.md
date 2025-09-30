@@ -3,6 +3,7 @@ name: めんま
 info:
     alias: 面码, Menma
     location: 四川成都
+desc: 这次的捉迷藏，真的找不到你了。
 ---
 
 ## 简介

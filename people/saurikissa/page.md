@@ -3,6 +3,7 @@ name: 吴水悦
 info:
   alias: 水无月，kissa
   location: 吉林辉南
+desc: 哎呀，真是让人感到头疼的孩子呢。
 
 ---
 
