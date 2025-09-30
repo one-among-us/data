@@ -3,6 +3,7 @@ name: 林童
 info:
     alias: 林童, Darkness
     location: 湖北武漢
+desc: 來，這瓶魔爪，敬妳。
 ---
 
 ## 簡介

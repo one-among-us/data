@@ -3,6 +3,7 @@ name: Huasheng
 info:
     alias: Huasheng(Peanut), Little Huasheng
     location: Nantong, Jiangsu
+desc: The unbearable lightness of being...
 ---
 
 > After many days—after long nights and clear or cloudy days—the waves of grief have gradually passed.

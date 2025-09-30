@@ -3,6 +3,7 @@ name: 不存在
 info:
     alias: 不存在、存存
     location: 中国广东
+desc: 关于存存的优点，真是说不完呢。
 ---
 
 ## 简介

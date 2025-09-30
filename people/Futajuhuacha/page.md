@@ -3,6 +3,7 @@ name: 扶她菊花茶
 info:
     alias: 花茶, 菊花茶
     location: 中国重庆
+desc: 愿世界将你温柔以待。
 ---
 
 ## 简介

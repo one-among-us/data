@@ -3,6 +3,7 @@ name: 檩
 info:
     alias: 檩
     location: 陕西西安
+desc: 想当一只猫猫
 ---
 
 ## 简介

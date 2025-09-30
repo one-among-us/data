@@ -3,6 +3,7 @@ name: Tsukiko
 info:
     alias: Tsuki
     location: 江蘇無錫
+desc: 這樣的天空，我還能看多久呢？
 ---
 
 ## 簡介

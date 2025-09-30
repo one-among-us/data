@@ -3,6 +3,7 @@ name: Chica 陈由岐
 info:
     alias: 王凝予
     location: 北京朝阳
+desc: 实际上啊，我还有很多想要去做的事呢。
 ---
 
 ## 简介

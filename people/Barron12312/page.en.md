@@ -1,5 +1,6 @@
 ---
 name: Barron
+desc: A girl's last tour.
 ---
 
 Barron was a happy trans girl who studied drawing in Japan.

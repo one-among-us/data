@@ -3,6 +3,7 @@ name: 羽涟
 info:
     alias: 涟
     location: 辽宁大连
+desc: 我们一起在死后反抗不公的世界。
 ---
 
 ## 简介

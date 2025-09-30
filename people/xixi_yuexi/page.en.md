@@ -2,6 +2,7 @@
 name: YueXi
 info:
     location: Nanking, Jiangsu
+desc: Just love rhythm games!!!
 ---
 
 ## Description

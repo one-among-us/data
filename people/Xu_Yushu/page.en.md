@@ -2,6 +2,7 @@
 name: Xu Yushu
 info:
     location: Nan'an, Chongqing
+desc: My soul will fly to Geladaindong Peak.
 ---
 
 ## Introduction
