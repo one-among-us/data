@@ -35,7 +35,7 @@ Huasheng was hospitable.
 That afternoon, she picked us up from Xiamenbei Railway Station and prepared a single-trip metro ticket for me.
 I had an NFC transportation card and didn’t need it, so I kept the ticket as a memento.
 
-In Proust's *In Search of Lost Time*, a madeleine dipped in tea shatters time itself—not mere memory, but the past resurrected through taste. Now, as I retrieve this metro ticket from my keepsake box, Huasheng returns not as a memory but as reality.
+In Proust's *In Search of Lost Time*, tasting a madeleine dipped in tea brings the past vividly back to life. In the same way, when I take this metro ticket from my keepsake box, Huasheng feels present again—not just a memory, but a living reality.
 
 The nights stretch long and dark; the rain against the window becomes the tears within my heart—tears that will never cease.
 
