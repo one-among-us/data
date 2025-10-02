@@ -112,7 +112,7 @@ They [human lives] are composed like music.[^1]
 Guided by his sense of beauty, an individual transforms a fortuitous occurrence (Beethoven’s music, death under a train) into a motif, which then assumes a permanent place in the composition of the individual’s life. 
 Anna could have chosen another way to take her life.
 But the motif of death and the railway station, unforgettably bound to the birth of love, enticed her in her hour of despair with its dark beauty. 
-Without realizing it, the individual composes his life according to the laws of beauty even in times of greatest distress.
+Without realizing it, the individual composes his life according to the laws of beauty even in times of greatest distress.[^2]
 
 Li'an, written in tears, April 6, 2025
 
@@ -156,10 +156,8 @@ Contributors for this entry: Lian, Wangmao, Blue-Haired Slime
 
 [^1]: from The Unbearable Lightness of Being by Milan Kundera, translated by Michael Henry Heim, Harper Perennial Modern Classics, New York, USA, 2005 (First Published in 1984) 【Part Two, Soul and Body】ISBN: 9780061148521
 
-      Translator note (easier version):
-
-　　　 Life composes itself like music.
-      Guided by beauty, we transform a fortuitous occurrence (Beethoven’s music, death under a train) into a motif, which then assumes a permanent place in the composition of the individual’s life. 
-      Anna could have chosen another way to take her life.
-      But the motif of death and the railway station, unforgettably bound to the birth of love, enticed her in her hour of despair with its dark beauty. 
-      Unknowingly, we compose our lives according to the laws of beauty, even in our deepest suffering.
+[^2]: Translator note (easier version): Life composes itself like music.
+Guided by beauty, we transform a fortuitous occurrence (Beethoven’s music, death under a train) into a motif, which then assumes a permanent place in the composition of the individual’s life.
+Anna could have chosen another way to take her life.
+But the motif of death and the railway station, unforgettably bound to the birth of love, enticed her in her hour of despair with its dark beauty.
+Unknowingly, we compose our lives according to the laws of beauty, even in our deepest suffering.
