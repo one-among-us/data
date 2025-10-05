@@ -19,7 +19,7 @@ desc: The unbearable lightness of being.
 Huasheng is gone. I’ll never see her again.
 
 Her young life ended on April Fool’s Day—A cruel irony that made me check and recheck the news in disbelief.
-But the truth remains: That single encounter became the only encounter.
+But no matter how much I tried to deny it, the truth remains: That single encounter became the only encounter.
 
 Huasheng was a good and gentle person.
 I first met her in Amoy (Xiamen) at the end of last November.
