@@ -3,6 +3,7 @@ name: Chica 陈由岐
 info:
     alias: 王凝予
     location: Chaoyang, Beijing
+desc: I had so much I wanted to do… but I lost.
 ---
 
 ## Description

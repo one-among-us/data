@@ -3,6 +3,7 @@ name: Susie
 info:
     alias: Susie
     location: Changsha, Hunan
+desc: Until we meet again, Susie.
 ---
 
 ## Memories

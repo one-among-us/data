@@ -3,6 +3,7 @@ name: 诀蛰
 info:
     alias: 诀蛰
     location: 中国广西
+desc: 女孩啊，不要自卑呢……
 ---
 
 ## 导语

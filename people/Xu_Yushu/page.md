@@ -2,6 +2,7 @@
 name: 徐誉舒
 info:
     location: 重庆南岸
+desc: 我的灵魂会飞向格拉丹东峰。
 ---
 
 ## 简介

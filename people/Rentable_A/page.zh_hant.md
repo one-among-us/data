@@ -3,6 +3,7 @@ name: Rentable
 info:
     alias: Ren
     location: 河南新鄉
+desc: 天國會收 mtf 嗎？
 ---
 
 > 天國會收 mtf 嗎

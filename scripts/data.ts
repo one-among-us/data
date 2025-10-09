@@ -15,6 +15,7 @@ export interface PeopleMeta {
     profileUrl: string;
     path: string;
     sortKey: string;
+    desc?: string;
 }
 
 export interface BannerData {

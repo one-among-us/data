@@ -3,6 +3,7 @@ name: Sugar ~ 100% PURITY
 info:
     alias: Dethelly, 五洲
     location: Yubei, Chongqing
+desc: Adios.
 ---
 
 

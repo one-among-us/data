@@ -3,6 +3,7 @@ name: lintong
 info:
     alias: Lintong, Darkness
     location: Wuhan, Hubei
+desc: Here, drink this can of Monster Energy.
 ---
 
 ## Description

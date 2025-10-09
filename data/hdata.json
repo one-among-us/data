@@ -6,10 +6,10 @@
         "DarlinChit"
     ],
     "notShowOnHome": [
-    	"MeowBot233",
-    	"AkiraComplex",
-    	"AsabaNaiXi",
-    	"ElihusoQ"
+        "MeowBot233",
+        "AkiraComplex",
+        "AsabaNaiXi",
+        "ElihusoQ"
     ],
     "actualHide": ["Aniloviraw"],
     "trigger": ["Aniloviraw"],
@@ -19,6 +19,7 @@
     ],
     "skipAges": ["cheonwoomaeng"],
     "probilities": {
-        "XingZ60": 1
+        "XingZ60": 1,
+        "Huasheng": 1
     }
 }

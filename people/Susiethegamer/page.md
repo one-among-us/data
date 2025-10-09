@@ -3,6 +3,7 @@ name: Susie
 info:
     alias: 小澄闪
     location: 湖南长沙
+desc: 品川订誓忍难行。长空如有意，神使破寒冰。
 ---
 
 ## 往事

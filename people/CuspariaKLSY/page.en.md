@@ -3,6 +3,7 @@ name: Ling Shui Yu Yu Zi
 info:
     alias: Yu Yu Zi
     location: Qingyang, Gansu, China
+desc: Be more similar to "herself".
 ---
 
 ## Description
