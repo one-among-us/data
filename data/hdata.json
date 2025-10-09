@@ -18,7 +18,8 @@
     "trigger": ["Aniloviraw"],
     "switch": [
         ["Anilovr", "Aniloviraw"],
-        ["Elihuso", "ElihusoQ"]
+        ["Elihuso", "ElihusoQ"],
+        ["ElihusoQ", "Elihuso"]
     ],
     "skipAges": ["cheonwoomaeng"],
     "probilities": {
