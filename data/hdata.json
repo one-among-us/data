@@ -11,7 +11,11 @@
         "AsabaNaiXi",
         "ElihusoQ"
     ],
-    "actualHide": ["Aniloviraw"],
+    "actualHide": [
+        "Aniloviraw",
+        "Elihuso",
+        "ElihusoQ"
+    ],
     "trigger": ["Aniloviraw"],
     "switch": [
         ["Anilovr", "Aniloviraw"],
