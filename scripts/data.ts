@@ -6,7 +6,7 @@ export interface HData {
     trigger: string[];
     switch: [string, string][];
     skipAges: string[];
-    probilities: any;
+    probabilities: any;
     groups: string[][];
 }
 
