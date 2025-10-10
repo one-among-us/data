@@ -38,6 +38,7 @@ const trigger = hdata.trigger;
 const switchPair = hdata.switch;
 const skipAges = hdata.skipAges;
 const probilities = hdata.probilities;
+const groups = hdata.groups;
 
 async function buildBlurCode() {
   const blurCode = {};
@@ -222,6 +223,7 @@ function copyPublic() {
   fs.writeFileSync(path.join(DIST_DIR, 'trigger-list.json'), JSON.stringify(trigger as string[]));
   fs.writeFileSync(path.join(DIST_DIR, 'switch-pair.json'), JSON.stringify(switchPair as [string, string][]))
   fs.writeFileSync(path.join(DIST_DIR, 'probilities.json'), JSON.stringify(probilities))
+  fs.writeFileSync(path.join(DIST_DIR, 'groups.json'), JSON.stringify(groups as string[][]))
 }
 
 function copyComments() {

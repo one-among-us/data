@@ -7,6 +7,7 @@ export interface HData {
     switch: [string, string][];
     skipAges: string[];
     probilities: any;
+    groups: string[][];
 }
 
 export interface PeopleMeta {

@@ -52,6 +52,7 @@ We are trying to rewrite the multilingual architecture of the website to make it
 * `switch`: `[string, string][]`, paired entries for profile switching functionality. Each pair `[A, B]` allows switching from profile A to profile B.
 * `skipAges`: `string[]`, entries where age calculation should be skipped
 * `probilities`: `object`, probability weights for displaying entries on the home page. Format: `{"entry_id": probability_value}`. Values between 0.0-1.0 control random display chance. Entries not in this object are always shown.
+* `groups`: `string[][]`, groups of entries that should be displayed together when sorted. Each group is an array of entry IDs. Members within a group are sorted by their sortKey, and groups are positioned based on the latest sortKey among their members.
 
 ### Example
 
@@ -82,7 +83,10 @@ We are trying to rewrite the multilingual architecture of the website to make it
     "probilities": {
         "XingZ60": 1,
         "Huasheng": 0.5
-    }
+    },
+    "groups": [
+        ["Elihuso", "Anilovr"]
+    ]
 }
 ```
 
