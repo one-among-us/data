@@ -6,6 +6,8 @@ info:
 desc: A cyber Siamese cat named Aki:3
 ---
 
+Tips：The following text is NOT the latest version. Maintainers will update it after amending simplifed Chinese version.
+
 ## Description
 
 To-Do
