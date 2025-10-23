@@ -3,6 +3,7 @@ name: HOC(COOH)(CH₂COOH)₂
 info:
     alias: 枸櫞酸
     location: 海南海口
+desc: 我的小天使，回見。
 ---
 
 > 「我又能說些什麼呢」

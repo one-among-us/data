@@ -2,6 +2,7 @@
 name: noah
 info:
     location: 浙江宁波
+desc: 希望在数十年后与你们在参宿四上相遇。
 ---
 
 ## 简介
@@ -15,6 +16,8 @@ noah 是一位有些神秘的 MtF，尽管在 Twitter 上的人设是看起来�
     '${path}/photos/postcard9.webp',
     '${path}/photos/postcard10.webp',
     '${path}/photos/postcard11.webp',
+    '${path}/photos/postcard12.webp',
+    '${path}/photos/postcard13.webp',
 ]} />
 
 上面的 NFC 标签内也有明信片上图案的来源。

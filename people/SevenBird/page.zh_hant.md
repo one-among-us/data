@@ -2,7 +2,8 @@
 name: 柒鳥
 info:
     alias: 柒鳥
-    location: 福建
+    location: 福建省宁德市
+desc: 想念我的時候，就擡頭看看月亮吧~
 ---
 
 >「想念我的時候，就擡頭看看月亮吧~」  

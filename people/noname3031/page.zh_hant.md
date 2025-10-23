@@ -2,6 +2,7 @@
 name: noah
 info:
     location: 浙江寧波
+desc: 希望在數十年後與你們在參宿四上相遇。
 ---
 
 ## 簡介
@@ -15,6 +16,8 @@ noah是一位有些神秘的mtf，盡管在twitter上的人設是看起來無趣
     '${path}/photos/postcard9.webp',
     '${path}/photos/postcard10.webp',
     '${path}/photos/postcard11.webp',
+    '${path}/photos/postcard12.webp',
+    '${path}/photos/postcard13.webp',
 ]} />
 
 上面的 NFC 標簽內也有明信片上圖案的來源。

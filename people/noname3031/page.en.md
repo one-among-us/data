@@ -2,6 +2,7 @@
 name: noah
 info:
     location: Ningbo, Zhejiang
+desc: A mysterious trans girl.
 ---
 
 ## Description
@@ -17,6 +18,8 @@ Here are some postcards she sent to her friends before leaving:
     '${path}/photos/postcard9.webp',
     '${path}/photos/postcard10.webp',
     '${path}/photos/postcard11.webp',
+    '${path}/photos/postcard12.webp',
+    '${path}/photos/postcard13.webp',
 ]} />
 
 These pictures are the source of the pictures in the NFC tags:

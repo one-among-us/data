@@ -3,6 +3,7 @@ name: 糖 ~ 100% 纯度
 info:
     alias: Dethelly, 五洲
     location: 重庆渝北
+desc: Adios.
 ---
 
 ## 简介

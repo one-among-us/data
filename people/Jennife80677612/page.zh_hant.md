@@ -3,6 +3,7 @@ name: 珍妮QwQ
 info:
     alias: Jennife, Jennifer
     location: 中國河北
+desc: 她的故事留在了跨年夜之中。
 ---
 
 > 我很痛苦，我確實很痛苦。

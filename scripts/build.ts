@@ -37,7 +37,8 @@ const actualHide = hdata.actualHide;
 const trigger = hdata.trigger;
 const switchPair = hdata.switch;
 const skipAges = hdata.skipAges;
-const probilities = hdata.probilities;
+const probabilities = hdata.probabilities;
+const groups = hdata.groups;
 
 async function buildBlurCode() {
   const blurCode = {};
@@ -70,6 +71,7 @@ function buildPeopleInfoAndList() {
     const peopleList: PeopleMeta[] = [];
     const peopleHomeList: PeopleMeta[] = [];
     const birthdayList = [] as [string, string][]
+    const departureList = [] as [string, string][]
 
     // For each person
     for (const { dirname, srcPath, distPath } of people) {
@@ -106,6 +108,12 @@ function buildPeopleInfoAndList() {
         }
       }
 
+      if (info.id && info.info && info.info.died) {
+        if (!actualHide.includes(info.id)) {
+          departureList.push([info.id, info.info.died])
+        }
+      }
+
       // Convert info dict to [[key, value], ...]
       // And add info k-v pairs from markdown to the info object in json5
       info.info = [...Object.entries(mdMeta.info ?? {}), ...Object.entries(info.info ?? {})]
@@ -137,6 +145,11 @@ function buildPeopleInfoAndList() {
         ...Object.fromEntries(["id", "name", "profileUrl"].map(key => [key, info[key]]))
       } as PeopleMeta;
 
+      // Add desc field from markdown metadata
+      if (mdMeta.desc !== undefined) {
+        peopleMeta.desc = mdMeta.desc;
+      }
+
       if (peopleMeta.id == 'noname') peopleMeta.sortKey = '-1';
 
       // Add meta to people list
@@ -156,6 +169,7 @@ function buildPeopleInfoAndList() {
     fs.writeFileSync(path.join(projectRoot, DIST_DIR, `people-list${lang}.json`), JSON.stringify(peopleList));
     fs.writeFileSync(path.join(projectRoot, DIST_DIR, `people-home-list${lang}.json`), JSON.stringify(peopleHomeList));
     fs.writeFileSync(path.join(projectRoot, DIST_DIR, 'birthday-list.json'), JSON.stringify(birthdayList));
+    fs.writeFileSync(path.join(projectRoot, DIST_DIR, 'departure-list.json'), JSON.stringify(departureList));
   }
 }
 
@@ -208,7 +222,8 @@ function copyPublic() {
   fs.copySync(path.join(projectRoot, DATA_DIR, 'eggs.json'), path.join(projectRoot, DIST_DIR, 'eggs.json'));
   fs.writeFileSync(path.join(DIST_DIR, 'trigger-list.json'), JSON.stringify(trigger as string[]));
   fs.writeFileSync(path.join(DIST_DIR, 'switch-pair.json'), JSON.stringify(switchPair as [string, string][]))
-  fs.writeFileSync(path.join(DIST_DIR, 'probilities.json'), JSON.stringify(probilities))
+  fs.writeFileSync(path.join(DIST_DIR, 'probabilities.json'), JSON.stringify(probabilities))
+  fs.writeFileSync(path.join(DIST_DIR, 'groups.json'), JSON.stringify(groups as string[][]))
 }
 
 function copyComments() {

@@ -1,6 +1,10 @@
 {
     "commentOnly": ["tdor"],
-    "exclude": ["XIEPT2", "shi_Yumiaoya"],
+    "exclude": [
+        "XIEPT2",
+        "shi_Yumiaoya",
+        "DarlinChit"
+    ],
     "notShowOnHome": ["MeowBot233", "AkiraComplex", "AsabaNaiXi"],
     "actualHide": ["Aniloviraw"],
     "trigger": ["Aniloviraw"],
@@ -8,7 +12,11 @@
         ["Anilovr", "Aniloviraw"]
     ],
     "skipAges": ["cheonwoomaeng"],
-    "probilities": {
-        "XingZ60": 1
-    }
+    "probabilities": {
+        "XingZ60": 1,
+	    "Huasheng": 1
+    },
+    "groups": [
+        ["Elihuso", "Anilovr"]
+    ]
 }

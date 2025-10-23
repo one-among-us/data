@@ -3,6 +3,7 @@ name: 倉山靜葉
 info:
     alias: 靜葉、G姐
     location: 中國北京
+desc: 一隻可愛的語言學女孩。
 ---
 
 ## 簡介

@@ -11,7 +11,7 @@
   "scripts": {
     "build": "node --loader ts-node/esm/transpile-only scripts/build.ts",
     "build-preview": "yarn build && scripts/preview.sh",
-    "serve": "http-server --cors='*' dist",
+    "serve": "http-server --cors='*' -c-1 dist",
     "preview": "yarn build-preview && yarn serve",
     "translate": "node --loader ts-node/esm/transpile-only scripts/translate.ts",
     "cloudflare_clean": "node scripts/cloudflare_clean.js"
@@ -40,8 +40,8 @@
   "devDependencies": {
     "@octokit/core": "^4.1.0",
     "@types/js-yaml": "^4.0.5",
-    "http-server": "^14.1.1",
     "exponential-backoff": "^3.1.0",
+    "http-server": "^14.1.1",
     "node-fetch": "^2.6.7"
   }
 }
