@@ -1,7 +1,10 @@
 ---
 name: 槿彧
 info:
-  alias: 昸槿
+    alias: 昸槿
+    location: 中國內蒙古
+desc: 我是有夢想的……說來話長呢。
+
 ---
 
 ## 簡介
