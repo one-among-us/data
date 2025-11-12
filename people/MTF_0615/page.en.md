@@ -60,7 +60,7 @@ and for understanding to replace discrimination one day.
 She often spoke openly about unfairness.
 [Once](https://twitter.com/MTF_0615/status/1817450501941735438?s=19),
 after hearing of an old man who broke a shared staircase and charged his neighbours a fortune to use it,
-she grew angry about the whole “shared‑area” system that allowed such things to happen.
+she grew angry about the whole “publicly shared spaces” system that allowed such things to happen.
 She even thought of handing out leaflets, saying, “Chinese people have grown numb.”
 
 ## Caring
@@ -83,7 +83,7 @@ Reading her words now, one can’t help but ache for her.
 ## Departure
 
 According to her friend Ycl,
-at the beginning of 2024 she had only that one close friend left.
+at the beginning of 2024 she had only one close friend.
 The two used to play game *Tom and Jerry* together.
 By September,
 she had met someone she loved,
@@ -111,7 +111,8 @@ At some quiet, unknown moment, she left once again—only this time, everyone kn
 
 ## Afterword
 
-Dong Jin’s grandmother once had a dream:
+After Dong Jin's depature,
+her grandmother once had a dream:
 she saw Dong Jin crouched by a candle, lost in thought.
 The old woman didn’t quite understand, 
 not realising that Dong Jin had always been a child who loved the gentle glow of candles.
@@ -137,11 +138,9 @@ she’d love to try a truly authentic pizza.
 Perhaps that was the flavour she had always been longing for.
 
 Dong Jin once hoped to have a home of her own and to travel around the world.
-To see mountains, cities, and people.  
-May she now, somewhere beyond the sky, no longer be alone.
-
-Dong Jin once dreamed of having a home of her own and of journeying across the world—
-to behold the mountains, to walk through distant cities, to meet the souls along the way.
+To behold the mountains,
+to walk through distant cities,
+to meet the souls along the way.
 
 May she now, beyond the sky, never again be alone.
 
