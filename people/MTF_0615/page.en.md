@@ -8,7 +8,7 @@ desc: I have dreams...it’s a long story.
 
 ## Introduction
 
-Jin Yu, a name that sounds a little unusual in Chinese at first.
+Her name, Jin Yu, sounds unusual to many Chinese ears at first.
 Most people, however, know her better as Dong Jin.
 
 Dong Jin was a special trans girl.
@@ -40,10 +40,10 @@ But Dong Jin, ever precise, pointed out with a little grin:
 > “There’s a quarter‑beat missing—why didn’t you tell me?”
 
 In her hands, music was more than an instrument.
-Even a string, a comb, or a tooth could “play” a sound.
+Even a string, a comb, even her teeth could “play” a sound.
 That must have been the rhythm of her own world.
 
-Her devotion to art was almost feverish.
+Her devotion to art bordered on obsession.
 One of her dreams was to become a well‑known music producer.
 She also hoped that one day her home would include a well‑built home theatre.
 She dreamed of seeing the world — the calm of nature and the pulse of cities, the many faces of life itself.
@@ -66,7 +66,7 @@ She even thought of handing out leaflets, saying, “Chinese people have grown n
 ## Caring
 
 She was not only bright but also kind‑hearted.
-She made many friends online and always think of them with warmth and patience.
+She made many friends online and always thought of them with warmth and patience.
 Even when struggling with depression herself,
 she gave everything she could to help others—small things that brought comfort to lonely souls.
 In her final days, she even said to her mother:
@@ -103,15 +103,15 @@ She was never content with the way of the world;
 life often tormented her.
 In those last months,
 she was far too hard on herself—hurting herself more than once, even attempting suicide.
-Later, the drug she had used were thrown away.
+Later, the drug she once used to kill her self was thrown away.
 
 But her will to go was already set.
 Friends’ kindness could not hold her back.
-At some quiet, unknown moment, she left once again—only this time, everyone knew she would not return.
+At some quiet, unknown hour, she left once again—only this time, everyone knew she would not return.
 
 ## Afterword
 
-After Dong Jin's depature,
+After Dong Jin's departure,
 her grandmother once had a dream:
 she saw Dong Jin crouched by a candle, lost in thought.
 The old woman didn’t quite understand, 
@@ -120,7 +120,7 @@ not realising that Dong Jin had always been a child who loved the gentle glow 
 <PhotoScroll photos={["${path}/photos/photo1.webp"]} />
 
 It suddenly came to mind that she liked cooking for herself.
-Once she made a dish of her own invention, Fried Pineapple with Cheese”.
+Once she made a dish of her own invention, “Fried Pineapple with Cheese”.
 It was sprinkled with a few crushed nuts.
 The cheese was cooked a bit too long, turning dry, and the dish didn’t look great.
 
@@ -142,6 +142,6 @@ To behold the mountains,
 to walk through distant cities,
 to meet the souls along the way.
 
-May she now, beyond the sky, never again be alone.
+May she find peace beyond the sky.
 
 Contributors for this entry: Lin, Xiaolingdang, summersay, Ycl, One Among Us
