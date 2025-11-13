@@ -9,7 +9,7 @@ desc: I have dreams...it’s a long story.
 ## Introduction
 
 Her name, Jin Yu, sounds unusual to many Chinese ears at first.
-Most people, however, know her better as Dong Jin.
+Actually, most people know her better as Dong Jin.
 
 Dong Jin was a special trans girl.
 We remembered her as kind, with a lovely voice and sharp gaming skills,
