@@ -12,6 +12,11 @@ desc: 喜歡喝酸奶，愛吃小蛋糕。
 
 梓緣就是這樣一個溫柔可愛，卻不太幸運的女孩啊。
 
+<PhotoScroll photos={[
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
+]} />
+
 ## 酸奶與蛋糕
 
 正如簡介中所寫的那樣，梓緣喜歡喝酸奶[^1]，愛吃小蛋糕。這或許是她對自己最鮮明的概括。

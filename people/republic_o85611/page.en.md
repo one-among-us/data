@@ -12,6 +12,11 @@ That’s how she once mocked herself in a post.
 
 Ziyuan was such a gentle, lovely girl, just not a very lucky one.
 
+<PhotoScroll photos={[
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
+]} />
+
 ## Yogurt and Cake
 
 As her profile says,
