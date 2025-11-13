@@ -71,7 +71,7 @@ Perhaps that was the last time she appeared in this world as *Akiball* — gentl
 On 19th June 2025, Akiball departed quietly, leaving behind her warmth.
 She had long fought against major depressive disorder (MDD),
 generalised anxiety disorder (GAD),
-complex dissociative disorder (DID),
+complex trauma dissociative disorder (DID)[^1],
 and autism spectrum disorder (ASD),
 yet she never gave up.
 
@@ -94,3 +94,5 @@ Farewell, Aki.
 May you find, in your next world, no illness of the mind, loving parents who cherish you, and the happiness you always deserved.
 
 Contributor for this entry: [ling](https://twitter.com/ling1639040)
+
+[^1]: As written in the original text. The phrase “complex trauma dissociative disorder” is not a standard diagnostic term. It likely refers to Complex Post-Traumatic Stress Disorder (C-PTSD), while DID stands for Dissociative Identity Disorder. These two are distinct conditions, though both can involve dissociation and depersonalization. Their boundaries are often difficult to verify and mainly depend on subjective experience.
