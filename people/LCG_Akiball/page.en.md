@@ -95,4 +95,4 @@ May you find, in your next world, no illness of the mind, loving parents who che
 
 Contributor for this entry: [ling](https://twitter.com/ling1639040)
 
-[^1]: As written in the original text. The phrase “complex trauma dissociative disorder” is not a standard diagnostic term. It likely refers to Complex Post-Traumatic Stress Disorder (C-PTSD), while DID stands for Dissociative Identity Disorder. These two are distinct conditions, though both can involve dissociation and depersonalization. Their boundaries are often difficult to verify and mainly depend on subjective experience.
+[^1]: As written in the original text. The phrase “complex trauma dissociative disorder” is not a standard diagnostic term. It likely refers to Complex Post-Traumatic Stress Disorder (C-PTSD) or Dissociative Identity Disorder (DID). These two are distinct conditions, though both can involve dissociation and depersonalization. Their boundaries are often difficult to verify and mainly depend on subjective experience.
