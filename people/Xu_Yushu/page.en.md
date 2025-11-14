@@ -2,6 +2,7 @@
 name: Xu Yushu
 info:
     location: Nan'an, Chongqing
+desc: My soul will fly to Geladaindong Peak.
 ---
 
 ## Introduction
@@ -60,7 +61,7 @@ Those shoes were a bit uncomfortable, yet she persisted to be the self she liked
 During the New Year celebrations of 2018, she wrote down her mental struggles in *Living with Depression 1*.
 Although her teacher told her she thought too much, they still praised her bravery to face the struggles that come with life, and suggested Shi Tiesheng's works.
 
-<PhotoScroll photos={[ '${path}/photos/composition.jpg', ]} />
+<PhotoScroll photos={[ '${path}/photos/composition.webp', ]} />
 
 Xu Yushu later was hospitalized for her depression.
 She told her mother during that time something horrible and illegal happened in school.
@@ -100,7 +101,7 @@ Maybe it's because she commonly used meaningful words, so no one thought of any 
 
 Dawn November 13th, 2023, she ended her young and vibrant life, and left her will:
 
-<PhotoScroll photos={[ '${path}/photos/will.jpg', ]} />
+<PhotoScroll photos={[ '${path}/photos/will.webp', ]} />
 
 > My soul will fly to Geladaindong Peak.
 > I once said Tibet is where young people interested in literary accept the spiritual baptism, but I really want to go there.

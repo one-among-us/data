@@ -3,6 +3,7 @@ name: Hanasaka
 info:
     alias: Kagurazaka Hanasaka, Hakureico
     location: Dalian, Liaoning
+desc: A R I G A T O
 ---
 
 <!-- 本文的大部分引用原文都是英文，引用部分请仅修语法和可能造成误解的错误-->
@@ -35,8 +36,8 @@ Occasionally, she took flights and looked at the blue sky outside the porthole.
 Although these were always solo trips.
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.png',
-    '${path}/photos/photo2.jpg',
+    '${path}/photos/photo1.webp',
+    '${path}/photos/photo2.webp',
 ]} />
 
 She was good at playing rhythm game OSU, and uploaded many videos of her gameplay.

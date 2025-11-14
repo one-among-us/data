@@ -5,6 +5,9 @@ export interface HData {
     actualHide: string[];
     trigger: string[];
     switch: [string, string][];
+    skipAges: string[];
+    probabilities: any;
+    groups: string[][];
 }
 
 export interface PeopleMeta {
@@ -13,6 +16,7 @@ export interface PeopleMeta {
     profileUrl: string;
     path: string;
     sortKey: string;
+    desc?: string;
 }
 
 export interface BannerData {

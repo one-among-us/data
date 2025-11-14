@@ -3,6 +3,7 @@ name: 神楽坂千歌
 info:
     alias: 千歌, Hanasaka, Hakureico
     location: 辽宁大连
+desc: A R I G A T O
 ---
 
 <details>
@@ -31,8 +32,8 @@ info:
 虽然，许多时候都是一个人的旅行呢……
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.png',
-    '${path}/photos/photo2.jpg',
+    '${path}/photos/photo1.webp',
+    '${path}/photos/photo2.webp',
 ]} />
 
 她很擅长玩 OSU，并在 B 站上传了许多她游玩谱面的视频，即使在她精神不好的时候，她的 OSU 也是在线状态。

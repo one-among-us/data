@@ -2,6 +2,7 @@
 name: noah
 info:
     location: Ningbo, Zhejiang
+desc: A mysterious trans girl.
 ---
 
 ## Description
@@ -13,22 +14,24 @@ She left [a note](https://noname3031.one/article/rip_noah/index.html) and [bid f
 Here are some postcards she sent to her friends before leaving:
 
 <PhotoScroll photos={[
-    '${path}/photos/postcard8.jpg',
-    '${path}/photos/postcard9.jpg',
-    '${path}/photos/postcard10.jpg',
-    '${path}/photos/postcard11.jpg',
+    '${path}/photos/postcard8.webp',
+    '${path}/photos/postcard9.webp',
+    '${path}/photos/postcard10.webp',
+    '${path}/photos/postcard11.webp',
+    '${path}/photos/postcard12.webp',
+    '${path}/photos/postcard13.webp',
 ]} />
 
 These pictures are the source of the pictures in the NFC tags:
 
 <PhotoScroll photos={[
-    '${path}/photos/postcard1.jpg',
-    '${path}/photos/postcard2.jpg',
-    '${path}/photos/postcard3.jpg',
-    '${path}/photos/postcard4.jpg',
-    '${path}/photos/postcard5.jpg',
-    '${path}/photos/postcard6.jpg',
-    '${path}/photos/postcard7.jpg',
+    '${path}/photos/postcard1.webp',
+    '${path}/photos/postcard2.webp',
+    '${path}/photos/postcard3.webp',
+    '${path}/photos/postcard4.webp',
+    '${path}/photos/postcard5.webp',
+    '${path}/photos/postcard6.webp',
+    '${path}/photos/postcard7.webp',
 ]} />
 
 > noah once thought [Mio Card Meow](https://one-among.us/profile/MioCardMeow) is the character base of the cat in my short novel. After that, I formed a bond with Mio Card Meow.

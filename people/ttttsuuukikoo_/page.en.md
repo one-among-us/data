@@ -3,6 +3,7 @@ name: Tsukiko
 info:
     alias: Tsuki
     location: Wuxi，Jiangsu
+desc: How much longer can I watch such a sky?
 ---
 
 ## Description
@@ -19,7 +20,7 @@ A few days before his departure, he took a photo of beautiful night sky and twee
 
 > How much longer can I watch such a sky?
 
-<PhotoScroll photos={[ '${path}/photos/sky.jpg',]} />  
+<PhotoScroll photos={[ '${path}/photos/sky.webp',]} />  
 
 ## Departure
 

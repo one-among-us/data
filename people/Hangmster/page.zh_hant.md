@@ -3,6 +3,7 @@ name: Hangmster
 info:
     alias: 倉鼠
     location: 河北石家莊
+desc: 大家的開心果。
 ---
 
 ## 簡介
@@ -13,7 +14,7 @@ Ta 經常在推特上與朋友們互動，是大家的「開心果」。Ta 也�
 
 盡管倉鼠很少會直接提及自己喜歡的事物。然而，從 Ta 的動態來看，Ta 會被可愛的事物——比如小貓——所吸引。Ta 也喜歡初音未來，在初音未來 15 周年紀念日之際，Ta 也通過繪製賀圖的方式表達了自己的開心：
 
-<PhotoScroll photos={[ '${path}/photos/fufu.jpg',]} />  
+<PhotoScroll photos={[ '${path}/photos/fufu.webp',]} />  
 
 平時，Ta 常受到失眠和焦慮的困擾。據 Ta 所述，Ta 其實並不太喜歡現實世界裏的身體，網路上多元化的自我會讓 Ta 更加自在一些。
 

@@ -3,6 +3,7 @@ name: HOC(COOH)(CH₂COOH)₂
 info:
     alias: 柠檬酸
     location: 海南海口
+desc: 我的小天使，回见。
 ---
 
 > 「我又能说什么呢」
@@ -21,7 +22,7 @@ info:
 > 车上再见!  
 > 我爱你们!  
 
-<PhotoScroll photos={[ '${path}/photos/photo0.jpg', '${path}/photos/photo1.jpg' ]} />
+<PhotoScroll photos={[ '${path}/photos/photo0.webp', '${path}/photos/photo1.webp' ]} />
 
 > 我觉得妳已经知道我是谁了  
 >
@@ -67,4 +68,4 @@ info:
 我的小天使,   
 回见.  
 
-<PhotoScroll photos={[ '${path}/photos/photo2.jpg' ]} />
+<PhotoScroll photos={[ '${path}/photos/photo2.webp' ]} />

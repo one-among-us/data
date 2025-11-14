@@ -3,6 +3,7 @@ name: Anilovr
 info:
     alias: Ani
     location: 海南海口
+desc: 我真的 爱你们每一个人。
 ---
 
 >「//La homa mondo devus esti detruita//我会在参宿四上等你//」  
@@ -13,7 +14,7 @@ info:
 Ani，来自海南省海口市的一个单亲家庭。
 她帮助了很多人，但最终，帮助了很多人逃离死神的她也没能逃过死神。
 
-<PhotoScroll photos={[ '${path}/photos/photo1.jpg', ]} />
+<PhotoScroll photos={[ '${path}/photos/photo1.webp', ]} />
 
 > 人间无常  
 > 但事事突然  

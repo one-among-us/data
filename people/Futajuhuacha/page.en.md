@@ -3,6 +3,7 @@ name: Huacha
 info:
     alias: Huacha, Futa Juhuacha
     location: Chongqing, China
+desc: May the world treat you gently.
 ---
 
 ## Description
@@ -100,7 +101,7 @@ At the end of June, she attempted to take her own life again and was admitted to
 After her physical condition improved, she wrote down this little poem:
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.jpg',
+'${path}/photos/photo1.webp',
 ]} />
 
 In fact, she still hoped to live.

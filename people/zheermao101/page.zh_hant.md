@@ -3,6 +3,7 @@ name: 玖月折耳貓
 info:
     alias: 折耳貓
     location: 陝西西安
+desc: 如果有一天在天國遇到你，請你喝奶茶。
 ---
 
 > 「謝謝妳和我聊了這麼多，如果有一天在天國遇到妳，請妳喝奶茶。」
@@ -34,8 +35,8 @@ info:
 [Arts](https://one-among.us/profile/ArtsEpiphany) 也曾經給折耳貓發送過關心的信，她們關係很好，折耳貓一直留著她的信件。
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.jpg',
-    '${path}/photos/photo2.jpg',
+    '${path}/photos/photo1.webp',
+    '${path}/photos/photo2.webp',
 ]} />
 
 折耳貓曾好幾次嘗試離開這個世界，但在救助之中艱難地存活了下來。
@@ -45,7 +46,7 @@ info:
 在離開之前幾天，她給 One Among Us 的郵箱發送了一封郵件。那些秋葉的成員在看到後連夜給她發送了一份回信：
 
 <PhotoScroll photos={[
-    '${path}/photos/photo3.png',
+    '${path}/photos/photo3.webp',
 ]} />
 
 後來，那些秋葉的成員在 Telegram 上聯繫上了她，試著安慰了她，與她聊了許久。包括跨性別相關的經歷，愛與被愛，以及活下去的意義，試圖多挽留她一會兒。

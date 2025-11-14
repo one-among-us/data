@@ -3,6 +3,7 @@ name: 蛍
 info:
     alias: 阿蛍、蛍醬、秋雲
     location: 中國
+desc: Ta 坐上最喜歡的艦船，到海的那邊去了。
 ---
 
 ## 簡介
@@ -14,14 +15,14 @@ info:
 靠畫作讚賞獲得的收入是 ta 的一部分經濟來源。即使不幸確診了升結腸印戒細胞癌，阿蛍也沒有放下 ta 的畫筆。後來，阿蛍把大部分畫作的電子檔上傳到了 ta 的 [Telegram 頻道](https://t.me/joinchat/65vSQ6ELb3YxN2I9)，供大家無償下載和欣賞。在這裏挑選的幾幅畫作，可以讓大家管窺阿蛍的繪畫風格。
 
 <PhotoScroll photos={[
-    '${path}/photos/IMG_1308.JPG', 
-    '${path}/photos/img002.jpg', 
-    '${path}/photos/img051.jpg', 
-    '${path}/photos/img197.jpg', 
-    '${path}/photos/img231.jpg', 
-    '${path}/photos/img252.jpg', 
-    '${path}/photos/img253.jpg', 
-    '${path}/photos/img370.jpg', 
+    '${path}/photos/IMG_1308.webp', 
+    '${path}/photos/img002.webp', 
+    '${path}/photos/img051.webp', 
+    '${path}/photos/img197.webp', 
+    '${path}/photos/img231.webp', 
+    '${path}/photos/img252.webp', 
+    '${path}/photos/img253.webp', 
+    '${path}/photos/img370.webp', 
 ]} />
 
 但這個世界就是這麼不公平，阿蛍的病情持續惡化，並且一直沒有找到合適的靶向藥物。在 2021 年夏天，阿蛍被確診爲骨轉移 IV 期。不過，即使承受着劇烈的疼痛，阿蛍仍然在關心和愛護着每一個安慰 ta 的推友，儘量不讓我們擔心。

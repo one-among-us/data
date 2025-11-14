@@ -3,6 +3,7 @@ name: Zheermao September
 info:
     alias: Zheermao
     location: Xi'an, Shaanxi
+desc: Treat you to some beverages.
 ---
 
 > "Thank you for talking with me so much.
@@ -41,8 +42,8 @@ She always relied on friends around her and often needed their companionship.
 They had a good relationship, and Zheermao kept Arts's letter all along.
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.jpg',
-    '${path}/photos/photo2.jpg',
+    '${path}/photos/photo1.webp',
+    '${path}/photos/photo2.webp',
 ]} />
 
 English translation of the preceding letter:
@@ -94,7 +95,7 @@ she sent an email to One Among Us.
 Upon seeing it, one member sent her a reply immediately:
 
 <PhotoScroll photos={[
-    '${path}/photos/photo3.png',
+    '${path}/photos/photo3.webp',
 ]} />
 
 English translation of the preceding email conversation:

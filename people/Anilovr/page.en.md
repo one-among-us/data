@@ -3,6 +3,7 @@ name: Anilovr
 info:
     alias: Ani
     location: Haikou, China
+desc: I love every one of you. I really do.
 ---
 
 >「//La homa mondo devus esti detruita//I will wait for you at Betelgeuse//」
@@ -14,7 +15,7 @@ Ani grew up in a single-parent household.
 Her selflessness has touched the lives of many.
 But in the end, she, who gave others hope, wasn't able to escape death herself.
 
-<PhotoScroll photos={[ '${path}/photos/photo1.jpg', ]} />
+<PhotoScroll photos={[ '${path}/photos/photo1.webp', ]} />
 
 > In this cruel and irrational world,
 > anything can happen at any time,

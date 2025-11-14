@@ -3,6 +3,7 @@ name: donotexist_A
 info:
     alias: 不存在,存存,donotexist,Do Not Exist,do not exist,existexist,exist exist,Exist Exist,CunCun,cuncun
     location: Guangdong, China
+desc: Exist has too many good qualities to list.
 ---
 
 ## Description
@@ -14,7 +15,7 @@ she was able to be on good terms with every doctor and patient she meets.
 Here is a drawing of her by an art student she met during one of her stays in the hospital:
 
 <PhotoScroll photos={[
-    '${path}/photos/portrait.jpg', 
+    '${path}/photos/portrait.webp', 
 ]} />
 
 Because Exist's haircut was similar to the character Isabelle in *Animal Crossing*;

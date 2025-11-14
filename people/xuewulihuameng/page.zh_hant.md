@@ -3,6 +3,8 @@ name: 雪舞梨花夢
 info:
     alias: 梨花, 雪梨
     location: 重慶渝北
+# 渝北區（1994-2025）已於 2025-11-06 撤銷，併入兩江新區及北碚區，條目描述將維持原名。
+desc: 忽如一夜春風來，千樹萬樹梨花開。
 ---
 
 > 「願善良的人能被世界溫柔以待。」
@@ -15,7 +17,7 @@ info:
 
 她有著不錯的繪畫能力，她給她的友人準備了她親手繪製的畫作——儘管因為空間的阻隔，那幅畫在她離世之後才送到她的友人手裡。
 
-<PhotoScroll photos={[ '${path}/photos/photo1.jpg',]} />  
+<PhotoScroll photos={[ '${path}/photos/photo1.webp',]} />  
 
 在[和梨花面姬是種什麼樣的體驗？](https://www.zhihu.com/question/269853559)及[如何評價雪舞梨花夢作死行為？](https://www.zhihu.com/question/268738337)的兩篇知乎問答之中，許多她生前的好友都表示，她對身邊的人都十分溫柔。甚至在她選擇離開之前，她仍然在安慰和鼓勵著她的朋友。
 
@@ -33,7 +35,7 @@ info:
 
 這，是她留下的最後的照片：
 
-<PhotoScroll photos={[ '${path}/photos/photo2.jpg',]} />  
+<PhotoScroll photos={[ '${path}/photos/photo2.webp',]} />  
 
 從橋上向遠方望去，模糊的燈火仿佛被淚水打濕一般……
 

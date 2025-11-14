@@ -3,6 +3,7 @@ name: 檩
 info:
     alias: 檩
     location: 陕西西安
+desc: 想当一只猫猫
 ---
 
 ## 简介
@@ -12,15 +13,15 @@ info:
 <div style="display: flex; margin: auto; gap: 80px; flex-direction: row; justify-self: center; justify-content: center; justify-items: center; flex-wrap: wrap">
 
 <PhotoScroll photos={[
-    '${path}/photos/photo4.jpg',
-    '${path}/photos/photo5.jpg',
-    '${path}/photos/photo6.jpg',
+    '${path}/photos/photo4.webp',
+    '${path}/photos/photo5.webp',
+    '${path}/photos/photo6.webp',
 ]} />
 
 <PhotoScroll photos={[
-    '${path}/photos/photo1.png',
-    '${path}/photos/photo2.png',
-    '${path}/photos/photo3.png',
+    '${path}/photos/photo1.webp',
+    '${path}/photos/photo2.webp',
+    '${path}/photos/photo3.webp',
 ]} />
 
 </div>

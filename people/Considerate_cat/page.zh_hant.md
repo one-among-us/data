@@ -3,6 +3,7 @@ name: 小屁孩貓貓
 info:
     alias: 貓貓
     location: 山東濟寧
+desc: 貓貓
 ---
 
 她出生與 2009 年 3 月 4 日, 來自山東濟寧. 從小就知道自己的性別認同和指派性別不一致, 渴望成爲一個女孩子, 渴望穿上漂亮的裙子, 留下長長的頭髮, 並擁有一個溫柔的聲音.  
@@ -39,13 +40,13 @@ info:
 
 > 「我明明能早 10 分钟打 120，可是我偏偏在第一时间选择了先确认状态，我很自责，我永远也忘不了她最后对我说的『我好难受，末影猫救我！』」——末影猫
 
-<PhotoScroll photos={[ '${path}/photos/Photo1.png']} />
+<PhotoScroll photos={[ '${path}/photos/Photo1.webp']} />
 
 ## 她的圖庫
 
 > 選自貓貓的 QQ 空間, 全是建築照。
 
-<PhotoScroll photos={[ '${path}/photos/Photo4.png', '${path}/photos/Photo3.png', '${path}/photos/Photo2.png']} />
+<PhotoScroll photos={[ '${path}/photos/Photo4.webp', '${path}/photos/Photo3.webp', '${path}/photos/Photo2.webp']} />
 
 ## 頁面中出現的其他人  
 

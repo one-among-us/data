@@ -34,8 +34,8 @@ According to Mone, she never got happiness and love. Her parents got divorced in
 > Live better, love yourself more.
 
 <PhotoScroll photos={[
-'${path}/photos/messages1.png',
-'${path}/photos/messages2.png',
+'${path}/photos/messages1.webp',
+'${path}/photos/messages2.webp',
 ]} />
 
 She was very fond of her little brother. Days before her birthday, her father finally visited her with her little brother briefly, and she had a jolly time with little brother. But after their leaving, huge gap between afterglow and reality made her sadly again, and her depression and self-reproach got even worse.
@@ -43,9 +43,9 @@ She was very fond of her little brother. Days before her birthday, her father fi
 Although she was in major depressive disorder, she still shared her daily life happily with us, and comforted herself by watching beautiful sunset and sweet flowers.
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.png',
-'${path}/photos/photo2.png',
-'${path}/photos/photo3.png',
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
+'${path}/photos/photo3.webp',
 ]} />
 
 Before Mone chose to depart, she left a cute picture to express that she was fond of all of us.

@@ -3,6 +3,7 @@ name: Chica 陳由岐
 info:
     alias: 王凝予
     location: 北京朝陽
+desc: 實際上啊，我還有很多想要去做的事呢。
 ---
 
 ## 簡介
@@ -13,11 +14,11 @@ info:
 陳由岐是一個來自北京朝陽的可愛女孩，這點從她發布的照片中可以看出。
 
 <PhotoScroll photos={[
-    '${path}/photos/picture1.jpg',
-    '${path}/photos/picture2.jpg',
-    '${path}/photos/picture3.jpg',
-    '${path}/photos/picture4.jpg',
-    '${path}/photos/picture5.jpg',
+    '${path}/photos/picture1.webp',
+    '${path}/photos/picture2.webp',
+    '${path}/photos/picture3.webp',
+    '${path}/photos/picture4.webp',
+    '${path}/photos/picture5.webp',
 ]} />
 
 在 2023 年 1 月 5 號晚，她於晚上 10:54 發表 [告別推文](https://twitter.com/wangzihao980/status/1611013359188709376) 後於當天凌晨離開了這個世界。
@@ -27,7 +28,7 @@ info:
 這是她留給我們的，[最後的文字](https://twitter.com/wangzihao980/status/1602321958557085697)。
 
 <PhotoScroll photos={[
-    '${path}/photos/Word1.jpg',
+    '${path}/photos/Word1.webp',
 ]} />
 
 無論你是否認識她，都請為這位可憐的姑娘哀悼並獻上美好的祝福吧。

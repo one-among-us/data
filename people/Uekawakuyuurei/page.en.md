@@ -2,6 +2,7 @@
 name: uekawakuyuurei
 info:
     alias: Ying (Hotaru), Qiu Yun (Akigumo)
+desc: To the other side of the sea on their favourite ship.
 ---
 
 ## Description
@@ -25,14 +26,14 @@ making every work they had done free to download and enjoy.
 Here's a selected few of her drawings:
 
 <PhotoScroll photos={[
-    '${path}/photos/IMG_1308.JPG', 
-    '${path}/photos/img002.jpg', 
-    '${path}/photos/img051.jpg', 
-    '${path}/photos/img197.jpg', 
-    '${path}/photos/img231.jpg', 
-    '${path}/photos/img252.jpg', 
-    '${path}/photos/img253.jpg', 
-    '${path}/photos/img370.jpg', 
+    '${path}/photos/IMG_1308.webp', 
+    '${path}/photos/img002.webp', 
+    '${path}/photos/img051.webp', 
+    '${path}/photos/img197.webp', 
+    '${path}/photos/img231.webp', 
+    '${path}/photos/img252.webp', 
+    '${path}/photos/img253.webp', 
+    '${path}/photos/img370.webp', 
 ]} />
 
 But this world is just that unfair.

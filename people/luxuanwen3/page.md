@@ -15,7 +15,7 @@ info:
 
 在 2024 年 8 月 4日晚 11 时 55 分，鲵鲵做出了决绝的选择。在发送了最后一条推文之后，服下了超量的化学药品，她的好友们多方奔走，想要留下她，留住此世间独特的她。在次日凌晨三点，鲵鲵离开了我们，去寻求属于自己的自由。
 
-<PhotoScroll photos={[ '${path}/photos/i wish i could.png', ]} />
+<PhotoScroll photos={[ '${path}/photos/photo0.webp', ]} />
 
 > 在这儿我领悟了  
 > 人们所说的光荣：  

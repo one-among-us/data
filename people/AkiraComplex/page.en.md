@@ -3,6 +3,7 @@ name: Akira Complex
 info:
     alias: Akira, Charlie
     location: New York, United States
+desc: MY GUIDING STAR
 ---
 
 > An intense dissatisfaction in the world.
@@ -16,17 +17,17 @@ info:
 > **MY GUIDING STAR**.
 
 <BlurBlock>
-Akira Complex was a wonderful, beautiful, caring person.
+Akira Complex was a wonderful, beautiful, and caring person.
 
-They managed to work through their pain for years by bringing joy to many with their exceptional talent and sensational music.
+They pushed through their pain for years, bringing joy to many with their exceptional talent and moving music.
 
-But their pain proved to be too much for them...
+But their pain might have been too heavy...
 
-That soul full of love and warmth left us at last, like a meteor.
+At last, that soul full of love and warmth left us, like a shooting star.
 Bright and fragile,
-shocking but fleeting...
+moving but fleeting...
 
-Akira, We will always remember you and your works.
+Akira, We will always remember you and your creations.
 </BlurBlock>
 
 > My Guiding star, forever...

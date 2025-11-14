@@ -2,6 +2,7 @@
 name: 無名逝者
 info:
     alias: 無名逝者
+desc: 因跨性別的系統性暴力而喪失生命的無名人士。
 ---
 
 ## 簡介
@@ -31,7 +32,7 @@ info:
 
 2023 年 9 月 11 日，有一名網友在酷安論壇發帖，陳述了其表妹作為跨性別者，由於來自家庭的壓力與暴力最終選擇自殺的故事。遺憾的是，大多網友還是將此事視為「網絡對青少年的荼毒」而沒有真正理解跨性別者的需要。發帖人也無法真正理解他表妹的需要，但確實採取了一些行動幫助她。這件事可以作為中國跨性別者受到家庭社會兩方面的壓迫的縮影。目前原帖已被刪除。
 
-<PhotoScroll photos={[ '${path}/photos/kuan1.jpg', '${path}/photos/kuan2.jpg',  '${path}/photos/kuan3.jpg',  '${path} /photos/kuan4.jpg', ]} />
+<PhotoScroll photos={[ '${path}/photos/kuan1.webp', '${path}/photos/kuan2.webp',  '${path}/photos/kuan3.webp',  '${path} /photos/kuan4.webp', ]} />
 
 ### 2023 年 11 月至 2024 年 5 月離開的跨性別夥伴
 

@@ -3,6 +3,7 @@ name: Chica 陈由岐
 info:
     alias: 王凝予
     location: Chaoyang, Beijing
+desc: I had so much I wanted to do… but I lost.
 ---
 
 ## Description
@@ -14,11 +15,11 @@ Chica (Chen You Qi) is a cute girl from Beijing, Chaoyang.
 Here are some of her photos:
 
 <PhotoScroll photos={[
-    '${path}/photos/picture1.jpg',
-    '${path}/photos/picture2.jpg',
-    '${path}/photos/picture3.jpg',
-    '${path}/photos/picture4.jpg',
-    '${path}/photos/picture5.jpg',
+    '${path}/photos/picture1.webp',
+    '${path}/photos/picture2.webp',
+    '${path}/photos/picture3.webp',
+    '${path}/photos/picture4.webp',
+    '${path}/photos/picture5.webp',
 ]} />
 
 At the evening of 2023 Jan 5th, she said [goodbye on Twitter](https://twitter.com/wangzihao980/status/1611013359188709376).
@@ -29,7 +30,7 @@ The news of her death was published by her friend on 2023 Jan 6th.
 This is her suicide note:
 
 <PhotoScroll photos={[
-    '${path}/photos/Word1.jpg',
+    '${path}/photos/Word1.webp',
 ]} />
 
 Translation of the above suicide note:

@@ -1,0 +1,96 @@
+name: PR Preview
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+    branches: [main, develop]
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: 'Pull Request number to deploy preview for'
+        required: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      deployments: write
+      pull-requests: write
+
+    steps:
+      # First, check out the workflow file (from the base) so secrets are available.
+      - name: Checkout base branch
+        uses: actions/checkout@v4
+
+      # Determine PR info based on the event type.
+      - name: Set PR info
+        id: pr-info
+        run: |
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            echo "PR_NUMBER=${{ github.event.inputs.pr_number }}" >> $GITHUB_ENV
+          else
+            echo "PR_NUMBER=${{ github.event.pull_request.number }}" >> $GITHUB_ENV
+          fi
+
+      # Now check out the PR’s head branch (whether from a PR event or supplied manually)
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          ref: "refs/pull/${{ env.PR_NUMBER }}/merge"
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'yarn'
+
+      - name: Build
+        run: |
+          yarn install --production --frozen-lockfile
+          yarn build-preview
+          rm -rf dist/web.tgz
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          command: pages deploy dist --project-name=data-preview --branch=pr-${{ env.PR_NUMBER }}
+
+      - name: Pull request comment
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const prNumber = "${{ env.PR_NUMBER }}";
+            const now = new Date().toISOString().substring(0, 19).replace('T', ' ');
+            const reviewBody = `🐱 感谢贡献！\n\n部署了预览，在这里哦: https://pr-${prNumber}.data-preview.pages.dev\n\n🕒 最后更新: ${now} (UTC)`;
+            
+            // List existing reviews on the PR.
+            const { data: reviews } = await github.rest.pulls.listReviews({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: prNumber,
+            });
+            const existingReview = reviews.find(review => review.body && review.body.includes('部署了预览'));
+            if (existingReview) {
+              // Update the existing review.
+              await github.rest.pulls.updateReview({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: prNumber,
+                review_id: existingReview.id,
+                body: reviewBody,
+              });
+            } else {
+              // Create a new review comment.
+              await github.rest.pulls.createReview({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: prNumber,
+                body: reviewBody,
+                event: "COMMENT",
+              });
+            }

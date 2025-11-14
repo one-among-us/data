@@ -3,6 +3,7 @@ name: 悅兮
 info:
     alias: 兮兮
     location: 江蘇 南京
+desc: 事個愛糊音遊的！！！
 ---
 
 ## 簡介
@@ -13,11 +14,11 @@ info:
 有著喜歡的, 也喜歡她的人呢.  
 
 <PhotoScroll photos={[
-'${path}/photos/photo0.jpg',
-'${path}/photos/photo1.jpg',
-'${path}/photos/photo2.jpg',
-'${path}/photos/photo3.jpg',
-'${path}/photos/photo4.jpg',
+'${path}/photos/photo0.webp',
+'${path}/photos/photo1.webp',
+'${path}/photos/photo2.webp',
+'${path}/photos/photo3.webp',
+'${path}/photos/photo4.webp',
 ]} />
 
 有時候, 會去新街口的機廳裡, 玩幾次 maimaiDX 呢  
@@ -30,7 +31,7 @@ info:
 
 這個小笨蛋喜歡吃燒烤, 有時候一個人就吃掉一大盤x
 
-<PhotoScroll photos={['${path}/photos/photo5.jpg']} />
+<PhotoScroll photos={['${path}/photos/photo5.webp']} />
 
 有時候還會變成小孩子一樣的呢w
 
