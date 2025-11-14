@@ -1,12 +1,12 @@
 ---
 name: Ziyuan
 info:
-    alias: Bai Ziyuan
+    alias: Bai Ziyuan, Ziyuan loves Yogurt
     location: Lanxi, Jinhua, Zhejiang
 desc: Loves yogurt and little cakes.
 ---
 
-> “The girl is quite pretty, but she’s a bit of a lunatic…”
+> “The girl is quite pretty, but she isn’t all there...”
 
 That’s how she once mocked herself in a post.
 
@@ -36,27 +36,27 @@ After her parents divorced, the violence only worsened.
 She was never really cared for, and never had the simple, happy childhood she should have known.
 
 In middle school, the weight of life became too heavy.
-Her mind fell ill—badly so.
+Her mind fell badly ill.
 She left school and began releasing her pain in desperate, harmful ways.
 
 When others tried to comfort her, her words left them silent:
 
-> A precious life—does that just mean my parents gave birth to me and never looked after me? 
+> A precious life...does that just mean my parents gave birth to me and never looked after me? 
 >  
 > Thank you, but I want to leave. Even the pain of dying feels better than living.
 
-All anyone could do was fall quiet, delete their comments, and leave her be.
+All anyone could do was to fall quiet, delete their comments, and leave her be.
 
-Maybe in her broken and delirious world,
-yogurt and little cakes were the last trace of happiness she could still hold—fleeting, but real.
+Maybe in her broken and distorted world,
+yogurt and little cakes were the last trace of happiness she could still hold.
 
 ## The Edge
 
-For a long time, Ziyuan’s world was like a single‑player game—no one else around.
+For a long time, Ziyuan’s world was like a single‑player game. No one else around.
 Later, thankfully, she met a few people willing to listen.
 
 One friend recalled that when they talked by voice call,
-she sounded like a homeless child—her words a little abstract, yet always gentle.
+she sounded like a homeless child. Her words were a little odd, yet always gentle.
 
 At times, she was touched by light:
 
@@ -88,10 +88,10 @@ What a pointless and bitter injustice.
 
 Perhaps that wound ended her hope in the world.
 Two days later,
-she tried again to leave—and this time she never woke.
+she tried again to leave, and this time she never woke.
 
 Lightning split the sky.
-Skyscrapers rose to the cheers of crowds,
+Skyscrapers rose for all to see,
 while the corners by the walls sank quietly beneath the lake.[^1]
 
 Contributors for this entry: [Rabbit Pussy](https://twitter.com/Rabbit_Pussy), One Among Us
