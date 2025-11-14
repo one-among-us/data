@@ -3,6 +3,7 @@ name: Hangmster
 info:
     alias: 仓鼠
     location: Shijiazhuang, Hebei
+desc: They had brought us laughter.
 ---
 
 Hangmster is our ally.

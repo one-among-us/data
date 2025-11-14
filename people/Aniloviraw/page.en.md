@@ -3,6 +3,7 @@ name: HOC(COOH)(CH₂COOH)₂
 info:
     alias: Citric Acid
     location: Haikou, Hainan
+desc: Oh, my angel, see you.
 ---
 
 <Banner data={{

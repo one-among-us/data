@@ -3,6 +3,7 @@ name: XingZ60
 info:
     alias: Lili, Z60
     location: Beijing, China
+desc: Living is my right, not my obligation.
 ---
 
 **Come back later!**
@@ -17,7 +18,7 @@ info:
 
 ## Introduction
 
-XingZ60 (contemporary trans “xyn” community); originally known as Z60 (limelight); Wu Siya (ZhiHu).
+XingZ60 (contemporary trans “xyn” community); originally known as Z60 (limelight); Wu Shiya (ZhiHu).
 
 During her active years on ZhiHu, she was a trans ally boy. In early 2022, after losing her phone, she became a part of limelight and continued her activities there, still maintaining the personal image of an ally.
 

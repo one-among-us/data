@@ -3,6 +3,7 @@ name: 紫壑
 info:
     alias: 紫壑
     location: 中国广东 #清远/中山, by 魔骨
+desc: 我们永远在一起。
 ---
 
 ## 简介

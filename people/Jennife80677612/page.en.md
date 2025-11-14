@@ -3,6 +3,7 @@ name: Jennifer
 info:
     alias: Jennife, Jennifer
     location: Hebei, China
+desc: Her story remained on New Year's Eve.
 ---
 
 > I am in so much pain, indeed.

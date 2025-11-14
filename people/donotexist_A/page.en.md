@@ -3,6 +3,7 @@ name: donotexist_A
 info:
     alias: 不存在,存存,donotexist,Do Not Exist,do not exist,existexist,exist exist,Exist Exist,CunCun,cuncun
     location: Guangdong, China
+desc: Exist has too many good qualities to list.
 ---
 
 ## Description

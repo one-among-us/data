@@ -3,6 +3,7 @@ name: Akira Complex
 info:
     alias: Akira, Charlie
     location: New York, United States
+desc: MY GUIDING STAR
 ---
 
 > An intense dissatisfaction in the world.

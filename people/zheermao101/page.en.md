@@ -3,6 +3,7 @@ name: Zheermao September
 info:
     alias: Zheermao
     location: Xi'an, Shaanxi
+desc: Treat you to some beverages.
 ---
 
 > "Thank you for talking with me so much.

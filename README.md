@@ -15,7 +15,7 @@ Please read our [How-We-Work](https://oneamongus.ca/docs/memorial) before contri
 ## File Structure
 
 * Directory `/people/<userid>/`: Data for a specific person
-  * `info.json5`: Profile information
+  * `info.yml`: Profile information
   * `page.md`: Profile page content
   * `photos`: Photo directory
   * `comments`: List of comments made by other users in the format of `yyyy-mm-dd-{name}-{id}.txt`
@@ -41,14 +41,18 @@ We are trying to rewrite the multilingual architecture of the website to make it
 
 ## HData
 
-`/data/hdata.json` defined some data which used for entry properties. Here is some description of it:
+`/data/hdata.json` defines metadata for controlling entry behavior and display properties. Here is a description of each field:
 
-* `commentOnly`: `string[]`, the entries which include comments only, like `tdor` or `tdov`
-* `exclude`: `string[]`, the directories which would not be handled
-* `notShowOnHome`: `string[]`, if you don't want a entry show on the home, add it into this item
-* `actualHide`: `string[]`, if you don't want a entry show on the home and won't be redirected by random buttons, add it into this item.  
-  If you set a entry in this list, you have no need to set it into `notShowOnHome` again.
-* `trigger`: `string[]`, if you think this article is likely to irritate readers and should be restricted, please set this option.
+* `commentOnly`: `string[]`, entries that contain only comments without full profile pages (e.g., `tdor` or `tdov`)
+* `exclude`: `string[]`, directories that will be excluded from the build process entirely
+* `notShowOnHome`: `string[]`, entries that exist but are hidden from the home page listing
+* `actualHide`: `string[]`, entries completely hidden from both home page and random navigation.  
+  Note: If an entry is in this list, you don't need to add it to `notShowOnHome` again.
+* `trigger`: `string[]`, entries with potentially triggering content that require content warnings and user confirmation before viewing
+* `switch`: `[string, string][]`, paired entries for profile switching functionality. Each pair `[A, B]` allows switching from profile A to profile B.
+* `skipAges`: `string[]`, entries where age calculation should be skipped
+* `probabilities`: `object`, probability weights for displaying entries on the home page. Format: `{"entry_id": probability_value}`. Values between 0.0-1.0 control random display chance. Entries not in this object are always shown.
+* `groups`: `string[][]`, groups of entries that should be displayed together when sorted. Each group is an array of entry IDs. Members within a group are sorted by their sortKey, and groups are positioned based on the latest sortKey among their members.
 
 ### Example
 
@@ -69,6 +73,19 @@ We are trying to rewrite the multilingual architecture of the website to make it
     ],
     "trigger": [
         "Xu_Yushu"
+    ],
+    "switch": [
+        ["profile_a", "profile_b"]
+    ],
+    "skipAges": [
+        "example_entry"
+    ],
+    "probabilities": {
+        "XingZ60": 1,
+        "Huasheng": 0.5
+    },
+    "groups": [
+        ["Elihuso", "Anilovr"]
     ]
 }
 ```
