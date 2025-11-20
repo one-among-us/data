@@ -299,7 +299,6 @@ async function runBuildStep(stepName: string, fn: () => any | Promise<any>) {
     await fn();
   } catch (err) {
     console.error(`[Build] Error occurred in step "${stepName}":`, err);
-    saveCache();
     process.exit(1);
   }
 }
