@@ -13,6 +13,9 @@
     "build-preview": "yarn build && scripts/preview.sh",
     "serve": "http-server --cors='*' -c-1 dist",
     "preview": "yarn build-preview && yarn serve",
+    "watch": "node --loader ts-node/esm/transpile-only scripts/watch.ts",
+    "dev": "concurrently -n \"watch,serve\" -c \"cyan,green\" \"yarn watch\" \"yarn serve\"",
+    "clean": "rm -rf dist/* .build-cache",
     "translate": "node --loader ts-node/esm/transpile-only scripts/translate.ts",
     "cloudflare_clean": "node scripts/cloudflare_clean.js"
   },
@@ -40,6 +43,7 @@
   "devDependencies": {
     "@octokit/core": "^4.1.0",
     "@types/js-yaml": "^4.0.5",
+    "concurrently": "^9.2.1",
     "exponential-backoff": "^3.1.0",
     "http-server": "^14.1.1",
     "node-fetch": "^2.6.7"

@@ -11,6 +11,7 @@ import moment from "moment";
 import { handleFeatures } from "./feature.js";
 import { HData, PeopleMeta } from "./data.js";
 import { encodeBlur } from "./blurhash.js";
+import { initCache, hasFileChanged, getCachedResult, setCachedResult, saveCache, getCacheStats, updateFileCache, haveFilesChanged } from "./cache.js";
 
 const PUBLIC_DIR = "public";
 
@@ -29,6 +30,8 @@ const people = fs.readdirSync(peopleDir).map(person => ({
   distPath: path.join(projectRoot, DIST_DIR, PEOPLE_DIR, person)
 }));
 
+initCache(projectRoot);
+
 const hdata = JSON.parse(fs.readFileSync(path.join(projectRoot, DATA_DIR, "hdata.json")).toString()) as HData;
 const commentOnlyList = hdata.commentOnly;
 const excludeList = commentOnlyList.concat(hdata.exclude);
@@ -42,6 +45,8 @@ const groups = hdata.groups;
 
 async function buildBlurCode() {
   const blurCode = {};
+  let numCached = 0;
+  let numGenerated = 0;
 
   for (const {dirname, srcPath, distPath} of people) {
     if (excludeList.includes(dirname)) continue;
@@ -50,10 +55,27 @@ async function buildBlurCode() {
     const info: any = YAML.load(fs.readFileSync(path.join(srcPath, `info.yml`), 'utf-8'))
     if (typeof(info.profileUrl) != 'string') continue;
     const photoPath = path.join(srcPath, (info.profileUrl as string).replaceAll('${path}/', ''))
+
+    // Check cache using photo path as key
+    const cacheKey = `blur:${dirname}`;
+    if (!hasFileChanged(photoPath)) {
+      const cachedBlur = getCachedResult(cacheKey);
+      if (cachedBlur) {
+        blurCode[dirname] = cachedBlur;
+        numCached++;
+        continue;
+      }
+    }
+
+    // Generate new blur hash
     blurCode[dirname] = await encodeBlur(photoPath);
+    setCachedResult(cacheKey, blurCode[dirname]);
+    updateFileCache(photoPath);
+    numGenerated++;
     console.log(`Blur code of ${dirname} has generated`)
   }
 
+  console.log(`[Cache] Blur codes: ${numCached} cached, ${numGenerated} generated`);
   fs.ensureDirSync(path.join(projectRoot, DIST_DIR));
   fs.writeFileSync(path.join(projectRoot, DIST_DIR, 'blur-code.json'), JSON.stringify(blurCode))
 }
@@ -175,6 +197,9 @@ function buildPeopleInfoAndList() {
 
 // Render `people/${dirname}/page.md` to `dist/people/${dirname}/page.js`.
 function buildPeoplePages() {
+  let numCached = 0;
+  let numGenerated = 0;
+
   for (const { dirname, srcPath, distPath } of people) {
 
     if (excludeList.includes(dirname)) continue;
@@ -182,8 +207,23 @@ function buildPeoplePages() {
 
     for (const lang of ['', '.zh_hant', '.en'])
     {
+      const mdPath = path.join(srcPath, `page${lang}.md`);
+      const infoPath = path.join(srcPath, `info.yml`);
+      const cacheKey = `mdx:${dirname}${lang}`;
+
+      // Check cache - both page.md and info.yml must be unchanged
+      if (!haveFilesChanged([mdPath, infoPath])) {
+        const cachedResult = getCachedResult(cacheKey);
+        if (cachedResult) {
+          fs.ensureDirSync(distPath);
+          fs.writeFileSync(path.join(distPath, `page${lang}.json`), JSON.stringify(cachedResult));
+          numCached++;
+          continue;
+        }
+      }
+
       // Read markdown page and remove markdown meta
-      let markdown = metadataParser(fs.readFileSync(path.join(srcPath, `page${lang}.md`), "utf-8")).content.replaceAll("<!--", "{/* ").replaceAll("-->", " */}");
+      let markdown = metadataParser(fs.readFileSync(mdPath, "utf-8")).content.replaceAll("<!--", "{/* ").replaceAll("-->", " */}");
 
       markdown = handleFeatures(markdown)
 
@@ -196,8 +236,16 @@ function buildPeoplePages() {
 
       fs.ensureDirSync(distPath);
       fs.writeFileSync(path.join(distPath, `page${lang}.json`), JSON.stringify(result));
+
+      // Update cache
+      setCachedResult(cacheKey, result);
+      updateFileCache(mdPath);
+      updateFileCache(infoPath);
+      numGenerated++;
     }
   }
+
+  console.log(`[Cache] MDX pages: ${numCached} cached, ${numGenerated} generated`);
 }
 
 // Copy `people/${dirname}/photos` to `dist/people/${dirname}/`.
@@ -246,12 +294,32 @@ function copyComments() {
   }
 }
 
-buildBlurCode();
-buildPeopleInfoAndList();
-buildPeoplePages();
-copyPeopleAssets();
-copyPublic();
-copyComments();
+async function runBuildStep(stepName: string, fn: () => any | Promise<any>) {
+  try {
+    await fn();
+  } catch (err) {
+    console.error(`[Build] Error occurred in step "${stepName}":`, err);
+    saveCache();
+    process.exit(1);
+  }
+}
+
+async function main() {
+  const buildStart = Date.now();
+  await runBuildStep("buildBlurCode", () => buildBlurCode());
+  await runBuildStep("buildPeopleInfoAndList", () => buildPeopleInfoAndList());
+  await runBuildStep("buildPeoplePages", () => buildPeoplePages());
+  await runBuildStep("copyPeopleAssets", () => copyPeopleAssets());
+  await runBuildStep("copyPublic", () => copyPublic());
+  await runBuildStep("copyComments", () => copyComments());
+  saveCache();
+  const buildTime = ((Date.now() - buildStart) / 1000).toFixed(2);
+  const stats = getCacheStats();
+  console.log(`[Build] Completed in ${buildTime}s`);
+  console.log(`[Cache] ${stats.totalFiles} files tracked, ${stats.totalResults} results cached`);
+}
+
+main();
 
 /**
  * Trim a specific char from a string
