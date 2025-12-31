@@ -72,8 +72,12 @@ JUNE 11:
 
 ## Afterword
 
-YuYu’s companionship, care, and comfort for everyone were all contained within those short replies. When friends needed help, she would also offer practical suggestions.
+YuYu’s companionship, care, and comfort for everyone were all contained within those short replies.
+When friends needed help, she would also offer practical suggestions.
 
-From her first truly personal tweet to her departure, it was just a little over a month. The time we spent with her was so brief. Her state of mind fell rapidly—or perhaps everything had already collapsed long before May, and she simply chose not to reveal too much pain in her writing, instead using fragmented displays of happiness to shield everyone.
+From her first truly personal tweet to her departure, it was just a little over a month.
+The time we spent with her was so brief.
+Her state of mind fell rapidly—or perhaps everything had already collapsed long before May, and she simply chose not to reveal too much pain in her writing, instead using fragmented displays of happiness to shield everyone.
 
-But sadly, not all stories are long ones. Her story with us came to an end, and the pen that could have continued writing ran dry amid the ticking of a clock that never stopped.
+But sadly, not all stories are long ones.
+Her story with us came to an end, and the pen that could have continued writing ran dry amid the ticking of a clock that never stopped.
