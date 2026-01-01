@@ -7,7 +7,17 @@ info:
 
 (条目施工中，偷看不作数)
 
+> Thanks again to everyone who cared about me.
+> 
+> 再次感谢关心我的所有人。
+> 
+> Even though we have different languages ​​and nationalities, I really feel your love.
+> 
+> 即使我们的语言不通，国籍不同，物理距离十万八千里，但是你们的爱与关心我真切的感受到了。
+
 ## 简介
+
+(To-Do)
 <!-- 
 已知中国大陆正常中考周边年龄在 14-16岁左右。
 
@@ -24,7 +34,7 @@ info:
 
 向联合国基金会捐款。 -->
 
-会技术。
+<!-- 会技术。
 
 折腾手机美化。
 
@@ -156,4 +166,4 @@ P CH：笑死
 恰饭
 全熟地毯牛排+雪花烙
 22 CNY 妈妈请的！
-
+ -->
