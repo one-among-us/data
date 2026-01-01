@@ -8,7 +8,7 @@ desc: Let’s be friends! Socially anxious IRL~
 
 > Being alone with the air conditioner on, cooking a small hot pot while watching anime, with an ice-cold cola to drink, this might just be the meaning of being alive. Very Happy~
 >
-> YuYu, May 30, 2023
+> YuYu, On 30th May 2023
 
 ## Introduction
 
