@@ -1,8 +1,8 @@
 ---
 name: Yu Yutou
 info:
-    alias: YuYu
-    location: China
+    alias: YuYu
+    location: China
 desc: Let’s be friends! Socially anxious IRL~
 ---
 
