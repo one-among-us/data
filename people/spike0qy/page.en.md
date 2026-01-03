@@ -19,7 +19,7 @@ YuYu documented her everyday life through scattered tweets,
 and through her words one could sense her gentleness and kindness.
 
 She liked ice cream in the summer,
-and also liked leaving the air conditioner on while cooking a small hot pot and catching up on the lastest anime.
+and also liked leaving the air conditioner on while cooking a small hot pot and catching up on the latest anime.
 Putting ice cubes into her cola was a must for her. Because it’s REAAAAAAAAAALLY refreshing!
 
 Even when overdosing,
@@ -46,7 +46,7 @@ But just as she herself said: harming oneself is so easy, yet persuading others 
 
 MAY 21:
 
-“I’m planning to buy some to prepare (for suicide)first, so that one day when I’m unhappy, I can leave effortlessly.”
+“I’m planning to buy some to prepare (for suicide) first, so that one day when I’m unhappy, I can leave effortlessly.”
 
 MAY 23:
 
