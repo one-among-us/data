@@ -294,6 +294,26 @@ function copyComments() {
   }
 }
 
+function cleanDist() {
+  const distPeopleDir = path.join(projectRoot, DIST_DIR, PEOPLE_DIR);
+  if (!fs.existsSync(distPeopleDir)) return;
+
+  const distPeople = fs.readdirSync(distPeopleDir);
+  const srcPeopleMap = new Map(people.map(p => [p.dirname, p.srcPath]));
+
+  let numRemoved = 0;
+  for (const person of distPeople) {
+    const srcPath = srcPeopleMap.get(person);
+    if (!srcPath || isDirEmpty(srcPath)) {
+      fs.removeSync(path.join(distPeopleDir, person));
+      numRemoved++;
+    }
+  }
+  if (numRemoved > 0) {
+    console.log(`[Clean] Removed ${numRemoved} stale entries from dist/people`);
+  }
+}
+
 async function runBuildStep(stepName: string, fn: () => any | Promise<any>) {
   try {
     await fn();
@@ -305,6 +325,7 @@ async function runBuildStep(stepName: string, fn: () => any | Promise<any>) {
 
 async function main() {
   const buildStart = Date.now();
+  await runBuildStep("cleanDist", () => cleanDist());
   await runBuildStep("buildBlurCode", () => buildBlurCode());
   await runBuildStep("buildPeopleInfoAndList", () => buildPeopleInfoAndList());
   await runBuildStep("buildPeoplePages", () => buildPeoplePages());
