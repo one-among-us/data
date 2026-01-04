@@ -98,8 +98,12 @@ function buildPeopleInfoAndList() {
       // Add age
       if (info.info && info.info.died && info.info.born && (!skipAges.includes(dirname)))
       {
-        try { info.info.age = Math.abs(moment(info.info.died).diff(info.info.born, 'years', false)) }
-        catch (e) { console.log(`Unable to calculate age for ${dirname}`) }
+        if (info.info.born.startsWith('0000')) {
+          // Skip age calculation for unknown year
+        } else {
+          try { info.info.age = Math.abs(moment(info.info.died).diff(info.info.born, 'years', false)) }
+          catch (e) { console.log(`Unable to calculate age for ${dirname}`) }
+        }
       }
 
       if (info.id && info.info && info.info.born) {
@@ -111,6 +115,16 @@ function buildPeopleInfoAndList() {
       if (info.id && info.info && info.info.died) {
         if (!actualHide.includes(info.id)) {
           departureList.push([info.id, info.info.died])
+        }
+      }
+
+      // Format born date if year is unknown
+      if (info.info && info.info.born && typeof info.info.born === 'string' && info.info.born.startsWith('0000-')) {
+        const date = moment(info.info.born);
+        if (lang === '' || lang === '.zh_hant') {
+          info.info.born = date.format('M月D日');
+        } else {
+          info.info.born = date.format('MMM D');
         }
       }
 
