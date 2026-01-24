@@ -3,7 +3,7 @@ name: 一一世開
 info:
     alias: 世開
     location: 上海
-desc:
+desc: 一生朋友擁抱愛，一世美景滿花開。
 ---
 
 ## 簡介
