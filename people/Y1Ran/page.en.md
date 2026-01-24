@@ -30,8 +30,8 @@ Even if she did not write often, she felt that in cyberspace, this was a place t
 Perhaps it was this sense of quiet romance that drew her to it.
 A blog did not need to be perfect, it simply needed to exist.
 
-She also tried to earn money by helping others set up modded Nintendo Switch consoles,
-and by playing Arcaea on behalf of others for a fee.
+She also enjoyed working with small bits of technology:
+customizing her phone’s interface, or set up modded her Nintendo Switch consoles.
 These small projects often helped lift her mood, even if only a little.
 
 Like many among us, she was a rhythm game enthusiast.
@@ -141,7 +141,7 @@ She began selling access to a VPN subscription she had purchased.
 > Thank you for your support.
 > Love you all. Good night.
 
-She also tried to earn money by helping others “tinker” with their Switch consoles,
+She also tried to earn money by helping others set up modded Nintendo Switch consoles,
 and by playing Arcaea on behalf of others for a fee.
 
 But reality is often cruel.
