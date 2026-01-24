@@ -142,7 +142,7 @@ She began selling access to a VPN subscription she had purchased.
 > Love you all. Good night.
 
 She also tried to earn money by helping others “tinker” with their Switch consoles,
-and by playing *Arcaea* on behalf of others for a fee.
+and by playing Arcaea on behalf of others for a fee.
 
 But reality is often cruel.
 Some struggles may never have been shared publicly.
