@@ -3,7 +3,7 @@ name: Yi Ran
 info:
     alias: Yiran, Y1Ran
     location: Jinan, Shandong
-    desc: A gentle light, quietly given.
+desc: A gentle light, quietly given.
 ---
 
 > Thanks again to everyone who cared about me.

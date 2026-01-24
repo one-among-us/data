@@ -5,16 +5,25 @@
         "shi_Yumiaoya",
         "DarlinChit"
     ],
-    "notShowOnHome": ["MeowBot233", "AkiraComplex", "AsabaNaiXi"],
-    "actualHide": ["Aniloviraw"],
-    "trigger": ["Aniloviraw"],
+    "notShowOnHome": [
+        "MeowBot233", 
+        "AkiraComplex", 
+        "AsabaNaiXi", 
+        "Y1Ran"
+    ],
+    "actualHide": [
+        "Aniloviraw"
+    ],
+    "trigger": [
+        "Aniloviraw"
+    ],
     "switch": [
-        ["Anilovr", "Aniloviraw"]
+        ["Anilovr","Aniloviraw"]
     ],
     "skipAges": ["cheonwoomaeng"],
     "probabilities": {
         "XingZ60": 1,
-	    "Huasheng": 1
+	      "Huasheng": 1
     },
     "groups": [
         ["Elihuso", "Anilovr"]
