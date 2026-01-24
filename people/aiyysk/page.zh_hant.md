@@ -2,6 +2,8 @@
 name: 一一世開
 info:
     alias: 世開
+    location: 上海
+desc:
 ---
 
 ## 簡介

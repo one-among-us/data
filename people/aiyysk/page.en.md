@@ -2,6 +2,8 @@
 name: aiyysk
 info:
     alias: Shikai
+    location: Shanghai
+desc:
 ---
 
 ## Introduction
