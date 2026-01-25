@@ -68,8 +68,6 @@ Offline, Miyako was much the same.
 On a high-speed train, they once helped two fellow passengers lift their luggage.
 Even small acts of kindness could make them happy for a long time.
 
----
-
 ## Sun, Moon and Stars
 
 Miyako Kujo loved both classical Chinese poetry and modern verse. In their replies, they often continued famous lines of poetry, matching line to line. At times, they also wrote their own.
@@ -85,17 +83,21 @@ Below are two poems they wrote around the images of the sun, the moon, and the s
 > There is only one moon, and only one sun.
 >
 > I cannot be the moon in someone else’s night,
+> 
 > nor the sun that lights their whole life.
 >
 > So let me be a star.
 >
 > Even if I cannot light their face,
+> 
 > even if I cannot show them the way,
 >
 > when they look up,
+> 
 > I am still one among countless stars.
 >
-> The joy of that moment—
+> The joy of that moment,
+> 
 > a small part of it is mine.
 >
 > And that is enough.
@@ -103,14 +105,21 @@ Below are two poems they wrote around the images of the sun, the moon, and the s
 **Poem Two:**
 
 > I am not the sun or the moon in someone else’s sky.
+> 
 > I am only a star, too far away.
+> 
 > My light and warmth cannot reach them.
 >
 > But I am my own sun.
+> 
 > When you cross light-years to come to me,
+> 
 > I will offer you my purest warmth,
+> 
 > my kindness,
+> 
 > my truest passion,
+> 
 > and my blessing.
 
 ## Ending
