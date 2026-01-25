@@ -68,9 +68,7 @@ Although she also found that the circumstances of the suicide of Neko was compli
 there was no more news about Neko indeed.
 She really hoped Neko was still alive:
 
-> "For you I always stay alive... For without you I get lost in life. Wish you are still alive... "
->
-> (Another version in Zhihu: "Only for you I stay alive... But you are not by my side. Isn't it? Wish you are still alive...")
+> "For you I always stay alive... For without you I get lost in life. Wish you are still alive...[^1]"
 
 Yumao always missed Neko, and recalled the days with her.
 She often wrote down some caring words in her blog, such as prompting Neko to manage her hair or switching up her clothes.
@@ -160,3 +158,5 @@ Good night, yumao, wish you can be a girl and live happily.
 Contributors for this entry: One-Among-Us, [Ayaka Neko](https://twitter.com/ayakaneko)
 
 {/* TODO: Check in Grammarly */}
+
+[^1]: Another version in Zhihu: "Only for you I stay alive... But you are not by my side. Isn't it? Wish you are still alive..." Remakrs: According to research, this line originates from the final lyric of "Yuu" (lyrics/composition: Yumi Nakashima), namely 「いつでもあなたでいて あなたしかいないでしょ」. This lyric expressed an intense sense of emotional dependence: “It has always been you; you’re the only one in my world.”
