@@ -31,7 +31,7 @@ Perhaps it was this sense of quiet romance that drew her to it.
 A blog did not need to be perfect, it simply needed to exist.
 
 She also enjoyed working with small bits of technology:
-customizing her phone’s interface, or set up modded her Nintendo Switch consoles.
+customizing her phone’s interface, or modding her Nintendo Switch consoles.
 These small projects often helped lift her mood, even if only a little.
 
 Like many among us, she was a rhythm game enthusiast.
@@ -169,7 +169,7 @@ Yiran once posted this message in her channel:
 '${path}/photos/photo3.webp',
 ]} />
 
-To live in this world, one needs more than shelter, they must also eat.
+To live in this world, one needs more than shelter; one must also eat.
 
 In an age of industrialized food,
 a street-stall steak and a simple dessert should not require a child
@@ -188,8 +188,8 @@ can truly understand the weight of that word.
 Dear Yiran, what would you like for dinner tonight?
 This time, no one is treating anyone. We simply miss you. And there is still a place for you at the table.
 
-[^1]: A kind of school that punishes students to force them conform.
+[^1]: A kind of school that punishes students to force them to conform.
 
-[^2]: Situ: Presumd to be the name of that kind of “school”.
+[^2]: Situ: Presumed to be the name of that kind of “school”.
 
 [^3]: A cold dessert in North China, similar to stir-fried ice cream.
