@@ -48,7 +48,7 @@ And yet, we also know that such efforts do not always work.
 One person’s strength has its limits.
 This may have been something Miyako thought about often.
 
-In the autumn of 2024, an article by [Han Lianyi]((https://twitter.com/HANLIANYI331)) discussed how understanding suicide risk is a key part of prevention. Miyako responded in the comments, asking:
+In the autumn of 2024, an article by [Han Lianyi](https://twitter.com/HANLIANYI331) discussed how understanding suicide risk is a key part of prevention. Miyako responded in the comments, asking:
 
 > I see many posts on Twitter/X that show suicidal thoughts.
 > I want to do something, but all I know comes from their past tweets.
