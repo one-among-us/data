@@ -3,7 +3,7 @@ name: Miyako Kujo
 info:
     alias: Miyako
     location: 甘肃兰州
-desc: 「我不是别人天空上的日月，我只是一颗星星。」
+desc: 我不是别人天空上的日月，我只是一颗星星。
 ---
 
 ## 那颗透明的星星
