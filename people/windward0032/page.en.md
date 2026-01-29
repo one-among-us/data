@@ -232,7 +232,7 @@ This companion, who had been soaked by the rain and wanted only to hold an umbre
 
 Perhaps this was not truly their ending.
 
-It is only that, in this particular playthrough, the world stopped them at a single moment in time. We do not have the <ruby>ability<rt>OVERLOAD</rt></ruby> to reload a save file and begin again.
+It is only that, in this particular playthrough, the world stopped them at a single moment in time. We do not have the ability to <ruby>reload a save file<rt>OVERLOAD</rt></ruby> and begin again.
 All that remains before us is this outcome.
 
 Rabindranath Tagore, who like Miyako, loved the crescent moon and the star-filled sky once wrote:
