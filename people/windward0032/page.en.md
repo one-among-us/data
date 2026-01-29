@@ -272,7 +272,7 @@ We do not know whether there were friends nearby in those final days, what their
 Perhaps time had once wrapped their old wounds gently, but it could not heal those that continued to bleed unseen.
 
 In the end, the words *“you haven’t healed yourself”* became prophecy.
-This companion, who had been soaked by the rain and wanted only to hold an umbrella for others, who tried in every way to bring light to those around them—eventually left us.
+This companion, who had been soaked by the rain and wanted only to hold an umbrella for others, who tried in every way to bring light to those around them eventually left us.
 
 Perhaps this was not truly their ending.
 It is only that, in this particular playthrough, the world stopped them at a single moment in time. We do not have the ability to <ruby>reload a save file<rt>OVERLOAD</rt></ruby> and begin again.
