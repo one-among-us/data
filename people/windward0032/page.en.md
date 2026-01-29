@@ -302,7 +302,7 @@ But not once did they let their light go out.
 Miyako was no longer with us, if someone should ask why the sky seems to be missing something, you might tell them this:
 perhaps Miyako was only afraid that, in another world, there are children who are still afraid of the dark, still at risk of losing their way, and they wanted to go and keep watch over another boat.
 
-[^1] from Gitanjali No. 60, Rabindranath Tagore
+[^1]: from Gitanjali No. 60, Rabindranath Tagore
 
-[^2] from Stray Birds No. 242, Rabindranath Tagore
+[^2]: from Stray Birds No. 242, Rabindranath Tagore
 
