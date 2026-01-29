@@ -203,7 +203,7 @@ Even small things, such as helping two fellow passengers lift their luggage on a
 
 ---
 
-## When the Autumn Wind Rises
+## Lengthen night and shorten day
 
 There is a clarity in Miyako’s poetry, a lightness stripped of ornament.
 When someone wrote, “May the autumn wind know my heart,” they continued, “so the dust may scatter, and the true self be seen.”
@@ -263,5 +263,5 @@ perhaps Miyako was only afraid that, in another world, there are children who ar
 
 [^1] from Gitanjali No. 60, Rabindranath Tagore
 
-[^2] from tray Birds No. 242, Rabindranath Tagore
+[^2] from Stray Birds No. 242, Rabindranath Tagore
 
