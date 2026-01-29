@@ -3,7 +3,7 @@ name: Miyako Kujo
 info:
     alias: Miyako
     location: Lanzhou, Gansu
-desc: Not the sun or the moon, only a star.
+desc: Neither the sun nor the moon, but only a faint star.
 ---
 
 <!-- ## Our Partner Miyako
