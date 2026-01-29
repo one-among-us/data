@@ -305,4 +305,3 @@ perhaps Miyako was only afraid that, in another world, there are children who ar
 [^1]: from Gitanjali No. 60, Rabindranath Tagore
 
 [^2]: from Stray Birds No. 242, Rabindranath Tagore
-
