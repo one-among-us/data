@@ -6,7 +6,7 @@ info:
 desc: 
 ---
 
-## Our Partner Miyako
+<!-- ## Our Partner Miyako
 
 If there is one word that fits Miyako Kujo best, it might be *someone who stayed*.
 
@@ -142,7 +142,7 @@ All that remains is this outcome before us.
 
 ---
 
-(The Follwing version is written by artificialUsagi)
+(The Follwing version is written by artificialUsagi) -->
 
 ## The Transparent Star
 
@@ -167,13 +167,15 @@ They once wrote:
 
 Perhaps Miyako did not expect replies.
 Nor was they seeking interaction.
-They was simply lighting up their own faint glow- quiet and steady, letting the world know that they were still here, still staying with us.
+They was simply lighting up their own faint glow, which was quiet and steady.
+They let the world know that they were still here, still staying with us.
 
 They rarely spoke of their own pressures or daily struggles.
 Instead, they tried to hold others back from despair, to bless them when they reached for even the smallest hope again and again, wishing only that, in this cold world, they might hear an echo in response.
 
-To someone who wrote, *“I really want to be loved…”*, they replied, *“I love you.”*
-To the call, *“It hurts so much… I’m so lonely… is anyone there?”*, they answered, *“I’m still here.”*
+To someone who wrote, “I really want to be loved…”, they replied, “I love you.”
+
+To the call, “It hurts so much… I’m so lonely… is anyone there?”, they answered, “I’m still here.”
 
 Miyako was deeply empathetic.
 No matter how heavy the words carried by others, and no matter how often far beyond what one person could reasonably bear, they still chose to respond.
@@ -196,12 +198,10 @@ What few people noticed was that, even as Miyako reached outward with warmth and
 Their sorrow over loss came from a place they knew well—a darkness that had once nearly consumed them too.
 
 They once said, “When I feel strong, I want to help those still stuck in the mud. Because I’ve been in the dark myself, I want others to face the light.”
-And when others replied, “Stop trying to warm everyone else—you haven’t healed yourself,”
+And when others replied, “Stop trying to warm everyone else, you haven’t healed yourself,”
 they answered, “It’s only when I’m warming others that I truly feel I’m still alive.”
 
 Even small things, such as helping two fellow passengers lift their luggage on a high-speed train could bring them quiet joy.
-
----
 
 ## Lengthen night and shorten day
 
@@ -218,6 +218,50 @@ But we must remember:
 In effect, the brilliant sun they once gazed upon was, only an ordinary star on Orion’s arm.
 And what blocks light and warmth has never been anything more than distance and the void itself.
 
+**Poem One:**
+
+> There is only one moon, and only one sun.
+>
+> I cannot be the moon in someone else’s night,
+> 
+> nor the sun that lights their whole life.
+>
+> So let me be a star.
+>
+> Even if I cannot light their face,
+> 
+> even if I cannot show them the way,
+>
+> when they look up,
+> 
+> I am still one among countless stars.
+>
+> The joy of that moment,
+> 
+> a small part of it is mine.
+>
+> And that is enough.
+
+**Poem Two:**
+
+> I am not the sun or the moon in someone else’s sky.
+> 
+> I am only a star, too far away.
+> 
+> My light and warmth cannot reach them.
+>
+> But I am my own sun.
+> 
+> When you cross light-years to come to me,
+> 
+> I will offer you my purest warmth,
+> 
+> my kindness,
+> 
+> my truest passion,
+> 
+> and my blessing.
+
 ## Where the World Paused
 
 Companionship is never without cost.
@@ -231,7 +275,6 @@ In the end, the words *“you haven’t healed yourself”* became prophecy.
 This companion, who had been soaked by the rain and wanted only to hold an umbrella for others, who tried in every way to bring light to those around them—eventually left us.
 
 Perhaps this was not truly their ending.
-
 It is only that, in this particular playthrough, the world stopped them at a single moment in time. We do not have the ability to <ruby>reload a save file<rt>OVERLOAD</rt></ruby> and begin again.
 All that remains before us is this outcome.
 
@@ -248,17 +291,15 @@ Rabindranath Tagore, who like Miyako, loved the crescent moon and the star-fille
 > When he died, we join the trip, and it has also learned a different world.[^2]
 > 
 
-To this day, we cannot know whether, at the moment Miyako took leave of a world they did not truly love. Yet still believed there was “something here still worth loving”, they ever thought of those distant seas, violent or silent, where stars so often go unnoticed.
+To this day, we cannot know whether, at the moment Miyako took leave of a world they did not truly love.
+Yet still believed there was [“something here still worth loving”](https://x.com/windward0032/status/1838489443411661269), they ever thought of those distant seas, violent or silent, where stars so often go unnoticed.
 Stars that once held the hands of countless children, and watched them safely home.
-
 Perhaps the truth was never quite as Miyako once said “I could not even show someone the way.”
 For on moonless nights at sea, the stars are the only lighthouse there is.
-
-Miyako may at times have felt far removed from this world, distant and estranged.
+They may at times have felt far removed from this world, distant and estranged.
 But not once did they let their light go out.
 
-They are gone now.
-And if someone should ask why the sky seems to be missing something, you might tell them this:
+Miyako was no longer with us, if someone should ask why the sky seems to be missing something, you might tell them this:
 perhaps Miyako was only afraid that, in another world, there are children who are still afraid of the dark, still at risk of losing their way, and they wanted to go and keep watch over another boat.
 
 [^1] from Gitanjali No. 60, Rabindranath Tagore
