@@ -30,64 +30,45 @@ It felt truly rewarding to be able to help someone with what little knowledge I 
 
 As we continued talking, she confessed to me that she was a MTF and sent a photo. In the picture, boxes of medications like Progynova and Cyproterone could be seen. I was a bit stunned and asked her again.
 
-Me:<br>
-“...Are you... joking?”
+Me: “...Are you... joking?”
 
-Aiyysk:<br>
-“No, I'm not.”
+Aiyysk: “No, I'm not.”
 
-Me:<br>
-“So... you're MTF?”
+Me: “So... you're MTF?”
 
-Aiyysk:<br>
-“I'm MTF, what about it?”
+Aiyysk: “I'm MTF, what about it?”
 
-Me:<br>
-“I used to think MTF folks were hard to approach - maybe that's just an impression from browsing Twitter.”
+Me: “I used to think MTF folks were hard to approach - maybe that's just an impression from browsing Twitter.”
 
-Aiyysk:<br>
-“Everyone is different; it's just that you perceive them as hard to approach. Maybe you feel nervous when interacting with them, or find it hard to relate.”
+Aiyysk: “Everyone is different; it's just that you perceive them as hard to approach. Maybe you feel nervous when interacting with them, or find it hard to relate.”
 
-Me:<br>
-“I've never really interacted with an MTF person before - I only knew such a community existed. I was afraid to reach out because I worried my wording might hurt them, so I always kept my distance out of respect.”
+Me: “I've never really interacted with an MTF person before - I only knew such a community existed. I was afraid to reach out because I worried my wording might hurt them, so I always kept my distance out of respect.”
 
-Aiyysk:<br>
-“I get it, I've felt the same way.”
+Aiyysk: “I get it, I've felt the same way.”
 
 This was my first time talking to an MTF person. As a “cis straight guy”, I struggled to process all this information at the time. To collect my thoughts, I didn't reply to her messages for two or three days. After gathering my courage, I finally resumed our conversation.
 
-Aiyysk:<br>
-“Are you there?”
+Aiyysk: “Are you there?”
 
-Me:<br>
-“I'm sorry.”
+Me: “I'm sorry.”
 
-Aiyysk:<br>
-“Hey, it's okay. Sending hugs ❤️”
+Aiyysk: “Hey, it's okay. Sending hugs ❤️”
 
-Me:<br>
-“My mind's been filled with dark thoughts lately - I didn't want to affect you, so I stayed quiet.”
+Me: “My mind's been filled with dark thoughts lately - I didn't want to affect you, so I stayed quiet.”
 
-Aiyysk:<br>
-“Not at all, it only makes me more worried about you.”
+Aiyysk: “Not at all, it only makes me more worried about you.”
 
-Me:<br>
-“This all feels so surreal, I can hardly believe it...”
+Me: “This all feels so surreal, I can hardly believe it...”
 
-Aiyysk:<br>
-“What's wrong? *gently pats*”
+Aiyysk: “What's wrong? *gently pats*”
 
-Me:<br>
-“Like I said before, I always thought MTFs were hard to approach, and I didn't know how to interact without hurting them.”
+Me: “Like I said before, I always thought MTFs were hard to approach, and I didn't know how to interact without hurting them.”
 
-Aiyysk:<br>
-“Just treat them normally~ I understand your concern~”
+Aiyysk: “Just treat them normally~ I understand your concern~”
 
-Me:<br>
-“The problem is, what's considered ‘normal’ by most people might not apply here.”
+Me: “The problem is, what's considered ‘normal’ by most people might not apply here.”
 
-Aiyysk:<br>
-“I won't make things difficult for friends~ Just interact naturally and kindly. If there's anything you need, we can work through it together~ *pats the little silly*”
+Aiyysk: “I won't make things difficult for friends~ Just interact naturally and kindly. If there's anything you need, we can work through it together~ *pats the little silly*”
 
 She was so gentle, so full of warmth. From then on, I embraced her as one of my closest friends.
 
@@ -96,134 +77,101 @@ She was so gentle, so full of warmth. From then on, I embraced her as one of my 
 
 February 9, 2024, was the traditional Chinese holiday “New Year's Eve”. At 19:00 in the evening, my family had already finished dinner and gathered together, discussing the year that was about to pass. As a younger member, I really couldn't get a word in, so I just scrolled through my phone like other young people. A few days earlier, two people in Aiyysk's chat group had clashed, arguing fiercely. I was more or less affected by this and felt a bit anxious. However, Aiyysk didn't seem too bothered by it. She said, “(This matter is) just like that, nothing to be afraid of. Just let it go.” So, I voiced my concerns.
 
-Me:<br>
-“Because I'm really scared, it's because of anxiety. I'm afraid of being disliked, and I'm also afraid of others being disliked.”
+Me: “Because I'm really scared, it's because of anxiety. I'm afraid of being disliked, and I'm also afraid of others being disliked.”
 
-Aiyysk:<br>
-“It's best to focus on doing your own part first~”
+Aiyysk: “It's best to focus on doing your own part first~”
 
-Me:<br>
-“Sigh... A friend once described me like this: just like Sayaka from *Puella Magi Madoka Magica*, both quite emotional.”
+Me: “Sigh... A friend once described me like this: just like Sayaka from *Puella Magi Madoka Magica*, both quite emotional.”
 
-Aiyysk:<br>
-“Well, it's okay. Just take your time to get used to it. Pat pat~”
+Aiyysk: “Well, it's okay. Just take your time to get used to it. Pat pat~”
 
-Me:<br>
-“That's great. Whenever my anxiety makes me scared, hearing everyone say ‘it's okay’ makes me feel much better. I'm really just a fool.jpg”
+Me: “That's great. Whenever my anxiety makes me scared, hearing everyone say ‘it's okay’ makes me feel much better. I'm really just a fool.jpg”
 
-Aiyysk:<br>
-(A seemingly downcast sticker)
+Aiyysk: (A seemingly downcast sticker)
 
-Me:<br>
-“What's wrong? Did something unpleasant happen?”
+Me: “What's wrong? Did something unpleasant happen?”
 
-Aiyysk:<br>
-“No, I'm anxious too. But not right now - I'm looking at the fool!”
+Aiyysk: “No, I'm anxious too. But not right now - I'm looking at the fool!”
 
-Me:<br>
-“I'm the fool, heh.”
+Me: “I'm the fool, heh.”
 
-Aiyysk:<br>
-“Alright, alright~”
+Aiyysk: “Alright, alright~”
 
 My worries vanished. Suddenly, I realized it was New Year's Eve, and I hadn't yet extended my New Year greetings to her.
 
-Me:<br>
-“Mhm, Happy New Year! Sending early wishes.”
+Me: “Mhm, Happy New Year! Sending early wishes.”
 
-Aiyysk:<br>
-“I don't really like the Spring Festival.”
+Aiyysk: “I don't really like the Spring Festival.”
 
 Thinking of her situation, this wasn't hard to understand.
 
-Me:<br>
-“Okay.”
+Me: “Okay.”
 
-Aiyysk:<br>
-“I'm running away, leaving home. Don't worry, it's fine. Goodnight.”
+Aiyysk: “I'm running away, leaving home. Don't worry, it's fine. Goodnight.”
 
-Me:<br>
-“...Huh?”
+Me: “...Huh?”
 
-Aiyysk:<br>
-“[Auto-reply] So lonely[^3]”
+Aiyysk: “[Auto-reply] So lonely[^3]”
 
-Me:<br>
-『Is everything okay...?』
+Me: 『Is everything okay...?』
 
-Aiyysk:<br>
-“It's okay.”
+Aiyysk: “It's okay.”
 
-Me:<br>
-“Mhm, please stay safe.”
+Me: “Mhm, please stay safe.”
 
-Aiyysk:<br>
-“Worried”
+Aiyysk: “Worried”
 
-Me:<br>
-“What's wrong? Did something happen?”
+Me: “What's wrong? Did something happen?”
 
-Aiyysk:<br>
-“It's a timing issue, not sure if I can make it out. Can you check out the tweet?”
+Aiyysk: “It's a timing issue, not sure if I can make it out. Can you check out the tweet?”
 
-Me:<br>
-“Yes, let me see.”
+Me: “Yes, let me see.”
 
 “I get it, it's still a conflict with the family's traditional views, right?”
 
-Aiyysk:<br>
-“Mhm.”
+Aiyysk: “Mhm.”
 
-Me:<br>
-“I saw those three tweets. Two are about the family's lack of understanding, and the other is just mindless ranting.”
+Me: “I saw those three tweets. Two are about the family's lack of understanding, and the other is just mindless ranting.”
 
-Aiyysk:<br>
-“Just ignore that troll's post.”
+Aiyysk: “Just ignore that troll's post.”
 
-Me:<br>
-“Sorry, I don't know how to handle this situation. Parents' traditional views aren't something you can just abandon. I can only hope you stay safe.”
+Me: “Sorry, I don't know how to handle this situation. Parents' traditional views aren't something you can just abandon. I can only hope you stay safe.”
 
-Aiyysk:<br>
-“It's mainly a timing issue. My dad starts work on the 19th and leaves on the evening of the 18th. If school starts on the 19th, boarding students enter on the evening of the 18th, and day students enter on the morning of the 19th. We're in the countryside now, and he's taking me to the county town at noon on the 18th. I don't know if he can leave earlier so I can sneak out.”
+Aiyysk: “It's mainly a timing issue. My dad starts work on the 19th and leaves on the evening of the 18th. If school starts on the 19th, boarding students enter on the evening of the 18th, and day students enter on the morning of the 19th. We're in the countryside now, and he's taking me to the county town at noon on the 18th. I don't know if he can leave earlier so I can sneak out.”
 
-Me:<br>
-“Mhm... So you really need to plan carefully. I can't offer much help, but... please stay safe.”
+Me: “Mhm... So you really need to plan carefully. I can't offer much help, but... please stay safe.”
 
 February 18, 21:30, just a few hours before she planned to leave. It was her birthday, and to commemorate it, I wrote the following and sent it to her chat group:  
 
-> Across the past and the future 跨越过去和未来<br>When sunlight fills my heart 当阳光照进心扉<br>I finally step out of the gloom 我终于能够走出阴霾<br><br>Tears well up once again 终于再一次热泪盈眶<br>Only because I've regained 只因重新获得了<br>The courage to embrace love 那份去拥抱爱的勇气
+> 跨越过去和未来 / 当阳光照进心扉 / 我终于能够走出阴霾
+> 终于再一次热泪盈眶 / 只因重新获得了 / 那份去拥抱爱的勇气
+> Across the past and the future / When sunlight fills my heart / I finally step out of the gloom
+> Tears well up once again / Only because I've regained / The courage to embrace love
 
 “Anyway, the reason I wrote this poem is that I'm truly grateful to have met everyone. I, who have always longed for love and understanding but was never accepted...”
 
 However, her current situation wasn't great. She said she had rhinitis, a sore throat, and gum inflammation. At 23:18, she complained in the group.
 
-Aiyysk:<br>
-“Why is my aunt so extra? The living room lights are on, so of course my room looks lit. She says I turned on the light and tells me to turn it off.”  
+Aiyysk: “Why is my aunt so extra? The living room lights are on, so of course my room looks lit. She says I turned on the light and tells me to turn it off.”  
 
 “I'm thinking about moving the suitcase downstairs later. How? It's so heavy.”
 
-Me:<br>
-“You should've moved it down in batches ahead of time.”
+Me: “You should've moved it down in batches ahead of time.”
 
-Aiyysk:<br>
-“There are people watching at home.”
+Aiyysk: “There are people watching at home.”
 
 February 19, 0:56, already midnight.  
 
 Group Member A:  
 “Is Aiyysk about to make a move?”
 
-Aiyysk:<br>
-“My family isn't asleep, they're all active in the living room.”
+Aiyysk: “My family isn't asleep, they're all active in the living room.”
 
-Group Member A:<br>
-“Ah? Wait until 2–3 a.m., find a time when they've all gone to sleep.”
+Group Member A: “Ah? Wait until 2–3 a.m., find a time when they've all gone to sleep.”
 
-Group Member B:<br>
-“How are your preparations? Do you have the determination and courage?”
+Group Member B: “How are your preparations? Do you have the determination and courage?”
 
-Aiyysk:<br>
-“Everything's ready, but why aren't they going to sleep yet...”
+Aiyysk: “Everything's ready, but why aren't they going to sleep yet...”
 
 At 2:11, she sent a few pictures in the chat. Under the dim streetlights, she held her suitcase and set off on her journey.
 
