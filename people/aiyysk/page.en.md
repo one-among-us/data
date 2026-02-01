@@ -144,8 +144,11 @@ Me: “Mhm... So you really need to plan carefully. I can't offer much help, but
 February 18, 21:30, just a few hours before she planned to leave. It was her birthday, and to commemorate it, I wrote the following and sent it to her chat group:  
 
 > 跨越过去和未来 / 当阳光照进心扉 / 我终于能够走出阴霾
+
 > 终于再一次热泪盈眶 / 只因重新获得了 / 那份去拥抱爱的勇气
+
 > Across the past and the future / When sunlight fills my heart / I finally step out of the gloom
+
 > Tears well up once again / Only because I've regained / The courage to embrace love
 
 “Anyway, the reason I wrote this poem is that I'm truly grateful to have met everyone. I, who have always longed for love and understanding but was never accepted...”
@@ -184,6 +187,7 @@ All I know is, at 0:00 a.m on December 15, 2024, after learning of the tragic pa
 Goodnight. May you be a carefree, lovely girl in your next life.
 
 > 「一生朋友拥抱爱，一世美景满花开。」
+
 > “A lifetime of friendship embraces love,  A world of beauty blooms with flowers.”
 
 Contributor for this entry: [Shinjo Kurumi](https://github.com/ShinjoKurumi) ([RainCandy Technology](http://raincandy.tech/))
