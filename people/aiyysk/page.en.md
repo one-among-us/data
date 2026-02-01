@@ -183,7 +183,8 @@ All I know is, at 0:00 a.m on December 15, 2024, after learning of the tragic pa
 
 Goodnight. May you be a carefree, lovely girl in your next life.
 
-> 「一生朋友拥抱爱，一世美景满花开。」<br>“A lifetime of friendship embraces love,  A world of beauty blooms with flowers.”
+> 「一生朋友拥抱爱，一世美景满花开。」
+> “A lifetime of friendship embraces love,  A world of beauty blooms with flowers.”
 
 Contributor for this entry: [Shinjo Kurumi](https://github.com/ShinjoKurumi) ([RainCandy Technology](http://raincandy.tech/))
 
