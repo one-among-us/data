@@ -181,7 +181,7 @@ function buildPeopleInfoAndList() {
           if (lang === '' || lang === '.zh_hant') {
             info.info.born = lunar.getYear() + '年' + lunar.getMonthInChinese() + '月' + lunar.getDayInChinese()
           } else {
-            info.info.born = parts[0] + '-' + String(lunar.getMonth()).padStart(2, '0') + '-' + String(lunar.getDay()).padStart(2, '0') + ' (Lunar)'
+            info.info.born = lunar.getYear() + '-' + String(lunar.getMonth()).padStart(2, '0') + '-' + String(lunar.getDay()).padStart(2, '0') + ' (Lunar)'
           }
         }
         // Remove the lunar_birthday flag from output (internal use only)
