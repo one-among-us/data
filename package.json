@@ -33,6 +33,7 @@
     "google-translate-api-x": "^10.7.1",
     "js-yaml": "^4.1.0",
     "katex": "^0.16.10",
+    "lunar-typescript": "^1.8.6",
     "markdown-yaml-metadata-parser": "^3.0.0",
     "moment": "^2.29.4",
     "rehype-katex": "6",

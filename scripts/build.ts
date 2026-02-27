@@ -8,6 +8,7 @@ import metadataParser from 'markdown-yaml-metadata-parser';
 
 import { renderMdx } from "./mdx.js";
 import moment from "moment";
+import { Solar, Lunar } from "lunar-typescript";
 import { handleFeatures } from "./feature.js";
 import { HData, PeopleMeta } from "./data.js";
 import { encodeBlur } from "./blurhash.js";
@@ -92,7 +93,7 @@ function buildPeopleInfoAndList() {
     // Compiled meta of list of people for the front page (contains keys id, name, profileUrl)
     const peopleList: PeopleMeta[] = [];
     const peopleHomeList: PeopleMeta[] = [];
-    const birthdayList = [] as [string, string][]
+    const birthdayList = [] as ([string, string] | [string, string, string])[]
     const departureList = [] as [string, string][]
 
     // For each person
@@ -128,9 +129,25 @@ function buildPeopleInfoAndList() {
         }
       }
 
+      // Determine lunar birthday month-day for birthday-list.json
+      let lunarMd: string | null = null
+      if (info.info && info.info.born && info.info.lunar_birthday) {
+        const bornStr = info.info.born as string
+        if (bornStr.startsWith('0000-')) {
+          // Unknown year: treat month-day directly as lunar month-day
+          lunarMd = bornStr.substring(5) // "MM-DD"
+        } else {
+          // Known year: convert solar born date to lunar
+          const parts = bornStr.split('-').map(Number)
+          const solar = Solar.fromYmd(parts[0], parts[1], parts[2])
+          const lunar = solar.getLunar()
+          lunarMd = String(lunar.getMonth()).padStart(2, '0') + '-' + String(lunar.getDay()).padStart(2, '0')
+        }
+      }
+
       if (info.id && info.info && info.info.born) {
         if (!actualHide.includes(info.id)) {
-          birthdayList.push([info.id, info.info.born])
+          birthdayList.push(lunarMd ? [info.id, info.info.born, lunarMd] : [info.id, info.info.born])
         }
       }
 
@@ -140,13 +157,46 @@ function buildPeopleInfoAndList() {
         }
       }
 
-      // Format born date if year is unknown
-      if (info.info && info.info.born && typeof info.info.born === 'string' && info.info.born.startsWith('0000-')) {
-        const date = moment(info.info.born);
-        if (lang === '' || lang === '.zh_hant') {
-          info.info.born = date.format('M月D日');
+      // Handle lunar birthday display and solarBorn field
+      const isLunarBirthday = info.info && info.info.lunar_birthday
+      if (isLunarBirthday && info.info.born && typeof info.info.born === 'string') {
+        const bornStr = info.info.born as string
+        if (bornStr.startsWith('0000-')) {
+          // Unknown year + lunar: format month-day as Chinese lunar
+          const mm = parseInt(bornStr.substring(5, 7))
+          const dd = parseInt(bornStr.substring(8, 10))
+          // Use a reference year to get the Chinese text for month/day
+          const refLunar = Lunar.fromYmd(2000, mm, dd)
+          if (lang === '' || lang === '.zh_hant') {
+            info.info.born = refLunar.getMonthInChinese() + '月' + refLunar.getDayInChinese()
+          } else {
+            info.info.born = String(mm).padStart(2, '0') + '-' + String(dd).padStart(2, '0') + ' (Lunar)'
+          }
         } else {
-          info.info.born = date.format('MMM D');
+          // Known year + lunar: convert to lunar display, store solar in solarBorn
+          const parts = bornStr.split('-').map(Number)
+          const solar = Solar.fromYmd(parts[0], parts[1], parts[2])
+          const lunar = solar.getLunar()
+          info.solarBorn = bornStr
+          if (lang === '' || lang === '.zh_hant') {
+            info.info.born = lunar.getYear() + '年' + lunar.getMonthInChinese() + '月' + lunar.getDayInChinese()
+          } else {
+            info.info.born = parts[0] + '-' + String(lunar.getMonth()).padStart(2, '0') + '-' + String(lunar.getDay()).padStart(2, '0') + ' (Lunar)'
+          }
+        }
+        // Remove the lunar_birthday flag from output (internal use only)
+        delete info.info.lunar_birthday
+      } else {
+        // Remove lunar_birthday flag even if born is missing
+        if (info.info) delete info.info.lunar_birthday
+        // Format born date if year is unknown (original logic)
+        if (info.info && info.info.born && typeof info.info.born === 'string' && info.info.born.startsWith('0000-')) {
+          const date = moment(info.info.born);
+          if (lang === '' || lang === '.zh_hant') {
+            info.info.born = date.format('M月D日');
+          } else {
+            info.info.born = date.format('MMM D');
+          }
         }
       }
 
@@ -159,6 +209,11 @@ function buildPeopleInfoAndList() {
       if (langKey == '') langKey = "zh_hans"
       const keys = infoKeys[langKey]['key']
       info.info = info.info.map(pair => [pair[0] in keys ? keys[pair[0]] : pair[0], pair[1]])
+
+      // Store localized born key so web can identify the born entry without duplication
+      if (info.solarBorn && keys['born']) {
+        info.bornKey = keys['born']
+      }
 
       // Add desc from markdown metadata
       if (mdMeta.desc !== undefined) {
