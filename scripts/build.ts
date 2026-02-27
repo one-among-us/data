@@ -160,6 +160,11 @@ function buildPeopleInfoAndList() {
       const keys = infoKeys[langKey]['key']
       info.info = info.info.map(pair => [pair[0] in keys ? keys[pair[0]] : pair[0], pair[1]])
 
+      // Add desc from markdown metadata
+      if (mdMeta.desc !== undefined) {
+        info.desc = mdMeta.desc
+      }
+
       // Combine comments in people/${dirname}/comments/${cf}.json
       const commentPath = path.join(srcPath, COMMENTS_DIR)
       fs.ensureDirSync(commentPath)
