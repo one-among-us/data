@@ -3,7 +3,7 @@ name: aiyysk
 info:
     alias: Shikai, Kaikai
     location: Shanghai
-desc: It’s more meaningful to explore things on your own, right~
+desc: It's more meaningful to explore on your own~
 ---
 
 ## Introduction
@@ -129,7 +129,7 @@ Me: “I’m the fool, heh.”
 Aiyysk: “Alright, alright~”
 
 My worries vanished.
-Suddenly, I realized it was New Year’s Eve, and I hadn’t yet extended my New Year greetings to her.
+Suddenly, I realised it was New Year’s Eve, and I hadn’t yet extended my New Year greetings to her.
 
 Me: “Mhm, Happy New Year! Sending early wishes.”
 
@@ -226,7 +226,7 @@ At 2:11, she sent a few pictures in the chat.
 Under the dim streetlights, she held her suitcase and set off on her journey.
 
 ## Her Departure
-At that time, I was hospitalized and undergoing treatment, so I knew very little about this part.
+At that time, I was hospitalised and undergoing treatment, so I knew very little about this part.
 It is a painful memory, and I have no desire to ask those involved for more details.
 
 All I know is, at 0:00 a.m on December 15, 2024, after learning of the tragic passing of a MTF a few days earlier, she and another MTF ingested a large quantity of drugs and chemical solutions, leaving this world.
