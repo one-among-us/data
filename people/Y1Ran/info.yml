@@ -3,6 +3,7 @@ profileUrl: ${path}/photos/profile.png
 info:
   born: '2008-03-14'
   died: '2023-06-15'
+  lunar_birthday: true
 websites:
   twitter: https://twitter.com/y1_ran
   Telegram: https://t.me/YiRan_Catnest
