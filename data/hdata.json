@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "commentOnly": ["tdor"],
     "exclude": [
         "XIEPT2",
@@ -32,16 +31,4 @@
     "groups": [
         ["Elihuso", "Anilovr"]
     ]
-=======
-  "commentOnly": ["tdor"],
-  "exclude": ["XIEPT2", "shi_Yumiaoya"],
-  "notShowOnHome": ["MeowBot233", "AkiraComplex"],
-  "actualHide": ["Aniloviraw", "akafeza"],
-  "trigger": ["Aniloviraw"],
-  "switch": [
-    ["Anilovr", "Aniloviraw"],
-    ["zhangyubaka", "akafeza"],
-    ["akafeza", "zhangyubaka"]
-  ]
->>>>>>> 0b652b16 ([F] Try to resolve confict)
 }
