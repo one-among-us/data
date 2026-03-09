@@ -18,6 +18,9 @@
         ["Elihuso", "ElihusoQ"]
     ],
     "skipAges": ["cheonwoomaeng"],
+    "groups": [
+        ["Elihuso", "Anilovr"]
+    ],
     "probilities": {
         "XingZ60": 1
     }
