@@ -3,6 +3,7 @@ name: Suigetsu Houka
 info:
     alias: Suigetsu, BI4PBV/QBG
     location: Qingdao, Shandong
+desc: Good bye, Greenland-1
 ---
 
 > Good bye, Greenland-1

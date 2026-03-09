@@ -2,6 +2,7 @@
 name: noname
 info:
     alias: noname, no name, anonymous, nameless, unknown, name unknown
+desc: For the unnamed lives lost to transphobic violence.
 ---
 
 This page is dedicated to the unidentifiable victims who lost their lives due to systemic violence towards trans people.

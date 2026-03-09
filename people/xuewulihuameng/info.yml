@@ -3,4 +3,4 @@ profileUrl: ${path}/photos/profile.jpg
 info:
   died: '2018-04-02'
 websites:
-    zhihu: https://www.zhihu.com/people/xue-wu-li-hua-meng
+  zhihu: https://www.zhihu.com/people/xue-wu-li-hua-meng

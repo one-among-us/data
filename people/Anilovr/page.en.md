@@ -3,6 +3,7 @@ name: Anilovr
 info:
     alias: Ani
     location: Haikou, China
+desc: I love every one of you. I really do.
 ---
 
 >「//La homa mondo devus esti detruita//I will wait for you at Betelgeuse//」

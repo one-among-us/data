@@ -2,6 +2,7 @@
 name: noah
 info:
     location: Ningbo, Zhejiang
+desc: A mysterious trans girl.
 ---
 
 ## Description

@@ -2,6 +2,7 @@
 name: noah
 info:
     location: 浙江寧波
+desc: 希望在數十年後與你們在參宿四上相遇。
 ---
 
 ## 簡介

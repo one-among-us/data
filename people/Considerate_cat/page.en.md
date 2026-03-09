@@ -3,6 +3,7 @@ name: Considerate Cat
 info:
     alias: MoeCat
     location: Ji'ning, Shandong
+desc: A cat.
 ---
 
 She was born on March 4th, 2009, in Jining, Shandong.

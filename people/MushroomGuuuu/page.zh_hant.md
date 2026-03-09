@@ -3,6 +3,7 @@ name: 菇
 info:
     alias: 菇菇菇菇奶奶, 蘑菇, 夢瑤, 瑤瑤
     location: 廣東深圳
+desc: 🍄
 ---
 
 ## 簡介

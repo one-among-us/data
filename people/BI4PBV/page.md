@@ -3,6 +3,7 @@ name: 岁月封华
 info:
     alias: 岁月, BI4PBV/QBG
     location: 山东青岛
+desc: Good bye, Greenland-1
 ---
 
 > Good bye, Greenland-1

@@ -2,6 +2,7 @@
 name: Cuddly
 info:
     alias: Affectionate
+desc: Cuddle?
 ---
 
 > Ah, It's noon. Cuddle?

@@ -3,6 +3,7 @@ name: dogesir_
 info:
     alias: dogesir, Lan Gou (blue dog)
     location: Changchun, Jilin
+desc: Waiting for her another postcard.
 ---
 
 > “Have you seen *Night on the Galactic Railroad*? I want to get on that train, too.”

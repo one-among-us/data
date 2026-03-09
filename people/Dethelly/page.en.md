@@ -3,6 +3,8 @@ name: Sugar ~ 100% PURITY
 info:
     alias: Dethelly, 五洲
     location: Yubei, Chongqing
+# Yubei District (1994–2025) was dissolved on November 6, 2025, and merged into Liangjiang New Area and Beibei District. This entry remains unchanged.
+desc: Adios.
 ---
 
 
@@ -76,7 +78,7 @@ But the dosage she was about to take was fatal.
 A and her other online friends couldn't persuade her, so they called for first aid as a last resort.
 Because they didn't know her exact location, the ambulance left after more than half an hour had passed.
 
-Unfortunately, Sugar was in critical condition when the ambulance arrived at the Second People's Hospital of Yubei District of Chongqing.
+Unfortunately, Sugar was in critical condition when the ambulance arrived at the Second People's Hospital of Yubei District[^1] of Chongqing.
 And she passed away in the early morning of the next day due to chemical poisoning.
 
 ## After her departure
@@ -176,6 +178,8 @@ It was a pity that she departed abruptly, without waiting for a turn for the bet
 > Hope you'll all remember Sugar.
 
 Take care.
+
+[^1]: Currently belongs to Liangjiang New Area and Beibei District.
 
 <!-- Contributor：[KiraRettosei](http://github.com/KiraRettosei) -->
 <!-- This entry's contributor has requested not to be featured on the webpage. -->

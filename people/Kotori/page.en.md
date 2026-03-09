@@ -5,6 +5,7 @@ info:
     # Cheng Peiqi
     location: Hefei, Anhui
     # Shangrao, Jiangxi
+desc: The beauty of math hides in everything.
 ---
 
 > The beauty of math hides in everything.

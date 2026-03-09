@@ -3,6 +3,7 @@ name: Hangmster
 info:
     alias: 倉鼠
     location: 河北石家莊
+desc: 大家的開心果。
 ---
 
 ## 簡介

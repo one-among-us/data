@@ -3,6 +3,7 @@ name: 鹽田
 info:
   alias: 鹽田, 地鐵八號線
   location: 廣東深圳 # 雲南紅河, by 魔骨
+desc: 深圳地鐵八號線
 ---
 
 ## 簡介

@@ -3,6 +3,7 @@ name: Gaoyang
 info:
     alias: Gaoyang, Lamb
     location: Haikou, China
+desc: She indulged in the cradle of happiness.
 ---
 
 > Gaoyang indulged in the cradle of happiness.

@@ -2,6 +2,7 @@
 name: 徐譽舒
 info:
     location: 重慶南岸
+desc: 我的靈魂會飛向格拉丹東峰。
 ---
 
 ## 簡介

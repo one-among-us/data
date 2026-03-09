@@ -3,6 +3,7 @@ name: Mikaela Khara
 info:
     alias: Mika
     location: 中国北京
+desc: 间关莺语花底滑，幽咽泉流冰下难。
 ---
 
 > 间关莺语花底滑，幽咽泉流冰下难。

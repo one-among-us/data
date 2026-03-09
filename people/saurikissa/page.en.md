@@ -3,6 +3,7 @@ name: Shuiyue Wu
 info:
   alias: Minazuki, kissa
   location: Huinan, Jilin
+desc: Oh, you troublesome, endearing soul.
 ---
 
 ## Story

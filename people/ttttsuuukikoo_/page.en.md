@@ -3,6 +3,7 @@ name: Tsukiko
 info:
     alias: Tsuki
     location: Wuxi，Jiangsu
+desc: How much longer can I watch such a sky?
 ---
 
 ## Description

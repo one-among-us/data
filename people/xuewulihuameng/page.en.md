@@ -3,6 +3,8 @@ name: Xueli
 info:
     alias: Xuewulihuameng
     location: Yubei, Chongqing
+# Yubei District (1994–2025) was dissolved on November 6, 2025, and merged into Liangjiang New Area and Beibei District. This entry remains unchanged.
+desc: Waiting for your return, reunion...
 ---
 
 >  "May kind souls be treated gently by the world."

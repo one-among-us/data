@@ -3,6 +3,7 @@ name: Menma
 info:
     alias: めんま, Menma
     location: Chengdu, Sichuan
+desc: This time, we won’t find you anymore.
 ---
 
 ## Introduction

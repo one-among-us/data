@@ -3,6 +3,7 @@ name: Mio
 info:
   alias: Mio
   location: 廣東佛山
+desc: 澪？不是哦，其實 Mio 也是隨便取的。
 ---
 
 > 「澪？不是哦，其實 Mio 也是隨便取的，不會日語阿巴」

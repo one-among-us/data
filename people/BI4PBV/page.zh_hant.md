@@ -3,6 +3,7 @@ name: 歲月封華
 info:
     alias: 歲月, BI4PBV/QBG
     location: 山東青島
+desc: Good bye, Greenland-1
 ---
 
 > Good bye, Greenland-1

@@ -2,6 +2,7 @@
 name: noah
 info:
     location: 浙江宁波
+desc: 希望在数十年后与你们在参宿四上相遇。
 ---
 
 ## 简介

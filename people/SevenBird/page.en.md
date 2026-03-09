@@ -3,6 +3,7 @@ name: sevenbird
 info:
     alias: 柒鸟, Qi Niao, SevenBird
     location: Fujian
+desc: Look at the moon when you long for me.
 ---
 
 > “Look at the moon when you long for me.”

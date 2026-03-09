@@ -3,6 +3,7 @@ name: Lin
 info:
     alias: Lin
     location: Xi'an, Shaanxi
+desc: I want to be a cat, just meowing...
 ---
 
 ## Description

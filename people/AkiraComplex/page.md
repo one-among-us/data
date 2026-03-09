@@ -3,6 +3,7 @@ name: Akira Complex
 info:
     alias: Akira
     location: 美国纽约
+desc: MY GUIDING STAR
 ---
 
 > An intense dissatisfaction in the world.

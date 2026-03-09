@@ -3,6 +3,7 @@ name: Weideriche_
 info:
     alias: Zihe
     location: Guangdong, China #Qingyuan / Zhongshan, by kokowamakotsu
+desc: We are together, forever.
 ---
 
 ## Description

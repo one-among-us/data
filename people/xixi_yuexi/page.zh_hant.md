@@ -3,6 +3,7 @@ name: 悅兮
 info:
     alias: 兮兮
     location: 江蘇 南京
+desc: 事個愛糊音遊的！！！
 ---
 
 ## 簡介

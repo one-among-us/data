@@ -3,6 +3,7 @@ name: 泠水魚魚子
 info:
     alias: 鱼鱼子
     location: 甘肃庆阳
+desc: “泠水鱼鱼子”是在喂鱼时起的哦。
 ---
 
 ## 简介

@@ -3,6 +3,7 @@ name: Yumao
 info:
     alias: Yumao, Zhangqianye, Yunyu
     location: Shanghai
+desc: It has always been you; you’re the only one.
 ---
 
 > "I will transform myself into gentle breeze and rain, then surround you all along."

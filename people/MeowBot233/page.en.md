@@ -2,6 +2,7 @@
 name: Fangluo
 info:
     alias: MeowBot233, YukisawaNya
+desc: A story, from a wind spirit from afar.
 ---
 
 > Here is a story.

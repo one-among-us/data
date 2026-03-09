@@ -3,6 +3,7 @@ name: Rentable
 info:
     alias: Ren
     location: 河南新乡
+desc: 天堂会收 mtf 吗？
 ---
 
 > 天堂会收 mtf 吗

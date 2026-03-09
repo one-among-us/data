@@ -3,6 +3,7 @@ name: Shizuha
 info:
     alias: Kurayama Shizuha, Jing Ye, GLaDOSister
     location: Beijing, China
+desc: A cute girl researching linguistics.
 ---
 
 ## Description

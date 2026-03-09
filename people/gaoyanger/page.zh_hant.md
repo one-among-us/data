@@ -3,6 +3,7 @@ name: 羔羊
 info:
     alias: 羔羊
     location: 海南海口
+desc: 羔羊沉溺在幸福的搖籃中。
 ---
 
 > 羔羊沉溺在幸福的搖籃之中。

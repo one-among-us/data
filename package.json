@@ -11,8 +11,11 @@
   "scripts": {
     "build": "node --loader ts-node/esm/transpile-only scripts/build.ts",
     "build-preview": "yarn build && scripts/preview.sh",
-    "serve": "http-server --cors='*' dist",
+    "serve": "http-server --cors='*' -c-1 dist",
     "preview": "yarn build-preview && yarn serve",
+    "watch": "node --loader ts-node/esm/transpile-only scripts/watch.ts",
+    "dev": "concurrently -n \"watch,serve\" -c \"cyan,green\" \"yarn watch\" \"yarn serve\"",
+    "clean": "rm -rf dist/* .build-cache",
     "translate": "node --loader ts-node/esm/transpile-only scripts/translate.ts",
     "cloudflare_clean": "node scripts/cloudflare_clean.js"
   },
@@ -30,6 +33,7 @@
     "google-translate-api-x": "^10.7.1",
     "js-yaml": "^4.1.0",
     "katex": "^0.16.10",
+    "lunar-typescript": "^1.8.6",
     "markdown-yaml-metadata-parser": "^3.0.0",
     "moment": "^2.29.4",
     "rehype-katex": "6",
@@ -40,8 +44,9 @@
   "devDependencies": {
     "@octokit/core": "^4.1.0",
     "@types/js-yaml": "^4.0.5",
-    "http-server": "^14.1.1",
+    "concurrently": "^9.2.1",
     "exponential-backoff": "^3.1.0",
+    "http-server": "^14.1.1",
     "node-fetch": "^2.6.7"
   }
 }

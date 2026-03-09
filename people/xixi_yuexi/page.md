@@ -3,6 +3,7 @@ name: 悦兮
 info:
     alias: 兮兮
     location: 江苏 南京
+desc: 事个爱糊音游的！！！
 ---
 
 ## 简介

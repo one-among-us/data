@@ -3,6 +3,7 @@ name: 泠水魚魚子
 info:
     alias: 魚魚子
     location: 甘肅慶陽
+desc: “泠水魚魚子”是在喂魚時起的哦。
 ---
 
 ## 簡介

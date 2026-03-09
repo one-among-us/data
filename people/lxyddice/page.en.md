@@ -3,6 +3,7 @@ name: lxyddice
 info:
     alias: lxy, W-chan
     location: Guangzhou, Guangdong
+desc: Life is messy, code is easy.
 ---
 
 > Life is messy, code is easy.

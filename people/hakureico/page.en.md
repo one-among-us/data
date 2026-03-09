@@ -3,6 +3,7 @@ name: Hanasaka
 info:
     alias: Kagurazaka Hanasaka, Hakureico
     location: Dalian, Liaoning
+desc: A R I G A T O
 ---
 
 <!-- 本文的大部分引用原文都是英文，引用部分请仅修语法和可能造成误解的错误-->

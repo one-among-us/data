@@ -3,6 +3,7 @@ name: Mikaela Khara
 info:
     alias: Mika
     location: Beijing, China
+desc: Immersed in love and being loved...
 ---
 
 > Like a warbling oriole gliding below the blossom... 

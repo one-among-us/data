@@ -3,6 +3,7 @@ name: Mushroom
 info:
     alias: Mushroom, Gu, Yaoyao
     location: Shenzhen, Guangdong
+desc: 🍄
 ---
 
 ## Description

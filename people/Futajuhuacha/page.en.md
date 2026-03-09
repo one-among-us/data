@@ -3,6 +3,7 @@ name: Huacha
 info:
     alias: Huacha, Futa Juhuacha
     location: Chongqing, China
+desc: May the world treat you gently.
 ---
 
 ## Description

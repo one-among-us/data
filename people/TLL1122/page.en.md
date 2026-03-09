@@ -3,6 +3,7 @@ name: Tian Lulu
 info:
     alias: TLL, Lulu
     location: Guangdong, China
+desc: Lulu loves you!
 ---
 
 > "This is Tian Lulu, wish you be happy every day!  

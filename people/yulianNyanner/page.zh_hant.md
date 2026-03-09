@@ -3,6 +3,7 @@ name: 羽漣
 info:
   alias: 漣
   location: 遼寧大連
+desc: 我們一起在死後反抗不公的世界。
 ---
 
 ## 簡介

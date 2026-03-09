@@ -3,6 +3,7 @@ name: Shihai
 info:
     alias: 小柿子, 猫小泪, u3
     location: Kunshan, Suzhou, Jiangsu
+desc: She bloomed for just a moment and then wither.
 ---
 
 ## Description

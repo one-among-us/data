@@ -3,6 +3,7 @@ name: 蛍
 info:
     alias: 阿蛍、蛍醬、秋雲
     location: 中國
+desc: Ta 坐上最喜歡的艦船，到海的那邊去了。
 ---
 
 ## 簡介

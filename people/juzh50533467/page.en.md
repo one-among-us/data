@@ -3,6 +3,7 @@ name: Juezhe
 info:
     alias: Juezhe
     location: Guangxi, China
+desc: Girls, don’t be ashamed...
 ---
 
 ## Introduction

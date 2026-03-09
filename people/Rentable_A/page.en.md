@@ -3,6 +3,7 @@ name: Rentable
 info:
     alias: Ren
     location: Xinxiang, Henan
+desc: Does Heaven accept trans girls?
 ---
 
 > Does Heaven accept trans girls?

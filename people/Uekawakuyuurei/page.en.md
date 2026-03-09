@@ -2,6 +2,7 @@
 name: uekawakuyuurei
 info:
     alias: Ying (Hotaru), Qiu Yun (Akigumo)
+desc: To the other side of the sea on their favourite ship.
 ---
 
 ## Description
