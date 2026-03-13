@@ -6,9 +6,8 @@
         "DarlinChit"
     ],
     "notShowOnHome": [
-        "MeowBot233", 
-        "AkiraComplex", 
-        "AsabaNaiXi", 
+        "MeowBot233",
+        "AkiraComplex",
         "Y1Ran"
     ],
     "actualHide": [
@@ -18,7 +17,7 @@
         "Aniloviraw"
     ],
     "switch": [
-        ["Anilovr","Aniloviraw"]
+        ["Anilovr", "Aniloviraw"]
     ],
     "skipAges": ["cheonwoomaeng"],
     "probabilities": {
