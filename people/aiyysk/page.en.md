@@ -6,6 +6,8 @@ info:
 desc: What one explores for oneself is more meaningful~
 ---
 
+<h3 align = "center">Part I</h3>
+
 ## She Was Meant to Live in Another World
 
 Shikai, a lovely transgender girl. Her name comes from the transliteration of the Japanese word “異世界”. This seems to be a metaphor—her brief life was spent searching for that “another world” belonging to her, one without pain or prejudice, a shore where she could be herself without a care.
@@ -128,7 +130,7 @@ The words she left behind, those desires about loving and being loved, did not d
 
 Goodnight, Shikai. May there be no anxiety there, no displacement, no shadow of violence, only the sweet and peaceful eternity she yearned for. The photo in her father’s hand that he refused to show may fade, but the memories here will forever remain vivid.
 
-## Appendix: Shikai in Her Friends’ Eyes
+<h3 align = "center">Part II</h3>
 
 She was not only that girl struggling in the torrent of fate, but also in her friends’ eyes an ordinary child who loved flashing devices, spoke gently, and would send “pat pat ❤️” in the middle of the night. In Shinjo Kurumi’s memory, she had a more concrete appearance—memories about her beloved electronic devices, that engineering phone she tinkered with for two months, and the details of that thrilling New Year’s Eve.
 
