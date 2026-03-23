@@ -8,8 +8,6 @@ desc: What one explores for oneself is more meaningful~
 
 <h3 align = "center">Part I</h3>
 
-## She Was Meant to Live in Another World
-
 Shikai, a lovely transgender girl. Her name comes from the transliteration of the Japanese word “異世界”. This seems to be a metaphor—her brief life was spent searching for that “another world” belonging to her, one without pain or prejudice, a shore where she could be herself without a care.
 
 If death is not the end of life, but forgetting is, then at this moment, when we pronounce the name “Shikai,” she still lives. She was one of countless transgender girls struggling on the edge of survival, seeking refuge in crowded “sanctuaries” and drifting between cities. Her life was brief and painful, yet in one-sided attachment and final bonds, it burned with the purest desire for love.
@@ -134,7 +132,7 @@ Goodnight, Shikai. May there be no anxiety there, no displacement, no shadow of 
 
 She was not only that girl struggling in the torrent of fate, but also in her friends’ eyes an ordinary child who loved flashing devices, spoke gently, and would send “pat pat ❤️” in the middle of the night. In Shinjo Kurumi’s memory, she had a more concrete appearance—memories about her beloved electronic devices, that engineering phone she tinkered with for two months, and the details of that thrilling New Year’s Eve.
 
-### First Meeting
+## First Meeting
 
 I met Shikai under a help post on Cool An. It was autumn 2023; she had a “Qualcomm Reference Design” engineering phone on the Snapdragon 855 platform in her hand, which couldn’t boot due to incorrect flashing operations, so she had to helplessly seek assistance. After leaving a message in the help post that I could help her, we soon added each other on QQ.
 
@@ -192,7 +190,7 @@ Shikai: “I won’t make things difficult for friends, just moderate normal int
 
 She was so gentle, so loving. From then on, my heart accepted her as one of my best friends.
 
-### Running Away From Home
+## Running Away From Home
 
 February 9, 2024, was China’s traditional festival “New Year’s Eve.” At 19:00 in the evening, my family had finished dinner and sat together discussing the year about to pass. As a younger generation, I couldn’t really interject, so like other young people, I scrolled through my phone. In the previous few days, two people in Shikai’s communication group had a conflict and were arguing fiercely. I was more or less affected by this and felt a bit uneasy. However, Shikai didn’t seem to be affected much; she said “(this matter) is just like that, nothing to be afraid of, just let it go.” So I expressed my worries.
 
@@ -292,7 +290,7 @@ Shikai: “All done, just (family) why won’t they go to sleep...”
 
 At 2:11, she posted several photos. Under dim streetlights, she carried her suitcase and set off.
 
-### Passing
+## Passing
 
 Because I was hospitalized at the time, I know very little about this part. This is a painful memory, and I don’t want to ask the people involved then for more details.
 
@@ -303,8 +301,6 @@ I only know that at 0:00 on December 15, 2024, after learning the sad news that 
 > “Lifelong friends, embraced in tender care, A world awash with blooming flowers.”
 
 Goodnight. Hope in the next life, you can be a carefree, cute girl.
-
-## Sources
 
 ### Recorders
 
