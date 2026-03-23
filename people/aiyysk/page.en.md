@@ -116,10 +116,6 @@ In the early morning of December 15, 2024, before the winter night’s cold wind
 
 These were timed messages written the night before, sent to the deceased Duitang, and also to this world. At the moment the message automatically sent, Shikai and Duitang completed their convergence at the end of life, to fulfill that “final promise”—this time, they would not be separated.
 
-> 「一生朋友拥抱爱，一世美景满花开。」
->
-> “Lifelong friends, embraced in tender care, A world awash with blooming flowers.”
-
 Shikai once said to me: “I have no fear of death; death is just the end of everything.” But I prefer to believe in another expectation she had in her final moments—she had wanted to change herself, to cure herself, to love someone, to save money to buy a friend a gift, or even just to have a little skirt of her own.
 
 Now, that child searching for her mother in black-and-white memories, that girl who still held onto computer dreams while scavenging, that girl tortured by illness beyond recognition, has finally laid down all burdens. She has finally escaped her father’s suffocating control, no longer needs to tremble under that roof full of quarrels and violence, no longer needs to pick up scraps on the streets to survive, and no longer needs to use medication to fight that bone-eroding anxiety and pain.
