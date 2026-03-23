@@ -114,23 +114,23 @@ She arrived at a place known as “the Sanctuary”: A temporary refuge for many
 It was cramped and makeshift, but it was also the only place where she could breathe.
 
 In that crowded space, Shikai formed new bonds.
-Three people slept on the same bed, and one of them was Yingnai, the friend she had come to find.
+Three people slept on the same bed, and one of them was Sakurana, the friend she had come to find.
 Those days were among the warmest in her life, and also among the most powerless.
 She had no money at all.
-Yingnai would come back from work and bring her a meal.
+Sakurana would come back from work and bring her a meal.
 Shikai once said to me, full of guilt, “I owe her for this. I have to pay her back…”
 
 But what she wanted to repay was not just the cost of a meal. It was a promise to stay alive.
 
-When Shikai tried to use self-harm to ease her anxiety, Yingnai threatened her in return: “If I find out you’ve done it again, I’ll kill myself.”
+When Shikai tried to use self-harm to ease her anxiety, Sakurana threatened her in return: “If I find out you’ve done it again, I’ll kill myself.”
 Later, when Shikai told me about this, she said, “If she’s gone, then there’d be no reason for me to stay alive either.”
 
 And yet, beneath that bond of mutual dependence lay Shikai’s deepest loneliness.
-In one of her posts, she wrote: “Shikai likes Yingnai, but Yingnai doesn’t like Shikai.”
-Yingnai was Shikai’s source of comfort, the pillar that kept her standing, but Shikai knew she was not that for Yingnai.
+In one of her posts, she wrote: “Shikai likes Sakurana, but Sakurana doesn’t like Shikai.”
+Sakurana was Shikai’s source of comfort, the pillar that kept her standing, but Shikai knew she was not that for Sakurana.
 This imbalance made the warmth she received all the more painful.
 The more she depended on it, the more afraid she became of turning into a burden.
-She tried, carefully and quietly, to make herself useful to Yingnai, as though by helping her she might earn the right to stay.
+She tried, carefully and quietly, to make herself useful to Sakurana, as though by helping her she might earn the right to stay.
 But the love she longed for most remained out of reach.
 
 Even in that closeness, she was still fighting the darkness inside herself.
@@ -143,7 +143,7 @@ She once told me, “It’s not really the environment itself that I mind.
 I just keep longing for a beautiful future, and then I feel powerless, disappointed, in pain, and hopeless.” She was always like that.
 Even when she herself was suffering, she worried first about becoming trouble to other people.
 She envied others, dreamed of a better future, and yet was wrapped layer upon layer in helplessness.
-Her wishes were simple and painfully modest: to find work, to save some money, to buy Yingnai a gift.
+Her wishes were simple and painfully modest: to find work, to save some money, to buy Sakurana a gift.
 She wanted to become a girl who could take care of others.
 Perhaps because she understood pain so deeply, she wanted to offer love in return.
 
@@ -188,8 +188,8 @@ It was not that she did not want to live.
 It was that living itself had become too heavy to bear.
 Afterwards, she bought stronger medication, trying to force down the storm inside her, only to end up spending whole days in a haze.
 
-Shikai loved Yingnai.
-Yingnai was the pillar holding up her spirit, but she knew with painful clarity that the feeling was not returned in the same way.
+Shikai loved Sakurana.
+Sakurana was the pillar holding up her spirit, but she knew with painful clarity that the feeling was not returned in the same way.
 That sorrow, together with her body’s total exhaustion, left her more drained than ever.
 She began to dissociate, feeling as if her soul were floating outside her own body, unable to accept that the flesh she lived in was really hers.
 
