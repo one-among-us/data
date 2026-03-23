@@ -8,71 +8,125 @@ desc: What one explores for oneself is more meaningful~
 
 <h3 align = "center">Part I</h3>
 
-Shikai, a lovely transgender girl. Her name comes from the transliteration of the Japanese word “異世界”. This seems to be a metaphor—her brief life was spent searching for that “another world” belonging to her, one without pain or prejudice, a shore where she could be herself without a care.
+Shikai, a lovely transgender girl.
+Her name comes from the transliteration of the Japanese word “異世界”.
+This seems to be a metaphor—her brief life was spent searching for that “another world” belonging to her, one without pain or prejudice, a shore where she could be herself without a care.
 
-If death is not the end of life, but forgetting is, then at this moment, when we pronounce the name “Shikai,” she still lives. She was one of countless transgender girls struggling on the edge of survival, seeking refuge in crowded “sanctuaries” and drifting between cities. Her life was brief and painful, yet in one-sided attachment and final bonds, it burned with the purest desire for love.
+If death is not the end of life, but forgetting is, then at this moment, when we pronounce the name “Shikai,” she still lives.
+She was one of countless transgender girls struggling on the edge of survival, seeking refuge in crowded “sanctuaries” and drifting between cities. Her life was brief and painful, yet in one-sided attachment and final bonds, it burned with the purest desire for love.
 
 ## Childhood in Black and White Photos
 
 Shikai’s story begins with a yellowed memory negative.
 
-That was the warmest scene in her memory—when shopping at the supermarket, little her was in the middle, with mom and dad holding her hands on either side. That was the only complete definition of “home” this girl had left. However, this warmth was fleeting; parental arguments and beatings became the main melody of the family, ending in divorce.
+That was the warmest scene in her memory—when shopping at the supermarket, little her was in the middle, with mom and dad holding her hands on either side.
+That was the only complete definition of “home” this girl had left.
+However, this warmth was fleeting; parental arguments and beatings became the main melody of the family, ending in divorce.
 
-She grew up in a single-parent family, where her father’s extreme control and frequent domestic violence cast a shadow over her childhood. Her father repeatedly warned her not to call back, cutting off her contact with her mother. After a fierce conflict, her mother rushed from Guangxi to the rural area of Yunfu, Guangdong—that was the last time Shikai felt the warmth of maternal love in her memory. Her mother hugged her and bought lots of delicious food and clothes. Her father accepted the items with a look of disgust but confiscated that warmth. Since then, her mother completely lost contact.
+She grew up in a single-parent family, where her father’s extreme control and frequent domestic violence cast a shadow over her childhood.
+Her father repeatedly warned her not to call back, cutting off her contact with her mother.
+After a fierce conflict, her mother rushed from Guangxi to the rural area of Yunfu, Guangdong—that was the last time Shikai felt the warmth of maternal love in her memory. Her mother hugged her and bought lots of delicious food and clothes.
+Her father accepted the items with a look of disgust but confiscated that warmth. Since then, her mother completely lost contact.
 
 ## The Girl Who Scavenged and the Camera Flash
 
-Her father gambled heavily, leaving the family destitute. In Shikai’s memory, her childhood was spent scavenging and selling scraps on the streets of Guangzhou with her grandmother. Her grandmother was this girl’s only support during those dark years; her grandmother worked as a cleaner at a school, saving the milk the school gave her, leaving it all for Shikai. The kind principal sympathized with their situation and helped her apply for tuition exemption.
+Her father gambled heavily, leaving the family destitute.
+In Shikai’s memory, her childhood was spent scavenging and selling scraps on the streets of Guangzhou with her grandmother.
+Her grandmother was this girl’s only support during those dark years; her grandmother worked as a cleaner at a school, saving the milk the school gave her, leaving it all for Shikai.
+The kind principal sympathized with their situation and helped her apply for tuition exemption.
 
-Suffering forced this child to mature too early. During the summer after elementary school graduation, to save some money, she went out early to scavenge like she did when little, saving two hundred yuan over two months. This two hundred yuan was her small act of resistance against life—she loved computers and circuits, using this money to buy a phone, leeching off internet to study circuits and networking. She once said: “I live off the internet; without it, I am nothing.”
+Suffering forced this child to mature too early.
+During the summer after elementary school graduation, to save some money, she went out early to scavenge like she did when little, saving two hundred yuan over two months.
+This two hundred yuan was her small act of resistance against life—she loved computers and circuits, using this money to buy a phone, leeching off internet to study circuits and networking.
+She once said: “I live off the internet; without it, I am nothing.”
 
-Her father had a special memory card containing photos of her childhood, photos that also had her mother in them. That was evidence of her existence, but her father wouldn’t give it to her. She could only watch memories peel away bit by bit in her mind, leaving only black-and-white still frames.
+Her father had a special memory card containing photos of her childhood, photos that also had her mother in them.
+That was evidence of her existence, but her father wouldn’t give it to her. She could only watch memories peel away bit by bit in her mind, leaving only black-and-white still frames.
 
 ## Glimmers and Mold Spots
 
-In 2022, when I met her, she was attending a middle school in Yunfu, Guangdong. By then, she was already making money by self-learning programming to build websites, studying electronics to repair phones, and taking orders online. She was very capable, very talented—branches she desperately grew in that barren soil.
+In 2022, when I met her, she was attending a middle school in Yunfu, Guangdong.
+By then, she was already making money by self-learning programming to build websites, studying electronics to repair phones, and taking orders online.
+She was very capable, very talented—branches she desperately grew in that barren soil.
 
-But this tender sprout still had to endure storms. In school, bullying followed her like a shadow. Some classmates borrowed money from her without returning it, even falsely accusing her of stealing. She was so kind, always wanting to help others even though she was poor herself, yet received such malice in return.
+But this tender sprout still had to endure storms.
+In school, bullying followed her like a shadow. Some classmates borrowed money from her without returning it, even falsely accusing her of stealing.
+She was so kind, always wanting to help others even though she was poor herself, yet received such malice in return.
 
-Fortunately, there was still a glimmer of light. Her middle school chemistry teacher, seeing her poverty, would sometimes call her to the office, secretly handing her the fruit given to teachers, patiently guiding her. Those were rare moments of respite for her at school.
+Fortunately, there was still a glimmer of light.
+Her middle school chemistry teacher, seeing her poverty, would sometimes call her to the office, secretly handing her the fruit given to teachers, patiently guiding her.
+Those were rare moments of respite for her at school.
 
-During that time, her father was working away, and she didn’t live in her hometown but stayed at her aunt’s house. Her aunt’s family was also poor; a car accident had drained all their savings, and her uncle treated her poorly. Because of poverty, they scrimped on food; she’d get scolded for secretly frying an egg to eat, and at her worst, she could only eat rice with soy sauce. In Guangdong’s humid climate, her school uniform even had mold spots that wouldn’t wash out.
+During that time, her father was working away, and she didn’t live in her hometown but stayed at her aunt’s house.
+Her aunt’s family was also poor; a car accident had drained all their savings, and her uncle treated her poorly.
+Because of poverty, they scrimped on food; she’d get scolded for secretly frying an egg to eat, and at her worst, she could only eat rice with soy sauce.
+In Guangdong’s humid climate, her school uniform even had mold spots that wouldn’t wash out.
 
-What was most suffocating was her father’s surveillance. Her father, though far away, had installed a remote camera in her room, watching her every move daily like a ghost. That inescapable peering made her tremble more than poverty did.
+What was most suffocating was her father’s surveillance.
+Her father, though far away, had installed a remote camera in her room, watching her every move daily like a ghost. That inescapable peering made her tremble more than poverty did.
 
 ## Suffocating Dormitory and Shattered Dreams
 
-After middle school, she was admitted to a vocational school, studying computer science. She thought this would be a new beginning, using her own earned money to piece together a computer to bring to the dorm. That was her treasured companion, her only window in that turbid world. However, when her father found out, he severely scolded her, viewing the computer as a terrible menace, and strictly forbade her from bringing it. She tried to resist, but days later, her father issued a final ultimatum: if she didn’t obey, he would go to the school and smash the computer in public.
+After middle school, she was admitted to a vocational school, studying computer science.
+She thought this would be a new beginning, using her own earned money to piece together a computer to bring to the dorm.
+That was her treasured companion, her only window in that turbid world. However, when her father found out, he severely scolded her, viewing the computer as a terrible menace, and strictly forbade her from bringing it.
+She tried to resist, but days later, her father issued a final ultimatum: if she didn’t obey, he would go to the school and smash the computer in public.
 
-In that dormitory where twelve people were squeezed together, the air was turbid, and privacy was nonexistent. The vocational school classmates were even more suffocating; bullying continued, and malice seeped in everywhere like damp mold.
+In that dormitory where twelve people were squeezed together, the air was turbid, and privacy was nonexistent.
+The vocational school classmates were even more suffocating; bullying continued, and malice seeped in everywhere like damp mold.
 
-On December 15, 2023, at the end of that suffocating semester, she finally made a decision—to start hormone therapy, to become her true self. That was her first seizure of control over her body, and her final declaration of war against the old world.
+On December 15, 2023, at the end of that suffocating semester, she finally made a decision—to start hormone therapy, to become her true self.
+That was her first seizure of control over her body, and her final declaration of war against the old world.
 
 ## Escape and the Sanctuary
 
-As she grew, she had to endure not only family violence but also school bullying, cyberbullying, and the resulting depression, dissociative disorders, and severe somatic problems. For Shikai, running away from home was not a momentary impulse, but a forced breakout for survival.
+As she grew, she had to endure not only family violence but also school bullying, cyberbullying, and the resulting depression, dissociative disorders, and severe somatic problems.
+For Shikai, running away from home was not a momentary impulse, but a forced breakout for survival.
 
-On New Year’s Eve 2024, when millions of families were reunited, was the beginning of this girl’s escape. Caught between her father’s control and family conflicts, she planned a thrilling departure. In the early morning of February 19, under dim streetlights, she carried her heavy suitcase and finally took that step. She arrived at a place called “the Sanctuary”—a temporary stop for many girls like her, a few bedrooms with several people squeezed into each, a cramped space but also her only breathing room.
+On New Year’s Eve 2024, when millions of families were reunited, was the beginning of this girl’s escape.
+Caught between her father’s control and family conflicts, she planned a thrilling departure.
+In the early morning of February 19, under dim streetlights, she carried her heavy suitcase and finally took that step. 
+She arrived at a place called “the Sanctuary”—a temporary stop for many girls like her, a few bedrooms with several people squeezed into each, a cramped space but also her only breathing room.
 
-In this crowded space, Shikai found new bonds. Three people squeezed onto her bed, one of them being Yingnai, the friend she had come to. That was the warmest time of her life, and also the most powerless. She was penniless; Yingnai would always bring back a meal after work. Shikai once guiltily mentioned to me: “Consider it that I owe her, I have to pay her back...”
+In this crowded space, Shikai found new bonds.
+Three people squeezed onto her bed, one of them being Yingnai, the friend she had come to. That was the warmest time of her life, and also the most powerless. She was penniless; Yingnai would always bring back a meal after work. Shikai once guiltily mentioned to me: “Consider it that I owe her, I have to pay her back...”
 
-What she wanted to pay back was not just the meal money, but a promise to live on. When Shikai tried to use self-harm to relieve anxiety, Yingnai threatened with her life: “If I find out (you hurt yourself), I’ll commit suicide.” Later, when Shikai mentioned this to me, she said: “If she leaves, then there’s no need for me to live either.”
+What she wanted to pay back was not just the meal money, but a promise to live on.
+When Shikai tried to use self-harm to relieve anxiety, Yingnai threatened with her life: “If I find out (you hurt yourself), I’ll kill myself.”
+Later, when Shikai mentioned this to me, she said: “If she leaves, then there’s no need for me to live either.”
 
-However, hidden in this interdependent relationship was Shikai’s deepest loneliness. She wrote in her update: “Shikai likes Yingnai, but she doesn’t like Shikai.” Yingnai was Shikai’s dependence, her spiritual pillar, but Shikai was not hers. This unequal attachment made Shikai, while feeling warmth, sink deeper into the fear of “becoming a burden.” She carefully helped Yingnai to exchange for that security she needed to survive, yet could never touch the love she desired most.
+However, hidden in this interdependent relationship was Shikai’s deepest loneliness.
+She wrote in her update: “Shikai likes Yingnai, but she doesn’t like Shikai.” Yingnai was Shikai’s dependence, her spiritual pillar, but Shikai was not hers.
+This unequal attachment made Shikai, while feeling warmth, sink deeper into the fear of “becoming a burden.”
+She carefully helped Yingnai to exchange for that security she needed to survive, yet could never touch the love she desired most.
 
-In this bond of mutual dependence, Shikai still struggled with the darkness within. The dissociation and somatic pain from her illness constantly tormented her. She secretly abused medication, vomiting for a long time, yet described to me: “It’s really happy, all the bad thoughts in my brain, anxiety and such are forgotten... anxiety is my biggest trouble, and it brings trouble to others too.”
+In this bond of mutual dependence, Shikai still struggled with the darkness within.
+The dissociation and somatic pain from her illness constantly tormented her.
+She secretly abused medication, vomiting for a long time, yet described to me: “It’s really happy, all the bad thoughts in my brain, anxiety and such are forgotten... anxiety is my biggest trouble, and it brings trouble to others too.”
 
-She told me: “I don’t really care about environmental issues, I just keep yearning for a beautiful future, and then feel powerless, disappointed, in pain, despairing.” She’s always like this—even when in unbearable pain herself, she still fears troubling others. She envies others, yearns for a beautiful future, yet is wrapped layer by layer in powerlessness. She had extremely simple and humble wishes for the future—she wanted to go out and work, save money, buy a gift for Yingnai. She wanted to be a girl who could take care of others, because she understood that heartache, she wanted to give love.
+She told me: “I don’t really care about environmental issues, I just keep yearning for a beautiful future, and then feel powerless, disappointed, in pain, despairing.”
+She’s always like this—even when in unbearable pain herself, she still fears troubling others.
+She envies others, yearns for a beautiful future, yet is wrapped layer by layer in powerlessness.
+She had extremely simple and humble wishes for the future—she wanted to go out and work, save money, buy a gift for Yingnai.
+She wanted to be a girl who could take care of others, because she understood that heartache, she wanted to give love.
 
 ## The Long Descent and Twilight
 
-Moving into mid-2024, reality’s walls grew increasingly cramped. Her father’s shadow didn’t dissipate with distance; over the phone, her father aggressively questioned “have you been taking estrogen injections?” That targeted surveillance was like a sword hanging over her head. Meanwhile, life’s hardships gave her no breathing room—money ran out, she could only anchor her livelihood to the virtual world, taking orders online for meager income to sustain this crumbling life.
+Moving into mid-2024, reality’s walls grew increasingly cramped.
+Her father’s shadow didn’t dissipate with distance; over the phone, her father aggressively questioned “have you been taking estrogen injections?”
+That targeted surveillance was like a sword hanging over her head. Meanwhile, life’s hardships gave her no breathing room—money ran out, she could only anchor her livelihood to the virtual world, taking orders online for meager income to sustain this crumbling life.
 
-Her wishes were humble enough to make one’s heart ache. In March, she wrote in her update: “I really want a little skirt, but I can’t afford one.” That was a girl’s most simple aesthetic desire, yet became an unattainable luxury. Meanwhile, severe sleep disorders and gender dysphoria began to devour her. She described the feeling: “My body is extremely disgusting, every time I have an episode I lose some emotional cognition.”
+Her wishes were humble enough to make one’s heart ache.
+In March, she wrote in her update: “I really want a little skirt, but I can’t afford one.”
+That was a girl’s most simple aesthetic desire, yet became an unattainable luxury.
+Meanwhile, severe sleep disorders and gender dysphoria began to devour her.
+She described the feeling: “My body is extremely disgusting, every time I have an episode I lose some emotional cognition.”
 
-Even when she was barely holding herself together and penniless, she still maintained that nearly stubborn kindness. When she saw someone online “playing the victim” to collect money, even though that person could provide her with housing, she couldn’t help but stand up and warn: “Other people’s money is also money.” She didn’t want to be a burden to others, and even more didn’t want to see kindness exploited.
+Even when she was barely holding herself together and penniless, she still maintained that nearly stubborn kindness.
+When she saw someone online “playing the victim” to collect money, even though that person could provide her with housing, she couldn’t help but stand up and warn: “Other people’s money is also money.” She didn’t want to be a burden to others, and even more didn’t want to see kindness exploited.
 
-When asked how much longer she could endure this suffocating situation, her answer was filled with desperate fatalism: “I don’t know if I can make it to 18.” That was a tunnel with no end in sight.
+When asked how much longer she could endure this suffocating situation, her answer was filled with desperate fatalism: “I don’t know if I can make it to 18.”
+That was a tunnel with no end in sight.
 
 By July, the pressure of rent became the last straw that broke the camel’s back. Facing the weight of survival, her language began to fragment.
 
@@ -88,21 +142,30 @@ By July, the pressure of rent became the last straw that broke the camel’s bac
 >
 > “Maybe, no one will see me anymore.”
 
-These few lines of dialogue became a kind of rehearsal she left for this world. She didn’t not want to live; it’s just that “living” itself was too heavy for her. Later, she bought strong medication, trying to suppress the storm within, but could only trade for whole days of dazedness.
+These few lines of dialogue became a kind of rehearsal she left for this world.
+She didn’t not want to live; it’s just that “living” itself was too heavy for her.
+Later, she bought strong medication, trying to suppress the storm within, but could only trade for whole days of dazedness.
 
-Shikai liked Yingnai; that was her spiritual pillar, but she clearly knew this feeling wasn’t mutual. This emotional loss, combined with extreme physical exhaustion, made her feel unprecedentedly tired. She began to dissociate, feeling her soul floating outside her shell, unable to acknowledge that this flesh belonged to her.
+Shikai liked Yingnai;
+that was her spiritual pillar, but she clearly knew this feeling wasn’t mutual.
+This emotional loss, combined with extreme physical exhaustion, made her feel unprecedentedly tired.
+She began to dissociate, feeling her soul floating outside her shell, unable to acknowledge that this flesh belonged to her.
 
 That girl who once wanted to buy a gift for a friend, who wanted to experience “sweet couple life,” was gradually extinguishing her light.
 
 ## The Last Companion
 
-Shikai eventually left that “Sanctuary” and went to Shanghai, finding Duitang. That was the last stop of this girl’s life journey. Duitang rented a place in Shanghai doing daily wage part-time work, accepting the long-drifting Shikai.
+Shikai eventually left that “Sanctuary” and went to Shanghai, finding Duitang.
+That was the last stop of this girl’s life journey. Duitang rented a place in Shanghai doing daily wage part-time work, accepting the long-drifting Shikai.
 
-In September, Duitang sent a message: “After I return to school, her housing will be hard to arrange. Now the only motivation I have for living is her.”
+In September, Duitang sent a message: “After I return to school, her housing will be hard to arrange.
+Now the only motivation I have for living is her.”
 
-Fate tightly bound two lonely souls together. Duitang didn’t return to school; in this massive city, perhaps they were still poor, still marginalized, but at least they had each other.
+Fate tightly bound two lonely souls together.
+Duitang didn’t return to school; in this massive city, perhaps they were still poor, still marginalized, but at least they had each other.
 
-Reality had no way forward, and the inner exit had long been closed. For Shikai, that “place without darkness” was perhaps their only destination.
+Reality had no way forward, and the inner exit had long been closed.
+For Shikai, that “place without darkness” was perhaps their only destination.
 
 ## Meeting Without Darkness
 
@@ -114,19 +177,26 @@ In the early morning of December 15, 2024, before the winter night’s cold wind
 >
 > “Oh no, we’ve already met... the final promise has been fulfilled...”
 
-These were timed messages written the night before, sent to the deceased Duitang, and also to this world. At the moment the message automatically sent, Shikai and Duitang completed their convergence at the end of life, to fulfill that “final promise”—this time, they would not be separated.
+These were timed messages written the night before, sent to the deceased Duitang, and also to this world.
+At the moment the message automatically sent, Shikai and Duitang completed their convergence at the end of life, to fulfill that “final promise”—this time, they would not be separated.
 
-Shikai once said to me: “I have no fear of death; death is just the end of everything.” But I prefer to believe in another expectation she had in her final moments—she had wanted to change herself, to cure herself, to love someone, to save money to buy a friend a gift, or even just to have a little skirt of her own.
+Shikai once said to me: “I have no fear of death; death is just the end of everything.”
+But I prefer to believe in another expectation she had in her final moments—she had wanted to change herself, to cure herself, to love someone, to save money to buy a friend a gift, or even just to have a little skirt of her own.
 
-Now, that child searching for her mother in black-and-white memories, that girl who still held onto computer dreams while scavenging, that girl tortured by illness beyond recognition, has finally laid down all burdens. She has finally escaped her father’s suffocating control, no longer needs to tremble under that roof full of quarrels and violence, no longer needs to pick up scraps on the streets to survive, and no longer needs to use medication to fight that bone-eroding anxiety and pain.
+Now, that child searching for her mother in black-and-white memories, that girl who still held onto computer dreams while scavenging, that girl tortured by illness beyond recognition, has finally laid down all burdens.
+She has finally escaped her father’s suffocating control, no longer needs to tremble under that roof full of quarrels and violence, no longer needs to pick up scraps on the streets to survive, and no longer needs to use medication to fight that bone-eroding anxiety and pain.
 
 The words she left behind, those desires about loving and being loved, did not disappear with the extinguishing of her ID.
 
-Goodnight, Shikai. May there be no anxiety there, no displacement, no shadow of violence, only the sweet and peaceful eternity she yearned for. The photo in her father’s hand that he refused to show may fade, but the memories here will forever remain vivid.
+Goodnight, Shikai.
+May there be no anxiety there, no displacement, no shadow of violence, only the sweet and peaceful eternity she yearned for.
+The photo in her father’s hand that he refused to show may fade, but the memories here will forever remain vivid.
 
 <h3 align = "center">Part II</h3>
 
-She was not only that girl struggling in the torrent of fate, but also in her friends’ eyes an ordinary child who loved flashing devices, spoke gently, and would send “pat pat ❤️” in the middle of the night. In Shinjo Kurumi’s memory, she had a more concrete appearance—memories about her beloved electronic devices, that engineering phone she tinkered with for two months, and the details of that thrilling New Year’s Eve.
+She was not only that girl struggling in the torrent of fate, but also in her friends’ eyes an ordinary child who loved flashing devices, spoke gently, and would send “pat pat ❤️” in the middle of the night.
+
+In Shinjo Kurumi’s memory, she had a more concrete appearance—memories about her beloved electronic devices, that engineering phone she tinkered with for two months, and the details of that thrilling New Year’s Eve.
 
 ## First Encounter
 
