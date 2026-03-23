@@ -132,175 +132,224 @@ Goodnight, Shikai. May there be no anxiety there, no displacement, no shadow of 
 
 She was not only that girl struggling in the torrent of fate, but also in her friends’ eyes an ordinary child who loved flashing devices, spoke gently, and would send “pat pat ❤️” in the middle of the night. In Shinjo Kurumi’s memory, she had a more concrete appearance—memories about her beloved electronic devices, that engineering phone she tinkered with for two months, and the details of that thrilling New Year’s Eve.
 
-## First Meeting
+## First Encounter
 
-I met Shikai under a help post on Cool An. It was autumn 2023; she had a “Qualcomm Reference Design” engineering phone on the Snapdragon 855 platform in her hand, which couldn’t boot due to incorrect flashing operations, so she had to helplessly seek assistance. After leaving a message in the help post that I could help her, we soon added each other on QQ.
+I met her through a help-seeking post on CoolAPK. 
+That was in the autumn of 2023. She had a Snapdragon 855 Qualcomm Reference Design (QRD) prototype that wouldn’t boot due to a failed flashing attempt, leaving her with no choice but to seek help.
+After leaving a message offering assistance, we quickly added each other on QQ.
 
-After listening to her problem description, I found that she had made a mistake I had also made before, which was switching the system slot[^1]. Because the B slot on these engineering phones was empty, this caused the device to fail to boot, stuck in 9008 mode[^2].
+After listening to her description of the problem, I realized she had made the same mistake I once made: switching the system slot[^1].
+However, the B slot on these prototypes was empty, which caused the device to fail to boot and get stuck in EDL mode[^2].
 
-During our conversation, I accidentally learned that her living situation was not good. When I wanted to further understand the specific situation, she refused. She said: “Just do your own thing well, don’t worry about me.”
+During our conversation, I learned by chance that her situation was difficult.
+But she declined when I tried to learn more about the specific circumstances, and said, “Just focus on yourself, don’t worry about me.”
 
-Nevertheless, she later confided in me that she had been suffering from domestic violence and had attempted to run away from home multiple times.
+Despite this, she later confided in me that she had been suffering from domestic violence and had attempted to run away from home multiple times.
 
-When the machine lit up and entered the system again, she was so happy. She said, “I’ve been tinkering with this machine for two months, thanks to you.”
+When the device finally booted up again, she was overjoyed.
+She said, “I’ve been struggling with this device for two months, thank you so much.”
 
-Seeing that I could help others with a little bit of my ability really made me happy.
+It felt truly rewarding to be able to help someone with what little knowledge I had.
 
-After continuing to communicate, she frankly told me she was actually an MTF and sent a photo. In the photo, one could see boxes of medications such as Progynova and Androcur. I was a bit confused at the time, so I asked again.
+As we continued talking, she confessed to me that she was an MTF and sent a photo.
+In the picture, boxes of medications like Progynova and Cyproterone could be seen. I was a bit stunned and asked her again.
 
-Me: “......should......be......joking, right?”
+Me: “Are you ... joking?”
 
-Shikai: “No.”
+Aiyysk: “No, I’m not.”
 
-Me: “So you mean......you’re MTF?”
+Me: “So you mean... you’re MTF?”
 
-Shikai: “I’m MTF, so what?”
+Aiyysk: “I’m MTF, what about it?”
 
-Me: “I used to think MTF was hard to approach, maybe it’s an illusion from looking at Twitter.”
+Me: “I used to think MTF folks were hard to approach, maybe that’s just an impression from browsing Twitter.”
 
-Shikai: “Everyone is different, you just think they’re hard to approach. Because you’ll feel nervous interacting with them, right? Nothing to talk about.”
+Aiyysk:
+“Everyone is different; it’s just that you perceive them as hard to approach.
+Maybe you feel nervous when interacting with them, or find it hard to relate.”
 
-Me: “I haven’t interacted with MTF before either, I just knew this group existed. And I didn’t dare to interact because I was afraid my wording would hurt them, so I always respected but didn’t dare to approach.”
+Me:
+“I’ve never really interacted with an MTF person before.
+I only knew such a community existed. I was afraid to reach out because I worried my wording might hurt them, so I always kept my distance out of respect.”
 
-Shikai: “That’s how it is, I would too.”
+Aiyysk: “I get it. I’ve felt the same way.”
 
-This was my first time communicating with an MTF. As a “cis straight guy,” I couldn’t digest so much information at once. So I didn’t reply to her messages for two or three days to sort out my thoughts. After preparing, I summoned the courage to start communicating again.
+This was my first time talking to an MTF person.
+As a “cis straight guy”, I struggled to process all this information at the time.
+To collect my thoughts, I didn’t reply to her messages for two or three days.
+After gathering my courage, I finally resumed our conversation.
 
-Shikai: “Where’s the person?”
+Aiyysk: “Are you there?”
 
-Me: “Sorry.”
+Me: “I’m sorry.”
 
-Shikai: “Eh, it’s okay. Pat pat ❤️”
+Aiyysk: “Hey, it’s okay. Hug~ ❤️”
 
-Me: “My head was full of black mud these past two days, afraid of affecting you, so I was quiet for a few days.”
+Me: 
+“My mind’s been filled with dark thoughts lately.
+I didn’t want to affect you, so I stayed quiet.”
 
-Shikai: “No, it would only make me worry about you more.”
+Aiyysk: “Not at all, it only makes me more worried about you.”
 
-Me: “Because the situation was too magical I couldn’t even believe it a bit...”
+Me: “This all feels so surreal, I can hardly believe it...”
 
-Shikai: “What’s wrong? Rub rub meow.”
+Aiyysk: “What’s wrong? Patpat”
 
-Me: “Like I said before, I always think ‘wooden barrel rice’ is hard to approach, and I don’t know what to do to not hurt them.”
+Me: “Like I said before, I always thought MTFs were hard to approach, and I didn’t know how to interact without hurting them.”
 
-Shikai: “Just treat it normally~ I understand your intention~”
+Aiyysk: “Just treat them normally~ I understand your concern~”
 
-Me: “The problem is, what ordinary people consider ‘normal’ may not apply here.”
+Me: “The problem is, what’s considered ‘normal’ by most people might not apply here.”
 
-Shikai: “I won’t make things difficult for friends, just moderate normal interaction is fine~ If there are any needs we can solve them together~ Pat pat little dummy.”
+Aiyysk:
+“I won’t make things difficult for friends~ Just interact naturally and kindly.
+If there’s anything you need, we can work through it together~ Patpat, you little fool”
 
-She was so gentle, so loving. From then on, my heart accepted her as one of my best friends.
+She was so gentle, so full of warmth.
+From then on, I embraced her as one of my closest friends.
 
-## Running Away From Home
+## Running Away from Home
 
-February 9, 2024, was China’s traditional festival “New Year’s Eve.” At 19:00 in the evening, my family had finished dinner and sat together discussing the year about to pass. As a younger generation, I couldn’t really interject, so like other young people, I scrolled through my phone. In the previous few days, two people in Shikai’s communication group had a conflict and were arguing fiercely. I was more or less affected by this and felt a bit uneasy. However, Shikai didn’t seem to be affected much; she said “(this matter) is just like that, nothing to be afraid of, just let it go.” So I expressed my worries.
+February 9, 2024, was the traditional Chinese holiday “New Year’s Eve”.
+At 19:00 in the evening, my family had already finished dinner and gathered together, discussing the year that was about to pass.
+As a younger member, I really couldn’t get a word in, so I just scrolled through my phone like other young people.
+A few days earlier, two people in Aiyysk’s chat group had clashed, arguing fiercely.
+I was more or less affected by this and felt a bit anxious.
+However, Aiyysk didn’t seem too bothered by it.
+She said, “This matter is just like that, nothing to be afraid of. Just let it go.”
+So, I voiced my concerns.
 
-Me: “Because I’m very afraid, because of anxiety. I’m afraid of being disliked, and afraid of others being disliked.”
+Me:
+“Because I’m really scared, it’s because of anxiety. 
+I’m afraid of being disliked, and I’m also afraid of others being disliked.”
 
-Shikai: “It’s best to do your own duty first~”
+Aiyysk: “It’s best to focus on doing your own part first~”
 
-Me: “Sigh... a friend once evaluated me like this: like Sayaka from ‘Puella Magi Madoka Magica,’ both quite emotional.”
+Me: “Sigh... A friend once described me like this: just like Sayaka from *Puella Magi Madoka Magica*, both quite emotional.”
 
-Shikai: “Well, it’s okay, just slowly get used to it. Pat pat~”
+Aiyysk: “Well, it’s okay. Just take your time to get used to it. Patpat~”
 
-Me: “That’s great, whenever my anxiety disorder makes me scared, everyone’s ‘it’s okay’ makes me feel much better. I’m really a dummy.jpg”
+Me:
+“That’s great. Whenever my anxiety makes me scared, hearing everyone say ‘it’s okay’ makes me feel much better. I’m really just a fool.jpg”
 
-Shikai: (An emoji looking very depressed)
+Aiyysk: (A seemingly downcast sticker)
 
 Me: “What’s wrong? Did something unpleasant happen?”
 
-Shikai: “No, I’m anxious too. But not right now, I’m watching the dummy!”
+Aiyysk: “No, I’m anxious too. But not right now. I’m looking at the fool!”
 
-Me: “I’m a dummy meow.”
+Me: “I’m the fool, heh.”
 
-Shikai: “Okay okay~”
+Aiyysk: “Alright, alright~”
 
-Worries dissipated. Suddenly remembered today is New Year’s Eve, should wish her a happy new year.
+My worries vanished.
+Suddenly, I realized it was New Year’s Eve, and I hadn’t yet extended my New Year greetings to her.
 
-Me: “Mmh, Happy New Year, an early new year greeting.”
+Me: “Mhm, Happy New Year! Sending early wishes.”
 
-Shikai: “I don’t really like Spring Festival.”
+Aiyysk: “I don’t really like the Chinese New Year.”
 
 Thinking of her situation, this wasn’t hard to understand.
 
 Me: “Okay.”
 
-Shikai: “I’m running away, leaving home. Don’t worry, it’s okay, goodnight.”
+Aiyysk: “I’m running away, leaving home. Don’t worry, it’s fine. Goodnight.”
 
 Me: “...Huh?”
 
-Shikai: “[Auto-reply] So lonely[^3]”
+Aiyysk: “[Auto-reply] So lonely[^3]”
 
 Me: “Is everything okay...?”
 
-Shikai: “No problem.”
+Aiyysk: “It’s okay.”
 
-Me: “Mmh, must stay safe.”
+Me: “Mhm, please stay safe.”
 
-Shikai: “Worry”
+Aiyysk: “Worried”
 
-Me: “What’s wrong, did something happen?”
+Me: “What’s wrong? Did something happen?”
 
-Shikai: “Time issue, don’t know if I can get out. Can you check the tweet?”
+Aiyysk:
+“It’s a timing issue, not sure if I can make it out. 
+Can you check out the tweet?”
 
-Me: “Yes, I’ll look.”
+Me: “Yes, let me see... I get it, it’s still a conflict with the family’s traditional views, right?”
 
-“I understand, it’s still a conflict with family’s traditional values, right.”
+Aiyysk: “Mhm.”
 
-Shikai: “Mmh.”
+Me: 
+“I saw those three tweets.
+Two are about the family’s lack of understanding, and the other is just mindless ranting.”
 
-Me: “I saw those three tweets, two are about family misunderstanding, and one is mindless hate.”
+Aiyysk: “Just ignore that troll’s post.”
 
-Shikai: “Just ignore that troll’s post.”
+Me:
+“Sorry, I don’t know how to handle this situation. 
+Parents’ traditional views aren’t something you can just abandon. I can only hope you stay safe.”
 
-Me: “Forgive me for not knowing what to do in this situation, parents’ traditional values can’t just be discarded, can only hope you stay safe.”
+Aiyysk: 
+“It’s mainly a timing issue.
+My dad starts work on the 19th and leaves on the evening of the 18th.
+If school starts on the 19th, boarding students enter on the evening of the 18th, and day students enter on the morning of the 19th.
+We’re in the countryside now, and he’s taking me to the county town at noon on the 18th. I don’t know if he can leave earlier so I can sneak out.”
 
-Shikai: “Mainly it’s a time issue. My dad starts work on the 19th, leaves on the evening of the 18th. If school starts on the 19th, boarding students enter school on the evening of the 18th, day students enter in the morning of the 19th. Now in the countryside, he’ll take me to the county town at noon on the 18th. Don’t know if he can leave early, then I can slip out.”
+Me: “Mhm... So you really need to plan carefully. I can’t offer much help, but... please stay safe.”
 
-Me: “Mmh... so must plan well. I can’t give much help, but... must stay safe.”
+February 18, 21:30, just a few hours before she planned to leave.
+It was her birthday, and to commemorate it, I wrote the following and sent it to her chat group:  
 
-February 18, 21:30, only a few hours before she was ready to set off. This day was her birthday, as a commemoration, I wrote this passage and sent it to her communication group:
-
-> Crossing past and future / When sunlight shines into the heart / I finally can walk out of the haze
+> 跨越过去和未来 / 当阳光照进心扉 / 我终于能够走出阴霾
 >
-> Finally once again tears well up / Only because I regained / That courage to embrace love
+> 终于再一次热泪盈眶 / 只因重新获得了 / 那份去拥抱爱的勇气
 
-“Anyway, the reason I wrote this poem is because I’m really especially grateful to have met everyone. I who once always longed for love and understanding but was disliked...”
+> Across the past and the future / When sunlight fills my heart / I finally step out of the gloom
+>
+> Tears well up once again / Only because I’ve regained / The courage to embrace love
 
-However, her current situation wasn’t particularly good. She said she had rhinitis, sore throat, and gum inflammation. At 23:18, she complained in the group.
+“Anyway, the reason I wrote this poem is that I’m truly grateful to have met everyone. I, who have always longed for love and understanding but was never accepted...”
 
-Shikai: “How is my aunt so 6, the living room light is on so she can see my room is definitely lit, she said I turned on the light, told me to hurry and turn it off.”
+However, her current situation wasn’t great. She said she had rhinitis, a sore throat, and gum inflammation. At 23:18, she complained in the group.
 
-“I’m thinking (the suitcase) how to move it downstairs later? It’s so heavy.”
+Aiyysk:
+“Why is my aunt being so extra?
+The living room lights are on, so of course my room looks lit.
+She says I turned on the light and tells me to turn it off.”  
 
-Me: “Should have moved it down in batches ahead of time.”
+“I’m thinking about moving the suitcase downstairs later. How? It’s so heavy.”
 
-Shikai: “Someone at home is watching.”
+Me: “You should’ve moved it down in batches ahead of time.”
 
-February 19, 0:56, already past midnight.
+Aiyysk: “There are people watching at home.”
 
-Group member A: “Kaikai is ready to take action, right?”
+February 19, 0:56, already midnight.  
 
-Shikai: “Family members aren’t asleep, all active in the living room.”
+Group Member A:  
+“Is Aiyysk about to make a move?”
 
-Group member A: “Huh? Wait until 2–3 AM, find a time when they’ve all gone to sleep”
+Aiyysk: “My family isn’t asleep, they’re all active in the living room.”
 
-Group member B: “How are your preparations going, do you have this determination and courage?”
+Group Member A:
+“Ah? Wait until 2–3 a.m., find a time when they’ve all gone to sleep.”
 
-Shikai: “All done, just (family) why won’t they go to sleep...”
+Group Member B:
+“How are your preparations? Do you have the determination and courage?”
 
-At 2:11, she posted several photos. Under dim streetlights, she carried her suitcase and set off.
+Aiyysk: “Everything’s ready, but why aren’t they going to sleep yet...”
 
-## Passing
+At 2:11, she sent a few pictures in the chat.
+Under the dim streetlights, she held her suitcase and set off on her journey.
 
-Because I was hospitalized at the time, I know very little about this part. This is a painful memory, and I don’t want to ask the people involved then for more details.
+# Her Departure
+At that time, I was hospitalized and undergoing treatment, so I knew very little about this part.
+It is a painful memory, and I have no desire to ask those involved for more details.
 
-I only know that at 0:00 on December 15, 2024, after learning the sad news that another MTF had passed away a few days prior, she and another cohabiting MTF took large amounts of medication and chemical solutions, leaving this world.
+All I know is, at 00:00 on December 15, 2024, after learning of the tragic passing of an MTF a few days earlier, she and another MTF she was living with ingested a large quantity of drugs and chemical solutions, leaving this world.
 
 > 「一生朋友拥抱爱，一世美景满花开。」
 >
-> “Lifelong friends, embraced in tender care, A world awash with blooming flowers.”
+> “A lifetime of friendship embraces love, A world of beauty blooms with flowers.”
 
-Goodnight. Hope in the next life, you can be a carefree, cute girl.
+Goodnight. May you be a carefree, lovely girl in your next life.
 
 ### Recorders
 
@@ -308,8 +357,8 @@ Goodnight. Hope in the next life, you can be a carefree, cute girl.
 
 ### References and Notes
 
-[^1]: Android’s seamless update mechanism uses two sets of partitions called slots (usually slot A and slot B) to prevent devices from failing to boot due to errors during system updates. For more information, refer to [Google’s official documentation](https://source.android.google.cn/docs/core/ota/ab).
+[^1]: Android’s seamless update mechanism uses two sets of partitions called slots (typically slot A and slot B) to prevent devices from becoming unbootable due to failed system updates. For more information, refer to [Google’s official documentation](https://source.android.com/docs/core/ota/ab).
 
-[^2]: This refers to the “Emergency Download Mode” built into Qualcomm platform devices, which can be used for device firmware recovery.
+[^2]: Refers to the “Emergency Download Mode” built into Qualcomm platform devices, which can be used for device firmware recovery. Also known as “9008 mode”.
 
-[^3]: This is the automatic reply set in QQ when the status is set to Away or Busy when receiving messages. It appears multiple times later and will not be repeated.
+[^3]: This is the automatic reply set in QQ for “Away” or “Busy” status when receiving messages. It appears multiple times in the following text and will not be repeated hereafter.
