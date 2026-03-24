@@ -389,7 +389,7 @@ Shikai: “The main issue is timing. My dad starts work on the 19th and leaves o
 
 Me: “Mm… so you really have to plan carefully. I can’t do much to help, but… please, just stay safe.”
 
-At 9:30 p.m. on 18 February, only a few hours remained before she meant to leave. It was also her birthday. To mark it, I wrote these lines and sent them to the group chat:
+At 21:30 on 18 February, only a few hours remained before she meant to leave. It was also her birthday. To mark it, I wrote these lines and sent them to the group chat:
 
 > Across the past and the future  
 > when sunlight falls into my heart  
