@@ -13,7 +13,7 @@ Her name came from a transliteration of the Japanese word *isekai* (another worl
 The name feels almost like a metaphor:
 throughout her short life, she was searching for a world that could belong to her, a world without pain or prejudice, a far shore where she could simply be herself.
 
-If death is not the end of life, forgetting is the end of life, then as long as we still speak the name “Shikai”, she is still here.
+If death is not the end of life, but forgetting is, then as long as we still speak the name “Shikai”, she is still here.
 She was one of countless trans girls struggling at the edge of survival, looking for somewhere to stay between crowded “sanctuaries” and drifting cities.
 Her life was short and painful, yet within one-sided longing and her final bonds, there burned the purest desire to love and be loved.
 
@@ -39,12 +39,12 @@ After that, her mother disappeared from her life entirely.
 ## The Girl Who Collected Scrap, and the Flash of Light
 
 Her father gambled heavily, and the family was left in deep poverty.
-In Shikai’s memory, childhood meant going through the streets of Guangzhou with her grandmother, collecting rubbish and selling scrap.
+In Shikai’s memory, childhood meant going through the streets of Guangzhou with her grandmother, collecting garbage and selling scrap.
 Her grandmother was the one person she could rely on in those grey years. She worked as a school cleaner and would not drink the milk given out at school, saving it all for Shikai instead.
-A kind headmaster, moved by their circumstances, helped arrange an exemption from school fees.
+A kind principal, moved by their circumstances, helped arrange an exemption from school fees.
 
 Suffering forced her to grow up too early.
-In the summer after primary school, she went out early every day to collect scrap, just as she had when she was younger, hoping to save a little money.
+In the summer after elementary school, she went out early every day to collect scrap, just as she had when she was younger, hoping to save a little money.
 Over two months she managed to put aside two hundred yuan.
 That small sum was her own quiet act of resistance.
 She loved computers and circuits, and used the money to buy a mobile phone, borrowing internet access wherever she could to study circuitry and networking.
@@ -56,7 +56,7 @@ She could only watch those memories wear away in her mind, until all that remain
 
 ## Glimmers of Light and Mould-Stained Uniforms
 
-When I met her in 2022, she was attending a junior secondary school in Yunfu, Guangdong.
+When I met her in 2022, she was attending a junior high school in Yunfu, Guangdong.
 By then, she had already taught herself programming and web development, studied electronics and phone repair, and was taking online jobs to earn money.
 She was astonishingly capable, full of talent — the kind of growth that comes from forcing a branch out of barren ground.
 
@@ -82,7 +82,7 @@ That feeling of being watched, with nowhere to hide, frightened her more than po
 
 ## A Suffocating Dormitory, and a Dream Threatened with Destruction
 
-After finishing junior secondary school, she was admitted to a vocational school to study computing.
+After finishing junior high school, she was admitted to a vocational school to study computing.
 She thought it might be a new beginning.
 With money she had earned herself, she slowly pieced together a computer to bring with her to the dormitory.
 It was precious to her — not just a machine, but a companion, the one clear window she had onto the world.
