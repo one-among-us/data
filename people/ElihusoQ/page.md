@@ -11,6 +11,8 @@ info:
 
 ### 序章
 
+To-Do
+
 ### 第一章
 
 「前方到站大行宫站·宝庆银楼。请从列车前进方向左侧车门下车。此站可换乘 3 号线。」
@@ -41,6 +43,10 @@ The next station is TAIFENGLU, please get ready to get off for transferring to M
 
 The next station is YOUFANGQIAO, please get ready to get off for transferring to Metro Line2.
 
-## 终章
+### 终章
+
+「本次列车开往心宿二站，请给有需要的猫娘让个座。」
+
+“This is the train to Antares Station.”
 
 <h3 align = "center">- 以下未完待续 -</h3>
