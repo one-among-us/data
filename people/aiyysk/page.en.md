@@ -14,7 +14,7 @@ The name feels almost like a metaphor:
 throughout her short life, she was searching for a world that could belong to her, a world without pain or prejudice, a far shore where she could simply be herself.
 
 If death is not the end of life, forgetting is the end of life, then as long as we still speak the name “Shikai”, she is still here.
-She was one of countless transgender girls struggling at the edge of survival, looking for somewhere to stay between crowded “sanctuaries” and drifting cities.
+She was one of countless trans girls struggling at the edge of survival, looking for somewhere to stay between crowded “sanctuaries” and drifting cities.
 Her life was short and painful, yet within one-sided longing and her final bonds, there burned the purest desire to love and be loved.
 
 ## Childhood in Black-and-White Photographs
