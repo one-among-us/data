@@ -1,28 +1,48 @@
 ---
 name: Coin
 info:
-  alias: Xiao Gong
-  location: Xi'an, Shaanxi
+  alias: Yoimiya
+  location: Xi’an, Shaanxi
 ---
 
-Coin loved playing Genshin Impact and adored Hu Tao, so we also called her Xiao Gong.
+## Introduction
 
-She had worked for some time in Apex Legends to earn money, but always carried the heavy pressure from her family. She never received the care and understanding she deserved, and ultimately chose to leave us.
+Coin was a warm and free-spirited girl.
+She loved Yoimiya from *Genshin Impact*, so we often called her Yoimiya in our daily lives.
 
-Zhuo Jiu, Liang Xiu, and Sha'er were the people she cared about most. She loved eating green onions and mashed potatoes, always taking care to look after us thoughtfully, and her cooking was warm and genuine.
+Zhuojiu, Liangxiu, and Sha’er were the people she cared about the most.
 
-The death of her friend Yao devastated her deeply, causing her immense grief and emotional exhaustion. We were terrified she might do the same, but we still couldn't keep her with us. The harsh reality of life completely overwhelmed her.
+Coin liked green onions and mashed potatoes. She always took great care of us.
+The meals she made were more than just food, they carried her warmth and sincerity.
 
-Her mental state was always unstable, with frequent insomnia that required medication to sleep. When she first came to Wuhan, she brought almost nothing, and when she left, she didn't leave anything in her friend's place, yet she left herself there forever.
+Her family situation was difficult.
+In order to become financially independent, she spent some time working as an escort in *Delta Force* operations to earn money.
 
-She had borrowed much from Huabei, but most of it wasn't for herself—it was for her friends. She was always thoughtful and sensitive with them.
+From beginning to end, she bore heavy pressure from her family and never received the care and understanding she deserved.
 
-Returning to the room where she once slept, it was empty and bare, with almost nothing that could represent her, except for a piece of clothing she once wore and the psychiatric medication she took.
+The passing of her friend Haruka made her already fragile mental state even worse.
+She was overwhelmed with grief and inner turmoil.
+We were afraid she might follow the same path, but in the end, we couldn’t hold her back.
+Life weighed her down completely.
+She often suffered from insomnia and could barely fall asleep with the help of medication.
 
-She seemed to still be with us, but we could never find her again.
+She had borrowed a significant amount through Ant Credit Pay, but most of it was not for herself, it was for her friends.
+She was always attentive and sensitive when it came to those she cared about.
 
-She must have been truly desperate, lying quietly in a hotel room far from home when she was found, already beyond saving.
+When she first arrived in Wuhan, she brought almost nothing with her.
+When she departed, she did not leave a single belonging at her friend’s place, yet she left herself behind in Wuhan forever.
 
-She left silently, without saying anything.
+When we returned to the room where she had once slept, it was empty.
+There was almost nothing that could represent her, only a piece of clothing she had worn and the psychiatric medication she had taken.
 
-No more suffering now. I hope you've become a happy and joyful girl. My blessings to you.
+It felt as if she was still with us, yet we could never find her again.
+
+She must have been truly in despair. When she was found, she lay quietly in a hotel in a distant city, beyond any help.
+
+She left without a sound, without saying anything at all.
+
+No more pain.
+On the other side, you are forever that free-spirited girl.
+May you always be at peace.
+
+Contributor for this entry: [ShintoKosei](https://github.com/ShintoKosei)
