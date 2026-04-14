@@ -26,7 +26,7 @@ We were afraid she might follow the same path, but in the end, we couldn’t hol
 Life weighed her down completely.
 She often suffered from insomnia and could barely fall asleep with the help of medication.
 
-She had borrowed a significant amount through Ant Credit Pay, but most of it was not for herself, it was for her friends.
+She had borrowed a significant amount through Huabei (a consumer credit service by Ant Group), but most of it was not for herself, it was for her friends.
 She was always attentive and sensitive when it came to those she cared about.
 
 When she first arrived in Wuhan, she brought almost nothing with her.
