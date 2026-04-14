@@ -42,4 +42,4 @@ Before she left, she gave all her hope and warmth to others, and then said goodb
 
 The world has lost a child in pain, and with her, a clumsy kind of gentleness.
 
-Entry contributors: One Among Us, Bai, No. 0, Zaolin
+Contributors for this entry: One Among Us, Bai, Linghao, Zaolin
