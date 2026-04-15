@@ -13,10 +13,10 @@ She loved Yoimiya from *Genshin Impact*, so we often called her Yoimiya in our d
 Zhuojiu, Liangxiu, and Sha’er were the people she cared about the most.
 
 Coin liked green onions and mashed potatoes. She always took great care of us.
-The meals she made were more than just food, they carried her warmth and sincerity.
+The meals she made were more than just food; they carried her warmth and sincerity.
 
 Her family situation was difficult.
-In order to become financially independent, she spent some time working as an escort in *Delta Force* operations to earn money.
+In order to become financially independent, she spent some time providing in-game escort services in *Delta Force* to earn money.
 
 From beginning to end, she bore heavy pressure from her family and never received the care and understanding she deserved.
 
@@ -24,9 +24,9 @@ The passing of her friend Haruka made her already fragile mental state even wors
 She was overwhelmed with grief and inner turmoil.
 We were afraid she might follow the same path, but in the end, we couldn’t hold her back.
 Life weighed her down completely.
-She often suffered from insomnia and could barely fall asleep with the help of medication.
+She often suffered from insomnia and could only manage to fall asleep with the help of medication.
 
-She had borrowed a significant amount through Huabei (a consumer credit service by Ant Group), but most of it was not for herself, it was for her friends.
+She had borrowed a significant amount through Huabei (a consumer credit service by Ant Group); most of it was not for herself, but rather for her friends.
 She was always attentive and sensitive when it came to those she cared about.
 
 When she first arrived in Wuhan, she brought almost nothing with her.
@@ -35,7 +35,7 @@ When she departed, she did not leave a single belonging at her friend’s place,
 When we returned to the room where she had once slept, it was empty.
 There was almost nothing that could represent her, only a piece of clothing she had worn and the psychiatric medication she had taken.
 
-It felt as if she was still with us, yet we could never find her again.
+It felt as if she were still with us, yet we could never find her again.
 
 She must have been truly in despair. When she was found, she lay quietly in a hotel in a distant city, beyond any help.
 
