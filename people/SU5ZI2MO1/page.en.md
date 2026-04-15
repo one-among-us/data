@@ -19,12 +19,12 @@ By the time we were able to truly “see” her, she had already lost her attach
 
 Since early 2023, Mo had begun thinking about purchasing various drugs for the purpose of ending her life.
 At the same time, regardless of the risks to her accounts and her own safety, she distributed the money she had worked hard to earn to people through various channels.
-Some may have been others who had been deceived, some burdened by credit card debt, and some simply strangers with nowhere else to turn…
+Perhaps they were fellow victims of scams, peers struggling with credit card debt, or simply desperate strangers with nowhere else to turn…
 
-Many of those she helped were grateful for her generosity.
+Many of those she helped were grateful for her selflessness.
 Of course, there were also a few opportunists who took advantage of her kindness.
 
-There were also people who pitied her, and called her foolish.
+There were also people who pitied her and called her foolish.
 
 “Is there no one you love?”
 
