@@ -37,4 +37,4 @@ info:
 
 世上少了一个痛苦的孩子，却也少了一抹笨拙的温柔。
 
-条目贡献: One Among Us, 白, 零号, 造林
+条目贡献: One Among Us, 白, 零号, 造林, silvicky
