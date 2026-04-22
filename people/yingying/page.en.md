@@ -18,3 +18,5 @@ References
 [^1]: https://leohearts.com/archives/farewell-yingying.html
 
 [^2]: [Farewell. I miss you, Sakura.](https://leohearts.com/archives/farewell-yingying.html)
+
+Contributors for this entry：[BUAA-Wjay](https://github.com/BUAA-Wjay), [Leohearts](https://github.com/leohearts)

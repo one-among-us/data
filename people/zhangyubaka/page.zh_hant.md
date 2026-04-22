@@ -116,4 +116,4 @@ Neko 和羽毛被迫在上海分開之後，被父母帶回了雲南昆明，而
 
 晚安，羽毛，願你能做一個幸福開心的女孩子。
 
-條目貢獻：One-Among-Us, [絢香猫](https://twitter.com/ayakaneko)
+條目貢獻：One Among Us, [絢香猫](https://twitter.com/ayakaneko)

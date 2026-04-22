@@ -70,4 +70,4 @@ During the gameplay, they triggered a <span style="background: linear-gradient(1
 >  
 > So, goodnight, lxyddice.
 
-Contributors for this entry: One-Among-Us, AloneStar, System Ringva, Erhuo
+Contributors for this entry: One Among Us, AloneStar, System Ringva, Erhuo

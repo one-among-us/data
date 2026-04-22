@@ -20,4 +20,4 @@ desc: 我們永遠在一起。
 
 於 2023-11-05 在廣東中山市與她的夥伴一同離開了這個世界。
 
-條目貢獻：One-Among-Us, 魚喵, [吉普莉爾](http://twitter.com/Kotori42156659)
+條目貢獻：One Among Us, 魚喵, [吉普莉爾](http://twitter.com/Kotori42156659)

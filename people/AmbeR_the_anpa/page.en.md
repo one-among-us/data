@@ -16,3 +16,5 @@ On October 3, 2023, Anpa went to Tokyo, Japan to study while working. During thi
 Anpa was gentle and considerate throughout his life, rescued stray animals, and participated in voluntary blood donation. He has always been patient and generous with help and support for the vulnerable groups.
 
 On July 14, 2024, Anpa attempted suicide and was rescued in the hospital ICU. At 6:12, Japan time on September 17, 2024, Anpa passed away in front of his lover due to life pressure and cyber violence. He was confirmed to die at 11:23 on the same day. After Anpa passed away, her family rushed to Japan and cremated Anpa with Anpa's lover at the funeral home in Nymph Sakuratai, Tokyo. Since the elderly in Anpa's family are still alive, they took a cold approach to what Anpa encountered during his lifetime, and everything ended.
+
+Contributor for this entry：Bilibi - UP 主纪念馆（《UP主纪念馆名录》611 号）

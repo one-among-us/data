@@ -157,6 +157,6 @@ After survived the ordeal, Neko tried to get out of the shadow, and she graduall
 
 Good night, yumao, wish you can be a girl and live happily.
 
-Contributors for this entry: One-Among-Us, [Ayaka Neko](https://twitter.com/ayakaneko)
+Contributors for this entry: One Among Us, [Ayaka Neko](https://twitter.com/ayakaneko)
 
 {/* TODO: Check in Grammarly */}

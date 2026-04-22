@@ -13,3 +13,5 @@ She was a strong and resilient person who faced societal prejudice and discrimin
 Her interest was in computers and cats. Her passion and intelligence brought beauty to the world.
 
 Sadly, she passed away in the hospital on April 19, 2023. We express our deepest condolences. She will always be in our heart.
+
+<!-- Contributor for this entry: [SaragaMtf](https://github.com/SagaraMtf) -->

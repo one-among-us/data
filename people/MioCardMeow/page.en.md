@@ -44,4 +44,4 @@ MioCardMeow had a good friendship with SugarMeow. After her departure, SugarMeow
 
 > I am afraid of forgetting her… I like her a lot. She was lovely, gentle, polite… and she always took care of me…
 
-Contributors for this entry: [SugarMeow](https://space.bilibili.com/618333512), [Asaka Minamikawa](https://twitter.com/GE90Start), [Lee](https://twitter.com/rbqwansui), One-Among-Us
+Contributors for this entry: [SugarMeow](https://space.bilibili.com/618333512), [Asaka Minamikawa](https://twitter.com/GE90Start), [Lee](https://twitter.com/rbqwansui), One Among Us

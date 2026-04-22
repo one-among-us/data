@@ -60,4 +60,4 @@ In her last moment, she still thought of everyone in her will:
 >
 > — Extracted from Qianyuan's will
 
-Contributors for this entry: One-Among-Us, [Shen Naixi](https://twitter.com/chengyiga)
+Contributors for this entry: One Among Us, [Shen Naixi](https://twitter.com/chengyiga)

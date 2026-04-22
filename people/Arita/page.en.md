@@ -33,3 +33,5 @@ Let me end with a poem by Yeats, *Haters of the Wind*:
 > Cry of his love with their pitiful cries.  
 
 <PhotoScroll photos={["${path}/photos/image0.webp"]} />
+
+Contributor for this entry: Su Wanqing

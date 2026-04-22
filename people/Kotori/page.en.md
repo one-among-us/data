@@ -74,4 +74,4 @@ You will live on in our hearts.
 
 <!-- May her memory be eternal -->
 
-Contributors for this entry: One-Among-Us, [Hanlianyi](http://twitter.com/HANLIANYI520), [Kristall Wang](https://github.com/KristallWang)
+Contributors for this entry: One Among Us, [Hanlianyi](http://twitter.com/HANLIANYI520), [Kristall Wang](https://github.com/KristallWang)

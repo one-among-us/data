@@ -39,3 +39,5 @@ These pictures are the source of the pictures in the NFC tags:
 > I received your postcard. I will hold onto it to the very end.
 > Meet you on Betelgeuse.
 > ——noah's friend in life, 2023 Jan 13th.
+
+<!-- Contributors for this entry：silvicky, Anyneko -->

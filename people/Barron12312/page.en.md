@@ -21,3 +21,5 @@ Tragically, she left us too soon and ended her own tour. During her journey, she
 
 Rest well, Barron. We will all remember you.
 Hope you have a blissful trip to heaven.
+
+Contributor for this entry: [BUAA-Wjay](https://github.com/BUAA-Wjay)

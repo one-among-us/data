@@ -122,7 +122,7 @@ In the early morning of the next day, the girl chasing the Milky Way finally lef
 >
 > NekoyaFam, 2018-07-11, on Zhihu
 
-Contributors for this entry: One-Among-Us, [Kristall Wang](https://github.com/KristallWang)
+Contributors for this entry: One Among Us, [Kristall Wang](https://github.com/KristallWang)
 
 [^1]: The title format imitates *In Memory of Ms.Liu Hezhen*, which was a famous work of Lu Xun, published on April 12th, 1926.
 
