@@ -112,7 +112,7 @@ At 2025-06-22 a final note was received
 > 
 > It's clearer and clearer that humanity is evil by nature. Fuck, I could write entire books about it. But my star has faded and I just can't think clearly anymore. Yes, I've tried all possible meds over the years, and no, none of them helped. I'm just finishing something I started back in 2019.
 > 
-> Could spend the rest of my days making schizo art, or cutting myself just to feel real (BUT N0000000 YOU DON'T KNOW WHAT IT MEANS TO EXPERIENCE DEREALIZATION - fucking psychologist ive been seeing). At least my insides look real. Strange to try to get rid of my only coping mechanism just to replace it with nothing that just quite works.
+> Could spend the rest of my days making schizo art, or cutting myself just to feel real (BUT NOOOOOOO YOU DON'T KNOW WHAT IT MEANS TO EXPERIENCE DEREALIZATION - fucking psychologist ive been seeing). At least my insides look real. Strange to try to get rid of my only coping mechanism just to replace it with nothing that just quite works.
 > 
 > This is becoming a schizobabble but goodbye to everyone I love. To my mom for supporting me all this way, to my dad for doing whatever he could to fight my literal mental demons (yes I literally hallucinated them), to my doctors trying to find any appropriate treatment for me, to all my friends at Georgia Tech for being there for me, to the professors who believed in me and gave me all the chances in the world, and most of all Jordan, my loving husband, and Crystal, my beautiful daughter-in-spirit, for having always been there for me.
 > 
