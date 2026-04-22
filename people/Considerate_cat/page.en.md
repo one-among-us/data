@@ -76,3 +76,5 @@ EnderCat: MoeCat’s friend and one of the main interveners. According to EnderC
 “Fixing Broken Hearts”: MoeCat’s friend and the one who invited MoeCat to join “a group chat”. Because of her, MoeCat could buy HRT medication and meet everyone. According to her, if she did not pull MoeCat into the circle, MoeCat might not have committed suicide.
 
 Cencen: MoeCat’s boyfriend, the first one to sense that MoeCat would commit suicide. According to him, “We may have indeed prolonged her life. Without us, she might have left in March...”
+
+<!-- Contributor for this entry：[Ender Cat](https://github.com/CcendercatcC) -->

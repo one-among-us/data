@@ -48,3 +48,5 @@ Translation of the above suicide note:
 > One last thing: I want the host of my funeral to address me as "your daughter". My only wish is to be myself. Seems like it won't get fulfilled...
 
 Please offer your condolences to this poor girl.
+
+<!-- Contributor for this entry: Kagurazaka Kumo -->

@@ -49,3 +49,5 @@ She began transitioning because:
 
 While trying to console her friend, a conflict ensued. She swallowed lots of her meds that night and argued with her father after waking up.
 She then attempted suicide and was sent to the hospital. She was confirmed to be dead and cremated by August 1st, 2023.
+
+<!-- Contributor for this entry：jiushigeshazi via email -->

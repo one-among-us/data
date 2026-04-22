@@ -101,3 +101,5 @@ Comments from the translator:
 Please, don&apos;t romanticize suicide&#33; I'm begging you&#33;
 All of you.
 */}
+
+<!-- Contributor for this entry：[RinLin](https://github.com/RinLin-NYA) -->

@@ -48,4 +48,4 @@ A few days before his departure, he took a photo of beautiful night sky and twee
 >
 > By: 思萌
 
-Contributor for this entry: One Among Us, [思萌](https://twitter.com/mishengai), [Zhiqianyue](https://twitter.com/Zhiqianyue)
+Contributors for this entry: One Among Us, [Mengshengai](https://twitter.com/mishengai), [Zhiqianyue](https://twitter.com/Zhiqianyue)

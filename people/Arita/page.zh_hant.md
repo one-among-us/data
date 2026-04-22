@@ -33,3 +33,5 @@ Arita對筆者來說是有著許多特殊意義的人，也完全可以說，是
 > Cry of his love with their pitiful cries.  
 
 <PhotoScroll photos={["${path}/photos/image0.webp"]} />
+
+條目貢獻：蘇晚晴
