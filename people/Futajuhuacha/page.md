@@ -86,7 +86,7 @@ desc: 愿世界将你温柔以待。
 >
 > NekoyaFam，2018-07-11，于 知乎
 
-条目贡献: One-Among-Us, [K酱](https://github.com/KristallWang)
+条目贡献: One Among Us, [K酱](https://github.com/KristallWang)
 
 [^1]: 标题格式模仿的是《记念刘和珍君》。
 
