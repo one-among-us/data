@@ -3,18 +3,10 @@ name: MocaKawai
 info:
     alias: Moca
     location: Sanya, Hainan
-desc: And maybe make some friends along the way!
+desc: Here to make some friends too!
 ---
 
----
-name: MochaSoCute
-info:
-    alias: Mocha, MochaSoAdorable
-    location: Sanya, Hainan
-
----
-
-## Mocha the Transit Enthusiast
+## The Transit Enthusiast
 
 MochaSoCute took her name from Aoba Moca of *BanG Dream!*.
 Whichever Mocha you have in mind,
@@ -32,7 +24,7 @@ She was always warm and lively in the comment sections of her videos, sometimes 
 Having lived in Sanya for most of her life, Mocha knew the city's public transit system inside and out.
 She filmed a great many transit-related videos, the majority of which were forward-view POVs of Sanya's bus routes.
 
-For those who follow transit POVs, what matters most is not the footage itself — it is the mood.
+For those who follow transit POVs, what matters most is not the footage itself, it is the mood.
 A different route, a different hour, a different state of mind, and the POV becomes something else entirely, something hard to put into words.
 Mocha understood this.
 She gave each of her POV videos a carefully chosen title, passing on that sense of being *there* to her friends:
@@ -54,7 +46,7 @@ Every bit of it sincere, and quietly romantic.
 
 ## Escape from the Island
 
-In the summer of 2023, Mocha's mental health deteriorated sharply for a number of reasons, and she began to misuse medication.
+In the summer of 2023, Mocha's mental health deteriorated sharply for a number of reasons, and she began to overdose.
 The pressure of her final year of high school soon followed.
 At the end of August, a suicide attempt landed her in the ICU.
 She survived, but things did not truly get better.
@@ -80,7 +72,7 @@ She did not make it through that autumn.
 
 *“It's so damp… or maybe that's just my tears…”*
 
-Rain or shine, silence or rush hour — all of it was scenery that Mocha wanted to share with us.
+Rain or shine, silence or rush hour... All of it was scenery that Mocha wanted to share with us.
 Every route she cared about, she recorded with care and posted for her fellow transit lovers to see.
 
 She always liked to sit at the very front of the bus, watching the road unfold through the wide windscreen ahead.
