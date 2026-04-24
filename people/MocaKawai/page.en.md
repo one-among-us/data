@@ -38,8 +38,8 @@ She gave each of her POV videos a carefully chosen title, passing on that sense 
 > *“Chasing the sunset on the expressway!”*
 
 In September 2022, confined at home during COVID-19 pandemic,
-Mocha created a schematic map of Sanya's rapid transit network.
-Nearly a year later, she revisited and refined the map, adding several intercity routes to the original design.
+Mocha created a schematic map of [Sanya's rapid transit network](https://www.bilibili.com/read/cv18624078).
+Nearly a year later, she [revisited and refined the map]((https://www.bilibili.com/read/cv2497345811)), adding several intercity routes to the original design.
 
 Her love for transit was much like the titles she wrote.
 Every bit of it sincere, and quietly romantic.
