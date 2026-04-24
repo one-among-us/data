@@ -37,13 +37,13 @@ A different route, a different hour, a different state of mind, and the POV beco
 Mocha understood this.
 She gave each of her POV videos a carefully chosen title, passing on that sense of being *there* to her friends:
 
-> *"Express from the two major hubs straight to the westernmost tip of Sanya"*
+> *“Express from the two major hubs straight to the westernmost tip of Sanya”*
 >
-> *"Drifting into nightfall in the hypnotic sway of a sightseeing route at China's southernmost point"*
+> *“Drifting into nightfall in the hypnotic sway of a sightseeing route at China's southernmost point”*
 >
-> *"Racing uphill through a downpour"*
+> *“Racing uphill through a downpour”*
 >
-> *"Chasing the sunset on the expressway!"*
+> *“Chasing the sunset on the expressway!”*
 
 In September 2022, confined at home during COVID-19 pandemic,
 Mocha created a schematic map of Sanya's rapid transit network.
@@ -78,7 +78,7 @@ Her continued misuse of medication only made things worse.
 The substance she had purchased during her travels ultimately took her life after she returned to Sanya.
 She did not make it through that autumn.
 
-*"It's so damp… or maybe that's just my tears…"*
+*“It's so damp… or maybe that's just my tears…”*
 
 Rain or shine, silence or rush hour — all of it was scenery that Mocha wanted to share with us.
 Every route she cared about, she recorded with care and posted for her fellow transit lovers to see.
