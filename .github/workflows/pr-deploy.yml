@@ -1,70 +1,61 @@
-name: PR Preview
+name: PR Deploy Preview
 
 on:
-  pull_request_target:
-    types: [opened, synchronize, reopened]
-    branches: [main, develop]
-  workflow_dispatch:
-    inputs:
-      pr_number:
-        description: 'Pull Request number to deploy preview for'
-        required: true
+  workflow_run:
+    workflows: ["PR Build"]
+    types:
+      - completed
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.workflow_run.head_repository.full_name }}-${{ github.event.workflow_run.head_branch }}
+  cancel-in-progress: true
+
+permissions:
+  pull-requests: write
+  actions: read
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-      deployments: write
-      pull-requests: write
+    if: >
+      github.event.workflow_run.event == 'pull_request' &&
+      github.event.workflow_run.conclusion == 'success'
 
     steps:
-      # First, check out the workflow file (from the base) so secrets are available.
-      - name: Checkout base branch
-        uses: actions/checkout@v4
+      - name: Download Artifact
+        uses: actions/download-artifact@v8
+        with:
+          name: preview-dist
+          path: dist/
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ github.event.workflow_run.id }}
 
-      # Determine PR info based on the event type.
-      - name: Set PR info
+      - name: Read PR Number
         id: pr-info
         run: |
-          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
-            echo "PR_NUMBER=${{ github.event.inputs.pr_number }}" >> $GITHUB_ENV
-          else
-            echo "PR_NUMBER=${{ github.event.pull_request.number }}" >> $GITHUB_ENV
+          PR_NUMBER=$(cat dist/pr_number.txt | tr -d '\n\r')
+          if ! [[ "$PR_NUMBER" =~ ^[0-9]+$ ]]; then
+            echo "Error: Invalid PR number format: $PR_NUMBER"
+            exit 1
           fi
-
-      # Now check out the PR’s head branch (whether from a PR event or supplied manually)
-      - name: Checkout PR branch
-        uses: actions/checkout@v4
-        with:
-          ref: "refs/pull/${{ env.PR_NUMBER }}/merge"
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: 'yarn'
-
-      - name: Build
-        run: |
-          yarn install --production --frozen-lockfile
-          yarn build-preview
-          rm -rf dist/web.tgz
+          echo "PR_NUMBER=$PR_NUMBER" >> $GITHUB_ENV
+          rm dist/pr_number.txt
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
           command: pages deploy dist --project-name=data-preview --branch=pr-${{ env.PR_NUMBER }}
 
       - name: Pull request comment
-        uses: actions/github-script@v6
+        uses: actions/github-script@v9
+        env:
+          PR_NUMBER: ${{ env.PR_NUMBER }}
         with:
           script: |
-            const prNumber = "${{ env.PR_NUMBER }}";
+            const prNumber = parseInt(process.env.PR_NUMBER, 10);
             const now = new Date().toISOString().substring(0, 19).replace('T', ' ');
             const reviewBody = `🐱 感谢贡献！\n\n部署了预览，在这里哦: https://pr-${prNumber}.data-preview.pages.dev\n\n🕒 最后更新: ${now} (UTC)`;
             

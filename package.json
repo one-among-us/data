@@ -9,44 +9,40 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "node --loader ts-node/esm/transpile-only scripts/build.ts",
+    "build": "tsx scripts/build.ts",
     "build-preview": "yarn build && scripts/preview.sh",
     "serve": "http-server --cors='*' -c-1 dist",
     "preview": "yarn build-preview && yarn serve",
-    "watch": "node --loader ts-node/esm/transpile-only scripts/watch.ts",
+    "watch": "tsx scripts/watch.ts",
     "dev": "concurrently -n \"watch,serve\" -c \"cyan,green\" \"yarn watch\" \"yarn serve\"",
     "clean": "rm -rf dist/* .build-cache",
-    "translate": "node --loader ts-node/esm/transpile-only scripts/translate.ts",
+    "translate": "tsx scripts/translate.ts",
     "cloudflare_clean": "node scripts/cloudflare_clean.js"
   },
   "dependencies": {
     "@andreekeberg/imagedata": "^1.0.2",
-    "@mdx-js/mdx": "^2.1.5",
+    "@mdx-js/mdx": "^3.1.1",
     "@swc/core": "^1.3.17",
-    "@types/fs-extra": "^11.0.1",
-    "@types/node": "^20",
     "args-parser": "^1.3.0",
     "autocorrect-node": "^2.5.5",
     "blurhash": "^2.0.5",
-    "esbuild": "^0.18.10",
     "fs-extra": "^11.1.0",
     "google-translate-api-x": "^10.7.1",
     "js-yaml": "^4.1.0",
-    "katex": "^0.16.10",
     "lunar-typescript": "^1.8.6",
     "markdown-yaml-metadata-parser": "^3.0.0",
     "moment": "^2.29.4",
-    "rehype-katex": "6",
-    "remark-math": "5",
-    "ts-node": "^10.9.1",
-    "typescript": "^5.1.6"
+    "rehype-katex": "^7.0.1",
+    "remark-math": "^6.0.0"
   },
   "devDependencies": {
-    "@octokit/core": "^4.1.0",
+    "@types/fs-extra": "^11.0.1",
     "@types/js-yaml": "^4.0.5",
+    "@types/node": "^25.6.0",
     "concurrently": "^9.2.1",
     "exponential-backoff": "^3.1.0",
     "http-server": "^14.1.1",
-    "node-fetch": "^2.6.7"
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
   }
 }

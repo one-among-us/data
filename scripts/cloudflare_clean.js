@@ -1,4 +1,3 @@
-import fetch from 'node-fetch'
 import { backOff } from 'exponential-backoff'
 
 const CF_API_TOKEN = process.env.CF_API_TOKEN

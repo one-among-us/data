@@ -8,25 +8,24 @@ on:
 jobs:
   clean:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        project: [one-among-us, our-data]
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
           cache: 'yarn'
-      - run: yarn install
 
-      - name: Clean Cloudflare Deployments (one-among-us)
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Clean Cloudflare Deployments (${{ matrix.project }})
         run: yarn cloudflare_clean
         env:
           CF_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CF_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          CF_PAGES_PROJECT_NAME: one-among-us
-
-      - name: Clean Cloudflare Deployments (our-data)
-        run: yarn cloudflare_clean
-        env:
-          CF_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CF_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          CF_PAGES_PROJECT_NAME: our-data
+          CF_PAGES_PROJECT_NAME: ${{ matrix.project }}
