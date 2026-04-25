@@ -1,0 +1,7 @@
+id: hulicaijia
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '0000-03-05'
+  died: '2024-05-05'
+websites:
+    twitter: https://twitter.com/hulicaijia
