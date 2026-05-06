@@ -13,10 +13,10 @@ Although everyone thought of her as an excellent and normal person, she finally 
 
 Even with the ensuing feminization, she was still unable to accept her appearance. She dreamed of being a cat-like girl with lovely appearance and a lively personality.  
 
-In the last few months of her life, she was separated from her loving family. This made her suddenly feel relieved. She finally could vent her emotions, but also slowly allowed herself to degenerate. She found that she slowly lost interest in the things she once loved, and eventually couldn't even concentrate on doing anything. At the same time, her mental illness began to spiral out of control, with acute anxiety outbreaks occurring very frequently. All of this made her blame herself even more.  
+In the last few months of her life, she was separated from her loving family. This made her suddenly feel relieved. She finally could vent her emotions, but also slowly allowed herself to degenerate. She found that she slowly lost interest in the things she once loved, and eventually couldn’t even concentrate on doing anything. At the same time, her mental illness began to spiral out of control, with acute anxiety outbreaks occurring very frequently. All of this made her blame herself even more.  
 
 On the afternoon of June 16, 2023, after several attempts in two years, this time, unfortunately, she left us forever with her regrets and talents. Maybe, choosing to leave this world was the only selfish thing she ever did.  
 
-Her avatar comes from [a game she developed](https://github.com/DSLapatura/FP/releases/download/v0.0.1/Fermi.Paradox.zip). She said that her avatar would be unique if it is displayed on One Among Us, “but I can't do anything, and probably no one will write me a profile by then.”
+Her avatar comes from [a game she developed](https://github.com/DSLapatura/FP/releases/download/v0.0.1/Fermi.Paradox.zip). She said that her avatar would be unique if it is displayed on One Among Us, “but I can’t do anything, and probably no one will write me a profile by then.”
 
 Contributor for this entry: [Julia](https://github.com/wloot)

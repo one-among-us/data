@@ -50,7 +50,7 @@ She gave all her love and kindness to others and left none for herself.
 
 ## Some Memories of Her Friend
 
-AloneStar bid farewell to her with a playthrough of *Arcaea*'s *Last | Moment*.
+AloneStar bid farewell to her with a playthrough of *Arcaea*’s *Last | Moment*.
 
 During the gameplay, they triggered a <span style="background: linear-gradient(180deg, #d20f39, #f38ba8); font-weight: bold; background-clip: text; color: transparent">Lost</span> and a <span style="background: linear-gradient(180deg, #fe640b, #f9e2af); font-weight: bold; background-clip: text; color: transparent">Far</span> with intent — the <span style="background: linear-gradient(180deg, #d20f39, #f38ba8); font-weight: bold; background-clip: text; color: transparent">Lost</span> symbolising her absence, and the <span style="background: linear-gradient(180deg, #fe640b, #f9e2af); font-weight: bold; background-clip: text; color: transparent">Far</span> representing the lingering regrets between them.
 

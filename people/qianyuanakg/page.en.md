@@ -25,7 +25,7 @@ She had dishevelled hair of medium length, which grew over her ears and nearly c
 She always wore a light gray scarf and a light green coat.
 She was truly an adorable child.
 
-Since we first met online, she'd said that she wanted to played with me.
+Since we first met online, she’d said that she wanted to played with me.
 It was a pity that we cannot meet each other during the time from November to February of following year. In the end, we never met irl.
 
 Although she would feel embarrassed in the public, she still hoped to make friends.
@@ -35,7 +35,7 @@ So she was on her phone in a corner, then went away to find me.
 She once excitedly shared a link of comic con to me. It was a pity that we were unable to attend because of the costly tickets.
 
 She was a very gentle girl. She would listen and respond carefully when you share your burdens with her, and she had a great sense of consoling people.
-In addition, she always pleaded us not to overdose, and half jokingly told us not to become "bad girls". 
+In addition, she always pleaded us not to overdose, and half jokingly told us not to become “bad girls”. 
 
 Her departure was the most regretful and sad thing I learnt in the transgender community.
 I might have had a chance to persuade her and play with her...
@@ -58,6 +58,6 @@ In her last moment, she still thought of everyone in her will:
 >
 > I put my last words in my heart, because I am afraid others hear that. I want to tell those who have accompanied me and assisted me, I am so sorry...
 >
-> — Extracted from Qianyuan's will
+> — Extracted from Qianyuan’s will
 
 Contributors for this entry: One Among Us, [Shen Naixi](https://twitter.com/chengyiga)

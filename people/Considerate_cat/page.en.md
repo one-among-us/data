@@ -2,7 +2,7 @@
 name: Considerate Cat
 info:
     alias: MoeCat
-    location: Ji'ning, Shandong
+    location: Ji’ning, Shandong
 desc: A cat.
 ---
 

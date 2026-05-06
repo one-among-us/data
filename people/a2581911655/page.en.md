@@ -28,13 +28,13 @@ Following are some personal photos she left in this world:
 
 At the end of 2023, she planned a 3-month journey.
 
-During her journey, she went to Guangdong, and got into [Yantian](https://one-among.us/profile/SS3B_0016/)'s Iveco van. She tweeted:
+During her journey, she went to Guangdong, and got into [Yantian](https://one-among.us/profile/SS3B_0016/)’s Iveco van. She tweeted:
 
-> “It was comfortable to sit on the front passenger-side seat of Yantian's van~”
+> “It was comfortable to sit on the front passenger-side seat of Yantian’s van~”
 
 After that, she went to Shanghai, Zhejiang, and Henan to meet some friends.
 
-On January 18th, 2024, she ended her journey reluctantly, "I won't able to see everyone again until one and a half years later."
+On January 18th, 2024, she ended her journey reluctantly, “I won’t able to see everyone again until one and a half years later.”
 
-But she couldn't fulfill her promise.
-Two days later, she attempted to take her life, and now we're separated by life and death.
+But she couldn’t fulfill her promise.
+Two days later, she attempted to take her life, and now we’re separated by life and death.

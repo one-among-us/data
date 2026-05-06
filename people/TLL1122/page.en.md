@@ -6,9 +6,9 @@ info:
 desc: Lulu loves you!
 ---
 
-> "This is Tian Lulu, wish you be happy every day!  
+> This is Tian Lulu, wish you be happy every day!  
 > 
-> Lulu loves you!"
+> Lulu loves you!
 
 ## Description 
 
@@ -28,7 +28,7 @@ occasionally conducting educational streams.
 Many viewers learnt from her and developed skills that suit themselves,
 becoming proficient players in their own right.
 
-Despite playfully referring to herself as a "feminine boy",
+Despite playfully referring to herself as a “feminine boy”,
 Lulu struggled with gender dysphoria.
 She dreamed of growing her hair long,
 dressing up in pretty clothes, 
@@ -42,6 +42,6 @@ Beneath her vibrant public persona lay a deep helplessness and despair.
 
 Ultimately, she found herself falling into an irreversible abyss...
 
-"If I could be a jewel person[^1] in my next life, that would be nice..."  
+“If I could be a jewel person[^1] in my next life, that would be nice...”  
 
 [^1]: *Land of the Lustrous* features characters made of various minerals and gemstones. Though they appear feminine, they use male pronouns in daily communication and are considered genderless beings.

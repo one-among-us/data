@@ -8,8 +8,8 @@ desc: I had so much I wanted to do… but I lost.
 
 ## Description
 
-> "Trans lesbian...could I really find true love in this life? I suppose not."
-> "It's about time (to leave)."
+> “Trans lesbian...could I really find true love in this life? I suppose not.”
+> “It’s about time (to leave).”
 
 Chica (Chen You Qi) is a cute girl from Beijing, Chaoyang.
 Here are some of her photos:
@@ -36,16 +36,16 @@ This is her suicide note:
 Translation of the above suicide note:
 
 > Just an informal suicide note to list some requests.
-> 1.  Please make sure I'm dressed up after death, (name redacted), so I can go with dignity. I mean, if you want.
-> 2.  Pour my ashes into the sea. Don't preserve and worship it. I don't like that.
-> 3.  Don't blame anyone on my funeral. I knew I would not be able to continue anymore someday long ago because of my own mental issues.
-> 4.  Don't cry too load at my funeral, okay?
-> 5.  Play *I really want to stay at your house* at my funeral. I really like this song, but I can't sing it because my voice is too low.
+> 1.  Please make sure I’m dressed up after death, (name redacted), so I can go with dignity. I mean, if you want.
+> 2.  Pour my ashes into the sea. Don’t preserve and worship it. I don’t like that.
+> 3.  Don’t blame anyone on my funeral. I knew I would not be able to continue anymore someday long ago because of my own mental issues.
+> 4.  Don’t cry too load at my funeral, okay?
+> 5.  Play *I really want to stay at your house* at my funeral. I really like this song, but I can’t sing it because my voice is too low.
 > 6.  Format all my electronic devices.
 > 7.  Let my family decide what to do with everything else I owned.
 > 8.  Drink a cup of Whiskey with me on my funeral.
-> Actually, I still have a lot of things I want to do. It's a pity that I lost to myself. But I have to admit defeat. I knew I would not be able to continue anymore someday long ago because of my own mental issues.
-> One last thing: I want the host of my funeral to address me as "your daughter". My only wish is to be myself. Seems like it won't get fulfilled...
+> Actually, I still have a lot of things I want to do. It’s a pity that I lost to myself. But I have to admit defeat. I knew I would not be able to continue anymore someday long ago because of my own mental issues.
+> One last thing: I want the host of my funeral to address me as “your daughter”. My only wish is to be myself. Seems like it won’t get fulfilled...
 
 Please offer your condolences to this poor girl.
 

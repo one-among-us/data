@@ -3,7 +3,7 @@ name: Xingyun Yuxue
 desc: A transspecies cat girl.
 ---
 
-Yuxue is a transgender catgirl. In her self-introduction, she said, “I declare that I am a transspecies cat girl, a cross-species cat girl. Although I am a human being biologically, I identify myself as a catgirl. At the same time, I identify myself as a woman, but I'm male biologically, so I am MtF.”
+Yuxue is a transgender catgirl. In her self-introduction, she said, “I declare that I am a transspecies cat girl, a cross-species cat girl. Although I am a human being biologically, I identify myself as a catgirl. At the same time, I identify myself as a woman, but I’m male biologically, so I am MtF.”
 
 Yuxue is a person who craves companionship, which was often mentioned in her tweets. She often tweets about her unbearable loneliness and longing for companionship. Eventually, she found several best friends who could accompany her. But her sensitivity made her worry that she would be hated by others.
 
@@ -14,7 +14,7 @@ Her parents expressed serious disapproval of her transgender behavior at first, 
 It is a pity that her friends’ efforts did not stop her depression from worsening.
 In the end, she chose suicide.
 
-After her death, Han Lianyi (a Chinese trans woman known for her volunteer suicide prevention work) reflected on her failure to transfer Yuxue to someone else in time when Han was not capable enough for her case; failing to discover Yuxue's obvious signs of suicide in time; and her inadequacy in guiding the rescue of Yuxue at hospital. Han hopes that this failure could help guide future suicide prevention efforts.
+After her death, Han Lianyi (a Chinese trans woman known for her volunteer suicide prevention work) reflected on her failure to transfer Yuxue to someone else in time when Han was not capable enough for her case; failing to discover Yuxue’s obvious signs of suicide in time; and her inadequacy in guiding the rescue of Yuxue at hospital. Han hopes that this failure could help guide future suicide prevention efforts.
 
 May Yuxue become a beautiful girl and never be discriminated against in heaven.
 

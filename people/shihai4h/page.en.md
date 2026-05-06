@@ -14,7 +14,7 @@ desc: She bloomed for just a moment and then wither.
 ]} />
 
 Shihai was a naive girl who preferred to stand by the window, gazing into the distance and losing in thought, just like her favourite QQ avators.
-In that state, she won't notice you if you walk close to her quietly.
+In that state, she won’t notice you if you walk close to her quietly.
 
 The first time I met her in real life, I (The author of this entry) was immediately attracted by her gloomy temperament just like Lin Tai-yu in *A Dream of Red Mansions*.
 
@@ -29,25 +29,25 @@ The first time I met her in real life, I (The author of this entry) was immediat
 Her hometown is located inside the central plains.
 Conservative values is dominant there.
 Her grandfather had two sons because of birth control legislations.
-Her uncle (the elder son) had one daughter (her sister); her father had one "son" (her).
+Her uncle (the elder son) had one daughter (her sister); her father had one “son” (her).
 
 They had a tradition of throwing away the placenta for female babies and burying the placenta in the center of the courtyard for male babies.
-Therefore, she had an enormous amount of pressure put on her for "extending the family line" ever since her birth.
+Therefore, she had an enormous amount of pressure put on her for “extending the family line” ever since her birth.
 
-Her father was whom we'd call a "traditional father" who follows Machismo.
+Her father was whom we’d call a “traditional father” who follows Machismo.
 In 2023, her father started to be even more strict with her after he almost died from a disease.
 
 Her father was proficient in Math and Economics.
-He wanted to raise her to be "a man who can support the sky while standing on the ground".
-He said "I want him to be resilient and unyielding, but he's too kind; he can't do it."
+He wanted to raise her to be “a man who can support the sky while standing on the ground”.
+He said “I want him to be resilient and unyielding, but he’s too kind; he can’t do it.”
 Moreover, because she was fragile, introverted, and kind since being a child, out of worry, he often taught her what he thought was necessary to live in a society: 
-Capitalism, Laws, the dark side of humanity...but she often wasn't able to meet her father's standard.
+Capitalism, Laws, the dark side of humanity...but she often wasn’t able to meet her father’s standard.
 
-She had poor grades in junior middle school, and still wasn't able to meet her family's expectations after junior middle school.
+She had poor grades in junior middle school, and still wasn’t able to meet her family’s expectations after junior middle school.
 She always blamed herself for that.
 After her graduation from high school, she studied at home for a year and then was able to get into a good public university.
-Since she was living with her parents, she didn't have much personal space and was always blamed for things that are not her fault.
-For example, when she plays a game to take a break from studies, she'd be blamed for "always playing games".
+Since she was living with her parents, she didn’t have much personal space and was always blamed for things that are not her fault.
+For example, when she plays a game to take a break from studies, she’d be blamed for “always playing games”.
 Therefore, she was always depressed.
 
 ## Her Transgender Experience
@@ -60,9 +60,9 @@ According to some other stories told by her father, she seems to be a girl who w
 
 Looking at her early life, her transgender experience is similar to Einar Wegener from *The Danish Girl*.
 Her gender incongruity was made apparent in as early as her childhood.
-Her early male personality was formed by trying to fit in with traditional values and ethics, but that's not the real her.
+Her early male personality was formed by trying to fit in with traditional values and ethics, but that’s not the real her.
 
-Sigmund Freud explained his theory about "abnormal behaviors" in his publication *Three Essays on the Theory of Sexuality*:
+Sigmund Freud explained his theory about “abnormal behaviors” in his publication *Three Essays on the Theory of Sexuality*:
 > Where the sexual instinct is fairly intense, but perverse, there are two possible outcomes.
 >
 > The first, which we shall not discuss further, is that the person affected remains a pervert and has to put up with the consequences of his deviation from the standard of civilization.
@@ -76,94 +76,94 @@ Sigmund Freud explained his theory about "abnormal behaviors" in his publication
 
 According to conservative values, being trans is a kind of such abnormality.
 She knew her parents may not be able to accept her choices.
-She thought her choice caused her parents' wishes of her void.
+She thought her choice caused her parents’ wishes of her void.
 She was diagnosed with severe depression after a failed suicide attempt.
-At that time, her father thought her trans identity was just a crossdressing fetish and was hopeful for her to be "cured" in a few years.
-He thought if that problem is taken care of, then she won't be depressed, and tried to accept her and even allowing her to take HRT.
-He told her he'll convince her mother, but he failed.
+At that time, her father thought her trans identity was just a crossdressing fetish and was hopeful for her to be “cured” in a few years.
+He thought if that problem is taken care of, then she won’t be depressed, and tried to accept her and even allowing her to take HRT.
+He told her he’ll convince her mother, but he failed.
 
 Her mother ran away from home after learning about the situation.
 Her mother told her she wants to die and never see her again.
-Before that, her parents were a loving couple who'd hold hands while going out.
+Before that, her parents were a loving couple who’d hold hands while going out.
 They even took a new set of wedding photographs in June that same year.
 Therefore, she was stuck in a dilemma between them.
-Her mother's words of unacceptance was a big blow for her.
+Her mother’s words of unacceptance was a big blow for her.
 According to her character, she might think:
-> If I'm no longer in this world, or if I was not born in the first place, then maybe my parents won't have to deal with me and will be happier?
+> If I’m no longer in this world, or if I was not born in the first place, then maybe my parents won’t have to deal with me and will be happier?
 
-She's born sentimental and has a fragile but kind heart.
-In my opinion, she's a silly girl who's too kind for her own good.
-She'd rather blame her misfortune on her fate rather than others' malice,
-just like Tai-Yu's negative outlook on life and relationships:
-> Coming together can only be followed by parting. The more pleasure people find in parties, the more lonely and unhappy they must feel when the parties break up. So better not forgather in the first place. The same is true of flowers: the delight people when in bloom, but it's so heart-rending to see them fade that it would be better if they never blossomed[^2].
+She’s born sentimental and has a fragile but kind heart.
+In my opinion, she’s a silly girl who’s too kind for her own good.
+She’d rather blame her misfortune on her fate rather than others’ malice,
+just like Tai-Yu’s negative outlook on life and relationships:
+> Coming together can only be followed by parting. The more pleasure people find in parties, the more lonely and unhappy they must feel when the parties break up. So better not forgather in the first place. The same is true of flowers: the delight people when in bloom, but it’s so heart-rending to see them fade that it would be better if they never blossomed[^2].
 
-Since a long time ago, she wanted to avoid forming close relationships because she's afraid of the partings.
+Since a long time ago, she wanted to avoid forming close relationships because she’s afraid of the partings.
 
 She had poor grades in middle school and was often bullied.
-She couldn't fight back for unreasonable isolation and even physical abuse.
+She couldn’t fight back for unreasonable isolation and even physical abuse.
 At that time, she had a close friend.
 They were neighbours.
 She started to learn to play basketball in order to play together.
 However, they parted after he started to bully her.
 That was her first resistance.
 With teary eyes, she questioned:
-> Why'd you bully me too?
+> Why’d you bully me too?
 
 Given her character and lack of therapy, this cruel experience made her eventually develop [PTSD/PTSR](https://en.wikipedia.org/wiki/Post-traumatic_stress_disorder).
 She started to be afraid of close relationships more.
 Her other mental issues like severe depression is also related to this experience.
 
-When she remembers the horrible things she'd been through, I had seen her whole body cramping, trembling. I had seen her suffer from fear, dread, and shortness of breath.
+When she remembers the horrible things she’d been through, I had seen her whole body cramping, trembling. I had seen her suffer from fear, dread, and shortness of breath.
 But I was too neglectful and obtuse.
-I didn't realize the severity of the situation and the difficulty of dealing with it.
+I didn’t realize the severity of the situation and the difficulty of dealing with it.
 If I realized, maybe things could be different.
 
 She inherited the stubbornness of her father.
 Her father researched nutritionalism and sports in order to make her grow taller.
 At that time, she wanted to grow taller as well, therefore she did as he instructed:
 eating one meal per day and doing lots of exercise.
-She had learnt of HRT since high school, but couldn't decide on it.
+She had learnt of HRT since high school, but couldn’t decide on it.
 After starting HRT, she started to regret for her efforts to grow taller in the past.
 She suffered from gender dysphoria from her height, which was especially painful for her, who was both mentally unwell and stubborn.
 
 ## She and the Trans Community
 
 *(The full story is very long, even after removing some details.
-Since it's just me and another of her friends' comments, we'll refrain from putting [it](https://www.douban.com/note/858246014/?dt_dapp=1&_i=4897516gLA6hO2) on here.)*
+Since it’s just me and another of her friends’ comments, we’ll refrain from putting [it](https://www.douban.com/note/858246014/?dt_dapp=1&_i=4897516gLA6hO2) on here.)*
 
-For the last part of her story with the trans community, I'm both a character inside the story and a reader of the story.
-In the end, I was the one who was most likely to save her life, but I wasn't able to.
-She's lost, just like in her last nightmare, her call to me wasn't picked up.
+For the last part of her story with the trans community, I’m both a character inside the story and a reader of the story.
+In the end, I was the one who was most likely to save her life, but I wasn’t able to.
+She’s lost, just like in her last nightmare, her call to me wasn’t picked up.
 
 Those stories all describe one thing:
 
 A silly girl who was never given enough love keep giving the world and everyone she meets her kindness and trust.
-And then she's hurt by people who just want to "have some fun" publishing her real identity online, to the point where she developed a persecution complex.
+And then she’s hurt by people who just want to “have some fun” publishing her real identity online, to the point where she developed a persecution complex.
 She was continuously influenced by the negative thoughts of the ones she trusted and relied on the most, and then cut off and isolated.
-On this timeline, there were tons of points where she could've gotten better, but her luck is just too bad.
+On this timeline, there were tons of points where she could’ve gotten better, but her luck is just too bad.
 
-I'm not a great person.
-I'm a numb person who keeps living in my own world and only understood everything after she left.
-I didn't know anything about her oppressive family and those cruel things happened to her.
-My cold heart didn't experience her suffering, as an ancient Chinese poet wrote in his prose:
+I’m not a great person.
+I’m a numb person who keeps living in my own world and only understood everything after she left.
+I didn’t know anything about her oppressive family and those cruel things happened to her.
+My cold heart didn’t experience her suffering, as an ancient Chinese poet wrote in his prose:
 
-> "The wind is born from the earth, Rises from the tips of green duckweed[^3]."
+> “The wind is born from the earth, Rises from the tips of green duckweed[^3].”
 
-If I was a more caring person, maybe I could've realized those abnormalities, maybe I could've prevented her death.
+If I was a more caring person, maybe I could’ve realized those abnormalities, maybe I could’ve prevented her death.
 
 > Do not cry for love, my dear[^4].
 
-In her view, I'm a big sister who likes her.
+In her view, I’m a big sister who likes her.
 She was too kind.
-She knew love comes with pain, but she didn't want to hurt anyone.
+She knew love comes with pain, but she didn’t want to hurt anyone.
 Therefore, she gave me a complex form of love involving romantic affection, sisterly love, and gingerly care.
-Since she knew she had been influenced negatively by many other trans people who have negative outlooks on life, she didn't want to "infect" those negative thoughts to me, just like she's always worried about the person in her heart.
+Since she knew she had been influenced negatively by many other trans people who have negative outlooks on life, she didn’t want to “infect” those negative thoughts to me, just like she’s always worried about the person in her heart.
 
 She tried intentionally keeping a distance from me:
-> Anan is a working member of society, I won't care whether you wants to be with me or not.
+> Anan is a working member of society, I won’t care whether you wants to be with me or not.
 Wrong.
 
-There's nothing happier in this world than being loved back by the one you love.
+There’s nothing happier in this world than being loved back by the one you love.
 You had always been the vast sea and clear sky in my world.
 Sorry, I was busy making a living; I was busy dealing with others.
 But I forgot to hold on to your hand and lost you.
@@ -171,32 +171,32 @@ But I forgot to hold on to your hand and lost you.
 ## Absurdity and Suicide, the Last Chapter
 
 God keeps throwing the dice and it always landed on one.
-Born emotionally sensitive, pressure from family, meeting the wrong people, one after one, she didn't have a chance to collect herself.
+Born emotionally sensitive, pressure from family, meeting the wrong people, one after one, she didn’t have a chance to collect herself.
 
 > How could such a delicate flower withstand a fierce gale, or the care-stricken willow endure torrential rain[^5]?
 
-I don't wanna spend more ink on those people who had betrayed her.
+I don’t wanna spend more ink on those people who had betrayed her.
 Humanity, though complex, always leaves traces.
 She was smart enough to realize this from the beginning:
-> There're happiness in life, but nothing lasts forever.
-> There're imperfections in good things, and fortunes always come with small prints.
+> There’re happiness in life, but nothing lasts forever.
+> There’re imperfections in good things, and fortunes always come with small prints.
 > Happiness would turn into sadness; people come and go.
-> In the end it's like a dream, everything turns to void.
-> Maybe it's not worth it in the first place[^6].
+> In the end it’s like a dream, everything turns to void.
+> Maybe it’s not worth it in the first place[^6].
 
 She thought lots and lots and waited for a juncture.
 > The worm is in man’s heart. That is where it must be sought. One must follow and understand this fatal game that leads from lucidity in the face of experience to flight from light[^7].
 
 Many philosophers and authors explained well the tragedy, voidness, and absurdity of living.
-Everyone is infinity if they're seen as the center of the world.{/* 这句不太对劲 */}
+Everyone is infinity if they’re seen as the center of the world.{/* 这句不太对劲 */}
 In essence, everyone is an island.
 What one think cannot be directly experienced by any other.
-In this view, anyone's consciousness is always alone.
+In this view, anyone’s consciousness is always alone.
 
 People spend their lives to beg for love from the world, but disappointment is often what follows.
 At those points, the meaninglessness and disappointing nature of the world would be shown completely.
 But humanity contains hope for love, happiness, and rationality.
-Absurdity and meaninglessness is then born from the conflict of humanity's hope and world's nature.
+Absurdity and meaninglessness is then born from the conflict of humanity’s hope and world’s nature.
 Realizing they are enduring this absurd world, some may be motivated for suicide.
 
 > Dying voluntarily implies that you have recognized, even instinctively, the ridiculous character of that habit, the absence of any profound reason for living, the insane character of that daily agitation and the uselessness of suffering.
@@ -205,20 +205,20 @@ Realizing they are enduring this absurd world, some may be motivated for suicide
 
 Motivations for suicide is complex.
 Few consider it throughly.
-The numbness of living just for living causes pain, but suicide needs a kind of bravery that overcomes the body's natural inclination to avoid death.
-"My soul is on the verge of death, but my body don't want to die."
-If there's any hint of meaning at that point, death may be avoided.
+The numbness of living just for living causes pain, but suicide needs a kind of bravery that overcomes the body’s natural inclination to avoid death.
+“My soul is on the verge of death, but my body don’t want to die.”
+If there’s any hint of meaning at that point, death may be avoided.
 What she thought to be her meaning fades completely at some point and caused her will to keep living as a habit to crumble.
 
 Albert Camus had a positive outlook on life.
 He often nostalgically recalled the vast sea and clear sky from his hometown.
 He realized the absurdity of life, but he also realized he could live however he wanted.
-He knew he couldn't rid the evil of the world, but he embraced the absurdity of live anyway.
+He knew he couldn’t rid the evil of the world, but he embraced the absurdity of live anyway.
 But my dear Shihai, this world had lost the vast sea and clear sky she was so fond of.
 What an world would make people choose to die rather than living?
 How absurd.
 
-In the end, she said "Living is just eating, drinking, playing, and having sex.", "World abandoned me so I'll abandon it too."
+In the end, she said “Living is just eating, drinking, playing, and having sex.”, “World abandoned me so I’ll abandon it too.”
 
 In the end, she got a bad end she wanted to get in *Needy Streamer Overload*.
 
@@ -226,7 +226,7 @@ In the end, she chose to become one with the void as a final act of defiance to 
 > Ame (main character of *Needy Streamer Overload*) can restart in the next playthrough,
 > but in this world,
 > even if I spend my whole life,
-> I'll never find that silly cat again.
+> I’ll never find that silly cat again.
 
 > No search can be made for the incense that revives the dead, as the way to Fairy Tales is lost. No medicine that restores life can be obtained, as the Magic Barge[^9] is gone. Only yesterday I was painting those bluish eyebrows; today, who will warm her cold fingers with the jade rings[^10]?
 
@@ -238,20 +238,20 @@ They bloom for just a moment and then wither.
 Her life is just like that.
 
 Mishima Yukio wrote a life of rebirth in *The Decay of the Angel*.
-Every time they reaches 18, they'd be reborn in another life.
+Every time they reaches 18, they’d be reborn in another life.
 Therefore, they always lived in their best days and never needed to worry about dying after their teeth fall off, hair become gray, or losing their beauty.
 
 Shihai is like that, although the Sakura flower has withered, it had bloomed after all.
 
 My dear Shihai, see you in the next life.
-I believe we'll meet even then, since we've become intertwined by fate.
+I believe we’ll meet even then, since we’ve become intertwined by fate.
 I still wanted to ask you why, but no one will give me an answer now no matter how many times I do.
 
-Contributor: [Li'an](https://twitter.com/LianShihai)
+Contributor: [Li’an](https://twitter.com/LianShihai)
 
 <details>
 <summary>**References and Annotation**</summary>
-[^1]: from Freud, S. (1908). ‘Civilized’ Sexual Morality and Modern Nervous I lness. The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume IX (1906-1908): Jensen's ‘Gradiva’ and Other Works, 177-204
+[^1]: from Freud, S. (1908). ‘Civilized’ Sexual Morality and Modern Nervous I lness. The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume IX (1906-1908): Jensen’s ‘Gradiva’ and Other Works, 177-204
 
 [^2]: from A Dream of Red Mansions Volume I (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【Volume I P452】ISBN: 9787119006437
 
@@ -261,11 +261,11 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 
 [^5]: from A Dream of Red Mansions Volume II (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【Volume II P672】ISBN: 9787119006437
 
-[^6]: from Chapter 1, The Dream of Red Mansion(Jia-Xu Version), Translated by *One Among Us Member* with the help of Li'an
+[^6]: from Chapter 1, The Dream of Red Mansion(Jia-Xu Version), Translated by *One Among Us Member* with the help of Li’an
 
-[^7]: from The Myth of Sisyphus, Albert Camus, Justin O'Brien, Penguin Books Ltd; Spark Publishing【P2】ISBN 13: 9781411473379
+[^7]: from The Myth of Sisyphus, Albert Camus, Justin O’Brien, Penguin Books Ltd; Spark Publishing【P2】ISBN 13: 9781411473379
 
-[^8]: from The Myth of Sisyphus, Albert Camus, Justin O'Brien, Penguin Books Ltd; Spark Publishing【P3】ISBN 13: 9781411473379
+[^8]: from The Myth of Sisyphus, Albert Camus, Justin O’Brien, Penguin Books Ltd; Spark Publishing【P3】ISBN 13: 9781411473379
 
 [^9]: Magic Barge: A Chinese legend said this belonged to the immortals and sailed in the Sky River, Milky Way.
 
@@ -292,13 +292,13 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 > 英语：Three Essays on the Theory of Sexuality / Three Contributions to the Theory of Sex
 
 精神病患者就是一群违心地去适应了文化要求的影响，痛苦地压制了内心的欲望，竭尽全力地为文化的形成添砖加瓦的人，他们为此殚精竭虑，因此时不时地会显露出病态：
-> 本段实则出自：文明的性道德与现代神经症 （"Civilized" Sexual Morality and Modern Nervous Illness） 
+> 本段实则出自：文明的性道德与现代神经症 （“Civilized” Sexual Morality and Modern Nervous Illness） 
 >
 > 在部分中文书籍中会将其收入《性学三论》
 > 
 > 《性学三论》JAMES STRACHEY 英译本里没有这个章节，本翻譯来源于：
 >
-> Freud, S. (1908). ‘Civilized’ Sexual Morality and Modern Nervous I lness. The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume IX (1906-1908): Jensen's ‘Gradiva’ and Other Works, 177-204
+> Freud, S. (1908). ‘Civilized’ Sexual Morality and Modern Nervous I lness. The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume IX (1906-1908): Jensen’s ‘Gradiva’ and Other Works, 177-204
 >
 > 文段摘录
 >
@@ -340,7 +340,7 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 
 > 原文选自红楼梦第三十一回：林黛玉天生喜散不喜聚，他想的也有个道理，「人有聚就有散，聚时欢喜，到散时岂不冷清？既冷清，则生感伤，所以不如到是不聚的好。比如那花，开时令人爱慕，谢时则增惆怅，所以到是不开的好。」
 >
-> 杨宪益、戴乃迭译：Now Tai-yu naturally preferred solitude to society. She reasoned, "Coming together can only be followed by parting. The more pleasure people find in parties, the more lonely and unhappy they must feel when the parties break up. So better not forgather in the first place. The same is true of flowers: the delight people when in bloom, but it's so heart-rending to see them fade that it would be better if they never blossomed."
+> 杨宪益、戴乃迭译：Now Tai-yu naturally preferred solitude to society. She reasoned, “Coming together can only be followed by parting. The more pleasure people find in parties, the more lonely and unhappy they must feel when the parties break up. So better not forgather in the first place. The same is true of flowers: the delight people when in bloom, but it’s so heart-rending to see them fade that it would be better if they never blossomed.”
 >
 > A Dream of Red Mansions Volume I (Cao Xueqin, Gao E.), Foreign languages Press, Beijing, China, 1994 (First Published in hardback in 1978) 【第一册 P452】ISBN: 9787119006437
 >
@@ -391,13 +391,13 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 
 梨安后续给了我一部分文段，是目前英语比较通行的译本，供参考，我已经从z-library的书本中检查了拼写，除了标点符号有区别之外，是无误的，我把标点改为了z-library查到的书籍的版本。
 
-> Justin O'Brien 译本：
+> Justin O’Brien 译本：
 >
 > 「隐痛深藏于人的内心深处，正是应该在人的内心深处去探寻隐痛。这死亡的游戏是由面对存在的清醒，过渡到要脱离光明的逃遁。我们应该沿着这条线索去理解自杀。」
 > 
-> "The worm is in man’s heart. That is where it must be sought. One must follow and understand this fatal game that leads from lucidity in the face of experience to flight from light."
+> “The worm is in man’s heart. That is where it must be sought. One must follow and understand this fatal game that leads from lucidity in the face of experience to flight from light.”
 >
-> The Myth of Sisyphus, Albert Camus, Justin O'Brien, Penguin Books Ltd; Spark Publishing【P2】ISBN 13: 9781411473379
+> The Myth of Sisyphus, Albert Camus, Justin O’Brien, Penguin Books Ltd; Spark Publishing【P2】ISBN 13: 9781411473379
 >
 > 一个人自愿去死，则说明这个人认识到——即使是下意识地——习惯是可笑的，认识到人活着的任何深刻理由都是不存在的，就是认识到日常行为是无意义的，遭受痛苦也是无用的。
 > 
@@ -407,7 +407,7 @@ Contributor: [Li'an](https://twitter.com/LianShihai)
 > 
 > What then is that incalculable feeling that deprives the mind of the sleep necessary to life? A world that can be explained even with bad reasons is a familiar world. But, on the other hand, in a universe suddenly divested of illusions and lights, man feels an alien, a stranger. His exile is without remedy since he is deprived of the memory of a lost home or the hope of a promised land. This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity. All healthy men having thought of their own suicide, it can be seen, without further explanation, that there is a direct connection between this feeling and the longing for death.
 >
-> The Myth of Sisyphus, Albert Camus, Justin O'Brien, Penguin Books Ltd; Spark Publishing【P3】ISBN 13: 9781411473379
+> The Myth of Sisyphus, Albert Camus, Justin O’Brien, Penguin Books Ltd; Spark Publishing【P3】ISBN 13: 9781411473379
 
 主播女孩重度依赖：NEEDY GIRL OVERDOSE，英文版修改后名：Needy Streamer Overload
 

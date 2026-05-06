@@ -111,7 +111,7 @@ At some quiet, unknown hour, she left once again—only this time, everyone knew
 
 ## Afterword
 
-After Dong Jin's departure,
+After Dong Jin’s departure,
 her grandmother once had a dream:
 she saw Dong Jin crouched by a candle, lost in thought.
 The old woman didn’t quite understand, 

@@ -5,16 +5,16 @@ info:
 desc: Cuddle?
 ---
 
-> Ah, It's noon. Cuddle?
+> Ah, It’s noon. Cuddle?
 
 ## Description
 
 Cuddly is a somewhat mysterious girl. Although she often posts incomprehensible things on Twitter, she is actually very interesting, cute, and empathetic.  
 
-Perhaps due to borderline personality disorder or a learning disability, she always likes to add "Cuddle?" at the end of a sentence or a paragraph.  
-Because of this, everyone always likes to call her "Sis Cuddly".
+Perhaps due to borderline personality disorder or a learning disability, she always likes to add “Cuddle?” at the end of a sentence or a paragraph.  
+Because of this, everyone always likes to call her “Sis Cuddly”.
 
-She has a peculiar habit of saying, "Cut me into little pieces and toss them into the sea to feed the fishies..."
+She has a peculiar habit of saying, “Cut me into little pieces and toss them into the sea to feed the fishies...”
 
 She always wanted to explore ways to commit suicide, but ironically, she died in an artificial accident.
 
@@ -24,6 +24,6 @@ In early July 2023, she, who had been posting to social media every day, suddenl
 
 We have no way of knowing the exact date of her death. All we can do is keep her in our memories.
 
-> "Thank you, Sis Cuddly. Don't forget to come and spar with us often in the future."
+> “Thank you, Sis Cuddly. Don’t forget to come and spar with us often in the future.”
 
-"Hurry and come cut the watermelon; you can slice it into little pieces! 🍉"
+“Hurry and come cut the watermelon; you can slice it into little pieces! 🍉”
