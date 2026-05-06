@@ -24,7 +24,7 @@ The incident was recorded in legal documents by her girlfriend [Sui Ye You Zi](h
 
 Confirmed on twitter by both [Sui Ye You Zi](https://twitter.com/YuzuTvT) and [Lee](https://twitter.com/rbqwansui).
 
-Contributor of entry:
+Contributor for this entry:
 [Sui Ye You Zi](https://twitter.com/YuzuTvT)
 
 [^1]: Editor's note: After fact-checking, the original contributor to this entry used the name EK-Source-of-Life (now the GitHub account has been deleted), which is not necessarily related to Qian Yu Mao Tou herself.
