@@ -68,7 +68,7 @@ On June 27th, her boyfriend accompanied her. They ate delicious food and played 
 After her boyfriend saw her off at a subway station and she returned to her residence, she walked to the river alone, not bringing her phone or tablet this time only, and jumped in.
 Her body was discovered on July 5th.
 
-Contributors: Zhenli, Sansan, Suona
+Contributors for this entry: Zhenli, Sansan, Suona
 
 [^1]: Yuki’s substitute parent? They were like mother and daughter. Zhouzhou cared for Yuki for a long time and rescued Yuki many times from suicide.
 

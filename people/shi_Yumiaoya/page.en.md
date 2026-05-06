@@ -49,6 +49,6 @@ Nikon D200 -->
 Well, Yumiao, girl’s last tour ended.
 And you can finally get a good sleep.
 
-Contributor: [Jose](https://twitter.com/JoseToYuToMiao)
+Contributor for this entry: [Jose](https://twitter.com/JoseToYuToMiao)
 
 (Some experience originated in Yumiao’s autobiography before her departure. There are M&D.)

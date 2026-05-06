@@ -247,7 +247,7 @@ My dear Shihai, see you in the next life.
 I believe we’ll meet even then, since we’ve become intertwined by fate.
 I still wanted to ask you why, but no one will give me an answer now no matter how many times I do.
 
-Contributor: [Li’an](https://twitter.com/LianShihai)
+Contributor for this entry: [Li’an](https://twitter.com/LianShihai)
 
 <details>
 <summary>**References and Annotation**</summary>
