@@ -30,7 +30,7 @@ She recorded those beautiful moments of nature:
 
 She knew how to use Tarot for divination. However, according to her friends, she often got bad predictions in divination.
 
-SugarMeow said MioCardMeow was in fact a clingy girl. It was a pity that she couldn't be with her more due to her studies.
+SugarMeow said MioCardMeow was in fact a clingy girl. It was a pity that she couldn’t be with her more due to her studies.
 
 ## Departure
 

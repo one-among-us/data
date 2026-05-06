@@ -19,14 +19,14 @@ desc: Here, drink this can of Monster Energy.
 
 —from her partner in life
 
-> Friend, it's been four months, are you happy in heaven?
+> Friend, it’s been four months, are you happy in heaven?
 >
 > Come here, drink this can of Monster Energy.
 >
-> Maybe you don't really like it, but it was the drink you chose while you were working.
+> Maybe you don’t really like it, but it was the drink you chose while you were working.
 >
 > Eat this plate of Wuhan Re Gan noodles, too.
-> It might not be authentic enough for a Wuhan native like you, but I can't think of anything else.
+> It might not be authentic enough for a Wuhan native like you, but I can’t think of anything else.
 >
 > Wish you well in heaven, my friend.
 > Entrust a dream to me when you have time, alright?
