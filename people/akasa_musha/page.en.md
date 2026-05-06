@@ -3,6 +3,8 @@ name: Xingyun Yuxue
 desc: A transspecies cat girl.
 ---
 
+## Introduction
+
 Yuxue is a transgender catgirl. In her self-introduction, she said, “I declare that I am a transspecies cat girl, a cross-species cat girl. Although I am a human being biologically, I identify myself as a catgirl. At the same time, I identify myself as a woman, but I’m male biologically, so I am MtF.”
 
 Yuxue is a person who craves companionship, which was often mentioned in her tweets. She often tweets about her unbearable loneliness and longing for companionship. Eventually, she found several best friends who could accompany her. But her sensitivity made her worry that she would be hated by others.
