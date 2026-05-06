@@ -5,6 +5,8 @@ info:
     location: Beijing, China
 ---
 
+## Introduction
+
 Xiyin was an outstanding transgender woman. She was cute and gentle. She was a student majoring in electronic information engineering and was good at electronic design and programming. She was a genius in everyone’s eyes, but she also had times when she’s depressed or anxious. She didn’t like to show her emotions: In the school group chat, she was a positive girl who often helps answer questions about electronic design and programming.
 
 She worked hard at college. Since her relationship with her family was bad, she hoped to support herself through part-time jobs and internships and also save funds for sex reassignment surgery. However, COVID-19 had seriously hindered her pace, causing her to fall into financial difficulties. This may be one of the reasons why she chose to commit suicide.
