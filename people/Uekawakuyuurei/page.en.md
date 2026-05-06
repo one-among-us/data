@@ -21,9 +21,9 @@ Yes, the most powerful weapons in your world might actually be the cutest and ge
 
 Donations made because of their drawings is part of their financial resource.
 Even after confirming their *indolent cell carcinoma of ascending colon*, Ying did not stop drawing.
-Later, they uploaded most of their drawings' digitalized versions to their [Telegram channel](https://t.me/joinchat/65vSQ6ELb3YxN2I9),
+Later, they uploaded most of their drawings’ digitalized versions to their [Telegram channel](https://t.me/joinchat/65vSQ6ELb3YxN2I9),
 making every work they had done free to download and enjoy.
-Here's a selected few of her drawings:
+Here’s a selected few of her drawings:
 
 <PhotoScroll photos={[
     '${path}/photos/IMG_1308.webp', 
@@ -39,7 +39,7 @@ Here's a selected few of her drawings:
 But this world is just that unfair.
 No medicine Ying tried worked for their disease.
 In Summer 2021, Ying is diagnosed as *Bone metastasis* stage IV.
-Yet, Ying didn't stop caring about their friends to not let us worried even while enduring great physical pain.
+Yet, Ying didn’t stop caring about their friends to not let us worried even while enduring great physical pain.
 
 In September 2021, Ying went to the other side of the sea (metaphorically) on their favourite ship.
 Their last Twitter post was:
