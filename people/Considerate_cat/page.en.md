@@ -33,7 +33,7 @@ On May 11th, 2023, MoeCat gave Cencen a hair clip and hoped that Cencen would th
 
 On May 12th, 2023, MoeCat started asking Cencen for blessings and hoped that Cencen would wish her “to be a girl in the next life”.
 
-On May 13th, 2023, Cencen sensed that she might commit suicide the next day and informed EnderCat at 11:45 pm that night.
+On May 13th, 2023, Cencen sensed that she might kill herself the next day and informed EnderCat at 11:45 pm that night.
 EnderCat tried to inform her parents but failed.
 
 On May 14th, 2023, EnderCat received a forwarded chat record from “Fixing Broken Hearts” at 1:11 am and tried to contact MoeCat and her parents to confirm her status.
@@ -43,7 +43,7 @@ At 1:17 am, MoeCat sent EnderCat an apology message and said, “I’m really ha
 
 But she did not realize her dreams or meet EnderCat.
 On May 13th, 2023, she was really happy, as if she had returned to normal.
-In the early morning of the next day, she chose to commit suicide.
+In the early morning of the next day, she chose to take her own life.
 
 That was a decision that was hard to accept and understand.
 I know she endured a lot of pain and pressure.
@@ -75,6 +75,6 @@ EnderCat: MoeCat’s friend and one of the main interveners. According to EnderC
 
 “Fixing Broken Hearts”: MoeCat’s friend and the one who invited MoeCat to join “a group chat”. Because of her, MoeCat could buy HRT medication and meet everyone. According to her, if she did not pull MoeCat into the circle, MoeCat might not have committed suicide.
 
-Cencen: MoeCat’s boyfriend, the first one to sense that MoeCat would commit suicide. According to him, “We may have indeed prolonged her life. Without us, she might have left in March...”
+Cencen: MoeCat’s boyfriend, the first one to sense that MoeCat would take her own life. According to him, “We may have indeed prolonged her life. Without us, she might have left in March...”
 
 <!-- Contributor for this entry：[Ender Cat](https://github.com/CcendercatcC) -->

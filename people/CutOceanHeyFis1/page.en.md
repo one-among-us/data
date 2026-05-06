@@ -16,7 +16,7 @@ Because of this, everyone always likes to call her “Sis Cuddly”.
 
 She has a peculiar habit of saying, “Cut me into little pieces and toss them into the sea to feed the fishies...”
 
-She always wanted to explore ways to commit suicide, but ironically, she died in an artificial accident.
+She always wanted to explore ways to take her own life, but ironically, she died in an artificial accident.
 
 ## Departure
 
