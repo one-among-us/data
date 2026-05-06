@@ -18,16 +18,16 @@ Here is a drawing of her by an art student she met during one of her stays in th
     '${path}/photos/portrait.webp', 
 ]} />
 
-Because Exist's haircut was similar to the character Isabelle in *Animal Crossing*;
+Because Exist’s haircut was similar to the character Isabelle in *Animal Crossing*;
 also because her personality was as cute as that of Isabelle,
 we call her Isabelle sometimes.
-She however didn't seem to like to be called that sometimes.
+She however didn’t seem to like to be called that sometimes.
 
 Exist had a good fashion sense.
-Whether it's “human's clothing” (clothing style most people choose for their everyday life), JK, or lolita,
+Whether it’s “human’s clothing” (clothing style most people choose for their everyday life), JK, or lolita,
 she was able to find the clothing choices to best express herself.
 Exist once found a [tagline signaling gender expression diversity acceptance by *Uniqlo*](https://twitter.com/donotexist_A/status/1352976196766633985?s=20):
-“This is a piece clothing designed for girls and women, but it's suitable for boys and men, too!”
+“This is a piece clothing designed for girls and women, but it’s suitable for boys and men, too!”
 
 Exist likes to read books.
 Many types of books.
@@ -36,7 +36,7 @@ Once, she went to [Huadu library](https://twitter.com/donotexist_A/status/135833
 
 Exist likes to try out new things.
 She often wandered around the city and found lots of great sceneries other people would have ignored.
-Whether it's a bookstore visit, a clothes shopping trip, a night of playing rhythm games together, or trying out various foods,
+Whether it’s a bookstore visit, a clothes shopping trip, a night of playing rhythm games together, or trying out various foods,
 she can always keep everyone engaged.
 
 Exist has too many good qualities to list.
