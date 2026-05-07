@@ -6,7 +6,7 @@ info:
 desc: Treat you to some beverages.
 ---
 
-> “Thank you for talking with me so much
+> “Thank you for talking with me so much.
 > If we meet in heaven, I’ll treat you to some beverages.”
 >
 > `-` “It would be better if we could drink it together in this world.
