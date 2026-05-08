@@ -36,7 +36,7 @@ Actually, she was still pretty despite that.
 
 The two girls visited many places of interest in Hangzhou……
 
-West Lake Culture Square, Wulin Suqare, Wuliu Lane, and Fengshan Gate.
+West Lake Culture Square, Wulin Square, Wuliu Lane, and Fengshan Gate.
 
 When parting, She asked A about her thoughts on her plan to “threaten” her parents (to gain acceptance of being trans).
 

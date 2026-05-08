@@ -7,11 +7,11 @@ info:
 
 ## Description 
 
-She had been particularly interested in aerospace and military since childhood, and loved to play various flight and war simulation games. She also had a strong interest in game development, enjoyed writing mods for the games she loved, and had even participated in the development of independent games. She is also an excellent drummer and has played in bands. She is good at English, painting and so on.  
+She had been particularly interested in aerospace and the military since childhood, and loved to play various flight and war simulation games. She also had a strong interest in game development, enjoyed writing mods for the games she loved, and had even participated in the development of independent games. She is also an excellent drummer and has played in bands. She is good at English, painting and so on.  
 
 Although everyone thought of her as an excellent and normal person, she finally became unable to suppress the MtF thoughts that had been in her heart since she was a child, and she suffered from severe depression from then on.  
 
-Even with the ensuing feminization, she was still unable to accept her appearance. She dreamed of being a cat-like girl with lovely appearance and a lively personality.  
+Even with the ensuing feminization, she was still unable to accept her appearance. She dreamed of being a cat-like girl with a lovely appearance and a lively personality.  
 
 In the last few months of her life, she was separated from her loving family. This made her suddenly feel relieved. She finally could vent her emotions, but also slowly allowed herself to degenerate. She found that she slowly lost interest in the things she once loved, and eventually couldn’t even concentrate on doing anything. At the same time, her mental illness began to spiral out of control, with acute anxiety outbreaks occurring very frequently. All of this made her blame herself even more.  
 

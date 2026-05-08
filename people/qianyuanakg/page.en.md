@@ -13,7 +13,7 @@ She was an art student, and some of the avatars she used were drawn by herself.
 
 She liked her long hair and wore lovely clothes.
 
-She always shared about her daily life. Whether she saw cute cats or beautiful flowers, or she had a bad day, she would share them to us.
+She always shared about her daily life. Whether she saw cute cats or beautiful flowers, or she had a bad day, she would share them with us.
 
 Interestingly, she has a lovely sister who bites others (playfully and harmlessly) sometimes.
 
@@ -28,7 +28,7 @@ She was truly an adorable child.
 Since we first met online, she’d said that she wanted to play with me.
 It was a pity that we cannot meet each other during the time from November to February of following year. In the end, we never met irl.
 
-Although she would feel embarrassed in the public, she still hoped to make friends.
+Although she would feel embarrassed in public, she still hoped to make friends.
 She participated in some trans girl irl gatherings several times, but few people tried to start a conversation with her.
 So she was on her phone in a corner, then went away to find me.
 

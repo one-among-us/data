@@ -15,12 +15,12 @@ This is the last piece of writing she left us…
 
 ## About Seven Bird
 
-She was just like her nickname Seven Bird, flew high, flew to the moon.
-She built us *Misaka Network* members the website *Misaka Network*, the place where we shared joy.
+She was just like her nickname Seven Bird, who flew high, all the way to the moon.
+She built the *Misaka Network* website for us *Misaka Network* members, the place where we shared joy.
 
 She was a lively and optimistic girl.
-Always willing to help others, she not only cared about us when we are in need, but she also saved many people from suicide.
-But “a doctor cannot help themself”, in the end, she was unable to save herself.
+Always willing to help others, she not only cared about us when we were in need, but she also saved many people from suicide.
+But “a doctor cannot help themselves”, in the end, she was unable to save herself.
 
 She loved rhythm games.
 In her last moments, she played the song *Spasmodic* in *Phigros* for the last time to say goodbye.
@@ -31,7 +31,7 @@ This is her last wish:
 
 ---
 
-Wishing you to be able to live happily as yourself on the other side.
+Wishing that you are able to live happily as yourself on the other side.
 We will look at the bright moon when we long for you.
 
 <p align="right">

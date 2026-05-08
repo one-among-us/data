@@ -30,7 +30,7 @@ She studied in the School of Mathematics at Liaoning Normal University.
 
 She was proficient in mathematics and enjoyed learning computer science.
 
-She was also a traffic enthusiast.
+She was also a transit enthusiast.
 She was interested in city buses, rail transit and national railways.
 Occasionally, she took flights and looked at the blue sky outside the porthole.
 Although these were always solo trips.
@@ -40,7 +40,7 @@ Although these were always solo trips.
     '${path}/photos/photo2.webp',
 ]} />
 
-She was good at playing rhythm game OSU, and uploaded many videos of her gameplay.
+She was good at playing the rhythm game *osu!*, and uploaded many videos of her gameplay.
 She was still online even when she was in a bad mental condition.
 
 Hanasaka also focused on several kinds of games,
@@ -79,7 +79,7 @@ Fortunately, she was out of danger later on.
 > // Please rest assured, everyone who forwarded my post. It won’t crash!
 
 Although she told everyone to go out and take a look at the scenery to relax,
-and she also said, “Please keep alive even if you are desperate. In that case, you can make dreams come true.”
+and she also said, “Please stay alive even if you are desperate. In that case, you can make dreams come true.”
 
 But she still chose to leave this world in August.
 
@@ -154,4 +154,4 @@ Hanasaka left a letter for her only friend:
 
 Now these accounts are free. May she be free too.
 
-Time to sleep friends, and keep smiling, keep alive.
+Time to sleep friends, and keep smiling, stay alive.

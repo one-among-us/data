@@ -3,7 +3,7 @@ name: dogesir_
 info:
     alias: dogesir, Lan Gou (blue dog)
     location: Changchun, Jilin
-desc: Waiting for her another postcard.
+desc: Waiting for another postcard from her.
 ---
 
 > “Have you seen *Night on the Galactic Railroad*? I want to get on that train, too.”
@@ -51,7 +51,7 @@ English transcript of her self-description above:
 >
 > Likes tweets often. Might overflow your Twitter timeline.
 >
-> Not good on small talk. Especially in real life.
+> Not good at small talk. Especially in real life.
 > Once avoided speaking for half a year.
 > So I might not reply to your pm.
 >   * Often stops suddenly while chatting. Replies only after thinking it through.

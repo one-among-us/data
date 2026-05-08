@@ -35,9 +35,9 @@ After [YanTian](https://one-among.us/profile/SS3B_0016) passed away, she tried t
 
 ## Departure
 
-After [SANYIA](http://www.sanyia.top) [was admitted to the mental health hospital again](https://meow.sanyia.top/index.php/archives/357/), Rentable finally lost her last silver of hope.
+After [SANYIA](http://www.sanyia.top) [was admitted to the mental health hospital again](https://meow.sanyia.top/index.php/archives/357/), Rentable finally lost her last sliver of hope.
 
-> Who is homeless, sitting on the street, and crying at three o’clock?
+> Who is homeless, sitting on the street, and crying at three o’clock in the morning?
 > Oh, it’s me...
 
 SANYIA once told her that she would be discharged from the hospital in July, and this became the last straw for her.  

@@ -44,7 +44,7 @@ like chaotic threads, cross, combine, split, and dissipate...
 The bitter winter will eventually pass.
 Do you still remember that day, March 18th?
 
-Why I bring it up now?
+Why do I bring it up now?
 Because, truly, thank you...
 
 Branches twist and sprawl, black and white,

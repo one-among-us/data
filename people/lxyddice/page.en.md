@@ -12,7 +12,7 @@ desc: Life is messy, code is easy.
 
 ## Introduction
 
-When people talk about lxyddice (líng xià yī dù de ice, means “ice crystal below 0 degrees”),
+When people talk about lxyddice (líng xià yī dù de ice (meaning “ice crystal below 0 degrees”)),
 they often describe her as a kind-hearted and thoughtful person,
 always putting others first.  
 

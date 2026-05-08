@@ -70,7 +70,7 @@ At that time, she was one of my “little bells[^1]” as I often saw her and Sp
 
 Through our chats,
 I began to realize that Mika’s family likely offered little emotional support.
-She was longed for love and companionship and tended to become emotionally dependent on others.
+She longed for love and companionship and tended to become emotionally dependent on others.
 About half a month later,
 the four of us created a small group chat.
 Almost every night, we’d make calls together,
@@ -86,7 +86,7 @@ Money was precisely the breaking point for Mika’s despair.
 In late August, she tried coming out but ended up facing serious opposition.
 What started as a typical situation—family conflict,
 her parents not wanting her to undergo hormone replacement therapy (HRT).
-So Mika running away from home only to be brought back by the police—ended in conflict resolution at the local police station.
+So Mika ran away from home only to be brought back by the police—ended in conflict resolution at the local police station.
 
 That was originally just a typical thing.
 
@@ -140,7 +140,7 @@ Those were Mika’s last words, and at that moment, I felt utterly powerless.
 
 I received confirmed news of Mika’s departure on October 24th.
 
-Because of a previous competition I qualified for, I went to Sanchakou(three-river-junction) that day. 
+Because of a previous competition I qualified for, I went to Sanchakou (three-river-junction) that day. 
 
 Since parking wasn’t allowed inside the Children’s Palace,
 we changed clothes in the parking lot beneath the Tianjin Eye.  
@@ -209,7 +209,7 @@ Mika once said,
 I know now that she may never get to see that view.  
 But her story, her love, and her misunderstood persistence will forever remain in the hearts of those who remember her.
 
-Love has never really disappears...it’s just that we can no longer speak it to her in person.
+Love never really disappears...it’s just that we can no longer speak it to her in person.
 
 <PhotoScroll photos={[
 '${path}/photos/photo2.webp',
@@ -222,7 +222,7 @@ Love has never really disappears...it’s just that we can no longer speak it to
 ## Epilogue
 
 Mika’s story includes many aspects that I can’t openly share,
-such as details about her family, friends.
+such as details about her family and friends.
 And those close to her advised me to keep certain things private.
 So I can only write up to this point.
 

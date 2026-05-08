@@ -60,7 +60,7 @@ This wasn’t a choice, but the culmination of relentless psychological violence
 It began when she tried to sever ties with her ex,
 N—a person with extreme emotional instability,
 who had long abused drugs and frequently descended into rage and delusion.
-After she unlinked their social media, N began his campaign of harassment.
+After she unfollowed their social media, N began his campaign of harassment.
 
 He sent her her home address, threatening to fly to her city and burn her house down with gasoline, “sending you and your family to hell together.”
 He demanded she reestablish their relationship, claiming it was her “only option.”

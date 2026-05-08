@@ -51,7 +51,7 @@ English translation of the preceding letter:
 > I am ArtsEpiphany, an admin from the online forum Transland.
 > You can call me Arts.
 > I saw your QQ instant messaging number in your forum profile, but you seem to have disabled initiating conversations using QQ number.
-> Therefore I chose to contact you in this way, I’m sorry!
+> Therefore, I chose to contact you in this way; I’m sorry!
 >
 > Actually, Arts is also a cat-like person.
 > How can a cat-like person be unforgivable?
@@ -118,7 +118,7 @@ English translation of the preceding email conversation:
 >   > All from One Among Us will always be with you.
 >   > If you need help, please contact us or someone you trust.
 >   > Please do not worry, we’ll try to write down what we remember.
->   > But keep living is the best way to rebel against the hatred in the world.
+>   > But to keep living is the best way to rebel against the hatred in the world.
 >   > The dynamic stories about you or me, the stories that are living, are much more alive than finished stories.
 >   > That’s what we can never write down.
 >   > Love you. Do not give up easily.

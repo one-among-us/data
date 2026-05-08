@@ -2,7 +2,7 @@
 name: Tsukiko
 info:
     alias: Tsuki
-    location: Wuxi，Jiangsu
+    location: Wuxi, Jiangsu
 desc: How much longer can I watch such a sky?
 ---
 
@@ -12,11 +12,11 @@ Tsukiko was a non-binary friend among us, whose pronouns were He/Him.
 
 He mentioned that he was fond of *Kagamine Rin* in his Twitter.
 
-He was a rhythm game player, and went to arcade whenever he had time.
+He was a rhythm game player, and went to the arcade whenever he had time.
 
 He hoped to adopt a cat, but that didn’t come true.
 
-A few days before his departure, he took a photo of beautiful night sky and tweeted:
+A few days before his departure, he took a photo of a beautiful night sky and tweeted:
 
 > How much longer can I watch such a sky?
 
@@ -44,7 +44,7 @@ A few days before his departure, he took a photo of beautiful night sky and twee
 > 
 > Good night, Tsukiko. Be a normal boy in your next life, and may you be happy always.
 >
-> I hope every one take care of themselves. Humans are prone to be hurt. Don’t self-harm or overdose; that will just bring tragedies.
+> I hope everyone takes care of themselves. Humans are prone to being hurt. Don’t self-harm or overdose; that will just bring tragedies.
 >
 > By: Mengshengai
 

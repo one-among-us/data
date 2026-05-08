@@ -6,11 +6,11 @@ desc: For the unnamed lives lost to transphobic violence.
 ---
 
 This page is dedicated to the unidentifiable victims who lost their lives due to systemic violence towards trans people.
-Sometimes, we cannot even get a confirmation on if these people are trans.
+Sometimes, we cannot even get a confirmation on whether these people are trans.
 
-### 2022 March 9th, Wu Han Jiangchen Paradise Walk - Feminine-presenting person stripped and murdered in men’s bathroom.
+### 2022 March 9th, Wuhan Jiangchen Paradise Walk - Feminine-presenting person stripped and murdered in men’s bathroom.
 
-At 2022 March 9th 15:45, a feminine-presenting person was stripped and murdered in bathroom.
+At 2022 March 9th 15:45, a feminine-presenting person was stripped and murdered in the bathroom.
 The assailant and the victim’s verbal conflict quickly escalated to physical conflict.
 The assailant attacked the victim with a knife, causing the victim to bleed to death.
 
@@ -28,7 +28,7 @@ Even the discussions after the event would be censored and stifled, causing ther
 
 Nine days after, on 2022 March 18th, One Among Us’s official Twitter tweeted:
 
-> For you who left us in Wu Han, who didn’t even had a chance to leave a name:
+> For you who left us in Wuhan, who didn’t even have a chance to leave a name:
 >
 > Nine days passed,
 > but you are not forgotten.

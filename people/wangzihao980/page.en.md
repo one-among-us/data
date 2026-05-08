@@ -39,7 +39,7 @@ Translation of the above suicide note:
 > 1.  Please make sure I’m dressed up after death, (name redacted), so I can go with dignity. I mean, if you want.
 > 2.  Pour my ashes into the sea. Don’t preserve and worship it. I don’t like that.
 > 3.  Don’t blame anyone on my funeral. I knew I would not be able to continue anymore someday long ago because of my own mental issues.
-> 4.  Don’t cry too load at my funeral, okay?
+> 4.  Don’t cry too loud at my funeral, okay?
 > 5.  Play *I really want to stay at your house* at my funeral. I really like this song, but I can’t sing it because my voice is too low.
 > 6.  Format all my electronic devices.
 > 7.  Let my family decide what to do with everything else I owned.

@@ -73,4 +73,4 @@ This is the [last piece of writing](https://pbs.twimg.com/media/E6odBBBVIAAM-Zt?
 ]} />
 
 We wish you to be able to meet the girls in Jinjufu and live happily in another world,
-after leaving all of this world’s sufferings behind.
+after leaving all of this world’s suffering behind.

@@ -28,7 +28,7 @@ I began talking to her every day, patiently comforting and guiding her, and grad
 
 ## Heaven’s Favor
 
-“I’m a child blessed by heaven!” One day, Chinatsu told me excitedly, “I went to the hospital for a blood test, and the doctor said I have XX chromosomes, so I’m truly a girl!”  
+“I’m a child blessed by heaven!” One day, Chinatsu told me excitedly, “I went to the hospital for a blood test, and the doctor said I had XX chromosomes, so I’m truly a girl!”  
 I was genuinely happy for her. It seemed as though fate had destined it—while one door had closed, another had opened for her. Perhaps the misfortune of her childhood had paved the way for a lifetime of happiness.  
 That day, she was overjoyed. She said, “One day, I hope to have my own children and live a happy life.”
 

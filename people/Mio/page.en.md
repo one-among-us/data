@@ -157,7 +157,7 @@ Translation of the above photos:
 > Your mother told me:
 > “When I came into her room this morning, I saw--
 > Mio had put on makeup and pretty clothes.
-> But her eyes are closed, forever.”
+> But her eyes were closed, forever.”
 > 
 > My tears fell. I couldn’t keep them in anymore.
 > 
