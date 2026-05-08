@@ -23,7 +23,7 @@ Donations made because of their drawings is part of their financial resource.
 Even after confirming their *indolent cell carcinoma of ascending colon*, Ying did not stop drawing.
 Later, they uploaded most of their drawings’ digitalized versions to their [Telegram channel](https://t.me/joinchat/65vSQ6ELb3YxN2I9),
 making every work they had done free to download and enjoy.
-Here’s a selected few of her drawings:
+Here’s a selected few of their drawings:
 
 <PhotoScroll photos={[
     '${path}/photos/IMG_1308.webp', 

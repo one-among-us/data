@@ -7,7 +7,7 @@ desc: A girl’s last tour.
 
 Barron was a happy trans girl who studied drawing in Japan.
 She had a dream of opening a manga studio.
-Unfortunately, due to family discord and her coming out, she was forced to give up her studies and return to China at the end of May 2023 after failing to kill herself in Japan.
+Unfortunately, due to family discord and her coming out, she was forced to give up her studies and return to China at the end of May 2023 after a suicide attempt in Japan.
 
 After returning to China, she lost almost all her income sources.
 To make matters even worse, she was unable to draw again due to her severe PTSD.

@@ -25,7 +25,7 @@ She had dishevelled hair of medium length, which grew over her ears and nearly c
 She always wore a light gray scarf and a light green coat.
 She was truly an adorable child.
 
-Since we first met online, she’d said that she wanted to played with me.
+Since we first met online, she’d said that she wanted to play with me.
 It was a pity that we cannot meet each other during the time from November to February of following year. In the end, we never met irl.
 
 Although she would feel embarrassed in the public, she still hoped to make friends.

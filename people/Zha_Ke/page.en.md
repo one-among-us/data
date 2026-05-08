@@ -14,9 +14,9 @@ Zha Ke (Lilith) was a transgender man. We have little information of him, only a
 > I have been continuously harrassed by people online for two years because my inability to adapt to society and stupidity.
 > I had been doxxed by both people online and in the real world; the police wasn’t able to do much.
 > I have mental health issues like borderline personality disorder, bipolar disorder type 2, severe anxiety, PTSD.
-> Maybe it’s because of my own personality problems, which might stemmed from my mental health issues.
+> Maybe it’s because of my own personality problems, which might have stemmed from my mental health issues.
 > I cannot take care of myself nor do I have enough money.
-> For a long time, I’ve been tortured by suicial thoughts.
+> For a long time, I’ve been tortured by suicidal thoughts.
 > Therefore, here is my will:
 >
 > 1.  I wish my parents won’t damage my stuff.
@@ -57,13 +57,13 @@ Zha Ke (Lilith) was a transgender man. We have little information of him, only a
 > I know they’re trying to tell me to accept reality, but I couldn’t accept it until now.
 > I should set aside my ambitions and accept the crumbling reality.
 >
-> I’m a piece of trash and everytime I listen to sad songs I feel a bit moved.
+> I’m a piece of trash and every time I listen to sad songs I feel a bit moved.
 > Yet I don’t even have the ability to continuously feel sad anymore.
 > I cannot do anything well.
 > I even lost the right to be sad.
 >
 > To think a person would feel extreme loneliness in a crowd of billions.
-> To think a person would be overcome by suicial thoughts yet no one saw a sign.
+> To think a person would be overcome by suicidal thoughts yet no one saw a sign.
 > What kind of society is this?
 > That’s not a society; it’s a lair of beasts.
 >

@@ -10,7 +10,7 @@ desc: It has always been you; you’re the only one.
 >
 > By Yumao
 >
-> “It feels like that you are hiding in crystal alone, all I can see is your shattered figure. ”
+> “It feels like that you are hiding in crystal alone, all I can see is your shattered figure.”
 >
 > By Neko
 
@@ -68,7 +68,7 @@ Although she also found that the circumstances of the suicide of Neko was compli
 there was no more news about Neko indeed.
 She really hoped Neko was still alive:
 
-> “For you I always stay alive... For without you I get lost in life. Wish you are still alive... ”
+> “For you I always stay alive... For without you I get lost in life. Wish you are still alive...”
 >
 > (Another version in Zhihu: “Only for you I stay alive... But you are not by my side. Isn’t it? Wish you are still alive...”)
 

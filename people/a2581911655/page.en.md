@@ -34,7 +34,7 @@ During her journey, she went to Guangdong, and got into [Yantian](https://one-am
 
 After that, she went to Shanghai, Zhejiang, and Henan to meet some friends.
 
-On January 18th, 2024, she ended her journey reluctantly, “I won’t able to see everyone again until one and a half years later.”
+On January 18th, 2024, she ended her journey reluctantly, “I won’t be able to see everyone again until one and a half years later.”
 
 But she couldn’t fulfill her promise.
 Two days later, she attempted to take her life, and now we’re separated by life and death.

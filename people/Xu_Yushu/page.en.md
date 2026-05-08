@@ -13,7 +13,7 @@ Xu Yushu was seen as a “genius boy” by others.
 She was in *Jingmen Evening News* once as *The Child Who Skipped Kindergarten*.
 
 Although, maybe such fame isn’t what’s important about her.
-What’d important is her having a precious and unique heart of gentleness and sensitivity.
+What’s important is her having a precious and unique heart of gentleness and sensitivity.
 She had the drive to express her feelings through words.
 Maybe it’s more accurate to describe her as *literary girl*.
 
@@ -67,7 +67,7 @@ Xu Yushu later was hospitalized for her depression.
 She told her mother during that time something horrible and illegal happened in school.
 However, when her mother asked her if they should report it to the police, she hesitated.
 Her mother was afraid of interfering with her depression treatment and didn’t continue to ask her about it.
-After reviewing the chat history, it was clear that she might’ve already been sexual assaulted multiple times.
+After reviewing the chat history, it was clear that she might’ve already been sexually assaulted multiple times.
 
 While she was hospitalized, she wrote *Living with Depression 2*.
 The preface: “My only hope is the few little boxes of meds. They’re my life-saving straw...(The little pills) are like eyes of a sunset. This light is so easily perishable, but I decided on it anyway. Although I know this means giving up any chance of exit.”
@@ -120,8 +120,8 @@ They described her internal struggles realistically.
 
 ### About Her Family
 
-Xu Yushu’s father actively communicated with her former classroom teacher about her bullying, and been trying to raise awareness of bullying ever since she left.
-After going through his memory of her growth, he thought: “Since she’s always been outstanding, she was the target of jealousy and bullying. The grades-only educational environment didn’t help; her genius wasn’t developed Therefore, her started to fall into depression and suicide.”
+Xu Yushu’s father actively communicated with her former classroom teacher about her bullying, and has been trying to raise awareness of bullying ever since she left.
+After going through his memory of her growth, he thought: “Since she’s always been outstanding, she was the target of jealousy and bullying. The grades-only educational environment didn’t help; her genius wasn’t developed. Therefore, she started to fall into depression and suicide.”
 
 When Xu Yushu’s doctor gave her a diagnosis of “Gender Dysphoria”, he only said: “This isn’t important right now. Sex is something that people do to lengthen their bloodline. We should only consider it when you’re getting married. We are not considering that right now. Now it’s the time to study.”
 After listening to the advice of the doctor, he told Xu Yushu “Try to forget it, don’t let it take the center of your attention.”
