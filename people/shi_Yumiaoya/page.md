@@ -123,7 +123,7 @@ info:
 
 > 如果再也不能见到你，祝你早安，午安，晚安。
 >
-> And in case I don't see you……good afternoon, good evening, and good night.
+> And in case I don’t see you……good afternoon, good evening, and good night.
 >
 > 出自《楚门的世界》
 >
