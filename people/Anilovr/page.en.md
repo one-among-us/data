@@ -13,7 +13,7 @@ desc: I love every one of you. I really do.
 
 Ani grew up in a single-parent household.
 Her selflessness has touched the lives of many.
-But in the end, she, who gave others hope, wasn't able to escape death herself.
+But in the end, she, who gave others hope, wasn’t able to escape death herself.
 
 <PhotoScroll photos={[ '${path}/photos/photo1.webp', ]} />
 
@@ -34,7 +34,7 @@ Yet, her death was sudden and shocking.
 {/*
 Comments from the translator:
 I do not believe a reunion after death can count...
-Whatever you do, don't place your hope on that.
+Whatever you do, don’t place your hope on that.
 */}
 
 December 29th, **2022**, Ani was found dead without any sign of life.

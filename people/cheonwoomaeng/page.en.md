@@ -9,15 +9,15 @@ info:
 
 > I had a bad day at school but i think im over it 💔
 >
-> I'm lowkey being forced to detransition but it was inevitable 😔
+> I’m lowkey being forced to detransition but it was inevitable 😔
 
 ## Introduction
 
-Ryu was a Japanese trans girl full of whimsy and joy. She was a source of inspiration and hope for everyone that she met, and one of the kindest souls we've ever met, and she is often described as silly by her close ones. 
+Ryu was a Japanese trans girl full of whimsy and joy. She was a source of inspiration and hope for everyone that she met, and one of the kindest souls we’ve ever met, and she is often described as silly by her close ones. 
 
 Ryu was a huge fan of Robin & Feixiao from *Honkai Star Rail*, Kaoru Hakaze and Midori Takamine from *Ensemble Stars*, *Project Sekai*, *Alien Stage* and many other games of the genre. Oh and Vocaloids and K-Pop.
 
-She has a straw page which is linked on her profile here, Sadly, We've only archived the version after she was outed as trans, and decided to change it to a "male-ish" website, the original one that we knew is lost as of the time of writing
+She has a straw page which is linked on her profile here, Sadly, We’ve only archived the version after she was outed as trans, and decided to change it to a “male-ish” website, the original one that we knew is lost as of the time of writing
 
 ## Departure
 
@@ -32,7 +32,7 @@ On the day of 2024-12-08. Many of her contacts received this message on various 
 
 > Hello,
 >
-> We apologize for the sudden message. We are contacting you as part of an important investigation involving one of your mutual contacts. This message is being sent from the victim's Discord account, but please understand that it is not from the victim. We are gathering information to help us understand the situation. Other social media accounts are also being checked.
+> We apologize for the sudden message. We are contacting you as part of an important investigation involving one of your mutual contacts. This message is being sent from the victim’s Discord account, but please understand that it is not from the victim. We are gathering information to help us understand the situation. Other social media accounts are also being checked.
 >
 > At this time, the cause of the incident is not clear. We would be grateful if you could help by answering a few questions:
 >
@@ -54,7 +54,7 @@ On the day of 2024-12-08. Many of her contacts received this message on various 
 
 As of the time of writing this memorial, the circumstances around her departure is still unknown, she left us with no words or no goodbyes, only memories.
 
-## Haruki's memorial
+## Haruki’s memorial
 
 Soon after the tragic news surfaced, her younger sister Haruki contacted us, and provided us with the available information in the form of a [Google Docs](https://docs.google.com/document/d/1-FaVzCOrZ2NkrRGDkIOyoLZpIGClUZcwdzaZV4NoRwA/edit?tab=t.0) and Kind words from her friends in the form of a [Canva](https://www.canva.com/design/DAGY-0aiXjE/cZIzTKKN87Q_7zp1mPdBCg/edit)
 

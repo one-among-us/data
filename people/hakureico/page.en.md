@@ -12,7 +12,7 @@ desc: A R I G A T O
 <summary>**A R I G A T O**</summary>
 > こんなちいさな星座なのに
 >
-> I'm such a small and insignificant constellation,
+> I’m such a small and insignificant constellation,
 > 
 > ココにいたこと 気付いてくれて
 > 
@@ -30,7 +30,7 @@ She studied in the School of Mathematics at Liaoning Normal University.
 
 She was proficient in mathematics and enjoyed learning computer science.
 
-She was also a traffic enthusiast.
+She was also a transit enthusiast.
 She was interested in city buses, rail transit and national railways.
 Occasionally, she took flights and looked at the blue sky outside the porthole.
 Although these were always solo trips.
@@ -40,7 +40,7 @@ Although these were always solo trips.
     '${path}/photos/photo2.webp',
 ]} />
 
-She was good at playing rhythm game OSU, and uploaded many videos of her gameplay.
+She was good at playing the rhythm game *osu!*, and uploaded many videos of her gameplay.
 She was still online even when she was in a bad mental condition.
 
 Hanasaka also focused on several kinds of games,
@@ -53,17 +53,17 @@ In early June 2018, she went to IKEA with an acquaintance, and ate tasty and aff
 
 ## Her Departure
 
-As Hanasaka described herself on her Zhihu profile: "Just a Giftia, about to be deactivated".
+As Hanasaka described herself on her Zhihu profile: “Just a Giftia, about to be deactivated”.
 
 A Giftia is a type of android with a humanoid body in anime *PLASTIC MEMORIES*.
 They have their own personality and emotions.
-But they can only "live" for a maximum of 81,920 hours,
+But they can only “live” for a maximum of 81,920 hours,
 after which their programming becomes corrupted due to numerous failed attempts at overwriting old information.
-If a Giftia is not retrieved and deactivated before the end of their lifespan, it is very likely that they will become "Wanderers". 
+If a Giftia is not retrieved and deactivated before the end of their lifespan, it is very likely that they will become “Wanderers”. 
 
 Hanasaka used this metaphor to describe her mental state about to collapse.
 
-In May, she used "Mayday" to convey the signal that she was approaching her limit.
+In May, she used “Mayday” to convey the signal that she was approaching her limit.
 Fortunately, she was out of danger later on.
 
 > Responder 7700 **Mayday Mayday Mayday Mayday** has been downgraded to **Mayday Mayday Mayday**
@@ -72,14 +72,14 @@ Fortunately, she was out of danger later on.
 > 
 > Executing overweight landing checklist
 >
-> // I'm probably a fallen angel.
+> // I’m probably a fallen angel.
 >
 > // My unpredictable mood is just like the weather outside.
 >
-> // Please rest assured, everyone who forwarded my post. It won't crash!
+> // Please rest assured, everyone who forwarded my post. It won’t crash!
 
 Although she told everyone to go out and take a look at the scenery to relax,
-and she also said, "Please keep alive even if you are desperate. In that case, you can make dreams come true."
+and she also said, “Please stay alive even if you are desperate. In that case, you can make dreams come true.”
 
 But she still chose to leave this world in August.
 
@@ -92,19 +92,19 @@ Mizuki told us a short story instead of publishing a cold obituary.
 > updated 18-08-09
 
 The sentence was left by her boyfriend to her.
-She was seeking the end of her first love, but she couldn't receive an answer.
-even if the answer was "Go f*ck yourself"
+She was seeking the end of her first love, but she couldn’t receive an answer.
+even if the answer was “Go f*ck yourself”
 
 Finally, she could only leave such words:
 
-> "May the world treat you well."
+> “May the world treat you well.”
 > 
-> "At least better than me."
+> “At least better than me.”
 
 In fact, how could she possibly be a devil going to hell?
-She was a gentle person with a "helper" personality.
+She was a gentle person with a “helper” personality.
 She always thought about others without considering herself.
-But perhaps it's also the reason why they parted.
+But perhaps it’s also the reason why they parted.
 
 At last, she burned her belongings, and drowned in the river that never stopped flowing.
 
@@ -128,7 +128,7 @@ Hanasaka left a letter for her only friend:
 > 
 > If you happen to see this,
 > 
-> You shouldn't be surprised,
+> You shouldn’t be surprised,
 > 
 > Cause neko has 9 lives =w=
 > 
@@ -136,9 +136,9 @@ Hanasaka left a letter for her only friend:
 > 
 > I will always be with you,
 > 
-> No matter what you've become,
+> No matter what you’ve become,
 > 
-> And who's by your side w
+> And who’s by your side w
 >
 > Sincerely,
 > 
@@ -154,4 +154,4 @@ Hanasaka left a letter for her only friend:
 
 Now these accounts are free. May she be free too.
 
-Time to sleep friends, and keep smiling, keep alive.
+Time to sleep friends, and keep smiling, stay alive.

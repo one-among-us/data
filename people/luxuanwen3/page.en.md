@@ -32,13 +32,13 @@ However, at 3 a.m. the next morning, Nini left us to pursue her own path and see
 
 Nini was very warm to people, though this was not always evident in her outward demeanor.
 Rather, it was reflected in the pieces of her words that conveyed her equal and full love for everyone.
-She might call you "babe" and offer a hug.
-She would patiently explain what you didn't know and try not to pass on her negativity to her friends.
+She might call you “babe” and offer a hug.
+She would patiently explain what you didn’t know and try not to pass on her negativity to her friends.
 
 > Hope you find your peace in silence.  
 > Good night and wake up in a brand new world.  
 
-I (The author of this entry) hadn't known Nini for very long, but I was still deeply affected by her positive energy.
+I (The author of this entry) hadn’t known Nini for very long, but I was still deeply affected by her positive energy.
 I invite all our friends to contribute to this entry and share memories of our dear friend, Nini.
 
 Thanks for your help to Nini. @awxs_2081573566 @Bolichara0 @N552AA
