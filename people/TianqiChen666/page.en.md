@@ -49,7 +49,7 @@ So, she was a gentle and meticulous girl. You see, she maintained the best world
 Because she loved cute things, she sometimes presented herself in the cutest ways.
 She once made a deep impression with the images of Alona and Atori. As a responsible Kigurumi performer, she always brought these two cute girls to life with graceful steps and lively actions, letting them meet everyone in the real world.
 
-Her Kigurumi headpiece was large and heavy, so her eyes could barely see the world while she was wearing it. But whenever she caught a glimpse of those she has healed, the cute Kigurumi doll felt the recognition and joy in their warm gaze.
+Her Kigurumi headpiece was large and heavy, so her eyes could barely catch a glimpse of the world while she was wearing it. But whenever she caught a glimpse of those she has healed, the cute Kigurumi doll felt the recognition and joy in their warm gaze.
 
 > Well, do you like this cute side of me? Can you stay with this cute little doll for a while? I really love it! If you like, we can hug, okay? Wanna come?
 >
@@ -87,7 +87,7 @@ The sweet little pills floated through her body, and the hormones slowly entered
 
 Just hours after speaking these words, she passed away.
 
-Her memory and imprint were placed in a small box and scattered in the Jialing River. The water washed away the traces, but the last memory remained in the fishing spot.
+Her memory and imprint turned into in a small box and scattered in the Jialing River. The water washed away the traces, but the last memory remained in the fishing spot.
 
 She fought silently with bipolar disorder and lost, but the meme she created still flickers through the fragmented lives of others, a fleeting glow, a smile almost familiar.
 

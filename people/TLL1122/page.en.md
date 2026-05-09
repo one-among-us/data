@@ -6,7 +6,7 @@ info:
 desc: Lulu loves you!
 ---
 
-> This is Tian Lulu, wishing you happiness every day!  
+> This is Tian Lulu, wish you to be happy every day!  
 > 
 > Lulu loves you!
 

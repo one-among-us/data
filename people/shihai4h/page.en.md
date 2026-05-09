@@ -119,7 +119,7 @@ I didn’t realize the severity of the situation and the difficulty of dealing w
 If I had realized, maybe things could be different.
 
 She inherited the stubbornness of her father.
-Her father researched nutrition and sports in order to make her grow taller.
+Her father researched nutritionalism and sports in order to make her grow taller.
 At that time, she wanted to grow taller as well, therefore she did as he instructed:
 eating one meal per day and doing lots of exercise.
 She had learned of HRT since high school, but couldn’t decide on it.
@@ -175,7 +175,7 @@ Born emotionally sensitive, pressure from family, meeting the wrong people, one 
 
 > How could such a delicate flower withstand a fierce gale, or the care-stricken willow endure torrential rain[^5]?
 
-I don’t want to spend more ink on those people who had betrayed her.
+I don’t wanna spend more ink on those people who had betrayed her.
 Humanity, though complex, always leaves traces.
 She was smart enough to realize this from the beginning:
 > There is happiness in life, but nothing lasts forever.
