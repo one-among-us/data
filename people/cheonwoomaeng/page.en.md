@@ -3,6 +3,7 @@ name: Rio
 info:
     alias: Ryu-Im, Yotaro
     location: Tokyo, Japan
+desc: AMONG US!!!!!
 ---
 
 <!-- 这篇文章的原文即英文，作者的第一语言为英语，请翻译时不要动本篇。 -->
