@@ -25,11 +25,13 @@ const DATA_DIR = "data";
 
 const projectRoot = path.dirname(path.dirname(url.fileURLToPath(import.meta.url)));
 const peopleDir = path.join(projectRoot, PEOPLE_DIR);
-const people = fs.readdirSync(peopleDir).map(person => ({
-  dirname: person,
-  srcPath: path.join(peopleDir, person),
-  distPath: path.join(projectRoot, DIST_DIR, PEOPLE_DIR, person)
-}));
+const people = fs.readdirSync(peopleDir)
+  .filter(person => !person.startsWith('.') && fs.statSync(path.join(peopleDir, person)).isDirectory())
+  .map(person => ({
+    dirname: person,
+    srcPath: path.join(peopleDir, person),
+    distPath: path.join(projectRoot, DIST_DIR, PEOPLE_DIR, person)
+  }));
 
 initCache(projectRoot);
 
@@ -372,7 +374,7 @@ function cleanDist() {
   const distPeopleDir = path.join(projectRoot, DIST_DIR, PEOPLE_DIR);
   if (!fs.existsSync(distPeopleDir)) return;
 
-  const distPeople = fs.readdirSync(distPeopleDir);
+  const distPeople = fs.readdirSync(distPeopleDir).filter(p => !p.startsWith('.'));
   const srcPeopleMap = new Map(people.map(p => [p.dirname, p.srcPath]));
 
   let numRemoved = 0;
@@ -435,7 +437,9 @@ function trim(str: string, ch: string) {
 }
 
 function isDirEmpty(dir: string): boolean {
-  if (fs.readdirSync(dir).length == 0) return true;
-  else if ((fs.readdirSync(dir).length == 1) && (fs.readdirSync(dir)[0] == 'comments')) return true;
+  if (!fs.existsSync(dir)) return true;
+  const files = fs.readdirSync(dir).filter(f => !f.startsWith('.'));
+  if (files.length === 0) return true;
+  else if ((files.length === 1) && (files[0] === 'comments')) return true;
   return false;
 }
