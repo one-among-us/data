@@ -1,9 +1,9 @@
 ---
-name: りょうぎ しき
+name: Ryougi Shiki 
 info:
-    # alias:
+    alias: Lvnaria
     location: Shenzhen, Guangdong
-desc:
+desc: LVNARIS VERITAS ERAT VOX
 ---
 
 To-Do

@@ -1,9 +1,9 @@
 ---
 name: りょうぎ しき
 info:
-    # alias:
+    alias: 月亮, Lvnaria
     location: 廣東深圳
-desc:
+desc: LVNARIS VERITAS ERAT VOX
 ---
 
 To-Do
