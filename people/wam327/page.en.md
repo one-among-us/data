@@ -16,7 +16,7 @@ In Lait’s impression, Lvnaria was always suffering. During the more than half 
 
 Recalling that time now, it felt like Lvnaria was trying so hard to find an anchor to support herself, but ultimately failed.
 
-Laitt writes these words down now to remember Lvnaria.
+Lait writes these words down now to remember Lvnaria.
 
 Contributors for this entry: Lait Eimei
 
