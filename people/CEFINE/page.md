@@ -66,4 +66,4 @@ desc: 感觉对象不如歼20和歼16（？）
 
 条目贡献：\_AloneStar\_, Arista, 黑不在
 
-[^1]:延伸阅读：维基百科上的[肌萎缩侧索硬化](https://zh.wikipedia.org/zh-cn/%E8%82%8C%E8%90%8E%E7%BC%A9%E4%BE%A7%E7%B4%A2%E7%A1%AC%E5%8C%96)页面。
+[^1]: 延伸阅读：维基百科上的[肌萎缩侧索硬化](https://zh.wikipedia.org/zh-cn/%E8%82%8C%E8%90%8E%E7%BC%A9%E4%BE%A7%E7%B4%A2%E7%A1%AC%E5%8C%96)页面。
