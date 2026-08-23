@@ -18,6 +18,6 @@ Recalling that time now, it felt like Lvnaria was trying so hard to find an anch
 
 Lait writes these words down now to remember Lvnaria.
 
-Contributors for this entry: Lait Eimei
+Contributor for this entry: Lait Eimei
 
 [^1]: This section is a pseudo-Latin epitaph; there may be intentional design choices or typos.
