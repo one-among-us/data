@@ -31,8 +31,7 @@ During the Dragon Boat Festival in June, Yukikaze said she was going back to Anh
 
 She carried far too many things she shouldn’t have had to. Yet she never stopped loving others, never stopped reaching out to pull someone up.
 
-After the high school entrance exams, Yukikaze decided to accompany her until July 15th. They went to the Apple Store, Starbucks, IKEA, and wandered all over Foshan. Once, in a hospital corridor, Yukikaze said her wish was tto obtain her gender dysphoria diagnosis after coming of age, and save money for gender-affirming surgery. That day, she confessed her feelings to Yukikaze.
-<!-- She said Yukikaze had already surpassed her biological older sister. -->
+After the high school entrance exams, Yukikaze decided to accompany her until July 15th. They went to the Apple Store, Starbucks, IKEA, and wandered all over Foshan. Once, in a hospital corridor, Yukikaze said her wish was tto obtain her gender dysphoria diagnosis after coming of age, and save money for gender-affirming surgery. That day, she confessed her feelings to Yukikaze. She said Yukikaze had become closer to her than a sister could ever be.
 
 July 14th, the last day. They went to the largest square, walking hand in hand, kissing and hugging in empty corners, sharing the same bowl of sweet dessert soup.
 
@@ -42,7 +41,7 @@ July 14th, the last day. They went to the largest square, walking hand in hand, 
 >
 > Yukikaze nodded.
 > 
-<!-- > “We are biological sisters, and also each other’s girlfriends.” -->
+> “We’re sisters, and we’re girlfriends too.””
 
 They laughed so loudly that day. Downstairs at her apartment, Yukikaze handed her a box of gifts—anime badges, skincare products, and two blank CDs. Then Yukikaze rode away. She watched that fading silhouette, not knowing it would be the last time she ever saw her.
 
