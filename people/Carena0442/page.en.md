@@ -58,4 +58,4 @@ After remembering all of this, I realize that no matter what happened, Carena wi
 
 Contributor for this entry: [Emma Shi](https://twitter.com/Emma20131621)
 
-[^1]: The [original post(simplified Chinese version)]((https://x.com/Emma20131621/status/1765254951960215718)) was published on Twitter/X by Emma Shi on March 6, 2024. Out of respect for the original work, the original link is hereby noted.
+[^1]: The [original post(simplified Chinese version)](https://x.com/Emma20131621/status/1765254951960215718) was published on Twitter/X by Emma Shi on March 6, 2024. Out of respect for the original work, the original link is hereby noted.
