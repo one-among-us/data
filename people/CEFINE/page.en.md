@@ -6,8 +6,6 @@ info:
 desc: Maybe I’d be better off dating the J-20 and J-16 (?)
 ---
 
-## Quote
-
 > Maybe I’d be better off dating the J-20 and J-16 (?)
 >
 > —— CEFINE, 2024-02-15 13:12
