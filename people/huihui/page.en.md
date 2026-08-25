@@ -1,5 +1,5 @@
 ---
-name: huihui
+name: Huihui
 info:
     alias: Wandering Xiaohuihui
     location: Beihai, Guangxi
@@ -8,7 +8,7 @@ desc: Cherish those who treat you well. If you ever lose them, you may never get
 
 ## The Past
 
-In 2024, Huihui officially began HRT, but faced strong opposition from her family. She began self-harming and experiencing overdoses, and after being rescued, she was sent by her family to a psychiatric hospital. There, she was subjected to [involuntary treatment in violation of regulations](https://www.bilibili.com/opus/1209737543921172484) for a month, leaving her with severe psychological trauma. She eventually chose to leave on her own and went to Guangxi to live with her boyfriend.
+In 2024, Huihui officially began HRT, but faced strong opposition from her family. She began self-harming and experiencing overdoses... After being rescued, she was sent by her family to a psychiatric hospital. There, she was subjected to [involuntary treatment in violation of regulations](https://www.bilibili.com/opus/1209737543921172484) for a month, leaving her with severe psychological trauma. She eventually chose to leave on her own and went to Guangxi to live with her boyfriend.
 
 After a period of happiness together, they eventually broke up because of various difficulties in their lives. Huihui then spent some time living alone in Beihai, struggling with loneliness.
 
@@ -16,7 +16,7 @@ After a period of happiness together, they eventually broke up because of variou
 
 By the time I met Huihui, it was already April 2026. You could say I came into her life rather late, and that is something I still regret…
 
-At the time, Huihui had been taken to hospital after self-harming. Her wounds had not healed properly, but the hospital was unwilling to treat them any further. After discussing it again and again, I offered her two options: “Go home, or wait a few more days. Once I’m on holiday, I’ll come and help you find a place to rent together.”
+At the time, Huihui had been taken to the hospital after self-harming. Her wounds had not healed properly, but the hospital was unwilling to treat them any further. After discussing it again and again, I offered her two options: “Go home, or wait a few more days. Once I’m on holiday, I’ll come and help you find a place to rent together.”
 
 Huihui chose to go home. Her diary later revealed that she had chosen to return home because she knew she might hurt herself again, and she didn’t want to make me worry.
 
@@ -28,13 +28,13 @@ After everything she had been through over those two years, she came to understa
 
 ## Final Chapter
 
-But after returning home, Huihui was kept there by her family and was not allowed to go far from the house. She could only play VRChat and meet some of her friends nearby to ease the pain. (Sigh... there was really so little I could do for her from behind a screen.)
+But after returning home, Huihui was confined to the house by her family and was not allowed to travel far. She could only play VRChat and meet some of her friends nearby to ease the pain. (Sigh... there was really so little I could do for her from behind a screen.)
 
 After we spent some time trying to find work together, Huihui still had no choice but to return home. Finding a job was not easy. She had tried so hard for so long, but ultimately, nothing came of it.
 
 After returning home, she also had to endure constant criticism and pressure from her family. Even VRChat gradually became unable to give Huihui enough reason to keep going.
 
-On August 2, 2026, she chose to leave.
+Finally, on August 2, 2026, she chose to leave.
 
 The night before, I was still chatting with Huihui:
 
@@ -56,7 +56,7 @@ I want to do one last thing for Huihui.
 
 Huihui was a very kind person. She was always encouraging others online to keep living.
 
-All she wanted was companionship and love.
+Her only wish was to have companionship and love.
 
 She was willing to give so much to others, hoping only that someone would treat her with the same kindness in return.
 
