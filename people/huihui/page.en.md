@@ -8,7 +8,7 @@ desc: Cherish those who treat you well. If you ever lose them, you may never get
 
 ## The Past
 
-In 2024, Huihui officially began HRT, but faced strong opposition from her family. She began self-harming and experiencing overdoses... After being rescued, she was sent by her family to a psychiatric hospital. There, she was subjected to [involuntary treatment in violation of regulations](https://www.bilibili.com/opus/1209737543921172484) for a month, leaving her with severe psychological trauma. She eventually chose to leave on her own and went to Guangxi to live with her boyfriend.
+In 2024, Huihui officially began HRT, but faced strong opposition from her family. She began self-harming and experiencing overdoses… After being rescued, she was sent by her family to a psychiatric hospital. There, she was subjected to [involuntary treatment in violation of regulations](https://www.bilibili.com/opus/1209737543921172484) for a month, leaving her with severe psychological trauma. She eventually chose to leave on her own and went to Guangxi to live with her boyfriend.
 
 After a period of happiness together, they eventually broke up because of various difficulties in their lives. Huihui then spent some time living alone in Beihai, struggling with loneliness.
 
@@ -28,7 +28,7 @@ After everything she had been through over those two years, she came to understa
 
 ## Final Chapter
 
-But after returning home, Huihui was confined to the house by her family and was not allowed to travel far. She could only play VRChat and meet some of her friends nearby to ease the pain. (Sigh... there was really so little I could do for her from behind a screen.)
+But after returning home, Huihui was confined to the house by her family and was not allowed to travel far. She could only play VRChat and meet some of her friends nearby to ease the pain. (Sigh… there was really so little I could do for her from behind a screen.)
 
 After we spent some time trying to find work together, Huihui still had no choice but to return home. Finding a job was not easy. She had tried so hard for so long, but ultimately, nothing came of it.
 
@@ -40,7 +40,7 @@ The night before, I was still chatting with Huihui:
 
 > “Remember to call me when you wake up tomorrow.”
 
-But the next morning, there was nothing but an endless ringing tone on the other end of the phone. In our private messages was the final post she sent to me...
+But the next morning, there was nothing but an endless ringing tone on the other end of the phone. In our private messages was the final post she sent to me…
 
 Before she left, she had mailed me her final gift, along with the belongings she left behind.
 
