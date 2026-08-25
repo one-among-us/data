@@ -32,7 +32,7 @@ In short, he said he would probably lose his ability to take care of himself soo
 
 Nimao was a very interesting and fun person... I’m not good at describing my feelings, but in short, he was just a really fun person. During the time we spent together, he brought me endless joy. “Fun” is the highest praise I can give him.
 
-### We’ll Meet Again Tomorrow By: Heibuzai
+### “We’ll Meet Again Tomorrow” By: Heibuzai
 
 It feels a bit late to be writing this.
 
