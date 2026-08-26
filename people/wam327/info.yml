@@ -1,7 +1,7 @@
 id: wam327
 profileUrl: ${path}/photos/profile.jpg
 info:
-  # born: '2005-??-??'
+  born: '2005-03-22'
   died: '2024-07-26'
 websites:
   twitter: https://twitter.com/wam327
