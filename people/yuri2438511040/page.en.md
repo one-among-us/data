@@ -16,7 +16,7 @@ Later on, she entered our community space, spending time with us in a warm and s
 >
 > “I’m right here, pulling you into a warm embrace.”
 
-In June 2024, Yuri began HRT, gradually transitioning to live as her true self. One evening, anxious yet hopeful, she tried to talk with her parents to test the waters, only to discover that her mother had already seen through it all along and quietly protected her secret. Even though the resistance from her father and other relatives never fully vanished, this small spark of understanding made her a partially parentally supported trans girl, giving her a touch of warmth in a cold world.
+In June 2024, Yuri began HRT, gradually transitioning to live as her true self. One evening, anxious yet hopeful, she tried to talk with her parents to test the waters, only to discover that her mother had already seen through it all along and quietly protected her secret. Even though the resistance from her father and other relatives never fully vanished, this small spark of understanding made her partially out to her family, giving her a touch of warmth in a cold world.
 
 Yet despite this, her mental state didn’t improve. Severe depression and anxiety shadowed her every step. Even after spending an exhausting, full day navigating hospital bureaucracy, she couldn’t get the diagnosis certificate of gender dysphoria she so desperately needed.
 
