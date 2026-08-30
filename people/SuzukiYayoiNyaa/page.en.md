@@ -40,4 +40,4 @@ Tweet data archived by: [Uploaders’ Memorial Hall - Unofficial](https://space.
 
 [^1]: Yayoi once used this line as the bio on her Twitter/X profile.
 
-[^2]: From “In the Courtyard Grows a special tree”, the ninth poem in *Nineteen Old Poems*. Translated by K. Y. James. Yayoi once used this line as the bio on her Telegram profile.
+[^2]: From “In the Courtyard Grows a Special Tree”, the ninth poem in *Nineteen Old Poems*. Translated by K. Y. James. Yayoi once used this line as the bio on her Telegram profile.
