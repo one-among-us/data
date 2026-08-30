@@ -32,7 +32,7 @@ desc: 馨香盈懷袖，路遠莫致之。
 
 條目貢獻: One Among Us, [崵霜](https://twitter.com/dangshuang)
 
-推文數據整理存檔：[Up主紀念館](https://space.bilibili.com/1362658251)
+推文整理：[Up主紀念館](https://space.bilibili.com/1362658251)
 
 [^1]: 千面彌生曾以此作為 Twitter/X 主頁的個人簡介。
 

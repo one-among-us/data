@@ -36,7 +36,7 @@ Between this shore and the other lies perhaps the greatest distance in this worl
 
 Contributors for this entry: One Among Us, [Dangshuang](https://twitter.com/dangshuang)
 
-Tweet data archived by: [Uploaders’ Memorial Hall - Unofficial](https://space.bilibili.com/1362658251)
+Tweets Summary: [Uploaders’ Memorial Hall - Unofficial](https://space.bilibili.com/1362658251)
 
 [^1]: Yayoi once used this line as the bio on her Twitter/X profile.
 
