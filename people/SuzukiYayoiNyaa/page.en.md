@@ -16,7 +16,7 @@ In her early years, she developed a deep interest in *World of Tanks Blitz*, and
 
 In 2024, amid shifting social and political pressures surrounding religious identity in China, Yayoi left Qinghai with her family and moved to Malaysia, where she began living abroad as an international student.
 
-As her father worked overseas to support the family, she lived with her mother and two younger brothers. Her mother’s supervision and control over her, however, became almost pathological. Whenever she went out, her phone would be bombarded with countless messages from her mother demanding that she come home. On top of this, her family cut off her financial support because she was a transgender woman, causing her relationship with them to deteriorate further and further.
+As her father worked overseas to support the family, she lived with her mother and two younger brothers. Her mother’s supervision and control over her, however, became almost pathological. Whenever she went out, her phone would be bombarded with countless messages from her mother demanding that she come home. On top of this, her family cut off her financial support because she was a trans girl, causing her relationship with them to deteriorate further and further.
 
 > “About Her relationship with her family… I’m afraid they wouldn’t even know if she were gonna rot at home.”
 <!-- 这里 gonna rot 是刻意的，同时表达肉体和精神腐烂两种意思。参见 SeaBed 第一章日译英本。 -->
