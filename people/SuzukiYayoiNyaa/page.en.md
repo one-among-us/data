@@ -22,7 +22,7 @@ As her father worked overseas to support the family, she lived with her mother a
 <!-- 这里 gonna rot 是刻意的，同时表达肉体和精神腐烂两种意思。参见 SeaBed 第一章日译英本。 -->
 Her financial support was not the only thing to collapse. Her legal status as an international student and her hopes of continuing her education also began to slip away. One night in early 2025, under the unbearable weight of her circumstances, Yayoi made the most heartbreaking of decisions, ending her life at home in Malaysia.
 
-After learning what had happened, her friend Dangshuang did everything she could. Through Yayoi’s partner, she managed to determine the residential complex where Yayoi was staying, and immediately contacted emergency services and the police while rushing to the scene herself. Yet by the time help arrived, there was nothing more that could be done. Her young life came to an end on that winter night.
+After learning what had happened, her friend Dangshuang did everything she could. Through Yayoi’s partner, she managed to find out which residential complex Yayoi was staying in, then immediately called the 999 emergency hotline and rushed to the scene as quickly as she could. Yet, by the time the rescuers arrived, there was nothing more that could be done. Her young life came to an end on that winter night.
 
 ## The Other Shore
 
