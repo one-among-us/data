@@ -17,7 +17,8 @@
     "dev": "concurrently -n \"watch,serve\" -c \"cyan,green\" \"yarn watch\" \"yarn serve\"",
     "clean": "rm -rf dist/* .build-cache",
     "translate": "tsx scripts/translate.ts",
-    "cloudflare_clean": "node scripts/cloudflare_clean.js"
+    "cloudflare_clean": "node scripts/cloudflare_clean.js",
+    "csv": "tsx scripts/csv.ts"
   },
   "dependencies": {
     "@andreekeberg/imagedata": "^1.0.2",
