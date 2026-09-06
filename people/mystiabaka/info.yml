@@ -1,5 +1,5 @@
 id: mystiabaka
 profileUrl: ${path}/photos/profile.jpg
 info:
-  # born: '0000-00-00'
+  born: '2009-01-27'
   died: '2025-01-26'

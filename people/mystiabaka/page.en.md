@@ -1,5 +1,5 @@
 ---
-name: Mystiabaka
+name: Mystia
 info:
     alias: Mystiabaka
     location: Beijing, China
