@@ -95,11 +95,18 @@ desc:
 
 而后又吃了一次萨莉亚。长三角的萨莉亚和北京的相比，其实没什么味道上的区别，和谁一起吃才是最重要的。
 
+<div style="display: flex; margin: auto; gap: 80px; flex-direction: row; justify-self: center; justify-content: center; justify-items: center; flex-wrap: wrap">
+
 <PhotoScroll photos={[
-'${path}/photos/photo2.webp',
-'${path}/photos/photo3.webp',
+    '${path}/photos/photo2.webp',
 ]} />
-<p style="text-align: center;">（10月1日下午，与米斯蒂娅在艮山所拍车）</p>
+
+<PhotoScroll photos={[
+    '${path}/photos/photo3.webp',
+]} />
+
+</div>
+<p style="text-align: center;">（10月1日下午，与米斯蒂娅拍车，图1于永昌坝拍摄，图2于艮山所拍摄。）</p>
 
 与她短暂地重聚之后，我乘车回永康，第二天又匆匆前去武汉开会。
 
@@ -123,15 +130,7 @@ desc:
 
 又想起她无聊时在校内写过的《雪国》随笔，回到家就拍给我看。
 
-> 雪国的冬天很长
-> 
-> 长到这里的人
-> 
-> 习惯把春天的到来想象的比实际更远
-> 
-> 把希望说得比实际更轻
-> 
-> 他们的骨子里都有一股淡淡的、说不出的倔强和一些悠长的诗意与悲伤。
+> 雪国的冬天很长，长到这里的人习惯把春天的到来想象的比实际更远，把希望说得比实际更轻，他们的骨子里都有一股淡淡的、说不出的倔强和一些悠长的诗意与悲伤。
 > 
 > 我虽不在那里，但是也过着漫漫的冬，看着春天，看着以后。
 >
