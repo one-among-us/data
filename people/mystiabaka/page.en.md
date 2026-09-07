@@ -44,7 +44,7 @@ It was no surprise, then, that this girl had a sweet tooth in private. She’d b
 
 Remember that bundle of noodles I mentioned I brought on the train? They’re a type of noodle from my hometown of Yongkang, called “tusu noodles.” They taste excellent, but are quite tricky to cook. My grandmother used to run a restaurant, so I naturally learned the art of cooking these noodles from her.
 
-I showed her how to do it: cut the pork into small pieces, separating the fat from the lean. Heat the wok, render the fat pieces until some of the fat has cooked out, then add the lean meat and stir‑fry until cooked. Remove both from the wok, add some soy sauce and hot water. Following the traditional method, shake the noodles into the boiling water, let the steam rise, scoop them into bowls, finally drizzle the rendered pork fat over the top—and two large bowls of soup noodles with delicate white strands were ready.
+I showed her how to do it: cut the pork into small pieces, separating the fat from the lean. Heat the wok, render the fat pieces until some of the fat has cooked out, then add the lean meat and stir‑fry until cooked. Remove both from the wok, add some soy sauce and hot water. Following the traditional method, shake the noodles into the boiling water, let the steam rise, scoop them into bowls, and finally pour the meat and its rendered fat over the top—and two large bowls of noodles with fine, springy strands in a rich broth were ready.
 
 “Sis Nuomi, your noodles are really good,” Mystia said, full of praise.
 
