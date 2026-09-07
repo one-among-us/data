@@ -3,7 +3,7 @@ name: Mystia
 info:
     alias: Mystiabaka
     location: Beijing, China
-desc:
+desc: Because if it’s in there, then if one day I’m not around, I can always be with you~
 ---
 
 ## How We Met
