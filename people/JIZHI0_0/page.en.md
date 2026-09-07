@@ -6,6 +6,8 @@ info:
 desc: Even if your heart is frozen, I’ll still try to melt it ♡
 ---
 
+> Even if your heart is frozen, I’ll still try to melt it ♡
+
 ## Introduction
 
 Juzhi was an incredibly sweet trans girl and an absolute angel. She was always taking small steps toward that beautiful dream, dressing up in feminine clothes and taking care of herself so she could always feel pretty. She used to share photos of herself in JK uniforms all the time—insisting that it was only because “she didn’t really have anything else to post”—and every single time, people couldn’t help but adore her.
