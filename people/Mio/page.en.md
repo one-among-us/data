@@ -75,7 +75,7 @@ Translation:
 > 
 > > (Translation of the post):
 > >
-> > Being able to maintain a state between male and female is a miracle――height, body shape, behaviour, skin, and voice.
+> > Being able to maintain a state between male and female is a miracle—height, body shape, behaviour, skin, and voice.
 > > A state like this allows me to switch gender presentations relatively easily without fear of being clocked.
 > > Being in a state like this delayed the worsening of my Gender Dysphoria.
 > >
@@ -155,7 +155,7 @@ Translation of the above photos:
 > Mio, you already promised me you aren’t going to do something like this…
 > 
 > Your mother told me:
-> “When I came into her room this morning, I saw--
+> “When I came into her room this morning, I saw—
 > Mio had put on makeup and pretty clothes.
 > But her eyes were closed, forever.”
 > 

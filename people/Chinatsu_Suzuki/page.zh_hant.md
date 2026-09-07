@@ -65,10 +65,10 @@ info:
 
 <PhotoScroll photos={['${path}/photos/photo4.webp']} />
 
-> 『感謝末影貓小姐協助我幫助千夏』—lib一抹陽光
+> 『感謝末影貓小姐協助我幫助千夏』——lib一抹陽光
 
 <PhotoScroll photos={['${path}/photos/photo5.webp']} />
 
-> 『如果能有下輩子，我們一定要在一起』—鈴木千夏、lib一抹陽光
+> 『如果能有下輩子，我們一定要在一起』——鈴木千夏、lib一抹陽光
 
 <PhotoScroll photos={['${path}/photos/photo6.webp', '${path}/photos/photo7.webp', '${path}/photos/image3.webp', '${path}/photos/image4.webp']} />
