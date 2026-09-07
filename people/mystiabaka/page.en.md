@@ -113,7 +113,7 @@ After our brief reunion, I took the train back to Yongkang, and the next day I r
 
 I always held onto the promise of our next meeting.
 
-But we were always so good at meeting, and never thought about parting.
+We were always so good at meeting, and never thought about parting.
 
 ## Together Through the Winter Snow
 
