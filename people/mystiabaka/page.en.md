@@ -254,7 +254,7 @@ And now, as I look through the things she left behind, I feel a similar daze. Th
 
 She never lingered long in the community, didn’t even leave behind a proper tweet. But I will always remember her. She really was a wonderful person.
 
-Contributors for this Entry: Nuomi  
+Contributor for this Entry: Nuomi  
 Text revised by: Li’An, AMa‑10
 
 [^1]: Translated by [Jan Piet](https://lyricstranslate.com/en/translator/jan-piet)
