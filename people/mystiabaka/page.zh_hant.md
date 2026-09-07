@@ -3,7 +3,7 @@ name: 米斯蒂婭
 info:
     alias: Mystiabaka
     location: 中國北京
-desc:
+desc: 我雖不在那裡，但是也過著漫漫的冬，看著春天，看著以後。
 ---
 
 ## 因緣際會
