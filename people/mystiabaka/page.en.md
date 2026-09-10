@@ -89,7 +89,7 @@ The train we took was the K1050, departing from Yongkang South Station at 03:28 
 We arrived in Hangzhou on National Day. We spent some time together, had desserts at Honeymoon Dessert—she ordered the golden mango sago with pomelo and mango pancake—and then went to Saizeriya again, chatting happily about all sorts of things. Truth be told, the Saizeriya in the Yangtze Delta doesn’t taste any different from the one in Beijing; what matters most is who you’re eating with.
 
 <PhotoScroll photos={[
-'${path}/photos/photo1.webp',
+    '${path}/photos/photo1.webp',
 ]} />
 
 <p style="text-align: center;">(The chocolate‑flavoured Frappuccino I bought for Mystia in Hangzhou.)</p>
@@ -99,11 +99,11 @@ That afternoon, Mystia and I went to some classic train‑spotting locations in 
 <div style="display: flex; margin: auto; gap: 80px; flex-direction: row; justify-self: center; justify-content: center; justify-items: center; flex-wrap: wrap">
 
 <PhotoScroll photos={[
-'${path}/photos/photo2.webp',
+    '${path}/photos/photo2.webp',
 ]} />
 
 <PhotoScroll photos={[
-'${path}/photos/photo3.webp',
+    '${path}/photos/photo3.webp',
 ]} />
 
 </div>
@@ -210,7 +210,7 @@ I don’t know what could have happened to make a child who once held so much ho
 I opened the copy of *Das Kapital (Revised Edition)* she left behind, and turned to the flyleaf.
 
 <PhotoScroll photos={[
-'${path}/photos/photo4.webp',
+    '${path}/photos/photo4.webp',
 ]} />
 
 > This is a book that absolutely no one would ever read, but they say “extremes meet,” so you’ve opened it and found this message. But seriously, is anyone really interested in a book like this?!
@@ -222,19 +222,19 @@ On her bookshelf were other books and magazines she had sent to me in advance.
 “Liu Wenyang… he passed away young too… She really loved his writing,” I murmured.
 
 <PhotoScroll photos={[
-'${path}/photos/photo5.webp',
+    '${path}/photos/photo5.webp',
 ]} />
 
 I also dug out some photos from my WeChat favourites—one was a subway station she’d snapped on a trip to Chongqing for a gender dysphoria diagnosis certificate in April 2024, and the other was a sunrise she’d photographed at an amateur radio gathering in Hangzhou.
 
 <PhotoScroll photos={[
-'${path}/photos/photo6.webp',
-'${path}/photos/photo7.webp',
+    '${path}/photos/photo6.webp',
+    '${path}/photos/photo7.webp',
 ]} />
 
 These… are some of the few traces she left behind in this world.
 
-> I have only seen that in Drama’s on TV  
+> I have only seen that in dramas on TV  
 > While such words are being thrown around  
 > I wonder what she could possibly be thinking about right now  
 > Somewhere far, far away  
