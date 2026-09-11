@@ -2,7 +2,7 @@ id: execute_darker
 profileUrl: ${path}/photos/profile.png
 info:
   born: '2006-09-16'
-  died: '2024-12-16'
+  died: '2024-12-26'
 websites:
     iconify:tabler:brand-bluesky: https://bsky.app/profile/did:plc:4qtgf43npors52g7izdtiobc
     twitter: https://twitter.com/execute_darker
