@@ -52,7 +52,7 @@ She appealed to people that everyone should respect the right of transgender ind
 The article was concise and straightforward, and its words didn’t pull any punches.
 Just as the comment said:
 
-> “This article is quite in the style of Lu Xun. #LOL#"
+> “This article is quite in the style of Lu Xun. #LOL#”
 
 The third article was *[Yazyuu Senpai Zhihu Setu](https://zhuanlan.zhihu.com/p/38419017)*. Its original point was the same as the first article.
 

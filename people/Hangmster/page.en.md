@@ -15,7 +15,7 @@ They seldom mentioned what they loved. However, according to their tweets, they 
 
 <PhotoScroll photos={[ '${path}/photos/fufu.webp',]} />  
 
-Hangmster was often troubled by insomnia and anxiety. They once said that they didn't like their body, and their less traditional self-expression online made them more comfortable.
+Hangmster was often troubled by insomnia and anxiety. They once said that they didn’t like their body, and their less traditional self-expression online made them more comfortable.
 
 Unfortunately, although they always encouraged us to live bravely, they still chose to leave at the beginning of the year.
 

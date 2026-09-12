@@ -27,8 +27,8 @@ never letting her depression affect others.
 Everyone who knew her was fond of her.
 
 Despite an unfortunate childhood and a difficult present,
-she didn't complain about her experiences online.
-She always faced life's challenges with positivity.
+she didn’t complain about her experiences online.
+She always faced life’s challenges with positivity.
 
 But she left us so early that we cannot even see her retreating figure.
 

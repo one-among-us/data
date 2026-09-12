@@ -1,0 +1,7 @@
+id: huihui
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2005-03-29'
+  died: '2026-08-02'
+websites:
+  Bilibili: https://space.bilibili.com/1950017780

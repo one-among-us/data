@@ -22,21 +22,21 @@ XingZ60 (contemporary trans “xyn” community); originally known as Z60 (limel
 
 During her active years on ZhiHu, she was a trans ally boy. In early 2022, after losing her phone, she became a part of limelight and continued her activities there, still maintaining the personal image of an ally.
 
-Until July 2022, she started transition. In October 2022, she attempted suicide for the first time. Afterward, she disappeared from the community and retreated from her transition for a period, from October 2022 to April 2023. During this time, she returned for her interest in the rhythmic game “Maimai”, diving deeper into trans culture.
+Until July 2022, she started transition. In October 2022, she attempted suicide for the first time. Afterward, she disappeared from the community and retreated from her transition for a period, from October 2022 to April 2023. During this time, she returned for her interest in the rhythm game “Maimai”, diving deeper into trans culture.
 
-Finally she came out as a trans in September 2023. Afterward, she was able to get diagnosed for her identity.
+Finally she came out as trans in September 2023. Afterward, she was able to get diagnosed for her identity.
 
 The inclination of transition is something that cannot be changed.
 
 <PhotoScroll photos={[ '${path}/photos/image0.webp', ]} />
 
-She had a very good intuition of rhythmic games, but due to her concentration problem, she did not play the purple (hardest) tracks.
+She had a very good intuition for rhythm games, but due to her concentration problem, she did not play the purple (hardest) tracks.
 
 ## Engagement in Trans Aid
 
 In her view, helping others, especially those in marginalized groups, to survive, live, and develop better has always been very important.
 
-In her spare time, she organized and participated in numerous suicide intervention and rescue operations. She was involved in the rescue of [Shizuha](https://one-among.us/profile/GLaDOSister). , which had a significant impact in daily life. Trans aid work had always been a part in her daily life. <!-- 前面这句中文懂什么意思，先这么翻译，大家看一下 --> 
+In her spare time, she organized and participated in numerous suicide intervention and rescue operations. She was involved in the rescue of [Shizuha](https://one-among.us/profile/GLaDOSister), which had a significant impact in daily life. Trans aid work had always been a part in her daily life. <!-- 前面这句中文懂什么意思，先这么翻译，大家看一下 --> 
 
 Her actions helped marginalized people. Through her efforts, she did her utmost to prevent self-harm and suicide.
 
@@ -65,11 +65,11 @@ Her actions helped marginalized people. Through her efforts, she did her utmost 
 
 <DottedNumber n="II"/>
 
-"The dead are the greatest" and "Respect the deceased" seem to be self-evident and self-evident truths in the minds of most of us. However, everyone seems to have a different understanding of what "respecting the deceased" means.
+“The dead are the greatest” and “Respect the deceased” seem to be self-evident truths in the minds of most of us. However, everyone seems to have a different understanding of what "respecting the deceased" means.
 
 We once witnessed with our own eyes how XingZ60's parents dressed up her appearance to represent the traditional male gender at her funeral, and hung a headshot with a buzz cut in the center of the mourning hall; we also watched with our own eyes as XingZ60's parents threw her ashes into the trunk of a car and dragged them away. At that time, many people were shocked and angry at the behavior of XingZ60's parents. The respect for the deceased in the eyes of TA's parents seems to be overridden by so-called social customs and the deep-rooted prejudices of the living themselves.
 
-Throughout the ages, people tend to "write some good words on the tombstone", talking more about achievements and less or even not talking about faults. Only Wu Zetian erected a stele without words at Ganling Mausoleum, and her merits and demerits will be judged by future generations. In this matter, XingZ60 is somewhat similar to the latter. TA once said that when a person dies, all the right and wrong, merits and demerits are "finally judged"; everyone can make their own judgments. This is also reflected in his suicide note - he invited people who had different opinions from her to write the earlier part of One Among Us, and also left a message saying "Anyone can write whatever they want."
+Throughout the ages, people tend to "write some good words on the tombstone", talking more about achievements and less or even not talking about faults. Only Wu Zetian erected a stele without words at Qianling Mausoleum, and her merits and demerits will be judged by future generations. In this matter, XingZ60 is somewhat similar to the latter. TA once said that when a person dies, all the right and wrong, merits and demerits are "finally judged"; everyone can make their own judgments. This is also reflected in his suicide note - he invited people who had different opinions from her to write the earlier part of One Among Us, and also left a message saying "Anyone can write whatever they want."
 
 Since XingZ60 has this idea, I will just write some stories casually. I would like to write down some of the thoughts that XingZ60 brought to me, but I will try not to make any value judgments on her behavior, and let future generations judge her right and wrong, merits and demerits.
 
@@ -213,7 +213,7 @@ On December 26, I asked for a dextromethorphan medicine box to make a handmade g
 
 On the 27th, you said that you forgot to send the express delivery due to an emergency. I simply thought that you were busy with something and didn't care about you at all.
 
-On the 30th, when I was opening the express package, someone had just told me that you had committed suicide. I hurriedly dug out the express delivery label from the trash can, wanting to keep it as a souvenir, but I didn't expect that I would tear your name neatly in the middle horizontally. All the anxiety, regret and sadness were concentrated in that moment. I was deeply afraid that all this foreshadowed an irreversible tragedy...
+On the 30th, when I was opening the express delivery package, someone had just told me that you had committed suicide. I hurriedly dug out the express delivery label from the trash can, wanting to keep it as a souvenir, but I didn't expect that I would tear your name neatly in the middle horizontally. All the anxiety, regret and sadness were concentrated in that moment. I was deeply afraid that all this foreshadowed an irreversible tragedy...
 
 I started to have a fever the day after hearing the news, a fever I had never had before. During this period, I could only repeat between pure drowsiness and pure crying with a high fever. Although there seemed to be some not-so-bad news during this period, my memory is really vague, and these not-so-bad news did not turn into not-so-bad facts.
 
@@ -313,7 +313,7 @@ At school, I often call or chat with her to ease the boredom of studying in the 
 
 When I discussed my own spiritual exploration with her, she commented on my words as "no hope". But in her last words, she told me not to flip over. Maybe she was persuading me based on her own experience, but I still embarked on this difficult road.
 
-From what others said, XingZ60 is more complicated and abstract than I had imagined. What I know is just the tip of the iceberg, either because of Yasasi or because of lack of time. But anyway, the second half of XingZ60 is as interesting as a game. I regret that I will never have the chance to meet you again, but in a corner of my heart there will always be a guy named XingZ60 teasing me.
+From what others said, XingZ60 is more complicated and abstract than I had imagined. What I know is just the tip of the iceberg, either because of Yasashii or because of lack of time. But anyway, the second half of XingZ60 is as interesting as a game. I regret that I will never have the chance to meet you again, but in a corner of my heart there will always be a guy named XingZ60 teasing me.
 
 <br/>
 

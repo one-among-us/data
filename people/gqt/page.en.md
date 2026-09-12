@@ -13,7 +13,7 @@ info:
 
 ## Introduction
 
-Ara was a Franco-Italian trans girl who graduated from Georgia Tech in physics, enjoyed playing games like CSGO(Counter-Strike: Global Offensive), NSO(Needy Streamer Overload), GGS(Guilty Gear Strive), and Minecraft and loved cooking Italian food. She was a bit crazy around the edges. She massively suffered from borderline personality disorder (BPD), but still was one of the sweetest people we've met, genuinely caring and loving. Unfortunately, her conditions were what led to her departure.
+Ara was a Franco-Italian trans girl who graduated from Georgia Tech in physics, enjoyed playing games like CSGO(Counter-Strike: Global Offensive), NSO(Needy Streamer Overload), GGS(Guilty Gear Strive), and Minecraft and loved cooking Italian food. She was a bit crazy around the edges. She massively suffered from borderline personality disorder (BPD), but still was one of the sweetest people we’ve met, genuinely caring and loving. Unfortunately, her conditions were what led to her departure.
 
 ## Her beautiful mind
 
@@ -27,9 +27,9 @@ Beneath the fire, Ara loved aquariums and had a particular obsession with hammer
 
 She was also a fan of Italian cuisine and made pasta a lot.
 
-Despite all the things she loved, her passions, her curiosity, and her obsessions, Ara's battle with BPD was a storm she could never quite outrun. The same intensity that fueled her love also amplified her pain. She wanted to be close to people, to be understood, but the weight of her emotions often made that closeness feel impossible to sustain. Her relationships were full of deep love, but also self-doubt and an overwhelming fear of abandonment.
+Despite all the things she loved, her passions, her curiosity, and her obsessions, Ara’s battle with BPD was a storm she could never quite outrun. The same intensity that fueled her love also amplified her pain. She wanted to be close to people, to be understood, but the weight of her emotions often made that closeness feel impossible to sustain. Her relationships were full of deep love, but also self-doubt and an overwhelming fear of abandonment.
 
-What ultimately took Ara from us wasn't a lack of effort or will. She fought every day. But BPD is relentless, and in the end, she made a choice not out of weakness, but out of exhaustion.
+What ultimately took Ara from us wasn’t a lack of effort or will. She fought every day. But BPD is relentless, and in the end, she made a choice not out of weakness, but out of exhaustion.
 
 ## A memory
 
@@ -94,29 +94,29 @@ At 2025-06-22 a final note was received
 <details>
 <summary>**Note (English)**</summary>
 
-> I don't give a fuck what you label me as
+> I don’t give a fuck what you label me as
 > 
-> I just can't keep living like this
+> I just can’t keep living like this
 > 
-> Literally can't. Thoughts racing through my head all the time, tried every med, no therapy has helped nor will help.
+> Literally can’t. Thoughts racing through my head all the time, tried every med, no therapy has helped nor will help.
 > 
-> Hope you respect my decision. I've gotten my degree. It's all I ever wanted and I finally have it.
+> Hope you respect my decision. I’ve gotten my degree. It’s all I ever wanted and I finally have it.
 > 
 > My brain is too fucking rotten to do anything further than that. I have peaked in a world that is very clearly going to shit.
 > 
-> Friends understandably distance themselves from me (and admit it), because it's just too much negativity and heavy shit all the time.
+> Friends understandably distance themselves from me (and admit it), because it’s just too much negativity and heavy shit all the time.
 > 
-> But that's besides the point.
+> But that’s besides the point.
 > 
 > It is nice for everything to finally be over, not stressing about anything, no more paranoia, no more stalking pieces of shit to worry about, no more needing to put effort into anything, no more need to feel like the fucking parasitic scum of the earth. Either that or I become a corporate wageslave.
 > 
-> It's clearer and clearer that humanity is evil by nature. Fuck, I could write entire books about it. But my star has faded and I just can't think clearly anymore. Yes, I've tried all possible meds over the years, and no, none of them helped. I'm just finishing something I started back in 2019.
+> It’s clearer and clearer that humanity is evil by nature. Fuck, I could write entire books about it. But my star has faded and I just can’t think clearly anymore. Yes, I’ve tried all possible meds over the years, and no, none of them helped. I’m just finishing something I started back in 2019.
 > 
-> Could spend the rest of my days making schizo art, or cutting myself just to feel real (BUT NOOOOOOO YOU DON'T KNOW WHAT IT MEANS TO EXPERIENCE DEREALIZATION - fucking psychologist ive been seeing). At least my insides look real. Strange to try to get rid of my only coping mechanism just to replace it with nothing that just quite works.
+> Could spend the rest of my days making schizo art, or cutting myself just to feel real (BUT NOOOOOOO YOU DON’T KNOW WHAT IT MEANS TO EXPERIENCE DEREALIZATION - fucking psychologist ive been seeing). At least my insides look real. Strange to try to get rid of my only coping mechanism just to replace it with nothing that just quite works.
 > 
 > This is becoming a schizobabble but goodbye to everyone I love. To my mom for supporting me all this way, to my dad for doing whatever he could to fight my literal mental demons (yes I literally hallucinated them), to my doctors trying to find any appropriate treatment for me, to all my friends at Georgia Tech for being there for me, to the professors who believed in me and gave me all the chances in the world, and most of all Jordan, my loving husband, and Crystal, my beautiful daughter-in-spirit, for having always been there for me.
 > 
-> Always. I'm sorry to disappoint all of you. But there really was no other way. Didn't wanna wait for some voodoo therapy to work or to be involuntarily committed again and lose control. So while I am still in control, I love you all. Thank you for everything.
+> Always. I’m sorry to disappoint all of you. But there really was no other way. Didn’t wanna wait for some voodoo therapy to work or to be involuntarily committed again and lose control. So while I am still in control, I love you all. Thank you for everything.
 > 
 > Ara
 

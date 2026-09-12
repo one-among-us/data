@@ -3,6 +3,7 @@ name: 莉緒
 info:
     alias: Ryu-Im, Yotaro
     location: 日本東京
+desc: AMONG US!!!!!
 ---
 
 > 我在學校度過了糟糕的一天，不過我想我已經放下了吧……💔

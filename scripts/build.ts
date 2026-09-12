@@ -25,11 +25,13 @@ const DATA_DIR = "data";
 
 const projectRoot = path.dirname(path.dirname(url.fileURLToPath(import.meta.url)));
 const peopleDir = path.join(projectRoot, PEOPLE_DIR);
-const people = fs.readdirSync(peopleDir).map(person => ({
-  dirname: person,
-  srcPath: path.join(peopleDir, person),
-  distPath: path.join(projectRoot, DIST_DIR, PEOPLE_DIR, person)
-}));
+const people = fs.readdirSync(peopleDir)
+  .filter(person => !person.startsWith('.') && fs.statSync(path.join(peopleDir, person)).isDirectory())
+  .map(person => ({
+    dirname: person,
+    srcPath: path.join(peopleDir, person),
+    distPath: path.join(projectRoot, DIST_DIR, PEOPLE_DIR, person)
+  }));
 
 initCache(projectRoot);
 
@@ -135,13 +137,18 @@ function buildPeopleInfoAndList() {
         const bornStr = info.info.born as string
         if (bornStr.startsWith('0000-')) {
           // Unknown year: treat month-day directly as lunar month-day
-          lunarMd = bornStr.substring(5) // "MM-DD"
+          const match = bornStr.match(/^0000-(-?\d+)-(\d+)$/)
+          if (!match) {
+            throw new Error(`[Build Error] Invalid lunar born format for "${dirname}": ${bornStr}. Expected format like 0000-04-15 or 0000--4-15 (leap month).`)
+          }
+          // Handle negative month for lunar leap month
+          lunarMd = String(Math.abs(parseInt(match[1], 10))).padStart(2, '0') + '-' + match[2].padStart(2, '0')
         } else {
           // Known year: convert solar born date to lunar
           const parts = bornStr.split('-').map(Number)
           const solar = Solar.fromYmd(parts[0], parts[1], parts[2])
           const lunar = solar.getLunar()
-          lunarMd = String(lunar.getMonth()).padStart(2, '0') + '-' + String(lunar.getDay()).padStart(2, '0')
+          lunarMd = String(Math.abs(lunar.getMonth())).padStart(2, '0') + '-' + String(lunar.getDay()).padStart(2, '0')
         }
       }
 
@@ -163,14 +170,22 @@ function buildPeopleInfoAndList() {
         const bornStr = info.info.born as string
         if (bornStr.startsWith('0000-')) {
           // Unknown year + lunar: format month-day as Chinese lunar
-          const mm = parseInt(bornStr.substring(5, 7))
-          const dd = parseInt(bornStr.substring(8, 10))
+          const match = bornStr.match(/^0000-(-?\d+)-(\d+)$/)
+          if (!match) {
+            throw new Error(`[Build Error] Invalid lunar born format for "${dirname}": ${bornStr}. Expected format like 0000-04-15 or 0000--4-15 (leap month).`)
+          }
+          const mm = parseInt(match[1], 10)
+          const dd = parseInt(match[2], 10)
+
+          const absMm = Math.abs(mm)
+          const leapPrefix = mm < 0 ? '闰' : ''
+
           // Use a reference year to get the Chinese text for month/day
-          const refLunar = Lunar.fromYmd(2000, mm, dd)
+          const refLunar = Lunar.fromYmd(2000, absMm, dd)
           if (lang === '' || lang === '.zh_hant') {
-            info.info.born = refLunar.getMonthInChinese() + '月' + refLunar.getDayInChinese()
+            info.info.born = leapPrefix + refLunar.getMonthInChinese() + '月' + refLunar.getDayInChinese()
           } else {
-            info.info.born = String(mm).padStart(2, '0') + '-' + String(dd).padStart(2, '0') + ' (Lunar)'
+            info.info.born = String(absMm).padStart(2, '0') + '-' + match[2].padStart(2, '0') + ' (Lunar)'
           }
         } else {
           // Known year + lunar: convert to lunar display, store solar in solarBorn
@@ -181,7 +196,7 @@ function buildPeopleInfoAndList() {
           if (lang === '' || lang === '.zh_hant') {
             info.info.born = lunar.getYear() + '年' + lunar.getMonthInChinese() + '月' + lunar.getDayInChinese()
           } else {
-            info.info.born = lunar.getYear() + '-' + String(lunar.getMonth()).padStart(2, '0') + '-' + String(lunar.getDay()).padStart(2, '0') + ' (Lunar)'
+            info.info.born = lunar.getYear() + '-' + String(Math.abs(lunar.getMonth())).padStart(2, '0') + '-' + String(lunar.getDay()).padStart(2, '0') + ' (Lunar)'
           }
         }
         // Remove the lunar_birthday flag from output (internal use only)
@@ -372,7 +387,7 @@ function cleanDist() {
   const distPeopleDir = path.join(projectRoot, DIST_DIR, PEOPLE_DIR);
   if (!fs.existsSync(distPeopleDir)) return;
 
-  const distPeople = fs.readdirSync(distPeopleDir);
+  const distPeople = fs.readdirSync(distPeopleDir).filter(p => !p.startsWith('.'));
   const srcPeopleMap = new Map(people.map(p => [p.dirname, p.srcPath]));
 
   let numRemoved = 0;
@@ -435,7 +450,9 @@ function trim(str: string, ch: string) {
 }
 
 function isDirEmpty(dir: string): boolean {
-  if (fs.readdirSync(dir).length == 0) return true;
-  else if ((fs.readdirSync(dir).length == 1) && (fs.readdirSync(dir)[0] == 'comments')) return true;
+  if (!fs.existsSync(dir)) return true;
+  const files = fs.readdirSync(dir).filter(f => !f.startsWith('.'));
+  if (files.length === 0) return true;
+  else if ((files.length === 1) && (files[0] === 'comments')) return true;
   return false;
 }

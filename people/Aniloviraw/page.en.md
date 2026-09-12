@@ -41,7 +41,7 @@ Stuff in the stomach has not been digested...and acid reflux
 I'm having some strange feelings——
 ——I think I want to go and play with you
 
-> Ugly, filthy me after a few days off GATH (Gender Affirming Hormone Therapy). 
+> Ugly, filthy me after a few days off GAHT (Gender Affirming Hormone Therapy). 
 > No need to waste those meds.  
 > I'll finish the last thing I need to do,  
 > And finally, aboard the Ginga Tetsudō, with you.
