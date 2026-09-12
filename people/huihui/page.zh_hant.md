@@ -2,7 +2,7 @@
 name: 慧慧
 info:
     alias: 漂泊的小慧慧
-    location: 廣西北海
+    location: 河北邢台
 desc: 珍惜對你好的人，萬一弄丟了，可就回不來了。
 ---
 
