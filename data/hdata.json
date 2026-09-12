@@ -12,13 +12,14 @@
         "s5ehfr9"
     ],
     "actualHide": [
-        "Aniloviraw"
+        "Aniloviraw",
+        "ElihusoQ"
     ],
-    "trigger": [
-        "Aniloviraw"
-    ],
+    "trigger": ["Aniloviraw"],
     "switch": [
-        ["Anilovr", "Aniloviraw"]
+        ["Anilovr", "Aniloviraw"],
+        ["Elihuso", "ElihusoQ"],
+        ["ElihusoQ", "Elihuso"]
     ],
     "skipAges": ["cheonwoomaeng"],
     "probabilities": {
