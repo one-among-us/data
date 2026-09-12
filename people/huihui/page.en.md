@@ -2,7 +2,7 @@
 name: Huihui
 info:
     alias: Wandering Xiaohuihui
-    location: Beihai, Guangxi
+    location: Xingtai, Hebei
 desc: Cherish those who treat you well. If you ever lose them, you may never get them back.
 ---
 
