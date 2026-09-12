@@ -18,7 +18,9 @@
         "Aniloviraw"
     ],
     "switch": [
-        ["Anilovr", "Aniloviraw"]
+        ["Anilovr", "Aniloviraw"],
+        ["qcm45", "execute_darker"],
+        ["execute_darker","qcm45"]
     ],
     "skipAges": ["cheonwoomaeng"],
     "probabilities": {
@@ -27,6 +29,6 @@
     },
     "groups": [
         ["Elihuso", "Anilovr"],
-        ["huihui", "mystiabaka", "Carena0442", "JIZHI0_0", "wam327", "SuzukiYayoiNyaa","yuri2438511040"]
+        ["huihui", "execute_darker", "qcm45", "mystiabaka", "Carena0442", "JIZHI0_0", "wam327", "SuzukiYayoiNyaa","yuri2438511040"]
     ]
 }
