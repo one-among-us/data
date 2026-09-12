@@ -49,4 +49,4 @@ info:
 > 
 > 摘自 阿鳶的遺書 
 
-條目貢獻：One-Among-Us, [沈奈昔](https://twitter.com/chengyiga)
+條目貢獻：One Among Us, [沈奈昔](https://twitter.com/chengyiga)

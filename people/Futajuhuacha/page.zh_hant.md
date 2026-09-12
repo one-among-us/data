@@ -86,7 +86,7 @@ desc: 願世界將你溫柔以待。
 >
 > NekoyaFam，2018-07-11，於 知乎
 
-條目貢獻: One-Among-Us, [K醬](https://github.com/KristallWang)
+條目貢獻: One Among Us, [K醬](https://github.com/KristallWang)
 
 [^1]: 標題格式模仿的是《記念劉和珍君》。
 

@@ -20,3 +20,5 @@ Qi wrote in her suicide note:
 “My death has nothing to do with anyone, it’s just a choice of mine, please don′t hate others for it. Please live a good, sunny and happy life, and please live a good life for yourself.”
 
 She had always hoped that everyone can live happily and healthily.
+
+<!-- Contributor for this entry：[XYNattwitterproject](https://github.com/XYNattwitterproject) -->

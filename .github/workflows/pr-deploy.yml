@@ -1,0 +1,87 @@
+name: PR Deploy Preview
+
+on:
+  workflow_run:
+    workflows: ["PR Build"]
+    types:
+      - completed
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.workflow_run.head_repository.full_name }}-${{ github.event.workflow_run.head_branch }}
+  cancel-in-progress: true
+
+permissions:
+  pull-requests: write
+  actions: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    if: >
+      github.event.workflow_run.event == 'pull_request' &&
+      github.event.workflow_run.conclusion == 'success'
+
+    steps:
+      - name: Download Artifact
+        uses: actions/download-artifact@v8
+        with:
+          name: preview-dist
+          path: dist/
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ github.event.workflow_run.id }}
+
+      - name: Read PR Number
+        id: pr-info
+        run: |
+          PR_NUMBER=$(cat dist/pr_number.txt | tr -d '\n\r')
+          if ! [[ "$PR_NUMBER" =~ ^[0-9]+$ ]]; then
+            echo "Error: Invalid PR number format: $PR_NUMBER"
+            exit 1
+          fi
+          echo "PR_NUMBER=$PR_NUMBER" >> $GITHUB_ENV
+          rm dist/pr_number.txt
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=data-preview --branch=pr-${{ env.PR_NUMBER }}
+
+      - name: Pull request comment
+        uses: actions/github-script@v9
+        env:
+          PR_NUMBER: ${{ env.PR_NUMBER }}
+        with:
+          script: |
+            const prNumber = parseInt(process.env.PR_NUMBER, 10);
+            const now = new Date().toISOString().substring(0, 19).replace('T', ' ');
+            const reviewBody = `🐱 感谢贡献！\n\n部署了预览，在这里哦: https://pr-${prNumber}.data-preview.pages.dev\n\n🕒 最后更新: ${now} (UTC)`;
+            
+            // List existing reviews on the PR.
+            const { data: reviews } = await github.rest.pulls.listReviews({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: prNumber,
+            });
+            const existingReview = reviews.find(review => review.body && review.body.includes('部署了预览'));
+            if (existingReview) {
+              // Update the existing review.
+              await github.rest.pulls.updateReview({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: prNumber,
+                review_id: existingReview.id,
+                body: reviewBody,
+              });
+            } else {
+              // Create a new review comment.
+              await github.rest.pulls.createReview({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: prNumber,
+                body: reviewBody,
+                event: "COMMENT",
+              });
+            }

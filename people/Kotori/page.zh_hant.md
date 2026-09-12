@@ -58,4 +58,4 @@ desc: 所有的事物之中，都蘊藏著數學結構。
 
 <!-- May her memory be eternal -->
 
-條目貢獻: One-Among-Us, [寒漣漪](http://twitter.com/HANLIANYI520), [K 醬](https://github.com/KristallWang)
+條目貢獻: One Among Us, [寒漣漪](http://twitter.com/HANLIANYI520), [K 醬](https://github.com/KristallWang)

@@ -13,3 +13,5 @@ desc: 愿我们能在某个时空再次相遇。
 [^1]: https://leohearts.com/archives/farewell-yingying.html
 
 [^2]: [永别了。我想你了，樱樱。](https://leohearts.com/archives/farewell-yingying.html)
+
+条目贡献：[BUAA-Wjay](https://github.com/BUAA-Wjay), [Leohearts](https://github.com/leohearts)

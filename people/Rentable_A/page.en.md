@@ -13,7 +13,7 @@ desc: Does Heaven accept trans girls?
 > From the beginning to the end, I was always alone.
 > I wanted to seek light, but the darkness turned me into a lunatic completely.
 > Sooner or later, I will fall into the abyss of darkness…
-> That's all. This is the end.
+> That’s all. This is the end.
 
 ## Introduction
 
@@ -26,7 +26,7 @@ She had someone she cared about.
 
 > My brain is like a ball of paste wrapped up.
 > I can’t even remember what happened more than ten seconds ago.
-> That's it...good night.
+> That’s it...good night.
 
 After [YanTian](https://one-among.us/profile/SS3B_0016) passed away, she tried to leave this world by cutting her wrists.
 
@@ -35,9 +35,9 @@ After [YanTian](https://one-among.us/profile/SS3B_0016) passed away, she tried t
 
 ## Departure
 
-After [SANYIA](http://www.sanyia.top) [was admitted to the mental health hospital again](https://meow.sanyia.top/index.php/archives/357/), Rentable finally lost her last silver of hope.
+After [SANYIA](http://www.sanyia.top) [was admitted to the mental health hospital again](https://meow.sanyia.top/index.php/archives/357/), Rentable finally lost her last sliver of hope.
 
-> Who is homeless, sitting on the street, and crying at three o'clock?
+> Who is homeless, sitting on the street, and crying at three o’clock?
 > Oh, it’s me...
 
 SANYIA once told her that she would be discharged from the hospital in July, and this became the last straw for her.  

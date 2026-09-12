@@ -12,4 +12,4 @@ desc: She indulged in the cradle of happiness.
 
 Gaoyang was a pretty, tender and kind girl. She always acted strong despite being raised in poverty by a single-parent.
 
-Contributor: Han Lianyi
+Contributor for this entry: Han Lianyi

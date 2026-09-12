@@ -7,7 +7,7 @@ info:
 desc: Waiting for your return, reunion...
 ---
 
->  "May kind souls be treated gently by the world."
+>  “May kind souls be treated gently by the world.”
 >
 >  By: Xuewulihuameng
 

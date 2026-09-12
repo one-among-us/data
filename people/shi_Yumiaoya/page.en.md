@@ -42,13 +42,13 @@ Nikkormat FT
 尼康 D200
 Nikon D200 -->
 
-> And in case I don't see you……good afternoon, good evening, and good night.
+> And in case I don’t see you……good afternoon, good evening, and good night.
 >
 > From *The Truman Show*
 
-Well, Yumiao, girl's last tour ended.
+Well, Yumiao, girl’s last tour ended.
 And you can finally get a good sleep.
 
-Contributor: [Jose](https://twitter.com/JoseToYuToMiao)
+Contributor for this entry: [Jose](https://twitter.com/JoseToYuToMiao)
 
-(Some experience originated in Yumiao's autobiography before her departure. There are M&D.)
+(Some experience originated in Yumiao’s autobiography before her departure. There are M&D.)

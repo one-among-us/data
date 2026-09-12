@@ -94,6 +94,21 @@
     }
   },
   {
+    "type": "wait",
+    "userid": ["hulicaijia"],
+    "wait": 40000,
+    "id": "Yubei_Liangjiang",
+    "toast": {
+      "title": "渝北旧事",
+      "text": "渝北之名随风飘散，那段故事再也回不去了。",
+      "img": "https://data.one-among.us/img/bridge.webp",
+      "background": "url(https://data.one-among.us/img/fog.webp)",
+      "width": 64,
+      "height": 64,
+      "color": "#000000"
+    }
+  },
+  {
     "type": "keyword",
     "userid": [
       "SevenBird",
