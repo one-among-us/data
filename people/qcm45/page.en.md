@@ -1,7 +1,7 @@
 ---
 name: Qinchengmeng
 info:
-    alias: 
+    alias: qcm45
     location: Suzhou, Jiangsu
 desc: Just a laid-back qcm-chan
 ---
@@ -30,7 +30,7 @@ That night, she didn’t say goodnight to me, just told me she couldn’t take i
 
 ## Another Memory
 
-When you get down to it, Mengmeng was actually my fan from the very beginning.
+When you get down to it, Mengmeng was actually my fan from the very beginning, you know.
 
 She once had a boyfriend, though it was actually one-sided love—“I treat you as a very good friend, but you’re in love with me.” She loved him too much, but he couldn’t accept her as a boy. So that relationship became the turning point for her to make up her mind to become a girl. But the good times didn’t last long, and they later separated. Mengmeng then felt that life had lost its meaning.
 
