@@ -16,15 +16,15 @@ Darker was a somewhat willful and stubborn girl, yet also one who was easy to li
 
 She was very active on the Coolapk forum, liked tinkering with third-party kernels, and developed Magisk modules. It was through this that she got to know [Mengmeng](../profile/qcm45), and also Shiroshita[^2].
 
-As for her avatar… it came from Monica in *Doki Doki Literature Club!*. Perhaps it was also because she feared a **loneliness** like Monica’s. In the summer of 2023, she traveled a long way from Guangxi to Suzhou to find Mengmeng.
+As for her avatar… it came from Monika in *Doki Doki Literature Club!*. Perhaps it was also because she feared a **loneliness** like Monika’s. In the summer of 2023, she traveled a long way from Guangxi to Suzhou to find Mengmeng.
 
 In October, she went north to Harbin—a city covered in ice and snow—where Shiroshita was living. She stayed there for quite a long time and had a happy stretch of days, and she and Mengmeng even went out together and got haircuts they were satisfied with.
 
 Later she adopted a cat, named Conflict, which was later renamed Xiao Ke, also known as Clash. And then she reenacted a classic image: Clash is proxying your network traffic!
 
-Unfortunately, in early April, around Qingming, she suddenly **went missing** after returning to Guangxi. Shiroshita and Mengmeng later learned that she had been sent to a conversion school.
+Unfortunately, in early April, around the Qingming Festival, she suddenly **went missing** after returning to Guangxi. Shiroshita and Mengmeng later learned that she had been sent to a conversion school.
 
-They began trying to find a way to get her out. Together with Maho Citrus, they added Darker’s mother on WeChat. Although the chatting was more or less okay, there was no actual effect.
+They began trying to find a way to get her out. Together with Maho Citrus, they added Darker’s mother on WeChat. Although our conversations were generally okay, there was no actual progress.
 
 At the end of August, Mengmeng passed away. Maho Citrus used this as a reason to ask Darker’s parents to take her out of the conversion school. Darker’s parents agreed, but Darker was transferred from an ordinary high school to a vocational high school. Her parents required her to finish the college entrance exam and cut off all contact with the trans community.
 
@@ -58,13 +58,13 @@ Maho Citrus worried about her safety and once again contacted her parents in Gua
 
 When you get down to it, Darker was actually my fan from the very beginning.
 
-At that time, I happened to be writing practical tutorials about tinkering with devices on the Coolapk forum. Because one of my articles gained a lot of traffic and received an official push, I took the opportunity to establish my own fan group. Darker joined through public channels.
+At that time, I happened to be writing practical device-modding tutorials on the Coolapk forum. Because one of my articles gained a lot of traffic and was officially featured, I took the opportunity to establish my own fan group. Darker joined through public channels.
 
 But once, she suddenly said in the group that she was feeling down, that she was having thoughts of ending it all. Of course I couldn’t just stand by, so I tried to talk her around, and afterward we became friends. As for how the relationship got better… I’ve somewhat forgotten.
 
-Until July 2023, when I really couldn’t stand the restrictions at home anymore, I decided to go south from the northeast to Suzhou to find Mengmeng. When Darker learned of this, she insisted on coming along, so the two of us both ended up in Suzhou at that time.
+Until July 2023, when I really couldn’t stand the restrictions at home anymore, I decided to head south from the northeast to Suzhou to find Mengmeng. When Darker learned of this, she insisted on coming along, so the two of us both ended up in Suzhou at that time.
 
-I couldn’t isolate her… but as a mere friend, I also couldn’t take care of her…
+I couldn’t just turn her away… but as a mere friend, I also couldn’t take care of her…
 
 ## Epilogue
 

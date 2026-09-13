@@ -34,9 +34,9 @@ When you get down to it, Mengmeng was actually my fan from the very beginning, y
 
 She once had a boyfriend, though it was actually a one-sided love—“I treat you as a very good friend, but you’re in love with me.” She loved him so much, but he couldn’t return her feelings while she was still a boy. That unrequited love became the catalyst that made her resolve to become a girl. But the good times didn’t last, and they later parted ways. Mengmeng then felt that her life had lost all meaning.
 
-It was around that time that I happened to be writing practical device-modding tutorials on the Coolapk forum. Because one of my articles garnered a lot of traffic and was officially featured, I took the opportunity to start my own fan group chat. Mengmeng, who happened to also love tinkering with kernels and developing Magisk modules, joined my group. We clicked instantly. She gave her heart to me and fell in love, and afterward, we naturally became a couple.
+It was also at that time that I happened to be writing practical device-modding tutorials on the Coolapk forum. Because one of my articles gained a lot of traffic and was officially featured, I took the opportunity to establish my own fan group. Mengmeng, who happened to also love tinkering with kernels and developing Magisk modules, joined my group. We clicked instantly. She gave her heart to me and fell in love, and afterward, we naturally became a couple.
 
-That was until July 2023, when, unable to endure my family’s strict control any longer, I decided to head south to Suzhou to find her…
+Until July 2023, when I really couldn’t stand the restrictions at home anymore, I decided to head south to Suzhou to find her…
 
 ## Epilogue
 
