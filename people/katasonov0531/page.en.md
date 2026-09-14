@@ -107,7 +107,7 @@ I didn’t meet Kata in person many times, and I didn’t know her very deeply. 
 
 My dear, dear sister, goodnight. In that world, may there be no more pain…
 
-Entry contributed by: [N552AA](https://twitter.com/N552AA8)
+Contributor for this entry: [N552AA](https://twitter.com/N552AA8)
 
 [^1]: Shanghai Three-Piece Set: refers to the three buildings in Pudong New Area: Shanghai World Financial Center, Jin Mao Tower, and Shanghai Tower.
 
