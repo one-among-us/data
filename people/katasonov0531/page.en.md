@@ -27,7 +27,7 @@ Once, she took a client from Shanghai. I told her I’d pick her up at Pudong Ai
 
 After I picked up Kata, she and I talked about a lot of things. At that time, my situation was much worse than it is now—my parents not only refused to buy me HRT medication, but often berated me. I had no way out, and could only try to “take clients” myself. She gave me quite a bit of advice on taking clients—telling me which ones to take and which not to, what to watch out for, how to protect myself…
 
-Well, even though she was younger than me… I had to admit, she was a senior in this regard.
+Well, even though she was younger than me… I had to admit, she was a veteran in this regard.
 
 Kata had also come to Shanghai to see Yangmiao. We came out of the terminal, called a car, and went together to see Yangmiao.
 
@@ -39,7 +39,7 @@ Once, Kata said she wanted to kill herself. At that time, we couldn’t reach he
 
 It was an afternoon with still-bright sunshine. I was in class at school, but I still squeezed out the time to make that crucial call to the police. Fortunately, when the Beijing police found her, she hadn’t actually attempted suicide—she was just in a terrible mood, drinking alone. But this police officer, whether out of malice or just being rigidly by-the-book, had her taken to the station for a statement even though she was already safe. And because of this, when her father found out, he flew into a rage and kept threatening to send her to a psychiatric hospital. My sister… she was so scared, and I was scared too.
 
-“Can you please not send her to a psychiatric hospital… She said if she gets locked up in there, she’ll try to kill herself…” I tried to communicate with her family. Then I comforted her: “Sister, come to Shanghai. At least you can stay with me… You won’t be sent away, you won’t be homeless.”
+“Can you please not send her to a psychiatric hospital… She said if she gets locked up in there, she’ll try to kill herself…” I tried to communicate with her family. Then I comforted her: “Kata, come to Shanghai. At least you can stay with me… You won’t be sent away, you won’t be homeless.”
 
 At the time, the bank card I used for tuition had just had the tuition money deposited. After setting aside the part for tuition, there was still some leftover, so I urgently bought her a plane ticket from Beijing to Shanghai.
 
@@ -59,7 +59,7 @@ At the time, I had already let her stay at my home alone, but she wouldn’t agr
 
 ## A Long Night
 
-Somehow, she took a bottle of amantadine I had bought, still unopened… There should have been a bottle of pregabalin too, but in the end, I couldn’t snatch it back from her.
+Somehow, she took a bottle of amantadine I had bought, still unopened… and I think a bottle of pregabalin too, but in the end, I couldn’t snatch it back from her.
 
 “Pregabalin and amantadine absolutely must not be taken together…” I couldn’t argue with her, so that was all I could say.
 
@@ -95,9 +95,9 @@ It wasn’t until I woke up around six that I saw that message—the one I regre
 
 The frozen chat window, the phone number that can never be reached again, the updates that will never come—perhaps everything about the ending is already clear.
 
-It was only until July of the following year that I truly learned from another friend that she had passed away, and only in December did that obituary arrive, more than a year late.
+It wasn’t until July of the following year that I truly learned from another friend that she had passed away, and only in December did that obituary arrive, more than a year late.
 
-Kata, my sister, was a good person. Even though she was younger than me… she was indeed a senior when it came to taking clients… Even now, I still feel grateful to her.
+Kata, my sister, was a good person. Even though she was younger than me… she was indeed a veteran when it came to taking clients… Even now, I still feel grateful to her.
 
 She was still so young, so young…
 
