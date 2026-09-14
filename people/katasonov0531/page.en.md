@@ -101,7 +101,7 @@ Kata, my sister, was a good person. Even though she was younger than me… she w
 
 She was still so young, so young…
 
-To this day, her profile page still displays my earliest ID, but she doesn’t know that I’ve been banned seven more times since then, and that bio of hers of course can never be updated again.
+To this day, her bio still displays my earliest ID, but she doesn’t know that I’ve been banned seven more times since then, and that bio of hers of course can never be updated again.
 
 I didn’t meet Kata in person many times, and I didn’t know her very deeply. But she truly was a lovely, kind person, and she will always be my dear sister.
 
