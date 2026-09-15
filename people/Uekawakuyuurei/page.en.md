@@ -43,7 +43,7 @@ Yet, Ying didn’t stop caring about their friends to not let us worried even wh
 
 In September 2021, Ying went to the other side of the sea (metaphorically) on their favourite ship.
 Their last Twitter post was:
-“I want to drink a bigggg cup of iced Coke at last.”
+“I want to drink a bigggg cup of iced Coke at last…”
 No problem, Ying. No matter how many cups of Coke you want to drink, we will buy them for you.
 
 <ChannelBackupButton platform="telegram" />
