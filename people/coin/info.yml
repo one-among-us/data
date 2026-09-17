@@ -1,0 +1,7 @@
+id: coin
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2005-10-14'
+  died: '2026-03-22'
+websites:
+  twitter: https://twitter.com/coinsk252735

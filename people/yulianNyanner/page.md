@@ -32,7 +32,7 @@ desc: 我们一起在死后反抗不公的世界。
 
 只是, 没有像御坂妹妹一样回到现世罢。
 
-<!-- 御坂妹妹：Misaka's little sister -->
+<!-- 御坂妹妹：Misaka’s little sister -->
 
 ## 桎梏
 

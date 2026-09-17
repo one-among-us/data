@@ -36,7 +36,7 @@ This is the [last piece of writing](https://pbs.twimg.com/media/E6odBBBVIAAM-Zt?
 >
 > Everything goes wrong when my family is involved.
 > It’s better to hope for a better start in the next life?
-> Nope, of course, I'm not going to come to this cruel world again;
+> Nope, of course, I’m not going to come to this cruel world again;
 > The worlds portrayed in animes are much better, not that I think they exist.
 >
 > (Switching my pen.)
@@ -59,7 +59,7 @@ This is the [last piece of writing](https://pbs.twimg.com/media/E6odBBBVIAAM-Zt?
 > You helped me many times during various periods of my life,
 > but I really can’t thank you individually.
 > And, Ying, if there really is a world we go to after death,
-> I'll mark the route for you.
+> I’ll mark the route for you.
 > Not really, please live healthily and happily in this life.
 > Oh, I forgot.
 > I have a Vtuber video to watch, I’m going to watch that now.
@@ -73,4 +73,4 @@ This is the [last piece of writing](https://pbs.twimg.com/media/E6odBBBVIAAM-Zt?
 ]} />
 
 We wish you to be able to meet the girls in Jinjufu and live happily in another world,
-after leaving all of this world's sufferings behind.
+after leaving all of this world’s suffering behind.

@@ -135,4 +135,4 @@ so she may travel warmly to heaven.
 Susie, may you be free from all burdens in your next life.
 May your wishes come true in a kinder world.
 
-Contributors for this entry: [Nekomaki](https://twitter.com/nekomakiQAQ), [Snowfairy](https://twitter.com/snowfairy011026), One-Among-Us, Rinko (translator for poem)
+Contributors for this entry: [Nekomaki](https://twitter.com/nekomakiQAQ), [Snowfairy](https://twitter.com/snowfairy011026), One Among Us, Rinko (translator for poem)

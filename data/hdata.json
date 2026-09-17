@@ -8,7 +8,8 @@
     "notShowOnHome": [
         "MeowBot233",
         "AkiraComplex",
-        "Y1Ran"
+        "Y1Ran",
+        "s5ehfr9"
     ],
     "actualHide": [
         "Aniloviraw",
@@ -18,7 +19,9 @@
     "switch": [
         ["Anilovr", "Aniloviraw"],
         ["Elihuso", "ElihusoQ"],
-        ["ElihusoQ", "Elihuso"]
+        ["ElihusoQ", "Elihuso"],
+        ["qcm45", "execute_darker"],
+        ["execute_darker","qcm45"]
     ],
     "skipAges": ["cheonwoomaeng"],
     "probabilities": {
@@ -26,6 +29,7 @@
         "Huasheng": 1
     },
     "groups": [
-        ["Elihuso", "Anilovr"]
+        ["Elihuso", "Anilovr"],
+        ["huihui", "zzj876", "katasonov0531", "execute_darker", "qcm45", "mystiabaka", "Carena0442", "JIZHI0_0", "wam327", "SuzukiYayoiNyaa","yuri2438511040"]
     ]
 }

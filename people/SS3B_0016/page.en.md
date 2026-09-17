@@ -27,7 +27,7 @@ These factors put their physical and mental health in danger.
 
 Yantian unfortunately left us due to cardiac arrest on 12th January 2024.
 One Among Us members were extremely shocked and sad, too. 
-This is a temporary entry for now. We'll finish this when people recover from sadness.
+This is a temporary entry for now. We’ll finish this when people recover from sadness.
 
 Based on this, We temporarily set up a small space online for them, to make their memorial warmer in this severe winter.
 
@@ -35,7 +35,7 @@ If you wish, you can share your memory of Yantian by comment.
 
 > Tips: Your comments and memories on this memorial page will be considered to be **referenced** by default. One Among Us editors will complete their formal entry with your help. We will retain all approved comments in their formal entry.
 >
-> If you don't hope your comment to be referenced, please mark it out.
+> If you don’t hope your comment to be referenced, please mark it out.
 >
 > You can send email to [info@one-among.us](mailto:info@one-among.us) to contribute photos or other rich text or submit issue to our [Github repository](https://github.com/one-among-us/data).
 

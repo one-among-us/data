@@ -52,7 +52,7 @@ She appealed to people that everyone should respect the right of transgender ind
 The article was concise and straightforward, and its words didn’t pull any punches.
 Just as the comment said:
 
-> “This article is quite in the style of Lu Xun. #LOL#"
+> “This article is quite in the style of Lu Xun. #LOL#”
 
 The third article was *[Yazyuu Senpai Zhihu Setu](https://zhuanlan.zhihu.com/p/38419017)*. Its original point was the same as the first article.
 
@@ -122,7 +122,7 @@ In the early morning of the next day, the girl chasing the Milky Way finally lef
 >
 > NekoyaFam, 2018-07-11, on Zhihu
 
-Contributors for this entry: One-Among-Us, [Kristall Wang](https://github.com/KristallWang)
+Contributors for this entry: One Among Us, [Kristall Wang](https://github.com/KristallWang)
 
 [^1]: The title format imitates *In Memory of Ms.Liu Hezhen*, which was a famous work of Lu Xun, published on April 12th, 1926.
 

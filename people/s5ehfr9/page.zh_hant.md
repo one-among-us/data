@@ -20,3 +20,4 @@ info:
 
 她的頭貼來自於[她所編寫的遊戲](https://github.com/DSLapatura/FP/releases/download/v0.0.1/Fermi.Paradox.zip). 她說, 我的頭貼掛在上面 (One Among Us) 的話應許是很獨特的吧, 可是我什麼都不會, 到時候不會有人給我寫簡介吧.  
 
+條目貢獻：[Julia](https://github.com/wloot)

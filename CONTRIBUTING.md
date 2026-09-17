@@ -167,3 +167,33 @@ For Windows, Yarn could be find at [Classic YarnPkg](https://classic.yarnpkg.com
 
 * In zh_hans/zh_hant pages, we prefer to use these punctuations: `，。？！:;——()[]{}「」『』《》`
 * In en_ca pages, we prefer to use these punctuations: `,.?!:;-()[]{}“”‘’<>`
+
+## 7. Lunar Birthday
+
+If the person's birthday is celebrated according to the lunar calendar, you can specify `lunar_birthday: true` under `info` in `info.yml`.
+
+Depending on whether the birth year is known, use the following rules for the `born` field:
+
+1. Known solar year:
+   Fill `born` with the corresponding solar date (`YYYY-MM-DD`). The build script will automatically convert and display it as the lunar date, while keeping the solar date for age and sorting calculations.
+   ```yaml
+   info:
+     born: '2008-08-16'
+     lunar_birthday: true
+   ```
+
+2. Unknown year (standard lunar month):
+   Fill `born` with `0000-<lunar-month>-<lunar-day>` (e.g., `0000-04-15` represents the 15th day of the 4th lunar month).
+   ```yaml
+   info:
+     born: '0000-04-15'
+     lunar_birthday: true
+   ```
+
+3. Unknown year (leap lunar month):
+   Fill `born` with `0000--<lunar-month>-<lunar-day>` using a negative sign for the leap month (e.g., `0000--4-15` represents the 15th day of the leap 4th lunar month).
+   ```yaml
+   info:
+     born: '0000--4-15'
+     lunar_birthday: true
+   ```

@@ -8,7 +8,7 @@ desc: 这样的天空，我还能看多久呢？
 
 ## 简介
 
-Tsukiko 是我们的一位非二元伙伴，并使用“他”的称呼。
+Tsukiko 是我们的一位非二元伙伴，并使用「他」的称呼。
 
 他曾在推特留言中提到，他喜欢镜音连。
 
@@ -46,4 +46,4 @@ Tsukiko 是我们的一位非二元伙伴，并使用“他”的称呼。
 >
 > —— 思萌 留
 
-条目贡献：One-Among-Us, [思萌](https://twitter.com/mishengai), [Zhiqianyue](https://twitter.com/Zhiqianyue)
+条目贡献：One Among Us, [思萌](https://twitter.com/mishengai), [Zhiqianyue](https://twitter.com/Zhiqianyue)

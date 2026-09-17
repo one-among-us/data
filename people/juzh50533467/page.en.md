@@ -8,7 +8,7 @@ desc: Girls, don’t be ashamed...
 
 ## Introduction
 
-> Juezhe was a trans girl who grew up in the rural areas of Guangxi. Though she didn't have much formal education, she carried within her a unique courage.
+> Juezhe was a trans girl who grew up in the rural areas of Guangxi. Though she didn’t have much formal education, she carried within her a unique courage.
 >
 > We often see many trans women with different backgrounds and experiences.
 > 
@@ -16,29 +16,29 @@ desc: Girls, don’t be ashamed...
 >
 > But across this vast land, there are many more trans women who deserve to be seen.
 >
-> Juezhe didn't leave many words, so we have preserved her first-person narrative to retain more of her presence in this world.
+> Juezhe didn’t leave many words, so we have preserved her first-person narrative to retain more of her presence in this world.
 >
-> "Girls, don’t be ashamed... you’re not a freak, everyone is always with you."
+> “Girls, don’t be ashamed... you’re not a freak, everyone is always with you.”
 >
 > —— One Among Us
 
-## Juezhe's Self Narration
+## Juezhe’s Self Narration
 
 When I was in elementary school,
 I really liked the smooth, hairless skin of girls and how they could dress however they wanted, grow long hair, and braid it.
 Most importantly, they could wear skirts, which was awesome.
 Every time I saw other girls, I envied them very much.
 
-I secretly wore my sister's skirt once.
+I secretly wore my sister’s skirt once.
 I was so happy but also very scared, scared of being discovered.
 I hated my secondary sexual characteristics.
-Why couldn't I be a girl...
+Why couldn’t I be a girl...
 
 I hated the labels they put on me.
 I couldn’t accept that,
 but gender isn’t something you can choose.
 I was destined not to change anything.
-In others' minds,
+In others’ minds,
 boys were supposed to be rough and messy.
 
 I have a very considerate sister who always took care of me.
@@ -62,7 +62,7 @@ I belonged to the passive personality type,
 without my own opinions,
 always feeling self-pity,
 always escaping,
-overly caring about others' evaluations,
+overly caring about others’ evaluations,
 and yearning for recognition.
 No matter how sad I was,
 I would always force a smile in front of others,
@@ -87,18 +87,18 @@ Until one day,
 I stumbled upon information about transgenders, estrogen, and transitioning on the internet.
 This changed my rigid mindset, and after learning more, I unhesitatingly sought out ways to start HRT...
 
-## Juezhe's Departure
+## Juezhe’s Departure
 
-> "I never really hoped to be accepted. Born a misfit..."
+> “I never really hoped to be accepted. Born a misfit...”
 
 On that day, that girl went to a secluded mountain, intending to end it all.
 
-She knew her family's financial situation couldn’t support her transition nor save her life.
+She knew her family’s financial situation couldn’t support her transition nor save her life.
 
 She always felt like a burden...
 
-> "The liquid was so strong, so bitter, and so salty..."
+> “The liquid was so strong, so bitter, and so salty...”
 >
-> "I hope in the next life I can be a girl... Sorry for making everyone worry even in death..."
+> “I hope in the next life I can be a girl... Sorry for making everyone worry even in death...”
 
 Say goodnight to that girl, she was just too tired, and fell asleep...

@@ -30,8 +30,8 @@ async function build() {
   const startTime = Date.now();
 
   buildProcess = spawn(
-    "node",
-    ["--loader", "ts-node/esm/transpile-only", "scripts/build.ts"],
+    "tsx",
+    ["scripts/build.ts"],
     {
       cwd: projectRoot,
       stdio: "inherit",

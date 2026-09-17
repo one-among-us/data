@@ -18,3 +18,5 @@ info:
 2023 年 6 月 16 日下午，在两年间的数次尝试后，这一次，她不幸带着她的遗憾和才能永远地离开了我们。可能选择离开这个糟糕的世界是她做过唯一自私的事情。
 
 她的头像源自于[她编写的游戏](https://github.com/DSLapatura/FP/releases/download/v0.0.1/Fermi.Paradox.zip)。她说，我的头像被挂在上面（One Among Us）的话应该会挺独特的吧，可是我什么都不会，到时候不会有人给我写简介吧。
+
+条目贡献：[Julia](https://github.com/wloot)

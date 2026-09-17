@@ -14,25 +14,25 @@ desc: Immersed in love and being loved...
 
 When it comes to the wounds caused by love, Mika must be mentioned.
 
-> "But after meeting Spring Khara, I realized how happy it is to have someone with me."
+> “But after meeting Spring Khara, I realized how happy it is to have someone with me.”
 >
-> "But now I have to lose her..."
+> “But now I have to lose her...”
 >
-> "I don't want to go on alone anymore."
+> “I don’t want to go on alone anymore.”
 >
-> "Being alone is painful, and I can't see hope."
+> “Being alone is painful, and I can’t see hope.”
 >
-> "𝓠𝓾𝓪𝓷, are you there?"
+> “𝓠𝓾𝓪𝓷, are you there?”
 >
-> "Can I give you my Twitter account password?"
+> “Can I give you my Twitter account password?”
 >
-> "It's somewhat bitter..."
+> “It’s somewhat bitter...”
 >
-> "Spring is leaving for Japan, maybe she's boarding the plane now. Tell her I love her."
+> “Spring is leaving for Japan, maybe she’s boarding the plane now. Tell her I love her.”
 >
-> "I bought some ice cream. When my stomach starts to ache, I'll eat some to suppress it."
+> “I bought some ice cream. When my stomach starts to ache, I’ll eat some to suppress it.”
 >
-> "It won't be painful. It won't."
+> “It won’t be painful. It won’t.”
 
 <PhotoScroll photos={[
 '${path}/photos/photo1.webp',
@@ -46,7 +46,7 @@ She was a top student who attended a special class in a Beijing high school, and
 She enjoyed playing *Dead by Daylight* and researching network engineering.
 Many people were willing to engage with her;
 she had a wide range of hobbies,
-and she gave off a very reliable "big sister" vibe.
+and she gave off a very reliable “big sister” vibe.
 Of course, she was indeed older than me.
 But the reliability I once thought she had was just a feeling after all...
 
@@ -61,16 +61,16 @@ she revealed a deep awareness of her own situation.
 
 I first met Mika on the night of July 31st, 2023.
 Her intention was clear ——
-she wanted to "ship" me and Jing Jiangbie as a couple.
+she wanted to “ship” me and Jing Jiangbie as a couple.
 
 Later on, I learned that she was in a relationship with Spring Khara.
-Even though they hadn't been together long,
+Even though they hadn’t been together long,
 I could tell from their conversations that they deeply loved each other.
-At that time, she was one of my "little bells[^1]" as I often saw her and Spring flaunting their affection for each other.
+At that time, she was one of my “little bells[^1]” as I often saw her and Spring flaunting their affection for each other.
 
 Through our chats,
 I began to realize that Mika’s family likely offered little emotional support.
-She was longed for love and companionship and tended to become emotionally dependent on others.
+She longed for love and companionship and tended to become emotionally dependent on others.
 About half a month later,
 the four of us created a small group chat.
 Almost every night, we’d make calls together,
@@ -86,7 +86,7 @@ Money was precisely the breaking point for Mika’s despair.
 In late August, she tried coming out but ended up facing serious opposition.
 What started as a typical situation—family conflict,
 her parents not wanting her to undergo hormone replacement therapy (HRT).
-So Mika running away from home only to be brought back by the police—ended in conflict resolution at the local police station.
+So Mika ran away from home only to be brought back by the police—ended in conflict resolution at the local police station.
 
 That was originally just a typical thing.
 
@@ -101,12 +101,12 @@ Once they had money, they began indulging in high expenses frequently, posting o
 
 ...
 
-By September, I started noticing cracks in their relationship due to their financial strain and Mika's dependency on Spring.
+By September, I started noticing cracks in their relationship due to their financial strain and Mika’s dependency on Spring.
 
 Later, I found out that Mika sought out [Yemaomao](https://twitter.com/cmtfdd) for companionship,
 and what happened during that time was something Spring found hard to accept.
 
-Mika simply wanted to escape because she couldn't bear her family’s constraints on her gender identity.
+Mika simply wanted to escape because she couldn’t bear her family’s constraints on her gender identity.
 
 ...
 
@@ -126,11 +126,11 @@ though it was still genuine.
 On October 15th, Mika suddenly contacted me,
 asking if I could take over her Twitter account.
 I was on my way to Tianjin Library but suddenly realized something was wrong.
-Huai An (𝓠𝓾𝓪𝓷's classmate in high school) and I decided to get off at XIAWAFANG Station[^2] and call the police to save Mika.
+Huai An (𝓠𝓾𝓪𝓷’s classmate in high school) and I decided to get off at XIAWAFANG Station[^2] and call the police to save Mika.
 Before leaving the station, I briefly called Mika, trying to calm her down.
 
-"It’s no use. I’ve locked the door from the inside."
-"Tell Spring I love her very much."
+“It’s no use. I’ve locked the door from the inside.”
+“Tell Spring I love her very much.”
 
 Those were Mika’s last words, and at that moment, I felt utterly powerless.
 
@@ -140,9 +140,9 @@ Those were Mika’s last words, and at that moment, I felt utterly powerless.
 
 I received confirmed news of Mika’s departure on October 24th.
 
-Because of a previous competition I qualified for, I went to Sanchakou(three-river-junction) that day. 
+Because of a previous competition I qualified for, I went to Sanchakou (three-river-junction) that day. 
 
-Since parking wasn’t allowed inside the Children's Palace,
+Since parking wasn’t allowed inside the Children’s Palace,
 we changed clothes in the parking lot beneath the Tianjin Eye.  
 
 And just as we got out of the car, the message came through:  
@@ -209,7 +209,7 @@ Mika once said,
 I know now that she may never get to see that view.  
 But her story, her love, and her misunderstood persistence will forever remain in the hearts of those who remember her.
 
-Love has never really disappears...it’s just that we can no longer speak it to her in person.
+Love never really disappears...it’s just that we can no longer speak it to her in person.
 
 <PhotoScroll photos={[
 '${path}/photos/photo2.webp',
@@ -222,33 +222,33 @@ Love has never really disappears...it’s just that we can no longer speak it to
 ## Epilogue
 
 Mika’s story includes many aspects that I can’t openly share,
-such as details about her family, friends.
+such as details about her family and friends.
 And those close to her advised me to keep certain things private.
 So I can only write up to this point.
 
 One night, in a group chat, I was on a call with Mika.
 
-"𝓠𝓾𝓪𝓷, I really want to contribute to the community."
+“𝓠𝓾𝓪𝓷, I really want to contribute to the community.”
 
-"I want to help many people like me survive."
+“I want to help many people like me survive.”
 
-"But my situation and environment make it difficult."
+“But my situation and environment make it difficult.”
 
-"If there’s a chance, maybe in the future, I’ll start a company with the name XiaoYaoNiang(XYN)."
+“If there’s a chance, maybe in the future, I’ll start a company with the name XiaoYaoNiang(XYN).”
 
-"I think those sisters who run shelters are really amazing."
+“I think those sisters who run shelters are really amazing.”
 
-"If I could one day be like them, able to help others…"
+“If I could one day be like them, able to help others…”
 
-"That would be so wonderful."
+“That would be so wonderful.”
 
 This is the origin of XYN (Tianjin) Technology.
 
-Excerpt from: [𝓠𝓾𝓪𝓷](https://twitter.com/yqua_)'s Chronicle Issue No.33, 2023
+Excerpt from: [𝓠𝓾𝓪𝓷](https://twitter.com/yqua_)’s Chronicle Issue No.33, 2023
 
-[^1]: "Little bells" originally refers to the notification feature on Twitter that alerts users when someone they follow posts a tweet. Users can choose to enable or disable these notifications for specific accounts. Here, 'Little Bell' refers to 𝓠𝓾𝓪𝓷 enabling notifications for certain mutual followers (mutuals) to ensure she could promptly like their posts. At that time, 𝓠𝓾𝓪𝓷 maintained such interactions with around 300 mutuals.
+[^1]: “Little bells” originally refers to the notification feature on Twitter that alerts users when someone they follow posts a tweet. Users can choose to enable or disable these notifications for specific accounts. Here, “Little Bell” refers to 𝓠𝓾𝓪𝓷 enabling notifications for certain mutual followers (mutuals) to ensure she could promptly like their posts. At that time, 𝓠𝓾𝓪𝓷 maintained such interactions with around 300 mutuals.
 
-[^2]: XIAWAFANG Station is an interchange station between Lines 1 and 5 of the Tianjin Rail Transit. Heading south from this station leads to WENHUAZHONGXIN (Cultural Centre) Station, where the Tianjin Library (Cultural Centre Branch) is located."
+[^2]: XIAWAFANG Station is an interchange station between Lines 1 and 5 of the Tianjin Rail Transit. Heading south from this station leads to WENHUAZHONGXIN (Cultural Centre) Station, where the Tianjin Library (Cultural Centre Branch) is located.
 
 <!-- 翻译备注： -->
 

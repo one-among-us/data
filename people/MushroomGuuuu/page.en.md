@@ -48,7 +48,7 @@ Before she departed, she smiled sweetly at everyone.
 
 ## After Her Departure
 
-Mushroom once excerpted a passage from Shen Nanxi's answer to Zhihu question [What are your favourite sentences orpersonal status?](https://www.zhihu.com/question/36442613/answer/207763687) as a reflection to herself.
+Mushroom once excerpted a passage from Shen Nanxi’s answer to Zhihu question [What are your favourite sentences or personal status?](https://www.zhihu.com/question/36442613/answer/207763687) as a reflection to herself.
 
 > There is only one hell in this world,
 > 

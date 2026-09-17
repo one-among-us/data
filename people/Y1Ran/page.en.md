@@ -64,7 +64,7 @@ She donated to UNICEF and volunteered with the Be My Eyes app,
 offering visual assistance to blind and low-vision users through live video.
 During her time there, she once received this message:
 
-> “Yiran, you're in good company.”
+> “Yiran, you’re in good company.”
 
 It touched her deeply, perhaps that was one of the reasons she continued to love this world.
 

@@ -27,7 +27,7 @@ While other kids were watching cartoons,
 she was fascinated by documentaries;
 while others were drawing children’s pictures,
 she was carefully sketching buildings and cars from around the world;
-When others were playing puzzles,
+When others were solving puzzles,
 she was pestering her family to help her build electronic kits.
 
 She had wide interests.
@@ -103,7 +103,7 @@ She was never content with the way of the world;
 life often tormented her.
 In those last months,
 she was far too hard on herself—hurting herself more than once, even attempting suicide.
-Later, the drug she once used to kill her self was thrown away.
+Later, the drug she once used to kill herself was thrown away.
 
 But her will to go was already set.
 Friends’ kindness could not hold her back.
@@ -111,7 +111,7 @@ At some quiet, unknown hour, she left once again—only this time, everyone knew
 
 ## Afterword
 
-After Dong Jin's departure,
+After Dong Jin’s departure,
 her grandmother once had a dream:
 she saw Dong Jin crouched by a candle, lost in thought.
 The old woman didn’t quite understand, 

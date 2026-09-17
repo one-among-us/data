@@ -46,4 +46,4 @@ Tsukiko 是我們的一位非二元夥伴，並使用「他」的稱呼。
 >
 > —— 思萌 留
 
-條目貢獻：One-Among-Us, [思萌](https://twitter.com/mishengai), [Zhiqianyue](https://twitter.com/Zhiqianyue)
+條目貢獻：One Among Us, [思萌](https://twitter.com/mishengai), [Zhiqianyue](https://twitter.com/Zhiqianyue)

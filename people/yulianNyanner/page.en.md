@@ -12,27 +12,27 @@ desc: In the end, we heard her voice.
 
 Lyna is a girl who loves hugging her IKEA shark, enjoys rock music, and immerses herself in her own little world.
 
-She fantasizes about being a rock star and releasing an album that moves all of humanity (just a fantasy, but it's such a lovely one!).
+She fantasizes about being a rock star and releasing an album that moves all of humanity (just a fantasy, but it’s such a lovely one!).
 
-"I think Radiohead is a great band, but they're definitely not for everyone. There's a certain quality about them that somehow captivated me."
+“I think Radiohead is a great band, but they’re definitely not for everyone. There’s a certain quality about them that somehow captivated me.”
 
 So, would Bocchi-chan enjoy Radiohead too?
 
 <!-- Bocchi-chan (Gotou Hitori): Bocchi from *Bocchi the Rock!*. -->
 
-Maybe it's ADHD? When doing something challenging, her mind always drifts. Is that it?
+Maybe it’s ADHD? When doing something challenging, her mind always drifts. Is that it?
 
-> "Ah, this style is so similar to that band's song." "So that's why certain things are the way they are." "Dreaming of some unrealistic goals..."
+> “Ah, this style is so similar to that band’s song.” “So that’s why certain things are the way they are.” “Dreaming of some unrealistic goals...”
 
-Light as a feather, yet just like Kanade, she's reluctant to admit she's an angel.
+Light as a feather, yet just like Kanade, she’s reluctant to admit she’s an angel.
 
 <!-- Kanade (Tachibana Kanade): The Angel from *Angel Beats!*. -->
 
 Lonely like a ripple, yet still searching for the meaning of life.
 
-It's just that, unlike Misaka's little sister, she hasn't returned to the world of the living.
+It’s just that, unlike Misaka’s little sister, she hasn’t returned to the world of the living.
 
-<!-- Misaka's little sister: Refers to the Misaka clones from *A Certain Scientific Railgun* and *A Certain Magical Index*. -->
+<!-- Misaka’s little sister: Refers to the Misaka clones from *A Certain Scientific Railgun* and *A Certain Magical Index*. -->
 
 ## Shackles
 
@@ -42,13 +42,13 @@ When I was a child, I was too scared to approach girls, wishing I could understa
 
 Then my parents and everyone around me snuffed out that part of me, forcing me to play with boys.
 
-Ah, walking around like a freak every day... by the time I graduated, I'd probably been assimilated.
+Ah, walking around like a freak every day... by the time I graduated, I’d probably been assimilated.
 
-Every year, a part of me dies, and I can't even remember who I was the year before.
+Every year, a part of me dies, and I can’t even remember who I was the year before.
 
-Gender identity? A boy? A girl? I can't recall at all...
+Gender identity? A boy? A girl? I can’t recall at all...
 
-I think I might have been a girl before third grade? But now, no matter how hard I try, I can't remember anymore.
+I think I might have been a girl before third grade? But now, no matter how hard I try, I can’t remember anymore.
 
 I always fantasized about being a bride, getting married.
 
@@ -72,7 +72,7 @@ Then I tormented myself, turning into a walking corpse.
 
 <!-- (This section is first-person narration.) -->
 
-Adam's apple, broad shoulders? And my voice.
+Adam’s apple, broad shoulders? And my voice.
 
 What a nuisance... Every month, I find myself hating these things multiple times.
 
@@ -112,7 +112,7 @@ But music is just an escape from pain.
 
 That’s what she says.
 
-A tragic life, fleeting youth. Choices like those in a galgame, nothing but the gods' mockery.
+A tragic life, fleeting youth. Choices like those in a galgame, nothing but the gods’ mockery.
 
 It’s just like what Kessoku Band sings...
 
@@ -138,7 +138,7 @@ But can we ever find that star?
 
 > This world is fake, just one of my self-pleasing fantasies.  
 >
-> What's the meaning of living? Working until death — what kind of happiness can be bought with that?  
+> What’s the meaning of living? Working until death — what kind of happiness can be bought with that?  
 >
 > Happiness was all used up by the time I hit my twenties. By thirty, wouldn’t I just be a walking corpse?
 
