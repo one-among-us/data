@@ -6,7 +6,7 @@ info:
 desc: Escape
 ---
 
-<Banner data={{"icon":"${path}/photos/profile.jpg","title":"This page has been patrolled, and was even designed by her","text":"If you know her, please turn your head first to see if she is behind you"}} />
+<Banner data={{"icon":"${path}/photos/profile.jpg","title":"This page has been patrolled, and was even designed by her.","text":"If you know her, please turn your head first to see if she is behind you."}} />
 
 > “When the answer is revealed, that is when destruction comes”  
 > “Only death can make the truth known to all”    
@@ -24,7 +24,7 @@ Elihuso, a catgirl. Online she is a cat; offline, she looks like a cat too, nya?
 
 A very lovely friend. If you were fortunate enough to have seen her past, perhaps you would think that she, back then, was more like everyone else…
 
-> (Not accepting any help is my ideal. I have went against it twice. Once, twice, there will not be a third.)
+> (Not accepting any help is my ideal. I already went against it twice. Once, twice, there will not be a third.)
 >
 > … 
 > Then  
@@ -45,7 +45,7 @@ And now, what can be said?
 > who never apologizes,   
 > never accepts apologies,    
 > stops at nothing,   
-> and leaves no feelings behind 
+> keeps no attachments  
 
 Since the beginning of 2025, Elihuso had been tormented by stubborn insomnia. She had tried many medications, yet it was hard to obtain true peace. In the end, she still tried the drugs that seemed more effective, and also more dangerous.
 
@@ -59,16 +59,17 @@ Perhaps everything had long been decided, only that this day came too suddenly.
 Nearly three years of long suffering had made her a vengeful spirit wandering the world,
 and every lamp of hope was snuffed out one by one…
 
-> Just who did you want to find, to play with…  
+> Who was it you wanted to go and play with…  
+> 
 > The one promised, to be together forever  
 > waiting for you   
 > or waiting for me   
 > 3-carboxy-3-hydroxypentanedioic acid  
-> shattered glass……   
+> shattered glass…   
 >
-> Her condition is not good, emergency   
-> It might be the gate of hell  
-> Perhaps this is……goodbye  
+> Elihuso’s condition is not good, emergency    
+> It might be the threshold of death  
+> Perhaps this is… the last goodbye   
 
 At Youfangqiao, without warning, wind rose for no reason, and heavy rain began to fall.
 Perhaps someone was crying, someone was sad.
@@ -83,7 +84,7 @@ Once, several friends tried through various means to make her stop using the dan
 > You’re all so stupid  
 > If you knew why Elihuso calls you an idiot, you wouldn’t be an idiot  
 >
-> I should not develop any intimate relationships   
+> I should not develop any intimate relationships…   
 > Don’t get emotional over a disposable thing…  
 >
 > If you can’t figure it out, then take your time…  
@@ -97,8 +98,6 @@ What if…what if…Sigh…
 
 > In the dream, I reached the end of time
 
-“This is the train to Antares Station.”
+「<ruby>本<rt>běn</rt></ruby><ruby>次<rt>cì</rt></ruby><ruby>列<rt>liè</rt></ruby><ruby>车<rt>chē</rt></ruby><ruby>开<rt>kāi</rt></ruby><ruby>往<rt>wǎng</rt></ruby><ruby>心<rt>xīn</rt></ruby><ruby>宿<rt>xiù</rt></ruby><ruby>二<rt>èr</rt></ruby><ruby>站<rt>zhàn</rt></ruby>，<ruby>请<rt>qǐng</rt></ruby><ruby>给<rt>gěi</rt></ruby><ruby>有<rt>yǒu</rt></ruby><ruby>需<rt>xū</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>猫<rt>māo</rt></ruby><ruby>娘<rt>niáng</rt></ruby><ruby>让<rt>ràng</rt></ruby><ruby>个<rt>gè</rt></ruby><ruby>座<rt>zuò</rt></ruby>。」
 
-$$
--\int_0^{+\infty}e^{-x}\ln x\mathrm dx
-$$
+“This is the train to Antares Station.”
