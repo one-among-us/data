@@ -39,7 +39,7 @@ But…
 
 And now, what can be said?
 
-> You SHOULD know what Elihuso is——
+> You SHOULD know what Elihuso is—
 >
 > a cold-blooded MONSTER  
 > who never apologizes,   
@@ -47,7 +47,7 @@ And now, what can be said?
 > stops at nothing,   
 > keeps no attachments  
 
-Since the beginning of 2025, Elihuso had been tormented by stubborn insomnia. She had tried many medications, yet it was hard to obtain true peace. In the end, she still tried the drugs that seemed more effective, and also more dangerous.
+Since the beginning of 2025, Elihuso had been tormented by stubborn insomnia. She had tried many medications, yet it was hard to obtain true peace. Later, she tried medications that seemed to her more effective, and also more dangerous.
 
 > …like sinking to the bottom of the water…
 >
