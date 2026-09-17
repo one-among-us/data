@@ -12,13 +12,14 @@
         "s5ehfr9"
     ],
     "actualHide": [
-        "Aniloviraw"
+        "Aniloviraw",
+        "ElihusoQ"
     ],
-    "trigger": [
-        "Aniloviraw"
-    ],
+    "trigger": ["Aniloviraw"],
     "switch": [
         ["Anilovr", "Aniloviraw"],
+        ["Elihuso", "ElihusoQ"],
+        ["ElihusoQ", "Elihuso"],
         ["qcm45", "execute_darker"],
         ["execute_darker","qcm45"]
     ],
