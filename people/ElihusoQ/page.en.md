@@ -90,7 +90,7 @@ If, when we part on the 18th, your answer to me is still “let me go, do not sa
 
 It is all right. Even from afar, we do not have to be “separated.” It is only that if my hands cannot reach the place where you are, at least in the end I can still comfort myself: “I have already tried my best.” But if I were by your bedside, and did even a little less of what I could do, in the end I would never be able to forgive myself.
 
-“Hikari Fatalis can still find her reunion through the soul of ‘original’ Tairitsu, but your girl in reality in the end could not meet with her own.”
+“Hikari Fatalis can still find her reunion through the soul of The Initial Tairitsu, but your girl in reality in the end could not meet with her own.”
 
 <p style="text-align: center; color: red;">- A FATAL DECISION -</p>
 
