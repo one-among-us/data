@@ -9,7 +9,7 @@ desc: Escape
 <Banner data={{"icon":"${path}/photos/profile.jpg","title":"This page has been patrolled, and was even designed by her.","text":"If you know her, please turn your head first to see if she is behind you."}} />
 
 > “When the answer is revealed, that is when destruction comes”  
-> “Only death can make the truth known to all”    
+> “Only death can make the truth known to all”  
 > “Like fireworks — brilliant, and gone in a flash”  
 > “Was it fate? Could a mortal ever witness it?”  
 > “Is the girl’s starlight still bright now?” 
@@ -42,12 +42,12 @@ And now, what can be said?
 > You SHOULD know what Elihuso is—
 >
 > a cold-blooded MONSTER  
-> who never apologizes,   
-> never accepts apologies,    
-> stops at nothing,   
+> who never apologizes,  
+> never accepts apologies,  
+> stops at nothing,  
 > keeps no attachments  
 
-Since the beginning of 2025, Elihuso had been tormented by stubborn insomnia. She had tried many medications, yet it was hard to obtain true peace. Later, she tried medications that seemed to her more effective, and also more dangerous.
+Since the beginning of 2025, Elihuso had been tormented by stubborn insomnia. She had tried many medications, yet it was hard to obtain true peace. Later, she tried medications that seemed to her more effective, but also more dangerous.
 
 > …like sinking to the bottom of the water…
 >
@@ -56,26 +56,26 @@ Since the beginning of 2025, Elihuso had been tormented by stubborn insomnia. Sh
 On the night of July 15, 2025, under multiple complex factors, after using an overdose of medication, Elihuso suffered a sudden cardiopulmonary arrest. Although people around her promptly performed resuscitation and sent her to the hospital, it was no more than temporarily catching hold of a wisp of her lingering soul.
 
 Perhaps everything had long been decided, only that this day came too suddenly.
-Nearly three years of long suffering had made her a vengeful spirit wandering the world,
+Nearly three years of agonizing torment had turned her into a wandering spirit in this world,
 and every lamp of hope was snuffed out one by one…
 
 > Who was it you wanted to go and play with…  
 > 
-> The one promised, to be together forever  
-> waiting for you   
-> or waiting for me   
+> The ones who promised to be together forever  
+> Waiting for you  
+> Or waiting for me  
 > 3-carboxy-3-hydroxypentanedioic acid  
-> shattered glass…   
+> shattered glass…  
 >
-> Elihuso’s condition is not good, emergency    
+> Elihuso’s condition is not good, emergency  
 > It might be the threshold of death  
-> Perhaps this is… the last goodbye   
+> Perhaps this is… the last goodbye  
 
-At Youfangqiao, without warning, wind rose for no reason, and heavy rain began to fall.
-Perhaps someone was crying, someone was sad.
+At Youfangqiao, without warning, the wind picked up for no apparent reason, and heavy rain began to fall.
+Perhaps someone was crying; perhaps someone was sad.
 
 > I love you  
-> but buried deep in my heart    
+> but buried deep in my heart  
 > When you hate me, when you forget me  
 > is when I have finally succeeded 
 
@@ -84,7 +84,7 @@ Once, several friends tried through various means to make her stop using the dan
 > You’re all so stupid  
 > If you knew why Elihuso calls you an idiot, you wouldn’t be an idiot  
 >
-> I should not develop any intimate relationships…   
+> I should not develop any intimate relationships…  
 > Don’t get emotional over a disposable thing…  
 >
 > If you can’t figure it out, then take your time…  
@@ -92,9 +92,9 @@ Once, several friends tried through various means to make her stop using the dan
 
 “Even though we always awaited the arrival of a miracle, the absence of miracles is itself one of the reasons we call them miracles. In late September, after a long and stubborn struggle of her faint consciousness, she finally died of complications, and in that abyss she had once overlooked, she was reunited with Ani and other companions whom she had once deeply loved and lost.”
 
-> But do I really want this
+> But do I really want this?
 
-What if…what if…Sigh…
+What if… what if… Sigh…
 
 > In the dream, I reached the end of time
 
