@@ -122,4 +122,4 @@ info:
 
 條目貢獻：[ServalCandle](https://x.com/ServalCandle)
 
-[^1]: 咴咴紀錄片的前導剪輯 [《「我們消費的『時尚』，是她背負的一生」——跨性別紀錄片〈時尚單品〉前導片](https://www.bilibili.com/video/BV1mzzhBeEZ3/)
+[^1]: 咴咴紀錄片的前導剪輯 [《「我們消費的『時尚』，是她背負的一生」——跨性別紀錄片〈時尚單品〉前導片》](https://www.bilibili.com/video/BV1mzzhBeEZ3/)
