@@ -123,4 +123,4 @@ info:
 
 条目贡献：[ServalCandle](https://x.com/ServalCandle)
 
-[^1]: [咴咴纪录片的 Blilbili 链接](https://www.bilibili.com/video/BV1mzzhBeEZ3/)
+[^1]: 咴咴纪录片的先导剪辑 [《「我们消费的『时尚』，是她背负的一生」——跨性别纪录片〈时尚单品〉先导片](https://www.bilibili.com/video/BV1mzzhBeEZ3/)
