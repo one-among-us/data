@@ -18,7 +18,7 @@ She once wrote about her transformation under names like “Bro Ma” and “Xia
 '${path}/photos/photo2.webp',
 ]} />
 
-After moving to Canada, her creative work gradually shifted from the early internet meme culture toward more personal and grounded expression. She cared about the situation of trans people, and also about family control, the struggles of adolescents, accessibility, and other social issues. She often started from the “bad news” around her, asking how invisible pressures push people, step by step, toward hardship.
+After moving to Canada, her creative work gradually shifted from early internet meme culture toward more personal and grounded expression. She cared about the situation of trans people, and also about family control, the struggles of adolescents, accessibility, and other social issues. She often started from the “bad news” around her, asking how invisible pressures push people, step by step, toward hardship.
 
 At the same time, her real life was far from calm. From 2025 into early 2026, she went through changes in close relationships, conflicts with roommates, and other complicated interpersonal disputes. The internet and reality became tangled together, leaving this later phase of her life filled with strain and exhaustion. She was not without fault, nor was she always clear-eyed and unwavering. She was simply someone trying to find her place.
 
@@ -30,7 +30,7 @@ On February 13, 2026, XiaoHuiHui passed away in Toronto. She was only 21.
 
 Her life cannot be summed up by any single identity, any single controversy, or the last period of her life. After coming out as trans, she knew confusion and she knew courage; she knew loss and she knew what it was to regain something. While she watched herself, she never stopped watching others.
 
-She tried to answer “Who am I?” She also tried to tell people in difficult circumstances:
+She tried to answer, “Who am I?” She also tried to tell people in difficult circumstances:
 > Our living is the greatest resistance to malice.
 
 ## ServalCandle’s Memory
@@ -60,7 +60,7 @@ She was already trapped in her own abyss, yet she kept trying to rescue MTFs bac
 
 She cared about other people. She cared about what vulnerable groups were going through, but it seemed like she never really took care of herself.
 
-She once came to Waterloo and stayed at my place. When she left, she didn’t even have enough money to get home. Because almost all the money she had, she had given to MTFs suffering domestic abuse.
+She once came to Waterloo and stayed at my place. When she left, she didn’t even have enough money to get home. Because almost all the money she had, she had given to MTFs suffering from domestic abuse.
 
 I felt helpless about it.
 
@@ -68,7 +68,7 @@ But maybe that’s just who she was. She simply couldn’t bear to see other peo
 
 In the end, I couldn’t help but give her some money.
 
-I made a point of telling her that I was helping her not because she was also MTF, but because she was my best friend.
+I made a point of telling her that I was helping her not because she was also an MTF, but because she was my best friend.
 
 I hoped she would pay more attention to herself.
 
