@@ -2,7 +2,7 @@
 name: ⼩马咴咴
 info:
     alias: ⼩咴咴
-    location: 多伦多 加拿大
+    location: 加拿大多伦多
 ---
 
 ## 简介
