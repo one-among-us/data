@@ -339,7 +339,7 @@ function buildPeoplePages() {
 
 // Copy `people/${dirname}/photos` to `dist/people/${dirname}/`.
 function copyPeopleAssets() {
-  const PEOPLE_ASSETS = ["photos", "backup", "page.md"];
+  const PEOPLE_ASSETS = ["photos", "backup", "page.md", "page.zh_hant.md", "page.en.md"];
 
   for (const { srcPath, distPath } of people) {
     fs.ensureDirSync(distPath);
