@@ -1,6 +1,7 @@
 import url from "url";
 import path from "path";
 import fs from "fs-extra";
+import { execSync } from "child_process";
 import autocorrect from "autocorrect-node";
 
 import YAML from 'js-yaml';
@@ -404,6 +405,64 @@ function cleanDist() {
   }
 }
 
+function buildPageDates() {
+  const pageDates: Record<string, { created: string; modified: string }> = {};
+
+  try {
+    // --first-parent strictly follows merge commits and direct commits on the main branch,
+    // ensuring 'created' reflects when the PR was merged into main (rather than initial branch commits).
+    const logOutput = execSync('git log --first-parent HEAD --name-only --format="COMMIT:%cI" -- people', {
+      cwd: projectRoot,
+      maxBuffer: 50 * 1024 * 1024,
+      encoding: "utf8"
+    });
+
+    let currentCommitUtc = "";
+    for (const line of logOutput.split("\n")) {
+      const trimmed = line.trim();
+      if (!trimmed) continue;
+      if (trimmed.startsWith("COMMIT:")) {
+        const rawDate = trimmed.slice(7);
+        const parsed = new Date(rawDate);
+        currentCommitUtc = !isNaN(parsed.getTime()) ? parsed.toISOString() : "";
+      } else if (trimmed.startsWith("people/")) {
+        const parts = trimmed.split("/");
+        if (parts.length >= 2) {
+          const person = parts[1];
+          // Exclude comments-only commits, tracking profile content updates
+          if (parts[2] !== "comments" && currentCommitUtc) {
+            if (!pageDates[person]) {
+              pageDates[person] = {
+                created: currentCommitUtc,
+                modified: currentCommitUtc,
+              };
+            } else {
+              pageDates[person].created = currentCommitUtc;
+            }
+          }
+        }
+      }
+    }
+  } catch (e) {
+    console.warn("[Build] Warning: Failed to extract git modification history:", e);
+  }
+
+  const sortedPageDates: Record<string, { created: string; modified: string }> = {};
+  for (const key of Object.keys(pageDates).sort((a, b) => a.localeCompare(b))) {
+    sortedPageDates[key] = {
+      created: pageDates[key].created,
+      modified: pageDates[key].modified,
+    };
+  }
+
+  fs.ensureDirSync(path.join(projectRoot, DIST_DIR));
+  fs.writeFileSync(
+    path.join(projectRoot, DIST_DIR, "page-dates.json"),
+    JSON.stringify(sortedPageDates, null, 2)
+  );
+  console.log(`[Build] Generated page-dates.json (${Object.keys(sortedPageDates).length} entries)`);
+}
+
 async function runBuildStep(stepName: string, fn: () => any | Promise<any>) {
   try {
     await fn();
@@ -422,6 +481,7 @@ async function main() {
   await runBuildStep("copyPeopleAssets", () => copyPeopleAssets());
   await runBuildStep("copyPublic", () => copyPublic());
   await runBuildStep("copyComments", () => copyComments());
+  await runBuildStep("buildPageDates", () => buildPageDates());
   saveCache();
   const buildTime = ((Date.now() - buildStart) / 1000).toFixed(2);
   const stats = getCacheStats();
