@@ -1,0 +1,65 @@
+---
+name: 狗被染藍
+info:
+    alias: 藍狗
+    location: 吉林長春
+desc: 看過《銀河鐵道之夜》嗎？咱想乘坐銀河列車!
+---
+
+> 『看過《銀河鐵道之夜》嗎?咱想乘坐銀河列車!』
+
+## 簡介
+
+藍狗，一位非常可愛的姐妹，從她日常講話的方式就可以看出。
+
+她也是一位繪畫能力極強的姐妹，我們相信，她可以畫出任何事物，只要她想畫的話。下面是一些她登上銀河列車之前的畫作。
+
+<PhotoScroll photos={[
+    '${path}/photos/works1.webp',
+    '${path}/photos/works2.webp',
+    '${path}/photos/works3.webp',
+    '${path}/photos/works4.webp',
+    '${path}/photos/works5.webp',
+    '${path}/photos/works6.webp',
+]} />
+
+下面是她最後一個自述圖片。
+
+> 『做的這麼認真大概幾個月都不會再換掉了()』
+
+這次……永遠也不會換掉了……
+
+<PhotoScroll photos={[ '${path}/photos/intro.webp' ]} />
+
+她還是一位熱愛 Minecraft 的姐妹，她開了一個地圖，長期在 [Bilibili](https://space.bilibili.com/2119605209) 上更新，下面是她捕獲的一些圖片。
+
+<PhotoScroll photos={[
+    '${path}/photos/mc1.webp',
+    '${path}/photos/mc2.webp',
+    '${path}/photos/mc3.webp',
+    '${path}/photos/mc4.webp',
+    '${path}/photos/mc5.webp',
+    '${path}/photos/mc6.webp',
+    '${path}/photos/mc7.webp',
+    '${path}/photos/mc8.webp',
+]} />
+
+
+她並不是第一次嘗試登上銀河列車就成功了的，在此之前，她嘗試了4次。
+
+現在，她登上了那一列她一直想乘坐的銀河列車。她並非孤身一人，[還有一位姐妹會在列車上陪着她](https://www.one-among.us/profile/Anilovr)。
+
+> 你喜歡這張冬天拍的（圖一），所以你送了我這個明信片（圖二），那我就送你一張夏天拍的（圖三）！ ——手推車
+
+<PhotoScroll photos={[
+    '${path}/photos/photo1.webp',
+    '${path}/photos/works3.webp',
+    '${path}/photos/photo2.webp',
+]} />
+
+我們期待能夠再收到第二張她手繪的明信片。
+
+願此行，不孤單。
+請記得再看一眼參宿四。
+
+<!-- 條目貢獻：[鈴螢](https://github.com/RinLin-NYA) -->
