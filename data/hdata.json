@@ -2,7 +2,6 @@
     "commentOnly": ["tdor"],
     "exclude": [
         "XIEPT2",
-        "shi_Yumiaoya",
         "DarlinChit"
     ],
     "notShowOnHome": [
