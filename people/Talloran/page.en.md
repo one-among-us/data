@@ -26,7 +26,7 @@ During the hospitalization and recovery period, more than a dozen peers took tur
 
 ## Freedom and Existence
 
-In the ensuing months, Tarolan failed to receive timely and effective medical intervention, instead falling into a vicious cycle of "pursuing the freedom of self-destruction."
+In the ensuing months, Tarolan failed to receive timely and effective medical intervention, instead falling into a vicious cycle of “pursuing the freedom of self-destruction.”
 
 In the spring of 2026, Tarolan repeatedly attempted to assert personal worth through actions such as making large public financial transfers and ostentatiously gifting expensive items; when these gestures were rejected, Tarolan’s emotional state became increasingly extreme. Tarolan began frequently appearing at in-person gatherings while carrying dangerous items and—prior to birthdays or other significant dates—publicly announced intentions to confront others in public spaces, causing widespread psychological panic.
 
@@ -42,7 +42,7 @@ Faced with Tarolan’s escalating threats of violence and suicide, their peers a
 
 They repeatedly planned or tried to contact Tarolan’s parents and family back home, hoping that family intervention would encourage Tarolan to seek formal psychological and psychiatric treatment. Meanwhile, some peers attempted to secure medical intervention—such as contacting authorities in Tarolan’s hometown—without alerting the family.
 
-However, they relied too heavily on non-professional peer support to manage a severe mental health crisis. When Tarolan repeatedly exhibited clear signs of suicidal intent and violent tendencies, the group hesitated and wavered at critical junctures—such as whether to call the police or seek hospitalization—torn by fears that involving the police or family might lead to forced "coming out" or cause further familial trauma. Deeply divided, they failed to reach a consensus or take effective action. This excessive concern over the risks of "coming out" caused Tarolan to miss the final opportunity for intervention by professional psychiatric services.
+However, they relied too heavily on non-professional peer support to manage a severe mental health crisis. When Tarolan repeatedly exhibited clear signs of suicidal intent and violent tendencies, the group hesitated and wavered at critical junctures—such as whether to call the police or seek hospitalization—torn by fears that involving the police or family might lead to forced “coming out” or cause further familial trauma. Deeply divided, they failed to reach a consensus or take effective action. This excessive concern over the risks of “coming out” caused Tarolan to miss the final opportunity for intervention by professional psychiatric services.
 
 In early September 2026, Tarolan publicly posted comments on social media regarding the risk of falling from a height. Subsequently, all of Tarolan’s social media and gaming accounts ceased activity.
 
@@ -54,3 +54,4 @@ As a transgender individual living on the margins of society, Tarolan endured im
 
 While the loss of Tarolan’s life is deeply mourned, honoring the deceased does not require concealing the facts; Tarolan’s tragedy was a systemic disaster woven from personal psychological trauma, boundary issues within intimate relationships, the limitations of non-professional intervention, and prejudice from their family of origin. It is worth noting that Tarolan’s avatar was the Gundam Exia from *Gundam 00*—an image that also appeared on his final birthday cake. The central theme of *Gundam 00* is that conflict between people can be resolved through communication and mutual understanding—a sentiment Tarolan often shared with others during his lifetime. Yet, reality proved otherwise; the failure of communication and the breakdown of relationships ultimately became the final straw that overwhelmed him.
 
+Contributors for this entry: Rain, One Among Us
