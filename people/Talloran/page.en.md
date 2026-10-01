@@ -2,7 +2,7 @@
 name: Talloran
 info:
     alias: 塔罗兰
-    location: Baiyin, Gansu, China
+    location: Baiyin, Gansu
 desc: '' # kept blank intentionally
 ---
 
@@ -10,7 +10,7 @@ desc: '' # kept blank intentionally
 
 In the summer of 2025, Tarolan connected with peers in the transgender community at an in-person gathering. During the initial stages of engagement, Tarolan demonstrated a strong desire to explore their transgender identity; supported by peers, they obtained a diagnosis related to gender dysphoria and began learning about fashion and styling within the community.
 
-As a long-time enthusiast of ACG (anime, comics, and games) culture, Tarolan invested significant time and money into this hobby, viewing it as a vital means of bonding with community peers—such as once spending an entire month's salary on merchandise. This behavior also served as a crucial outlet for relieving the stress of real-life pressures; Tarolan worked in a conservative environment that repeatedly demanded a masculine appearance, a requirement that caused them great distress. On one occasion, accompanied by a friend, Tarolan purchased a men's wig to wear over their own long hair during work hours, aiming to conceal their true appearance and avoid workplace pressure.
+As a long-time enthusiast of ACG (anime, comics, and games) culture, Tarolan invested significant time and money into this hobby, viewing it as a vital means of bonding with community peers—such as once spending an entire month’s salary on merchandise. This behavior also served as a crucial outlet for relieving the stress of real-life pressures; Tarolan worked in a conservative environment that repeatedly demanded a masculine appearance, a requirement that caused them great distress. On one occasion, accompanied by a friend, Tarolan purchased a men’s wig to wear over their own long hair during work hours, aiming to conceal their true appearance and avoid workplace pressure.
 
 At the same time, Tarolan showed genuine concern and eagerness to help peers facing difficulties; for instance, upon learning that some peers were under financial strain regarding gender-affirming surgery, Tarolan verbally offered to provide substantial financial assistance.
 
@@ -54,4 +54,4 @@ As a transgender individual living on the margins of society, Tarolan endured im
 
 While the loss of Tarolan’s life is deeply mourned, honoring the deceased does not require concealing the facts; Tarolan’s tragedy was a systemic disaster woven from personal psychological trauma, boundary issues within intimate relationships, the limitations of non-professional intervention, and prejudice from their family of origin. It is worth noting that Tarolan’s avatar was the Gundam Exia from *Gundam 00*—an image that also appeared on his final birthday cake. The central theme of *Gundam 00* is that conflict between people can be resolved through communication and mutual understanding—a sentiment Tarolan often shared with others during his lifetime. Yet, reality proved otherwise; the failure of communication and the breakdown of relationships ultimately became the final straw that overwhelmed him.
 
-Contributors for this entry: Rain, One Among Us
+Contributor for this entry: Rain
