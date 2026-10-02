@@ -41,6 +41,8 @@ In a later incident, Talloran suddenly rushed into the back-of-house area of a p
 
 After repeated armed confrontations failed, Talloran did not stop her dangerous behavior. Instead, she purchased several more weapons of the same type—claiming a total of eight purchases—and publicly displayed screenshots of the transactions. This escalating emotional outpouring disrupted the daily operations of public spaces and caused severe stress reactions and PTSD among more than a dozen peers.
 
+</details>
+
 ## Ending
 
 Faced with Talloran’s escalating threats of violence and suicide, her peers attempted various courses of action.
