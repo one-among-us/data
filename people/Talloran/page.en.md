@@ -30,6 +30,9 @@ During her hospitalization and recovery, more than a dozen peers took turns cari
 
 In the months that followed, Talloran did not receive timely and effective medical intervention. Instead, she fell into a vicious cycle of “pursuing the freedom of self-destruction.”
 
+<details>
+<summary>(The details here are cited from others’ retellings and may be disputed; further information is pending.)</summary>
+
 In the spring of 2026, Talloran repeatedly tried to assert her personal worth through actions such as making large public financial transfers and conspicuously giving away expensive gifts. When these gestures were rejected, her emotional state became increasingly extreme. She began frequently appearing at in-person gatherings while carrying dangerous items. Before her birthday or other significant dates, she also repeatedly announced publicly that she would go to public places to demand an explanation, causing widespread psychological panic.
 
 During one in-person confrontation, Talloran displayed extreme behavior for the first time: she attempted to draw a weapon she was carrying in order to commit violence. Peers at the scene immediately intervened, disarmed her, and prevented her from harming herself or others.
