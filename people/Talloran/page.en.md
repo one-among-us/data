@@ -30,6 +30,9 @@ During her hospitalization and recovery, more than a dozen peers took turns cari
 
 In the months that followed, Talloran did not receive timely and effective medical intervention. Instead, she fell into a vicious cycle of “pursuing the freedom of self-destruction.”
 
+<details>
+<summary>*(Details come from the accounts of those involved. This section is kept brief and limited to a partial account.)*</summary>
+
 In the spring of 2026, Talloran repeatedly tried to assert her personal worth through actions such as making large public financial transfers and conspicuously giving away expensive gifts. When these gestures were rejected, her emotional state became increasingly extreme. She began frequently appearing at in-person gatherings while carrying dangerous items. Before her birthday or other significant dates, she also repeatedly announced publicly that she would go to public places to demand an explanation, causing widespread psychological panic.
 
 During one in-person confrontation, Talloran displayed extreme behavior for the first time: she attempted to draw a weapon she was carrying in order to commit violence. Peers at the scene immediately intervened, disarmed her, and prevented her from harming herself or others.
@@ -37,6 +40,8 @@ During one in-person confrontation, Talloran displayed extreme behavior for the 
 In a later incident, Talloran suddenly rushed into the back-of-house area of a public establishment, seized a kitchen knife, and held it against her own throat. Peers at the scene decisively used physical force to subdue her, and with the assistance of others, they successfully neutralized the immediate threat to personal safety and prevented any casualties.
 
 After repeated armed confrontations failed, Talloran did not stop her dangerous behavior. Instead, she purchased several more weapons of the same type—claiming a total of eight purchases—and publicly displayed screenshots of the transactions. This escalating emotional outpouring disrupted the daily operations of public spaces and caused severe stress reactions and PTSD among more than a dozen peers.
+
+</details>
 
 ## Ending
 
