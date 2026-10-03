@@ -1,0 +1,10 @@
+id: nyaepheia
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2009-05-12'
+  died: '2026-07-27'
+websites:
+  twitter: https://x.com/nyaepheia
+  iconify:simple-icons:x: https://x.com/epheiamoe
+  blog: https://me.epheia.moe
+  github: https://github.com/epheiamoe
