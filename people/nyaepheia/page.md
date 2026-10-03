@@ -28,7 +28,7 @@ desc: 嗯，就决定是Epheia 了。
 
 遐蝶在游戏中有一个代号 EpieiKeia216，她把这个词变形，得到了 Epheia。这个名字是她和 AI 一起想出来的，抽卡试了好几次才满意。
 
-> 嗯，就决定是 Epheia 了。
+> 嗯，就决定是Epheia 了。
 
 后来她才知道这个词的读音和自己想的不一样，但她还是按自己的读法，在各处都标注了读音。之后，她顺着读音给自己起了中文名「依菲雅」，也把这个名字给了自己设计的猫娘形象。[^5]
 
@@ -99,5 +99,5 @@ Sy Yann，写于 2026 年 10 月 3 日深夜，她离开后的第 68 天。
 [^5]: [依菲雅名字的由来](https://web.archive.org/web/20261003132417/https://epheia.pages.dev/docs/about-epheia/name/)
 [^6]: [原则与态度](https://web.archive.org/web/20261003125405/https://me.epheia.moe/docs/attitude/)
 [^7]: [早些时候写下的版本 1](https://web.archive.org/web/20261003125413/https://me.epheia.moe/docs/explore-gender/the-past/1/)
-[^8]: [早些时候写下的版本 1-tags](https://me.epheia.moe/docs/explore-gender/the-past/1-tags/)
+[^8]: [早些时候写下的版本 1-tags](https://web.archive.org/web/20261003150956/https://epheia.pages.dev/docs/explore-gender/the-past/1-tags/)
 [^9]: 炸柜：指跨性别者的身份在本人不愿意的情况下，被家人等发现。
