@@ -12,7 +12,7 @@ Epheia (依菲雅, /ɪˈfiːə/) used she or they pronouns. She was transgender,
 
 She loved yuri (girls’ love) in anime and related media, as well as simulation games and rail transit, especially route planning.[^2] After being assigned to a new class in high school, she had five dorm roommates who were all very “cishet” (cisgender and straight). Just hearing the topics they talked about irritated her.
 
-> I started watching yuri anime with my headphones on and didn't initiate conversations with them.[^3]
+> I started watching yuri anime with my headphones on and didn’t initiate conversations with them.[^3]
 
 She could build her own websites and write code, and she kept her articles, diaries, and archived tweets on her own sites.
 
@@ -38,7 +38,7 @@ Even in kindergarten, she had imagined being a girl and wanted to wear cute dres
 
 One rainy day in middle school, she was walking back to the classroom from the restroom, trailing her hand along a railing and sweeping the droplets on it into a stream. The student on duty accused her of “leaning over the railing” and wanted to dock points. She went to the moral education office to appeal. The director checked the surveillance footage and finally said:
 
-> “All right, I'll cancel that point deduction. But from now on, I'll be keeping a special eye on you. If you break any school rules, I'll dock double the points.”
+> “All right, I’ll cancel that point deduction. But from now on, I’ll be keeping a special eye on you. If you break any school rules, I’ll dock double the points.”
 >
 > I was terrified. Anxious, and in despair.
 
@@ -48,7 +48,7 @@ This incident, together with some things that happened afterward, made her begin
 
 Around March 2026, she really began talking to her mom about this. Her mom said she would support her no matter what she chose, and that gave her a great deal of courage. She updated her Twitter bio:
 
-> Huge fan of 2D yuri | 🏳️‍🌈🏳️‍⚧️LGBT-friendly | ’09 | MtF? MtX? Still exploring; at any rate, not a cishet guy | Not on HRT yet | Parent-supervised | Vibe coding | Building websites
+> Huge fan of 2D yuri | 🏳️‍🌈🏳️‍⚧️LGBT-friendly | ’09 | MtF? MtX? Still exploring; at any rate, not a cishet guy | Not on HRT yet | Parentally supported | Vibe coding | Building websites
 
 Within just a few hours, several MtF people had followed her. On March 20, she went to a hospital outpatient clinic for the first time.[^3]
 
@@ -56,13 +56,13 @@ On March 30, before starting HRT, she wrote about other trans sisters in her dia
 
 > They go through so much, just to be themselves.
 >
-> They're so brave.
+> They’re so brave.
 
 At the time, she still felt she could not do it herself.[^7] Not long afterward, she started HRT.
 
 ## Help!
 
-In that same day's diary, she had also asked:
+In that same day’s diary, she had also asked:
 
 > And how is someone like me even remotely cute??[^8]
 
@@ -72,7 +72,7 @@ She would do all she could to help her sisters—whether they were going through
 
 On July 19, I went with her to a meetup with online friends in Nanjing. It was a little after six in the evening, and we were eating when she raised her phone and typed two Chinese characters: “求助!” (“Help!”). One of her sisters had said on Twitter that she was doing very badly, and Epheia was trying to find people who could help her.
 
-On July 23, she and a friend carried out a suicide intervention for another sister and also spoke with her parents. She tweeted that she did not know whether they could change her parents' minds, “but honestly, the atmosphere in her family is so oppressive.” She added that the sister was probably doing okay now, “vibe coding (?”.
+On July 23, she and a friend carried out a suicide intervention for another sister and also spoke with her parents. She tweeted that she did not know whether they could change her parents’ minds, “but honestly, the atmosphere in her family is so oppressive.” She added that the sister was probably doing okay now, “vibe coding (?”.
 
 A healer cannot heal herself.
 
@@ -92,12 +92,14 @@ Sy Yann, written late at night on October 3, 2026, the 68th day since she left u
 
 Her website, [me.epheia.moe](https://me.epheia.moe/), and her tweet archive, [nyaepheia.pages.dev](https://nyaepheia.pages.dev/), are both still there. They hold the articles and diaries she wrote, along with the things she loved.
 
-[^1]: [Epheia's website homepage (archived mirror)](https://web.archive.org/web/20261003125509/https://epheia.pages.dev/)
+Contributor for this entry: Sy Yann
+
+[^1]: [Epheia’s website homepage (archived mirror)](https://web.archive.org/web/20261003125509/https://epheia.pages.dev/)
 [^2]: [What I Love](https://web.archive.org/web/20261003125312/https://me.epheia.moe/docs/love/)
 [^3]: [Exploring My Gender](https://web.archive.org/web/20261003125357/https://me.epheia.moe/docs/explore-gender/)
 [^4]: [TransCircle 跨环 · Community Historians Project](https://web.archive.org/web/20260910173736/https://transcircle.org/)
-[^5]: [Where Epheia's Name Came From](https://web.archive.org/web/20261003132417/https://epheia.pages.dev/docs/about-epheia/name/)
+[^5]: [Where Epheia’s Name Came From](https://web.archive.org/web/20261003132417/https://epheia.pages.dev/docs/about-epheia/name/)
 [^6]: [Principles and Attitudes](https://web.archive.org/web/20261003125405/https://me.epheia.moe/docs/attitude/)
 [^7]: [An Earlier Version 1](https://web.archive.org/web/20261003125413/https://me.epheia.moe/docs/explore-gender/the-past/1/)
 [^8]: [An Earlier Version 1-tags](https://web.archive.org/web/20261003150956/https://epheia.pages.dev/docs/explore-gender/the-past/1-tags/)
-[^9]: Involuntary outing (炸柜, literally “the closet exploding”): when a transgender person's identity is discovered by family members or others against that person's wishes.
+[^9]: Involuntary outing (炸柜, literally “the closet exploding”): when a transgender person’s identity is discovered by family members or others against that person’s wishes.
