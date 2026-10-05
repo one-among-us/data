@@ -46,7 +46,7 @@ That afternoon, the director called her in for another talk. She explained her w
 
 This incident, together with some things that happened afterward, made her begin to question everything she had once believed. She set herself a principle: “Freedom is the right to do anything that does not harm others.”[^5] Later, while scrolling, she came across some MtF posts and felt as though she had “found something.” She gave herself “three years to explore.”[^6]
 
-Around March 2026, she really began talking to her mom about this. Her mom said she would support her no matter what she chose, and that gave her a great deal of courage. She updated her Twitter bio:
+Around March 2026, she finally began talking to her mom about this. Her mom said she would support her no matter what she chose, and that gave her a great deal of courage. She updated her Twitter bio:
 
 > Huge fan of 2D yuri | 🏳️‍🌈🏳️‍⚧️LGBT-friendly | ’09 | MtF? MtX? Still exploring; at any rate, not a cishet guy | Not on HRT yet | Parentally supported | Vibe coding | Building websites
 
