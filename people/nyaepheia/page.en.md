@@ -12,11 +12,11 @@ Epheia (依菲雅, /ɪˈfiːə/) used she or they pronouns. She was transgender,
 
 She loved yuri (girls’ love) in anime and related media, as well as simulation games and rail transit, especially route planning.[^2] After being assigned to a new class in high school, she had five dorm roommates who were all very “cishet” (cisgender and straight). Just hearing the topics they talked about irritated her.
 
-> I started watching yuri anime with my headphones on and didn’t initiate conversations with them.[^3]
+> I started watching yuri anime with my headphones on and didn’t initiate conversations with them.
 
 She could build her own websites and write code, and she kept her articles, diaries, and archived tweets on her own sites.
 
-She also founded TransCircle (跨环), a project documenting the stories of the Chinese-speaking MtF transgender community.[^4]
+She also founded TransCircle (跨环), a project documenting the stories of the Chinese-speaking MtF transgender community.[^3]
 
 ## Where Her Name Came From
 
@@ -30,11 +30,11 @@ In the game, Castorice has the codename EpieiKeia216. She adapted it into Epheia
 
 > Mm, Epheia it is.
 
-Only later did she learn that the word was pronounced differently from what she had imagined. Still, she kept her own pronunciation and included a pronunciation guide wherever she used the name. She then chose a Chinese name, “依菲雅” (Yīfēiyǎ), to match the sound, and gave that name to the catgirl character she had designed as well.[^5]
+Only later did she learn that the word was pronounced differently from what she had imagined. Still, she kept her own pronunciation and included a pronunciation guide wherever she used the name. She then chose a Chinese name, “依菲雅” (Yīfēiyǎ), to match the sound, and gave that name to the catgirl character she had designed as well.[^4]
 
 ## Becoming Herself
 
-Even in kindergarten, she had imagined being a girl and wanted to wear cute dresses. After starting primary school, she tried hard to fit in with the boys, but inwardly she had always envied the girls.[^3]
+Even in kindergarten, she had imagined being a girl and wanted to wear cute dresses. After starting primary school, she tried hard to fit in with the boys, but inwardly she had always envied the girls.
 
 One rainy day in middle school, she was walking back to the classroom from the restroom, trailing her hand along a railing and sweeping the droplets on it into a stream. The student on duty accused her of “leaning over the railing” and wanted to dock points. She went to the moral education office to appeal. The director checked the surveillance footage and finally said:
 
@@ -42,9 +42,9 @@ One rainy day in middle school, she was walking back to the classroom from the r
 >
 > I was terrified. Anxious, and in despair.
 
-That afternoon, the director called her in for another talk. She explained her worries, but the director just smiled: “Oh, you actually believed that?” The hopes she had once held for school were completely shattered, just like that.[^3]
+That afternoon, the director called her in for another talk. She explained her worries, but the director just smiled: “Oh, you actually believed that?” The hopes she had once held for school were completely shattered, just like that.
 
-This incident, together with some things that happened afterward, made her begin to question everything she had once believed. She set herself a principle: “Freedom is the right to do anything that does not harm others.”[^6] Later, while scrolling, she came across some MtF posts and felt as though she had “found something.” She gave herself “three years to explore.”[^3]
+This incident, together with some things that happened afterward, made her begin to question everything she had once believed. She set herself a principle: “Freedom is the right to do anything that does not harm others.”[^5] Later, while scrolling, she came across some MtF posts and felt as though she had “found something.” She gave herself “three years to explore.”[^6]
 
 Around March 2026, she really began talking to her mom about this. Her mom said she would support her no matter what she chose, and that gave her a great deal of courage. She updated her Twitter bio:
 
@@ -94,12 +94,14 @@ Her website, [me.epheia.moe](https://me.epheia.moe/), and her tweet archive, [ny
 
 Contributor for this entry: Sy Yann
 
-[^1]: [Epheia’s website homepage (archived mirror)](https://web.archive.org/web/20261003125509/https://epheia.pages.dev/)
+**References and Annotations**
+
+[^1]: [Epheia’s Website Homepage (Archived Mirror)](https://web.archive.org/web/20261003125509/https://epheia.pages.dev/)
 [^2]: [What I Love](https://web.archive.org/web/20261003125312/https://me.epheia.moe/docs/love/)
-[^3]: [Exploring My Gender](https://web.archive.org/web/20261003125357/https://me.epheia.moe/docs/explore-gender/)
-[^4]: [TransCircle 跨环 · Community Historians Project](https://web.archive.org/web/20260910173736/https://transcircle.org/)
-[^5]: [Where Epheia’s Name Came From](https://web.archive.org/web/20261003132417/https://epheia.pages.dev/docs/about-epheia/name/)
-[^6]: [Principles and Attitudes](https://web.archive.org/web/20261003125405/https://me.epheia.moe/docs/attitude/)
+[^3]: [TransCircle 跨环 · Community Historians Project](https://web.archive.org/web/20260910173736/https://transcircle.org/)
+[^4]: [Where Epheia’s Name Came From](https://web.archive.org/web/20261003132417/https://epheia.pages.dev/docs/about-epheia/name/)
+[^5]: [Principles and Attitudes](https://web.archive.org/web/20261003125405/https://me.epheia.moe/docs/attitude/)
+[^6]: [Exploring My Gender](https://web.archive.org/web/20261003125357/https://me.epheia.moe/docs/explore-gender/)
 [^7]: [An Earlier Version 1](https://web.archive.org/web/20261003125413/https://me.epheia.moe/docs/explore-gender/the-past/1/)
 [^8]: [An Earlier Version 1-tags](https://web.archive.org/web/20261003150956/https://epheia.pages.dev/docs/explore-gender/the-past/1-tags/)
-[^9]: Involuntary outing (炸柜, literally “the closet exploding”): when a transgender person’s identity is discovered by family members or others against that person’s wishes.
+[^9]: Involuntary Outing (炸柜, literally “the closet exploding”): when a transgender person’s identity is discovered by family members or others against that person’s wishes.
