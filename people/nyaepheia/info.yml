@@ -1,0 +1,12 @@
+id: nyaepheia
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2009-05-12'
+  died: '2026-07-27'
+websites:
+  twitter: https://twitter.com/nyaepheia
+  iconify:simple-icons:x: https://twitter.com/epheiamoe
+  iconify:tabler:brand-bluesky: https://bsky.app/profile/did:plc:an4suwg7t7yvfnahdze73ngd
+  github: https://github.com/epheiamoe
+  Bilibili: https://space.bilibili.com/650318797
+  blog: https://me.epheia.moe
