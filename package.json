@@ -32,7 +32,7 @@
     "js-yaml": "^4.3.2",
     "lunar-typescript": "^1.8.6",
     "markdown-yaml-metadata-parser": "^3.0.0",
-    "moment": "^2.29.4",
+    "moment": "^2.31.0",
     "rehype-katex": "^7.0.1",
     "remark-math": "^6.0.0"
   },
