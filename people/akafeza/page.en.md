@@ -373,7 +373,7 @@ But all of this is precious. All of it matters.
 
 The years spent rushing alone through the streets. The loneliness of downing a mouthful of alcohol in the cold wind.
 
-“Now just a little more only just a little more. Let's stay here a little longer now.”
+“Now just a little more only just a little more. Let’s stay here a little longer now.”
 
 It’s really too cold. Too lonely.
 
@@ -560,7 +560,7 @@ My heart, too, felt a little better.
 
 [^6]: The original text may come from Feza’s Zhihu thoughts or answers. Due to the passage of time, the source is lost. These two lines are likely imitations of the piece “Leaves” in Osamu Dazai’s *Later Years*.
 
-[^7]: The last line: “Only for you I stay alive... But you are not by my side. Isn't it? ” — from the last line of *Ren* (lyrics/music: Yuumi Nakajima), “いつでもあなたでいて あなたしかいないでしょ,” in the old NetEase Cloud (2017) translation. In November 2017, Neko first quoted this lyric in her channel, adding “Wish you are still alive…” After the news of Neko’s “declared death” was posted, Feza quoted this line in various ways many times, expressing extreme attachment to Neko.
+[^7]: The last line: “Only for you I stay alive... But you are not by my side. Isn’t it? ” — from the last line of *Ren* (lyrics/music: Yuumi Nakajima), “いつでもあなたでいて あなたしかいないでしょ,” in the old NetEase Cloud (2017) translation. In November 2017, Neko first quoted this lyric in her channel, adding “Wish you are still alive…” After the news of Neko’s “declared death” was posted, Feza quoted this line in various ways many times, expressing extreme attachment to Neko.
 
 [^8]: Most of the content in the “A Wet Feather Sinks” section and parts of other sections are excerpted and organized from Feza’s last article, *[Random Thoughts](https://web.archive.org/web/20210420171904/https://oao.moe/archives/976/)*, written on June 20, 2018, later deleted on July 6, 2018, leaving only one line: “Actually, there was originally an article here, but Feza thought about it and removed the content, so this one sentence remains as a placeholder.” *Random Thoughts* is the story written by Feza in the last period of her life—her world, her dream. The original text was backed up after Feza’s death by Eric on [Github](https://github.com/Eric-2369/Eric-2369.github.io/blob/0d7cc3ab050a24845595d1e7a7faf2f3758242b0/post/32/index.html).
 
