@@ -28,11 +28,11 @@ Sometimes, she played Arcaea on her tablet to hone her skills (increase ptt[^2])
 
 <br />
 
-She loved to eat barbecue; sometimes, she'd finish a big plate all by herself. How shortsighted.
+She loved to eat barbecue; sometimes, she'd finish a big plate all by herself. How short-sighted.
 
 <PhotoScroll photos={['${path}/photos/photo5.webp']} />
 
-Sometimes, she mentally turns into a child.
+Sometimes, she mentally turned into a child.
 
 > I caught a doll today, yay!
 
@@ -44,7 +44,7 @@ After she took a leave of absence from [Nanjing Agricultural University](https:/
 
 > I can’t muster the energy for the hobbies I once loved. What do I have left? Hmm... I might still have an interest in food and clothing. Maybe, just maybe, I can still save myself (laughs)
 
-In the end, she chose to leave during the supposed joyous summer vacation.
+In the end, she chose to leave during the supposedly joyous summer vacation.
 
 > Farewell, YueXi...  
 

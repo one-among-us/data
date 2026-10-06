@@ -32,7 +32,7 @@ desc: 我們一起在死後反抗不公的世界。
 
 只是, 沒有像禦坂妹妹一樣回到現世罷。
 
-<!-- 禦坂妹妹：Misaka's little sister -->
+<!-- 禦坂妹妹：Misaka’s little sister -->
 
 ## 桎梏
 
@@ -139,7 +139,7 @@ I want, I want to be something, just be someone
 馬鹿なわたしは歌うだけ
 The idiot that I am, I just sing
 ぶちまけちゃおうか 星に
-Why don't I just lay it all out to the stars -->
+Why don’t I just lay it all out to the stars -->
 
 但我們真的能找到那顆星嗎?
 

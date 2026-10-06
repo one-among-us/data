@@ -30,7 +30,7 @@ She recorded those beautiful moments of nature:
 
 She knew how to use Tarot for divination. However, according to her friends, she often got bad predictions in divination.
 
-SugarMeow said MioCardMeow was in fact a clingy girl. It was a pity that she couldn't be with her more due to her studies.
+SugarMeow said MioCardMeow was in fact a clingy girl. It was a pity that she couldn’t be with her more due to her studies.
 
 ## Departure
 
@@ -44,4 +44,4 @@ MioCardMeow had a good friendship with SugarMeow. After her departure, SugarMeow
 
 > I am afraid of forgetting her… I like her a lot. She was lovely, gentle, polite… and she always took care of me…
 
-Contributors for this entry: [SugarMeow](https://space.bilibili.com/618333512), [Asaka Minamikawa](https://twitter.com/GE90Start), [Lee](https://twitter.com/rbqwansui), One-Among-Us
+Contributors for this entry: [SugarMeow](https://space.bilibili.com/618333512), [Asaka Minamikawa](https://twitter.com/GE90Start), [Lee](https://twitter.com/rbqwansui), One Among Us

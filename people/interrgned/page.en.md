@@ -29,7 +29,7 @@ like chaotic threads, cross, combine, split, and dissipate...
 >
 > This is for her...
 >
-> Next time, let's play maimai together...
+> Next time, let’s play maimai together...
 >
 > Teach me how to drive~
 >
@@ -44,7 +44,7 @@ like chaotic threads, cross, combine, split, and dissipate...
 The bitter winter will eventually pass.
 Do you still remember that day, March 18th?
 
-Why I bring it up now?
+Why do I bring it up now?
 Because, truly, thank you...
 
 Branches twist and sprawl, black and white,
@@ -80,7 +80,7 @@ and they were shocked.
 
 That sister said:
 
-> “This is something kids shouldn't know, but in this day and age, it's normal.”
+> “This is something kids shouldn’t know, but in this day and age, it’s normal.”
 
 So I mustered up the courage to come out to them.
 They seemed even more surprised, but their attitude toward me changed a lot, feeling even warmer.
@@ -103,10 +103,10 @@ She was so kind...
 
 Later, I had to go back to school.
 Before that, we exchanged contact information.
-The first time I called her from the school's public phone, she sounded so happy.
+The first time I called her from the school’s public phone, she sounded so happy.
 
 We even talked about how to listen to the repeater station.
-I thought about using it to talk with her from school, but the school's remote location had poor signal.
+I thought about using it to talk with her from school, but the school’s remote location had poor signal.
 Only when I took the bus home on weekends could I barely pick up the repeater’s signal.
 I really wanted a call sign; it sounded so cool!
 
@@ -124,7 +124,7 @@ Since I was a transfer student and had no close friends at school, she became my
 Eventually, I just called her “sis” all the time.
 
 We were really happy together back then.
-After school, you'd always answer my call right away. You’d always greet me cheerfully with “Maomao~.”
+After school, you’d always answer my call right away. You’d always greet me cheerfully with “Maomao~.”
 You often answered just as you were getting into your car after work, either on your way home or heading to your grandpa’s house.
 
 Then, we talked about radio repairs, school issues, work complaints, hobbies, and life in general...
@@ -149,7 +149,7 @@ I spent an hour juggling fear and worry while trying not to get caught by the do
 The next day, I woke up in tears, scared she might be gone. By noon, when I heard she was okay, I finally felt some relief.
 
 But things didn’t get better.
-She constantly complained about her family, especially her dad and grandpa's disapproval of her growing her hair long, the unfair company policies, and the life obstacles she couldn’t overcome.
+She constantly complained about her family, especially her dad and grandpa’s disapproval of her growing her hair long, the unfair company policies, and the life obstacles she couldn’t overcome.
 After work, she’d go to the park by the river, carrying NaNO2, and tell me she didn’t want to live anymore. She told me her plans for ending it. I always tried to talk her down, hoping she’d push through this difficult time.
 
 After giving her all the comforting words and doing my best to console her, she’d always be crying on the phone.
@@ -163,7 +163,7 @@ I’ve cried all my tears. Now I’m numb.
 
 After she passed away, I felt a deep sense of guilt, guilty for not being there for her more. I had been with her through so many hard times, but I still felt I should have done more to comfort her and give her hope.
 
-A scene suddenly flashed through my mind: that "first time."
+A scene suddenly flashed through my mind: that “first time.”
 
 I arrived at the hospital and found her stepmother while she was still being resuscitated.
 
@@ -173,7 +173,7 @@ The emergency doctor said:
 
 The first time was impulsive, the second time, it was fate.
 
-Her first "death" seemed to bring about a new beginning, but the knot in her heart was never untied. The world still looked blurry to her.
+Her first “death” seemed to bring about a new beginning, but the knot in her heart was never untied. The world still looked blurry to her.
 
 Many people believe in rebirth, thinking it can wash away everything. But this time, would fate favor her?
 
@@ -211,9 +211,9 @@ I know the unprofessional medication you were prescribed made you feel awful, ma
 
 Eating and sleeping are things we’re born knowing how to do; they’re driven by instinct. But drinking, smoking, overdosing, and using drugs are things we had to force ourselves to learn.
 
-Once it happens the first time, it's hard for it not to happen again.
+Once it happens the first time, it’s hard for it not to happen again.
 
-Just like alcohol—if you think it tastes bad, it's only because you haven’t found the one that suits you. Once you find the right one, you might start liking it.  
+Just like alcohol—if you think it tastes bad, it’s only because you haven’t found the one that suits you. Once you find the right one, you might start liking it.  
 
 These learned behaviors are nothing more than emotional painkillers, ways to console oneself.  
 
@@ -221,7 +221,7 @@ And suicide? Suicide is an incredibly complex topic. Our society today lacks com
 
 Otherwise, how could there be parents asking doctors in the ICU, ‘Will my child be able to go to school tomorrow?’  
 
-People who attempt suicide need love and care, not to be thrown back into the fight alone after surviving. Few can endure such isolation and pressure."  
+People who attempt suicide need love and care, not to be thrown back into the fight alone after surviving. Few can endure such isolation and pressure.  
 
 In the months after I helped Danpian out of her first crisis,
 I didn’t speak with her much.
@@ -231,15 +231,15 @@ but I didn’t want to interfere with her choices—she was exhausted and needed
 
 Her struggles stemmed from her gender identity, work, family, and the departure of [Yantian](https://one-among.us/profile/SS3B_0016).  
 
-Danpian was simply tired. She was kind to everyone, always the one comforting others in dire situations. Yet, no one truly understood or cared about her struggles—her despair was rooted in the realization that no one would stand by her side, and in her mind, death became her only refuge."  
+Danpian was simply tired. She was kind to everyone, always the one comforting others in dire situations. Yet, no one truly understood or cared about her struggles—her despair was rooted in the realization that no one would stand by her side, and in her mind, death became her only refuge.  
 
-"The world is cold and indifferent. No matter how hard you try, some fates feel inescapable, beyond effort or willpower.  
+The world is cold and indifferent. No matter how hard you try, some fates feel inescapable, beyond effort or willpower.  
 
 Without love and security, she tried to sync her wavelength with her friends countless times, but the signals always missed.  
 
-Poor Danpian, rest in peace. I only hope you can find joy on the other side."  
+Poor Danpian, rest in peace. I only hope you can find joy on the other side.
 
-> "Suicide is always complicated, and where there is one attempt, there will likely be another. 
+> Suicide is always complicated, and where there is one attempt, there will likely be another. 
 >  
 > I sincerely hope that everyone can find their inner sanctuary.  
 > 
@@ -247,7 +247,7 @@ Poor Danpian, rest in peace. I only hope you can find joy on the other side."
 > 
 > Because you’re not living for those certificates or career achievements.
 > 
-> You’re living for yourself, for the unique, living version of you."
+> You’re living for yourself, for the unique, living version of you.
 
 ## Love
 
@@ -285,15 +285,15 @@ I listened to her sorrow every day, trying to ease her anxiety. I even called he
 
 But she still chose that path. She was revived that day, but on the call, she told me:  
 
-> "You might not see me tomorrow."
+> “You might not see me tomorrow.”
 
 That sentence hit me like ice water.  
 
-If it happens again, I fear I’ll be powerless to help—because I can't fill the emptiness within her soul. I can't recharge her spirit like some robot and set her life parameters back to normal."  
+If it happens again, I fear I’ll be powerless to help—because I can’t fill the emptiness within her soul. I can’t recharge her spirit like some robot and set her life parameters back to normal.  
 
-"I arrived too late, but I still came. Before she slept, I saw her post a video of herself taking pills. I messaged her, asking what she took, but she just said it didn’t matter. Alone in her cold rented room, she had already made her decision.  
+I arrived too late, but I still came. Before she slept, I saw her post a video of herself taking pills. I messaged her, asking what she took, but she just said it didn’t matter. Alone in her cold rented room, she had already made her decision.  
 
-> "This is all life amounts to when you're on your own."
+> “This is all life amounts to when you’re on your own.”
 
 Her words were muddled by the effects of the drugs, but I knew this time, there was no light left.  
 
@@ -305,7 +305,7 @@ These are words written for Danpian. May she find peace on the other side.
 
 Contributor for this entry: [Shayu Xiliye](http://twitter.com/UnnnLlllx3)
 
-[^1]: "Maomao" and "Shanmaomao" in the article stand for Shayu Xiliye, the author of this entry.
+[^1]: “Maomao” and “Shanmaomao” in the article stand for Shayu Xiliye, the author of this entry.
 
 <!-- 白与黑的树突曲折蔓延，枯树与其他仍然保留着绿叶的树。
 

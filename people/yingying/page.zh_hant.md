@@ -14,3 +14,4 @@ desc: 願我們能在某個時空再次相遇。
 
 [^2]: [永別了。我想你了，櫻櫻。](https://leohearts.com/archives/farewell-yingying.html)
 
+條目貢獻：[BUAA-Wjay](https://github.com/BUAA-Wjay), [Leohearts](https://github.com/leohearts)

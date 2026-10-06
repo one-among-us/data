@@ -29,20 +29,20 @@ She also developed schizophrenia, which worsened her depression and bipolar diso
 After this, her family gradually began to understand her.
 After she attempted self-surgery, her family became more accepting of her.
 They accepted her idea of getting the surgery (SRS).
-Her mother visited her in Chengdu twice and took her out for meals. However, her family still never took her bipolar disorder and schizophrenia seriously and didn't let her continue to see the doctors. 
+Her mother visited her in Chengdu twice and took her out for meals. However, her family still never took her bipolar disorder and schizophrenia seriously and didn’t let her continue to see the doctors. 
 Therefore, Yuki was in a state of medication withdrawal.
 
 To make money and become self-sufficient, Yuki tried working as a game proxy player (grinding out the boring parts of games for someone else) and a food delivery worker.
 However, playing *Genshin Impact* as a proxy player only earned her 50 yuan despite the high workload.
-As for the food delivery work, since she's underage she was not directly employed by Meituan Takeout or pastry shops but by Yicheng Feike (an outsourcing delivery company employing minors).
+As for the food delivery work, since she’s underage she was not directly employed by Meituan Takeout or pastry shops but by Yicheng Feike (an outsourcing delivery company employing minors).
 She also worked part-time for Meituan and Ele.me.
 
 Yuki wanted to start working quickly to earn money, so she signed an exploitative contract for a delivery e-bike.
 The contract required her to pay the rent for three months, or else she would have to pay liquidated damages.
-But her wages were delayed, and the police couldn't force the companies to pay her on time.
+But her wages were delayed, and the police couldn’t force the companies to pay her on time.
 
-On Children's Day, Yuki's phone and keys were stolen while at work.
-Fearing her boyfriend might inform her family and make them worry, she did not return to her boyfriend's house that night.
+On Children’s Day, Yuki’s phone and keys were stolen while at work.
+Fearing her boyfriend might inform her family and make them worry, she did not return to her boyfriend’s house that night.
 Spending the whole night outside, she was hungry and cold.
 Later, her tablet was also stolen.
 Once again, the police could not resolve the situation.
@@ -55,21 +55,21 @@ Her friends often called the police and organized offline rescue operations to i
 
 <PhotoScroll photos={['${path}/photos/image0.webp','${path}/photos/image1.webp','${path}/photos/image2.webp','${path}/photos/image3.webp','${path}/photos/image4.webp','${path}/photos/image5.webp','${path}/photos/image6.webp']} />
 
-Yuki wanted to live in Chengdu. She initially came to Chengdu to meet her ex "Xixi," who often changed names and now has tens of thousands of followers. However, Xixi abandoned her.
+Yuki wanted to live in Chengdu. She initially came to Chengdu to meet her ex “Xixi,” who often changed names and now has tens of thousands of followers. However, Xixi abandoned her.
 After being taken in by Zhouzhou[^1], she lived with her. Zhouzhou treated her as if she were her daughter.
 Later, Zhouzhou returned to her hometown to live with her family.
-Yuki's boyfriend rented the original house to live with Yuki.
+Yuki’s boyfriend rented the original house to live with Yuki.
 They had some conflicts, so Yuki went to stay with Zhenli[^2] to ease the awkwardness.
 After Zhenli went abroad, Yuki moved in with Xixi Biscuit.
 As a result, her boyfriend and friends could not always be by her side and rescue her in time.
 
-In her last few days, to everyone's surprise, she didn't self-harm, and her mood seemed very stable.
+In her last few days, to everyone’s surprise, she didn’t self-harm, and her mood seemed very stable.
 On June 27th, her boyfriend accompanied her. They ate delicious food and played maimaiDX.
 After her boyfriend saw her off at a subway station and she returned to her residence, she walked to the river alone, not bringing her phone or tablet this time only, and jumped in.
 Her body was discovered on July 5th.
 
-Contributors: Zhenli, Sansan, Suona
+Contributors for this entry: Zhenli, Sansan, Suona
 
-[^1]: Yuki's substitute parent? They were like mother and daughter. Zhouzhou cared for Yuki for a long time and rescued Yuki many times from suicide.
+[^1]: Yuki’s substitute parent? They were like mother and daughter. Zhouzhou cared for Yuki for a long time and rescued Yuki many times from suicide.
 
-[^2]: She's younger than Yuki age-wise, but she treats Yuki as her sister. She liked Yuki a lot, gave her gifts, and cooked her meals.
+[^2]: She’s younger than Yuki age-wise, but she treats Yuki as her sister. She liked Yuki a lot, gave her gifts, and cooked her meals.

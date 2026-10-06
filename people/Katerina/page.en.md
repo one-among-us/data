@@ -48,4 +48,4 @@ Katerina, no matter what you want to eat, we will be together to toast with you.
 
 Спокойной ночи, Катерина.
 
-Contributor for this entry: One-Among-Us, [Fannuo](https://twitter.com/FANNUO520), [Siyan](https://twitter.com/siyan_MTF)
+Contributors for this entry: One Among Us, [Fannuo](https://twitter.com/FANNUO520), [Siyan](https://twitter.com/siyan_MTF)

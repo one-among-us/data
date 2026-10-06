@@ -1,0 +1,13 @@
+id: execute_darker
+profileUrl: ${path}/photos/profile.png
+info:
+  born: '2006-09-16'
+  died: '2024-12-26'
+websites:
+    iconify:tabler:brand-bluesky: https://bsky.app/profile/did:plc:4qtgf43npors52g7izdtiobc
+    twitter: https://twitter.com/execute_darker
+    github: https://github.com/execute-darker
+    iconify:ri:netease-cloud-music-line: https://music.163.com/#/user?id=432454430
+    Bilibili: https://space.bilibili.com/36234089/
+    blog: https://web.archive.org/web/20241218131346/https://darkmao.dailymizuki.com/
+

@@ -43,4 +43,4 @@ info:
 
 > 咱真的很害怕自己會忘記她……也非常喜歡她，她可愛，溫柔，禮貌……也非常照顧咱……
 
-條目貢獻：[砂糖喵(澪卡的妹妹)](https://space.bilibili.com/618333512), [南川朝香](https://twitter.com/GE90Start)，[Lee](https://twitter.com/rbqwansui), One-Among-Us
+條目貢獻：[砂糖喵(澪卡的妹妹)](https://space.bilibili.com/618333512), [南川朝香](https://twitter.com/GE90Start)，[Lee](https://twitter.com/rbqwansui), One Among Us

@@ -17,3 +17,5 @@ name: 祁
 「我的死與任何人無關，這只是我的一個選擇，請千萬不要為此而仇恨別人。請好好地、陽光地、快樂地生活下去，請為自己好好生活著。」
 
 她一直希望大家都能快樂健康地活下去。
+
+<!-- 條目貢獻：[XYNattwitterproject](https://github.com/XYNattwitterproject) -->

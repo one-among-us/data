@@ -1,6 +1,7 @@
 import url from "url";
 import path from "path";
 import fs from "fs-extra";
+import { execSync } from "child_process";
 import autocorrect from "autocorrect-node";
 
 import YAML from 'js-yaml';
@@ -25,11 +26,13 @@ const DATA_DIR = "data";
 
 const projectRoot = path.dirname(path.dirname(url.fileURLToPath(import.meta.url)));
 const peopleDir = path.join(projectRoot, PEOPLE_DIR);
-const people = fs.readdirSync(peopleDir).map(person => ({
-  dirname: person,
-  srcPath: path.join(peopleDir, person),
-  distPath: path.join(projectRoot, DIST_DIR, PEOPLE_DIR, person)
-}));
+const people = fs.readdirSync(peopleDir)
+  .filter(person => !person.startsWith('.') && fs.statSync(path.join(peopleDir, person)).isDirectory())
+  .map(person => ({
+    dirname: person,
+    srcPath: path.join(peopleDir, person),
+    distPath: path.join(projectRoot, DIST_DIR, PEOPLE_DIR, person)
+  }));
 
 initCache(projectRoot);
 
@@ -135,13 +138,18 @@ function buildPeopleInfoAndList() {
         const bornStr = info.info.born as string
         if (bornStr.startsWith('0000-')) {
           // Unknown year: treat month-day directly as lunar month-day
-          lunarMd = bornStr.substring(5) // "MM-DD"
+          const match = bornStr.match(/^0000-(-?\d+)-(\d+)$/)
+          if (!match) {
+            throw new Error(`[Build Error] Invalid lunar born format for "${dirname}": ${bornStr}. Expected format like 0000-04-15 or 0000--4-15 (leap month).`)
+          }
+          // Handle negative month for lunar leap month
+          lunarMd = String(Math.abs(parseInt(match[1], 10))).padStart(2, '0') + '-' + match[2].padStart(2, '0')
         } else {
           // Known year: convert solar born date to lunar
           const parts = bornStr.split('-').map(Number)
           const solar = Solar.fromYmd(parts[0], parts[1], parts[2])
           const lunar = solar.getLunar()
-          lunarMd = String(lunar.getMonth()).padStart(2, '0') + '-' + String(lunar.getDay()).padStart(2, '0')
+          lunarMd = String(Math.abs(lunar.getMonth())).padStart(2, '0') + '-' + String(lunar.getDay()).padStart(2, '0')
         }
       }
 
@@ -163,14 +171,22 @@ function buildPeopleInfoAndList() {
         const bornStr = info.info.born as string
         if (bornStr.startsWith('0000-')) {
           // Unknown year + lunar: format month-day as Chinese lunar
-          const mm = parseInt(bornStr.substring(5, 7))
-          const dd = parseInt(bornStr.substring(8, 10))
+          const match = bornStr.match(/^0000-(-?\d+)-(\d+)$/)
+          if (!match) {
+            throw new Error(`[Build Error] Invalid lunar born format for "${dirname}": ${bornStr}. Expected format like 0000-04-15 or 0000--4-15 (leap month).`)
+          }
+          const mm = parseInt(match[1], 10)
+          const dd = parseInt(match[2], 10)
+
+          const absMm = Math.abs(mm)
+          const leapPrefix = mm < 0 ? '闰' : ''
+
           // Use a reference year to get the Chinese text for month/day
-          const refLunar = Lunar.fromYmd(2000, mm, dd)
+          const refLunar = Lunar.fromYmd(2000, absMm, dd)
           if (lang === '' || lang === '.zh_hant') {
-            info.info.born = refLunar.getMonthInChinese() + '月' + refLunar.getDayInChinese()
+            info.info.born = leapPrefix + refLunar.getMonthInChinese() + '月' + refLunar.getDayInChinese()
           } else {
-            info.info.born = String(mm).padStart(2, '0') + '-' + String(dd).padStart(2, '0') + ' (Lunar)'
+            info.info.born = String(absMm).padStart(2, '0') + '-' + match[2].padStart(2, '0') + ' (Lunar)'
           }
         } else {
           // Known year + lunar: convert to lunar display, store solar in solarBorn
@@ -181,7 +197,7 @@ function buildPeopleInfoAndList() {
           if (lang === '' || lang === '.zh_hant') {
             info.info.born = lunar.getYear() + '年' + lunar.getMonthInChinese() + '月' + lunar.getDayInChinese()
           } else {
-            info.info.born = lunar.getYear() + '-' + String(lunar.getMonth()).padStart(2, '0') + '-' + String(lunar.getDay()).padStart(2, '0') + ' (Lunar)'
+            info.info.born = lunar.getYear() + '-' + String(Math.abs(lunar.getMonth())).padStart(2, '0') + '-' + String(lunar.getDay()).padStart(2, '0') + ' (Lunar)'
           }
         }
         // Remove the lunar_birthday flag from output (internal use only)
@@ -324,7 +340,7 @@ function buildPeoplePages() {
 
 // Copy `people/${dirname}/photos` to `dist/people/${dirname}/`.
 function copyPeopleAssets() {
-  const PEOPLE_ASSETS = ["photos", "backup", "page.md"];
+  const PEOPLE_ASSETS = ["photos", "backup", "page.md", "page.zh_hant.md", "page.en.md"];
 
   for (const { srcPath, distPath } of people) {
     fs.ensureDirSync(distPath);
@@ -344,6 +360,7 @@ function copyPublic() {
   fs.copySync(path.join(projectRoot, DATA_DIR, 'eggs.json'), path.join(projectRoot, DIST_DIR, 'eggs.json'));
   fs.writeFileSync(path.join(DIST_DIR, 'trigger-list.json'), JSON.stringify(trigger as string[]));
   fs.writeFileSync(path.join(DIST_DIR, 'switch-pair.json'), JSON.stringify(switchPair as [string, string][]))
+  fs.writeFileSync(path.join(DIST_DIR, 'actual-hide-list.json'), JSON.stringify(actualHide as string[]))
   fs.writeFileSync(path.join(DIST_DIR, 'probabilities.json'), JSON.stringify(probabilities))
   fs.writeFileSync(path.join(DIST_DIR, 'groups.json'), JSON.stringify(groups as string[][]))
 }
@@ -372,7 +389,7 @@ function cleanDist() {
   const distPeopleDir = path.join(projectRoot, DIST_DIR, PEOPLE_DIR);
   if (!fs.existsSync(distPeopleDir)) return;
 
-  const distPeople = fs.readdirSync(distPeopleDir);
+  const distPeople = fs.readdirSync(distPeopleDir).filter(p => !p.startsWith('.'));
   const srcPeopleMap = new Map(people.map(p => [p.dirname, p.srcPath]));
 
   let numRemoved = 0;
@@ -386,6 +403,64 @@ function cleanDist() {
   if (numRemoved > 0) {
     console.log(`[Clean] Removed ${numRemoved} stale entries from dist/people`);
   }
+}
+
+function buildPageDates() {
+  const pageDates: Record<string, { created: string; modified: string }> = {};
+
+  try {
+    // --first-parent strictly follows merge commits and direct commits on the main branch,
+    // ensuring 'created' reflects when the PR was merged into main (rather than initial branch commits).
+    const logOutput = execSync('git log --first-parent HEAD --name-only --format="COMMIT:%cI" -- people', {
+      cwd: projectRoot,
+      maxBuffer: 50 * 1024 * 1024,
+      encoding: "utf8"
+    });
+
+    let currentCommitUtc = "";
+    for (const line of logOutput.split("\n")) {
+      const trimmed = line.trim();
+      if (!trimmed) continue;
+      if (trimmed.startsWith("COMMIT:")) {
+        const rawDate = trimmed.slice(7);
+        const parsed = new Date(rawDate);
+        currentCommitUtc = !isNaN(parsed.getTime()) ? parsed.toISOString() : "";
+      } else if (trimmed.startsWith("people/")) {
+        const parts = trimmed.split("/");
+        if (parts.length >= 2) {
+          const person = parts[1];
+          // Exclude comments-only commits, tracking profile content updates
+          if (parts[2] !== "comments" && currentCommitUtc) {
+            if (!pageDates[person]) {
+              pageDates[person] = {
+                created: currentCommitUtc,
+                modified: currentCommitUtc,
+              };
+            } else {
+              pageDates[person].created = currentCommitUtc;
+            }
+          }
+        }
+      }
+    }
+  } catch (e) {
+    console.warn("[Build] Warning: Failed to extract git modification history:", e);
+  }
+
+  const sortedPageDates: Record<string, { created: string; modified: string }> = {};
+  for (const key of Object.keys(pageDates).sort((a, b) => a.localeCompare(b))) {
+    sortedPageDates[key] = {
+      created: pageDates[key].created,
+      modified: pageDates[key].modified,
+    };
+  }
+
+  fs.ensureDirSync(path.join(projectRoot, DIST_DIR));
+  fs.writeFileSync(
+    path.join(projectRoot, DIST_DIR, "page-dates.json"),
+    JSON.stringify(sortedPageDates, null, 2)
+  );
+  console.log(`[Build] Generated page-dates.json (${Object.keys(sortedPageDates).length} entries)`);
 }
 
 async function runBuildStep(stepName: string, fn: () => any | Promise<any>) {
@@ -406,6 +481,7 @@ async function main() {
   await runBuildStep("copyPeopleAssets", () => copyPeopleAssets());
   await runBuildStep("copyPublic", () => copyPublic());
   await runBuildStep("copyComments", () => copyComments());
+  await runBuildStep("buildPageDates", () => buildPageDates());
   saveCache();
   const buildTime = ((Date.now() - buildStart) / 1000).toFixed(2);
   const stats = getCacheStats();
@@ -435,7 +511,9 @@ function trim(str: string, ch: string) {
 }
 
 function isDirEmpty(dir: string): boolean {
-  if (fs.readdirSync(dir).length == 0) return true;
-  else if ((fs.readdirSync(dir).length == 1) && (fs.readdirSync(dir)[0] == 'comments')) return true;
+  if (!fs.existsSync(dir)) return true;
+  const files = fs.readdirSync(dir).filter(f => !f.startsWith('.'));
+  if (files.length === 0) return true;
+  else if ((files.length === 1) && (files[0] === 'comments')) return true;
   return false;
 }

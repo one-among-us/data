@@ -3,25 +3,29 @@
     "exclude": [
         "XIEPT2",
         "shi_Yumiaoya",
-        "DarlinChit"
+        "DarlinChit",
+        "Talloran"
     ],
     "notShowOnHome": [
-        "MeowBot233", 
-        "AkiraComplex", 
-        "AsabaNaiXi", 
-        "Y1Ran"
+        "MeowBot233",
+        "AkiraComplex",
+        "Y1Ran",
+        "s5ehfr9"
     ],
     "actualHide": [
         "Aniloviraw",
-        "akafeza"
+        "akafeza",
+        "ElihusoQ"
     ],
-    "trigger": [
-        "Aniloviraw"
-    ],
+    "trigger": ["Aniloviraw"],
     "switch": [
-        ["Anilovr","Aniloviraw"],
+        ["Anilovr", "Aniloviraw"],
         ["zhangyubaka","akafeza"],
-        ["akafeza","zhangyubaka"]
+        ["akafeza","zhangyubaka"],
+        ["Elihuso", "ElihusoQ"],
+        ["ElihusoQ", "Elihuso"],
+        ["qcm45", "execute_darker"],
+        ["execute_darker","qcm45"]
     ],
     "skipAges": ["cheonwoomaeng"],
     "probabilities": {
@@ -29,6 +33,7 @@
         "Huasheng": 1
     },
     "groups": [
-        ["Elihuso", "Anilovr"]
+        ["Elihuso", "Anilovr"],
+        ["huihui", "nyaepheia", "XiaoHuiHuiH", "zzj876", "katasonov0531", "execute_darker", "qcm45", "mystiabaka", "Carena0442", "JIZHI0_0", "wam327", "SuzukiYayoiNyaa","yuri2438511040"]
     ]
 }

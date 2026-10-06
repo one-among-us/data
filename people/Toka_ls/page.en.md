@@ -6,9 +6,9 @@ info:
 ---
 
 
-> "Flowers never know a time to wither, nor does love find a moment to be conveyed. Love is eternal, and the violet shall forever endure in this world."
+> “Flowers never know a time to wither, nor does love find a moment to be conveyed. Love is eternal, and the violet shall forever endure in this world.”
 >
-> "May you and your beloved meet again by chance one day."
+> “May you and your beloved meet again by chance one day.”
 >
 > —— Toka Sakyo, 2024/10/07
 
@@ -66,7 +66,7 @@ She has a light and elegant writing style. She often quotes scriptures and write
 
 Occasionally inspiration strikes, and after careful consideration, I leave a neat rhythm.
 
-On weekdays, she also writes down her thoughts or participates in popular literature. "Life of Aiden" (or "Aiden's Life of Fantasy") is one of her co-creations with her friends.
+On weekdays, she also writes down her thoughts or participates in popular literature. “Life of Aiden” (or “Aiden’s Life of Fantasy”) is one of her co-creations with her friends.
 
 Either witnessing her passion for writing or feeling the resonance behind her words, several friends were influenced by her and started writing one after another.
 
@@ -84,7 +84,7 @@ In her spare time from work, she also studies AI graphics. Not only did she use 
 >
 > But I believe everyone can do well no matter where they are.
 >
-> I want everyone to live happily, but I also know that I may not be able to realize my dream in this life. But I feel very happy to hear everyone's thank you and see everyone's endless discussion. I am proud of myself for being able to work with you all so much and get to know so many great people.
+> I want everyone to live happily, but I also know that I may not be able to realize my dream in this life. But I feel very happy to hear everyone’s thank you and see everyone’s endless discussion. I am proud of myself for being able to work with you all so much and get to know so many great people.
 >
 > Thank you all
 >
