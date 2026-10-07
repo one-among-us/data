@@ -14,11 +14,14 @@
     ],
     "actualHide": [
         "Aniloviraw",
+        "akafeza",
         "ElihusoQ"
     ],
     "trigger": ["Aniloviraw"],
     "switch": [
         ["Anilovr", "Aniloviraw"],
+        ["zhangyubaka","akafeza"],
+        ["akafeza","zhangyubaka"],
         ["Elihuso", "ElihusoQ"],
         ["ElihusoQ", "Elihuso"],
         ["qcm45", "execute_darker"],
