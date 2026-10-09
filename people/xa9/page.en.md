@@ -10,7 +10,7 @@ desc: DE BG9PTA VY 73!
 
 We have no way of knowing what connection Xa9 had to the trans community, but on GitHub Xa9 chose She/Her pronouns, so that’s what we’ll go with.
 
-In her own words, she was a rhythm-game enthusiast who loved Phigros, Muse Dash, and A Dance of Fire and Ice. Anyone even slightly familiar with maimai can tell that her avatar comes from one of its characters, Salt[^1].
+In her own words, she was a rhythm-game enthusiast who loved *Phigros*, *Muse Dash*, and *A Dance of Fire and Ice*. Anyone even slightly familiar with *maimai* can tell that her avatar comes from one of its characters, Salt[^1].
 
 Salt, that is what “Shio” means, after all… And like salt, Xa9 was an indispensable seasoning in her friends’ everyday lives. According to them, she was a cheerful kid, easygoing and upright, and deeply loved by everyone around her.
 
