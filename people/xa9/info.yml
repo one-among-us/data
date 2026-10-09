@@ -1,0 +1,9 @@
+id: xa9
+profileUrl: ${path}/photos/profile.jpg
+info:
+  born: '2009-06-28'
+  died: '2025-08-28'
+websites:
+    github: https://github.com/xa9-top
+    iconify:ri:netease-cloud-music-line: https://music.163.com/#/user/home?id=7809934868
+    Bilibili: https://space.bilibili.com/1540173093
