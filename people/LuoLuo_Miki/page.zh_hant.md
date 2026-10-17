@@ -1,8 +1,8 @@
 ---
-name: 糯米🍥🏳️‍⚧️
+name: 洛洛
 info:
     alias: 洛洛
-    # location: 還沒有提供
+    location: 中國湖北
 desc:
 ---
 
