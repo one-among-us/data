@@ -2,7 +2,7 @@
 name: Luoluo
 info:
     alias: Luoluo
-    # location: Not provided yet
+    location: Hubei, China
 desc:
 ---
 
