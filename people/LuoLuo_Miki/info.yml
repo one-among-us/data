@@ -1,12 +1,7 @@
 id: LuoLuo_Miki
 profileUrl: ${path}/photos/profile.jpg
 info:
-  # born: '0000-00-00' #还没有提供
+  born: '2006-01-28'
   died: '2026-08-23'
 websites:
-    # inconfiy:simple-icons:bluesky: https://bsky.app/profile/sample.bsky.social 其他都还没提供
     twitter: https://twitter.com/LuoLuo_Miki
-    # zhihu: https://www.zhihu.com/people/
-    # github: https://github.com/
-    # iconify:ri:netease-cloud-music-line: https://music.163.com/#/user?id=
-    # blog: https://web.archive.org/web/
