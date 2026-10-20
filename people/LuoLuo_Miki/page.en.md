@@ -14,19 +14,19 @@ She was slight in build, yet she carried heavy responsibilities on her shoulders
 
 > “The happiest thing is lying in bed; the happiest moment is when the paycheque arrives.”
 
-Carried along by work and life for so long…you can finally rest now. No more bearing it all.
+Carried along by work and life for so long… you can finally rest now. No more bearing it all.
 
 ## Part I: A Partner’s Memories — Dreemurr
 
 I had not known Luoluo for long, but the impact she left behind is profound and hard to erase.
 
-We met when a mutual friend survived a suicide attempt. At the time, she was muddled from an overdose and kept talking nonsense.
+We met when a mutual friend survived a suicide attempt. At the time, she was muddled from an overdose and kept talking incoherently.
 
 Luoluo was a lovely child, one who would grieve for others’ sorrow.
 
 Her life was in fact always rather dull. She was just an ordinary delivery worker, perhaps fond of a bit of McDonald’s now and then, or playing Arena Breakout at an internet café in the evening?
 
-As far as I know, Luoluo attempted suicide once a few years ago. Before that, her original host personality may have been very violent? But after the suicide, the second main personality—the Luoluo we knew—became very soft and lovable. What happened in between, Luoluo never really told me.
+As far as I know, Luoluo attempted suicide once a few years ago. Before that, her original host personality may have been very violent? But after the suicide attempt, the second main personality—the Luoluo we knew—became very soft and lovable. What happened in between, Luoluo never really told me.
 
 Later, on July 6, we became partners. The way we fell in love was perhaps very conventional… most likely love grew over time. Perhaps at first we were both just looking for someone to keep each other company? But we truly fell in love with each other. And that, perhaps, was also the beginning of the tragedy.
 
