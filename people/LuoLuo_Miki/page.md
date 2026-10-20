@@ -2,7 +2,7 @@
 name: 洛洛
 info:
     alias: 洛洛
-    location: 中国湖北 # 湖北黄石 大冶市
+    location: 湖北黄石 大冶市
 desc:
 ---
 
