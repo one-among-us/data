@@ -18,6 +18,8 @@ On October 11, 2026, LinWaterMoon woke up as usual—a little early that day, wa
 
 At noon that day, LinWaterMoon received a call from a police officer in Nanjing… From that moment on, the music in his earphones never stopped for the rest of the day…
 
+> “But you clearly promised you were coming to visit me over winter break...”
+
 In her suicide note, Xiaoyu’er wrote that for about four years she had longed to have attractive features, longed to become a cute, beloved girl, and even wanted to become a femboy or live as a trans girl. But in reality, she felt extreme disgust and inferiority toward her facial features, voice, figure, and body hair—even viewing herself as an “aqua-themed femboy exam-grub,”[^1] utterly unworthy of being a trans girl. She thought she was very ugly; every time she saw a cute femboy or a pretty girl online, an intense yearning would well up inside her. She had hoped to change her situation by wearing nice clothes and cosplaying anime characters, but because she lacked the confidence and courage to express herself, and was terrified of others noticing the changes or facing her family’s interference and opposition, she ultimately gave up trying. She once dreamed that her HRT regimen was discovered, and dreamed her mother said to her: “If you keep going with this, I’ll kill you!” Yet she insisted on continuing, and so in the dream, she was killed. It might sound somewhat ridiculous—but she really did have such a dream.
 
 Her suicide was not out of hope for a better reincarnation in the next life; she simply wanted to end everything.
