@@ -40,7 +40,7 @@ She was still the lovely Luoluo, and I was still myself, but our fates became in
 
 Yet good times are always brief. In mid-August, her psychological problems grew worse day by day. We had planned to meet during the National Day holiday, but because of her overdoses, she later mostly kept it from me.
 
-On August 23, when I started school, she died by suicide.
+On August 23, when I started school, she took her own life.
 
 A lovely liar, a person worth my love.
 
@@ -58,7 +58,7 @@ At first, we met in a group chat. I do not know why I took an interest in her, b
 
 What I remember most is that when I wanted to die by suicide, she drove hundreds of kilometres overnight to find me. At the time I felt an enormous shock; I could not believe she would really do such a thing. I was deeply moved, and her weight in my heart suddenly grew much heavier. But that day I still could not hold back my longing for the next life. After she arrived overnight, I stuffed my important belongings into her car, and that night I still chose to leave.
 
-Perhaps because of her influence, I held back a bit, and so I survived until today.
+Perhaps because of her influence, I didn’t go as far, and so I survived until today.
 
 She saved me, but unfortunately she could not save herself.
 
