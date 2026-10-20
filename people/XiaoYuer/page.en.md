@@ -1,7 +1,7 @@
 ---
-name: XiaoYu’er
+name: XiaoYu'er
 info:
-    alias: XiaoYu’er
+    alias: XiaoYu'er
     location: Nanjing, Jiangsu
 desc:
 ---
