@@ -298,7 +298,6 @@ That day, the cat was still curled up in the pet shop, while Xiaoyu’er was for
     '${path}/photos/photo12.webp',
 ]} />
 
-Contributor for this entry: LinWaterMoon
 [^1]: Special livery: The DF4B diesel locomotives assigned to the Jinhua–Wenzhou Railway were nicknamed “white melons” (白兰瓜, báilánguā) by Chinese railfans because of their white body with blue stripes.
 
 [^2]: Red Tickets: A colloquial term among Chinese railway enthusiasts for the old-style red paper train tickets, as opposed to the later blue magnetic tickets. Xiaoyu’er collected them as a railway enthusiast.

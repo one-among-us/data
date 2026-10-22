@@ -251,5 +251,3 @@ desc: 金温铁路金温站，金温瓜拉金温车。
 <PhotoScroll photos={[
     '${path}/photos/photo12.webp',
 ]} />
-
-条目贡献：水中月
