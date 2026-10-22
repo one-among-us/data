@@ -76,6 +76,12 @@ Just a few days before Xiaoyu’er left, she said she wanted to keep a cat. Her 
 
 That day, the cat was still curled up in the pet shop, while Xiaoyu’er was forever frozen in that icy early morning. She took with her all the unutterable struggles and self-loathing, leaving this world with nothing but that softly spoken “Goodnight,” and “Only you won’t save me.” The sun rose as usual, but it could no longer reach the shadow in Xiaoyu’er’s heart. And for those who cared about her, this quiet farewell remains a wound that will never heal.
 
+> Before you left, you even asked if I wanted to make a pink-blue-white background for your avatar…
+
+<PhotoScroll photos={[
+    '${path}/photos/photo12.webp',
+]} />
+
 Contributor for this entry: LinWaterMoon
 
 [^1]: Aqua-Themed Femboy Exam-Grub: A self-deprecating compound term coined by Xiaoyu’er. “Aqua-themed” refers to a light-blue/pastel-aqua fashion aesthetic common in subculture fashion; “femboy” refers to an effeminate or cute cross-dressing boy/trans-feminine individual; “exam-grub” is a harsh China mainland internet slur for someone who does nothing but grind practice exams without real life or taste. Combined, it conveys a self-loathing stereotype within the community: a test-grinding femboy who, even dressed in pastel aqua outfits, is mocked for having poor aesthetic taste and being unable to shake off the drab, soul-crushing aura of an exam drill machine. Xiaoyu’er used it to put herself down—feeling that no matter how much she longed to be a pretty trans girl, she was ultimately just a “exam grub” beyond saving, even in nice clothes.
