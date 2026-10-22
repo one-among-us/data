@@ -161,6 +161,61 @@ Fate turned a corner in the river of time. It left behind a past full of regret 
 
 Goodnight, Little Fish.
 
+> **Elegy of the Star Wish**
+> 
+> In early autumn, young minds gathered around a star-bound dream,  
+> Beneath the lamp, discussing the sky until the fifth watch of dawn.
+> 
+> You knew how to design logic boards and write flight-control code,  
+> While I longed to ride the wind and reach the upper atmosphere.
+> 
+> Over Nanjing’s city walls, stars hung low across the plains;  
+> Youth from north and south gathered under one shared starlight.
+> 
+> As the year waned into late night, our talk grew deep and solemn,  
+> Each pouring out hidden griefs until tears soaked our sleeves.
+> 
+> Only then did I learn you had long left school due to illness,  
+> While I too suffered in darkness, bruised by the world.
+> 
+> Spring brought fresh schedules in letters, a pledge renewed,  
+> Yet harsh words and rumors scattered our old companions.
+> 
+> Promises to meet again faded into hollow words;  
+> Beneath the vast sky, youth left their dreams unfinished.
+> 
+> Along the Jinhua–Wenzhou line, you chased special locomotive liveries,  
+> Collecting stacks of red paper tickets to recapture lost springs.
+> 
+> The long roars of iron dragons echoed only in dreams,  
+> As youthful ambition was buried, crumbling into dust.
+> 
+> Cruel storms of words battered a flickering, fragile candle;  
+> Within rigid family walls, a frail body faced the winter’s cold.
+> 
+> Medication stopped by force in pursuit of alternative cures;  
+> Memories slipped away like dry sand, impossible to hold.
+> 
+> Remembering again in September, only to part forever in October;  
+> Cornered by family pressure, you were left with no way out.
+> 
+> Twice seeking death, yet heaven spared you then;  
+> On the third broken wing, all paths reached their final end.
+> 
+> On wings above the clouds, dire news suddenly arrived;  
+> Across the vast ocean, tears fell in soundless weeping.
+> 
+> You once admired me and wished to become like me;  
+> In guilt and sorrow I look down, having failed your devotion.
+> 
+> Your prized red tickets remain in an endless summer;  
+> As stars shatter on earth, the night stays unlit.
+> 
+> Henceforth no long songs or laughter will sound again,  
+> Only a cold star remains, shining on my lonely night walk.
+> 
+> *— In memory of Xiaoyu*
+
 <h3 align="center">II: Farewell</h3>
 
 <p style="text-align: center;">LinWaterMoon</p>
