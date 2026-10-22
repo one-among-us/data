@@ -3,7 +3,7 @@ name: XiaoYu'er
 info:
     alias: XiaoYu'er, Little Fish
     location: Nanjing, Jiangsu
-desc: No good thing was ever meant for me.
+desc: Jinwen rails and Jinwen stop, a Jinwen Melon on the Jinwen run.
 ---
 
 <h3 align="center">I: In Memoriam</h3>
@@ -12,7 +12,7 @@ desc: No good thing was ever meant for me.
 
 ## Introduction
 
-Xiaoyu’er was a warm and kind-hearted child. She loved almost every kind of transport, loved chemistry and anything related to engineering and technology, and always carried in her heart a dream of deep space and a longing for science.
+Xiaoyu’er was a warm and kind-hearted child. She loved almost every kind of transport, loved chemistry and anything related to science, engineering and technology, and always carried in her heart a dream of deep space and a longing for science.
 
 She once told me that chemical reactions never lie, and that the light and heat within them are the most beautiful things in the world.
 
@@ -39,7 +39,7 @@ At the time, I had just started planning a project involving weather balloons an
 >
 > “Wow, could you teach me?”
 >
-> “Drawing boards is easy. I’ll teach you when I have time, meow~”
+> “Designing circuit boards is easy. I’ll teach you when I have time, meow~”
 
 That day was an early-autumn evening in 2023. Meeting her was a lovely thing. That night, a group of middle schoolers from all over the country, carrying passion and dreams, came together.
 
@@ -83,7 +83,7 @@ After that day, we buried the selves who had once been so full of passion…
 
 > And then, there was a child who, before the old wounds had healed, was pushed without mercy into this cruel adult world.
 
-After that, she turned her life back toward public transport and began making frequent train-riding excursions, photographing the locomotives she loved. She made chemistry and railways into substitutes for her dream, and I believe she must have fallen back in love with those old hobbies along the way.
+After that, she turned her life back toward public transport and began making frequent railfanning trips, photographing the locomotives she loved. She made chemistry and railways into substitutes for her dream, and I believe she must have fallen back in love with those old hobbies along the way.
 
 <div style="display: flex; margin: auto; gap: 80px; flex-direction: row; justify-self: center; justify-content: center; justify-items: center; flex-wrap: wrap">
 
@@ -134,7 +134,7 @@ The police and her friends classified her death as suicide, but it was not suici
 
 But they made mistake after mistake. It began with them making her stop taking her psychiatric medication, then telling her that it was somatization, that it was dissociation, and finally planning to drag her off to see a Chinese Medicine doctor. It was under this relentless pressure that they pushed her to the edge.
 
-> My way out kept getting narrower. They said my body mattered, and in their eyes everything I did was harming my body. But was my body really all right? I overdose, and they say it harms my body—fine, I accept that. I cut my hands, and they say it harms my body—fine, I accept that. I take hormones, and I accept that too. But even when I take my medication normally, they think I’m harming my body.  
+> My way out kept getting narrower. They said my body mattered, and in their eyes everything I did was harming my body. But was my body really all right? I overdose, and they say it harms my body—fine, I accept that. I cut my wrists, and they say it harms my body—fine, I accept that. I take hormones, and I accept that too. But even when I take my medication normally, they think I’m harming my body.  
 > I take my medication and sleep, and they say I’m taking too much, that I’m doubling up. If I could sleep well, would I need to take so much? My hair falls out a lot, and they blame the medication. I have no energy during the day, and they blame the medication. And after all that blaming, they want to drag me off to see a Chinese Medicine doctor and make me drink Chinese herbal decoction.
 
 I blame her parents, and in truth I blame myself as well. I blame my slowness, my uselessness. I had many chances to save her, and I failed to take them…
@@ -144,7 +144,8 @@ I blame her parents, and in truth I blame myself as well. I blame my slowness, m
 In the end, she still broke her promise. We had agreed that she would definitely come and see me at least once in this lifetime…
 Once, a little sister told me that she admired me and hoped to become like me. At the time I was too insecure to take it seriously. Only after losing her did I realize she had meant it.
 And then came self-reproach and grief. I had thought I would no longer be pained by anyone’s departure, but when I confirmed she was gone, on a flight overseas, my heart twisted in pain.
-I was startled to find that an old friend had become forever separated from me, and my tears flowed down and soaked my clothes.
+
+Suddenly I realized an old friend was gone forever, and tears soaked through my clothes.
 
 > “@Maple You’re someone I admire too.”  
 > “@Maple I’ll definitely meet you at least once in this lifetime, my big sister.”  
