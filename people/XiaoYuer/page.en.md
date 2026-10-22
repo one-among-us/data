@@ -246,7 +246,35 @@ Her suicide was not out of hope for a better reincarnation in the next life; she
 > 
 > Goodnight, world.
 
-In the early hours of October 11, 2026, she finally made up her mind—to leave this world and end it all.
+## Past Recordings and Remaining Memories
+
+A week passed. LinWaterMoon received a private message—a screenshot from a video, in which the sender had drawn a box around one person: her hair neither long nor short, a pair of black-framed glasses, a black shirt, and a phone in her hand, filming as well.
+
+“Is this Xiaoyu’er?” the person asked, and then sent the video.
+
+The footage had been taken at a birthday gathering in Shanghai of someone like her—someone of the same kind. In the frame she was laughing and talking—shaking a glow sign and then she too took out her phone and filmed along with them. Sitting around Xiaoyu’er were others like her, transgender women of the same kind. It was one of the very few moments when she could take off her disguise and feel a sense of belonging and happiness.
+
+> When she met fellow trans girls like her, it must have been her happiest, most blissful moment.
+
+“It’s her… That’s definitely her.” Looking at the familiar outfit in the video and the look of her phone, LinWaterMoon answered firmly. “When I travelled with her last year, she dressed just like that.”
+
+On that trip last year, Xiaoyu’er had gone with LinWaterMoon to several cities and met many Twitter/X mutuals. When he first met Xiaoyu’er, LinWaterMoon had joked that she “was a handsome young fellow, about eighty or ninety percent like what a big shot holding a ‘a camera with a massive telephoto lens’ looked like in his younger days”—little knowing that such a joke had invisibly become a hidden sting that worsened her gender dysphoria.
+
+In later private messages, Xiaoyu’er also unreservedly poured out to LinWaterMoon her dependence and her despair:
+
+> “Don’t you call me Chen So-and-so!”  
+> “I’m so tired. The trip with you last year feels like the last time I felt truly happy… I’ve never been this blissful.”  
+> “I really want to be with you.”  
+> “I’ve fallen for you.”  
+> “I really want to come over to your place *w*”  
+> “I really want to be happy with you… but I don’t think I’ll live that long…”  
+> “I’m crying again… it’s become something I have to go through every night before sleep.”  
+> “Let’s just leave it at that. End this topic.”  
+> “I want to buy a computer—do you have any recommended specs or brands? I’m asking seriously.”
+
+In the early hours of October 11, 2026, she finally decided—to leave this world and end it all.
+
+> “Goodnight. Only you won’t save me.”
 
 ## Her Parents Came Looking
 
@@ -263,6 +291,12 @@ Just a few days before Xiaoyu’er left, she said she wanted to keep a cat. Her 
 ## A Hastily Written Ending
 
 That day, the cat was still curled up in the pet shop, while Xiaoyu’er was forever frozen in that icy early morning. She took with her all the unutterable struggles and self-loathing, leaving this world with nothing but that softly spoken “Goodnight,” and “Only you won’t save me.” The sun rose as usual, but it could no longer reach the shadow in Xiaoyu’er’s heart. And for those who cared about her, this quiet farewell remains a wound that will never heal.
+
+> Before you left, you even asked if I wanted to make a pink-blue-white background for your avatar…
+
+<PhotoScroll photos={[
+    '${path}/photos/photo12.webp',
+]} />
 
 [^1]: Special livery: The DF4B diesel locomotives assigned to the Jinhua–Wenzhou Railway were nicknamed “white melons” (白兰瓜, báilánguā) by Chinese railfans because of their white body with blue stripes.
 
