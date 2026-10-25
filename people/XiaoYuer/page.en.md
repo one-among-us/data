@@ -164,7 +164,7 @@ Goodnight, Little Fish.
 > **Elegy of the Star Wish**
 >
 > In early autumn, young minds gathered around a star-bound dream,  
-> Beneath the lamp, discussing the the sky and the ideal until the sun comes
+> Beneath the lamp, discussing the the sky and the ideal until the sun comes.
 >
 > You knew how to design logic boards and write flight-control code,  
 > While I longed to ride the wind and reach the upper atmosphere.
