@@ -4,7 +4,7 @@ import fs from "fs-extra";
 import { execSync } from "child_process";
 import autocorrect from "autocorrect-node";
 
-import YAML from 'js-yaml';
+import * as YAML from 'js-yaml';
 import metadataParser from 'markdown-yaml-metadata-parser';
 
 import { renderMdx } from "./mdx.js";

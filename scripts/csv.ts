@@ -1,7 +1,7 @@
 import url from "url";
 import path from "path";
 import fs from "fs-extra";
-import YAML from "js-yaml";
+import * as YAML from "js-yaml";
 import metadataParser from "markdown-yaml-metadata-parser";
 import { Solar, Lunar, LunarYear, LunarMonth } from "lunar-typescript";
 import { HData } from "./data.js";
